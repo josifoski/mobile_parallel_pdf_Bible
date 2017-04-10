@@ -1,0 +1,942 @@
+{1:1} Adam, Seth, Enos,
+{1:2} Kenan, Mahalaleel, Jared,
+{1:3} Enok, Metusela, Lamek,
+{1:4} Noa, Sem, Kam og Jafet.
+{1:5} Jafets Sønner vare: Gomer og Magog og Madaj og Javan og Thubal og Mesek og Thiras.
+{1:6} Og Gomers Sønner vare: Askenas og Difat og Thogarma.
+{1:7} Og Javans Sønner vare: Elisa og Tharsis, Kithim og Rodanim.
+{1:8} Kams Sønner vare: Kus og Mizraim, Put og Kanaan.
+{1:9} Og Kus's Sønner vare: Seba og Havila og Sabtha og Raema og Sabteka; og Raemas Sønner vare: Skeba og Dedan.
+{1:10} Og Kus avlede Nimrod; han begyndte at blive vældig paa Jorden.
+{1:11} Og Mizraim avlede Luder og Anamer og Lehaber og Naftuher
+{1:12} Pathruser og Kasluher, fra hvilke Filister udgik, og Kafthorer.
+{1:13} Og Kanaan avlede Zidon, sin førstefødte, og Heth
+{1:14} og Jebusiter og Amoriter og Girgasiter
+{1:15} og Heviter og Arkiter og Siniter
+{1:16} og Arvaditer og Zemariter og Hamathiter.
+{1:17} Sems Sønner vare: Elam og Assur og Arfaksad og Lud og Aram og Uz og Hul og Gether og Mesek.
+{1:18} Og Arfaksad avlede Sala, og Sala avlede Eber.
+{1:19} Og for Eber bleve fødte to Sønner, den enes Navn var Peleg, fordi Jorden blev skiftet i hans Dage, og hans Broders Navn var Joktan.
+{1:20} Og Joktan avlede Almodad og Salef og Hazarmaveth og Jara
+{1:21} og Hadoram og Usal og Dikla
+{1:22} og Ebal og Abimael og Skeba
+{1:23} og Ofir og Havila og Jobab; alle disse ere Joktans Sønner.
+{1:24} Sem, Arfaksad, Salak,
+{1:25} Eber, Pele, Reu,
+{1:26} Serub, Nakor, Thara,
+{1:27} Abram, det er Abraham.
+{1:28} Abrahams Sønner vare: Isak og Ismael.
+{1:29} Disse ere deres Slægter: Nebajoth, Ismaels førstefødte, og Kedar og Adbeel og Mibsam,
+{1:30} Misma, og Duma, Massa, Hdad og Thema,
+{1:31} Jethur, Nafis og Kedma; disse vare Ismaels Sønner.
+{1:32} Og Keturas, Abrahams Medhustrus, Sønner: hun fødte Simran og Joksan og Medan og Midian, Jisbak og Sua; og Joksans Sønner vare: Skeba og Dedan.
+{1:33} Og Midians Sønner vare: Efa og Efer og Kanok og Abida og Eldaa; alle disse vare Keturas Sønner.
+{1:34} Og Abraham avlede Isak; Isak Sønner vare: Esau og Israel.
+{1:35} Og Esaus Sønner vare: Elifas, Reguel og Jeus og Jaelam og Kora.
+{1:36} Elifas's Sønner vare: Theman og Omar, Zefi og Gaetham, Kenas, og af Thimna Amalek.
+{1:37} Reguels Børn vare: Nahath, Sera, Samma og Missa.
+{1:38} Og Seirs Sønner vare: Lotan og Sobal og Zibeon og Ana og Dison og Ezer og Disan.
+{1:39} Og Lotans Sønner vare: Hori og Homam, og Thimna var Lotans Søster.
+{1:40} Sobals Sønner vare: Aljan og Manahat og Ebal, Sifi og Onam; og Zibeons Sønner vare: Aja og Arla.
+{1:41} Anas Sønner vare: Dison; og Disons Sønner vare: Hamran og Esban og Jithran og Keran.
+{1:42} Ezers Sønner vare: Bilhan og Saavan og Jaakan; Disans Sønner vare: Uz og Aran.
+{1:43} Og disse ere de Konger, som regerede i EdomsLand, førend nogen Konge regerede over Israels Børn: Bela, Beors Søn, og hans Stads Navn var Dinhaba.
+{1:44} Og Bela døde, og Jobab, Seras Søn af Bozra, blev Konge i hans Sted.
+{1:45} Og Jobab døde, og Husam af Themaniternes Land blev Konge i hans Sted.
+{1:46} Og Husam døde, og Hadad, Bedads Søn, blev Konge i hans Sted: denne slog Midianiterne paa Moab Mark, og hans Stads Navn var Avith.
+{1:47} Og Hadad døde, og Samla af Masreka blev Konge i hans Sted.
+{1:48} Og Samla døde, og Saul af Rekoboth ved Floden blev Konge i hans Sted.
+{1:49} Og Saul døde, og Baal-Haman, Akbors Søn, blev Konge i hans Sted.
+{1:50} Og Baal-Hanan, og Hadad blev Konge i hans Sted, og hans Stads Navn var Pai, og hans Hustrus Navn Mehetabeel, en Datter af Matred, Mesahabs Datter.
+{1:51} Der Hadad døde, da blev der Fyrster i Edom: Fyrsten Thimna, Fyrsten Alva, Fyrsten Jeteth,
+{1:52} Fyrsten Oholibama, Fyrsten Ela, Fyrsten Pinon,
+{1:53} Fyrsten Kenas, Fyrsten Theman, Fyrsten Mibzar,
+{1:54} Fyrsten Magdiel, Fyrsten Iram; disse vare Fyrsterne i Edom.
+{2:1} Disse vare Israels Sønner: Ruben, Simeon, Levi og Juda, Isaskar og Sebulon,
+{2:2} Dan, Josef og Benjamin, Nafthali, Gad og Aser.
+{2:3} Judas Sønner vare: Er og Onan og Sela, disse tre bleve ham fødte af Suas Datter den kananitiske; og Er, Judas førstefødte, var ond for Herrens Øjne, derfor dræbte han ham.
+{2:4} Men Thamar, hans Sønnekone, fødte ham Perez og, Sera; alle Judas Sønner vare fem.
+{2:5} Perez's Sønner vare: Hezron og Hamul.
+{2:6} Og Seras Sønner vare: Simri og Ethan og Heman og Kalkol og Dara, fem i alt.
+{2:7} Og Karmis Sønner vare: Akar, som forstyrrede Israel, og som forgreb sig paa det bandlyste Gods.
+{2:8} Og Ethans Sønner vare: Asaria.
+{2:9} Og Hezrons Sønner, som fødtes ham, vare: Jerameel og Ram og Kalubaj.
+{2:10} Og Ram avlede Amminadab, og Amminadab avlede Nahesson, en Fyrste for Judas Børn.
+{2:11} Og Nahesson avlede Salma, og Salma avlede Boas.
+{2:12} Og Boas avlede Obed, og Obed avlede Isaj.
+{2:13} Og Isaj avlede Eliab, sin førstefødte, og Abinadab den anden, og Simea den tredje,
+{2:14} Nethaneel den fjerde, Raddaj den femte,
+{2:15} Ozem den sjette, David den syvende.
+{2:16} Og deres Søstre vare: Zeruja og Abigail; og Zerujas Sønner vare: Abisaj og Joab og Asael, de tre.
+{2:17} Og Abigail fødte Amasa; og Amasas Fader var Jether, Ismaeliten.
+{2:18} Og Kaleb, Hezrons Søn, avlede Børn med Asuba, sin Hustru, og med Jerioth; og af hin ere disse Sønner: Jeser og Sobab og Ardon.
+{2:19} Der Asuba døde, da tog Kaleb sig Efrat, og hun fødte ham Hur.
+{2:20} Og Hur avlede Uri, og Uri avlede Bezaleel.
+{2:21} Og derefter gik Hezron ind til Makirs, Gileads Faders, Datter og tog hende, der han var tresindstyve Aar gammel, og hun fødte ham Segub.
+{2:22} Og Segub avlede Jair; og han havde tre og tyve Stæder i Gileads Land.
+{2:23} Og Gesur og Aram toge Jairs Byer fra dem, samt Kenath med dens tilliggende Byer, tresindstyve Stæder; alle disse vare Efterkommere af Makir, Gileads Fader.
+{2:24} Og efter Hezrons Død i Kaleb Efrata fødte Abia, Hezrons, Hustru, ham Ashur, Thekoas Fader.
+{2:25} Og Jerahmeels, Hezrons førstefødtes, Sønner vare: Ram, den førstefødte, og Buna og Oren og Ozem, af Ahia.
+{2:26} Og Jerahmeel havde en anden Hustru, hvis Navn var Athara; hun var Onams Moder.
+{2:27} Og Rams, Jerahmeels førstefødtes, Sønner vare: Maaz og Jamin og Eker.
+{2:28} Og Onams Sønner vare: Sammaj og Jada; og Sammajs Sønner vare: Nadab og Abisur.
+{2:29} Og Abisurs Hustrus Navn var Abikail, og hun fødte ham Akban og Molid.
+{2:30} Og Nadabs Sønner vare: Seled og Appaim, og Seled døde uden Børn.
+{2:31} Og Appaims Sønner vare: Jisei; og Jiseis Sønner vare: Sesan; og Sesans Børn vare: Ahelaj.
+{2:32} Og Jadas, Sammajs Broders, Sønner vare: Jether og Jonathan; og Jether døde uden Børn.
+{2:33} Og Jonathans Sønner vare: Peleth og Sasa; disse vare Jerahmeels Børn.
+{2:34} Og Sesan havde ingen Sønner, men Døtre, og Sesan havde en ægyptisk Tjener, hvis Navn var Jarha.
+{2:35} Og Sesan gav Jarha, sin Tjener, sin Datter til Hustru, og hun fødte ham Atha,
+{2:36} og Athaj avlede Nathan, og Nathan avlede Sabad,
+{2:37} og Sabad avlede Eftal, og Eftal avlede Obed,
+{2:38} og Obed avlede Jehu, og Jehu avlede Asaria,
+{2:39} og Asaria avlede Halez, og Halez avlede Eleasa,
+{2:40} og Eleasa avlede Sismaj, og Sismaj avlede Salum,
+{2:41} og Salum avlede Jekamia, og Jekamia avlede Elisama.
+{2:42} Og Kalebs, Jerahmeels Broders, Sønner vare: Mesa, hans førstefødte, han var Stamfader til Sif og til Maresas, Hebrons Faders, Sønner.
+{2:43} Og Hebrons Sønner vare: Kora og Thappua og Rekem og Sema.
+{2:44} Og Sema avlede Raham, Jorkeams Fader, og Rekem avlede Sammaj.
+{2:45} Og Sammajs Søn hed Maon, og Maon var Bethzurs Fader.
+{2:46} Og Efa, Kalebs Medhustru, fødte Haran og Moza og Gases; men Haran avlede Gases.
+{2:47} Og Jedas Sønner vare: Regem og Jotham og Gesan og Peleth og Efa og Saaf.
+{2:48} Med Maaka sin Medhustru, avlede Kaleb Seber og Tirhena.
+{2:49} Og hun fødte Saaf, Fader til Madmanna, og Seva, Fader til Makbena og Fader til Gibea; og Aksa var Kalebs Datter.
+{2:50} Disse vare Kalebs Efterkommer en Søn af Hur, Efratas førstefødte, var Sobal, Kirjath-Jearims Fader,
+{2:51} Salma, Bethlehems Fader, og Haref, Bethgaders Fader.
+{2:52} Og Sobals, Kir jath-Jearims Faders, Sønner vare: Haroe og Kazi-Hammenukoth.
+{2:53} Og Slægterne i Kirjath-Jearim vare: Jithriter og Puthiter og Sumathiter og Misraiter; og fra disse udgik Zorathiter og Esthaoliter.
+{2:54} Salmas Børn vare: Bethlehem og Nethopathi, Athroth-Beth-Joab og Kazi-Hammanahathi og Zori,
+{2:55} og Skrivernes Slægter, som boede i Jaebez, Thireathiterne, Simeathiterne, Sukathiterne; disse ere de Keniter, som ere komne af Hamath, som var Rekabs Hus's Fader.
+{3:1} Og disse vare Davids Sønner, som bleve ham fødte i Hebron: den førstefødte Amnon af Ahinoam den isreelitiske; den anden Daniel af Abigail den karmelitiske;
+{3:2} den tredje Absalom, en Søn af Maaka, som var en Datter af Thalmaj, Kongen i Gesur; den fjerde Adonia, Hagiths Søn;
+{3:3} den femte Safatja af Abital; den sjette Jithream af Egla hans Hustru.
+{3:4} Disse seks bleve ham fødte i Hebron; thi han regerede der i syv Aar og seks Maaneder, og tre og tredive Aar regerede han i Jerusalem.
+{3:5} Og disse bleve ham fødte i Jerusalem: Simea og Sobab og Nathan og Salomo, alle fire af Bathsua, Ammiels Datter;
+{3:6} dertil Jibkar og Elisama og Elifelet,
+{3:7} og Noga og Nefeg og Jafia,
+{3:8} og Elisama og Eljada og Elifelet, i alt ni.
+{3:9} Alle disse vare Davids Sønner, for uden Medhustruernes Sønner; og Thamar var deres Søster.
+{3:10} Og Salomos Søn var Rhoboam, hans Søn var Abia, hans Søn var Assa, hans Søn var Josafat,
+{3:11} hans Søn var Joram, hans Søn var Ahasia, hans Søn var Joas,
+{3:12} hans Søn var Amazia, hans Søn var Asaria, hans Søn var Jotham,
+{3:13} hans Søn var Akas, hans Søn var Ezekias, hans Søn var Manasse,
+{3:14} hans Søn var Amon, hans Søn var Josias.
+{3:15} Og Josias's Sønner vare: den førstefødte Johanan, den anden Jojakim, den tredje Zedekias, den fjerde Sallum.
+{3:16} Og Jojakims Sønner vare: Jekonia, hans Søn, Zedekia, hans Søn.
+{3:17} Og den fangne Jekonias Sønner vare: Sealthiel, hans Søn,
+{3:18} og Malkir am og Pedaja og Seneazar, Jekamia, Hosama og Nedabja.
+{3:19} Og Pedajas Sønner vare: Serubabel og Simei; og Serubabels Sønner vare: Mesullam og Hanania, og Selumith var deres Søster,
+{3:20} dertil Hasuba og Ohel og Berekia og Hasadja, Jusab-Hesed, fem i alt.
+{3:21} Og Hananias Sønner vare: Pelatja og Jesaja; fra disse nedstammede Refajas Sønner, Arnans Sønner, Obadias Sønner, Sekanias Sønner.
+{3:22} Og Sekanias Sønner vare: Semaja; og Semajas Sønner vare: Hatus og Jigeal og Barja og Nearia, og Safat, tilsammen seks.
+{3:23} Og Nearias Sønner vare: Elioenaj og Hiskia og Asrikam, tre i alt.
+{3:24} Og Elioenajs Sønner vare: Hodajeva og Eliasib og Plaja og Akkub og Johanan og Delaja og Anani, i alt syv.
+{4:1} Judas Sønner vare: Perez, Hezron og Karmi og Hur og Sobal.
+{4:2} Og Reaja, Sobals Søn, avlede Jahath, og Jahath avlede Ahumaj og Lahad; disse ere Zorathiternes Slægter.
+{4:3} Ligeledes disse: Abi-Etam, Jisreel og Jisma og Jidbas; og deres Søsters Navn var Hazlelponi.
+{4:4} Og Pnuel var Gedors Fader, og Eser var Husas Fader; disse ere Børn af Hur, som er Efratas førstefødte, Bethlehems Fader.
+{4:5} Og Ashur, Thekoas Fader havde to Hustruer: Helea og Naara.
+{4:6} Og Naara fødte ham Ahusam og Hefer og Themni og Ahastari; disse ere Naaras Sønner.
+{4:7} Og Heleas Sønner vare: Zereth, Jezuhar og Etnan.
+{4:8} Og Koz avlede Anub og Hazobeba, og fra ham stamme Aharhels, Harums Søns, Slægter.
+{4:9} Og Jaebez var æret fremfor sine Brødre; og hans Moder kaldte hans Navn Jaebez; thi hun sagde: jeg fødte ham med Smerte.
+{4:10} Og Jaebez paakaldte Israels Gud og sagde: vilde du dog velsigne mig og forøge mit Landemærke, og maatte din Haand blive med mig, og du gøre det saa, at det onde ikke smerter mig! og Gud lod det ske, som han begærede.
+{4:11} Og Kelub, Suhas Broder, avlede Mekir, han blev Esthons Fader.
+{4:12} Og Esthon avlede Beth-Rafa og Pasea og Thehinna, Ir-Nahas Fader; disse ere de Mænd af Reka.
+{4:13} Og Kenas Sønner vare: Othniel og Seraja; og Uthniels Sønner vare: Kathath
+{4:14} og Meonothaj, denne avlede Ofra; og Seraja avlede Joab, en Fader til dem i Tømmermandsdalen; thi de vare Tømmermænd.
+{4:15} Og Kalebs, Jefunnes Søns, Sønner vare: Iru, Ela og Naam og Elas Sønner og Kenas.
+{4:16} Og Jehaleleels Sønner vare: Sif og Sifa, Thirja og Asareel.
+{4:17} Og Esras Sønner vare: Jether og Mered og Efer og Jalon; og hun undfangede Mirjam og Sammaj og Jisbak, Esthemoas Fader.
+{4:18} Og hans Hustru af Judas Stamme fødte Jered Gedors Fader, og Heber, Sokos Fader, og Jekuthiel, Sanoas Fader; men hine vare Bithjas, Faraos Datters, Børn, som Mered havde taget.
+{4:19} Og Hodijas Hustrus, Nahams Søsters, Sønner vare: Keilas Fader, Garmiten, og Esthemoa, Maakathiten.
+{4:20} Og Simeons Sønner vare: Amnon og, Rinna, Ben-Hanan og Thilon; og Jiseis Sønner vare: Soheth og Ben-Soheth.
+{4:21} Selas, Judas Søns, Sønner vare: Er, Lekas Fader, og Laeda, Maresas Fader, og Slægterne af Asbeas Hus, som forfærdigede de fine Linklæder;
+{4:22} desuden Jokim, og de Mænd af Koseba og Joas og Saraf, de som herskede i Moab, og Jasubi-Lahem; men dette er gamle Ting.
+{4:23} Disse bleve Pottemagere, som boede paa de beplantede og indhegnede Steder; de bleve der hos Kongen i hans Arbejde.
+{4:24} Simeons Sønner vare: Nemuel og Jamin, Jarib, Sera, Saul.
+{4:25} Hans Søn var Sallum, hans Søn var Mibsam, hans Søn var Misma. Mismas
+{4:26} Og Efterkommere vare: Hans Søn Hamuel, dennes Søn Zakur, dennes Søn Simei.
+{4:27} Og Simei havde seksten Sønner og seks Døtre, men hans Brødre havde ikke mange Børn; og alle deres Slægter formerede sig ikke som Judas Børn.
+{4:28} Og de boede i Beersaba og Molada og Hazar-Sual
+{4:29} og i Bilha og i Ezem og i Tholad
+{4:30} og i Bethuel og i Horma og i Ziklag
+{4:31} og i BethMarkaboth og i Hazar-Susim og i Beth-Biri og i Saaraim; disse vare deres Stæder, indtil David blev, Konge.
+{4:32} Og deres Byer vare: Etam og Ajn, Rimmon og Thoken og Asan, fem Stæder,
+{4:33} med alle deres Landsbyer, som vare trindt omkring disse Stæder, indtil Baal; disse ere deres Boliger, og de havde deres egen Slægtfortegnelse.
+{4:34} Og Mesobab og Jamlek og Josa, Amazias Søn,
+{4:35} og Joel og Jehu, en Søn af Josibia, som var en Søn af Seraja, Asiels Søn,
+{4:36} og Elioenaj og Jaakoba og Jesohaja og Asaja og Adiel og Jesimiel og Benaja
+{4:37} og Sisa, en Søn af Sifei, som var en Søn af Allon, der var en Søn af Jedaja, der var en Søn af Simri, en Søn af Semaja;
+{4:38} disse, som ere anførte ved Navn, vare Fyrster iblandt deres Slægter; og deres Fædres Hus udbredte sig i Mangfoldighed.
+{4:39} Og de droge hen imod Indgangen til Gedor, indtil den østre Del af Dalen, at søge Føde til deres Smaakvæg.
+{4:40} Og de fandt fed og god Græsgang, og Landet var vidt og bredt og roligt og trygt; thi de som boede der tilforn, nedstammede fra Kam.
+{4:41} Og de, som ere optegnede ved Navn, kom i Ezekias, Judas Konges, Dage og nedsloge disses Telte og Boliger, som fandtes der, og ødelagde dem indtil denne Dag og toge Bolig i deres Sted fordi der var Græsgang der for deres Smaakvæg.
+{4:42} Og af dem, nemlig af Simeons Børn, droge fem Hundrede Mænd til Seirs Bjerg; og Pelatja og Nearia og Refaja og Ussiel, Jiseis Sønner, vare deres Øverster.
+{4:43} Og de sloge den Levning, som var bleven tilovers af Amalek, og de tog Bolig der indtil denne Dag.
+{5:1} Og Rubens, Israels førstefødtes Sønner - thi han var den førstefødte, men fordi han besmittede sin Faders Seng, blev hans: Førstefødselsret givet Josefs, Israel; Søns, Børn; dog denne blev ikke regnet i Slægtregisteret som den førstefødte;
+{5:2} thi vel var Juda vældig iblandt sine Brødre, og Fyrsten skulde være af ham; men Førstefødselsretten blev Josefs -
+{5:3} Rubens Israels førstefødtes, Sønner vare Hanok og Pallu, Hezron og Karmi
+{5:4} Joels Efterkommere vare: hans Søn Semaja, dennes Søn Gog, dennes Søn Simei,
+{5:5} dennes Søn Mike dennes Søn Reaja, dennes Søn Baal
+{5:6} dennes Søn Beera, hvilken Thil- gath-Pilneser, Kongen af Assyrien førte bort; han var en Fyrste for Rubeniterne.
+{5:7} Men hans Brødre, efter deres Slægter, naar de blev regnede i Slægtregister efter deres Nedstammelse, ere Jeiel som den første og Sakaria
+{5:8} og Bela, en Søn af Asa, en Søn af Sema, som var en Søn af Joel; han boede i Aroer og indtil Nebo og Baal-Meon.
+{5:9} Og han boede imod Østen, hen imod Ørken, fra Floden Frat af: Thi deres Kvæg var blevet meget i Gileads Land.
+{5:10} Og i Sauls Dage førte de Krig imod Hagarenerne, og disse faldt for deres Haand, og de toge Bolig i deres Telte ved hele Østsiden af Gilead.
+{5:11} Og Gads Børn boede tværs over for dem i Basans Land indtil Salka:
+{5:12} Joel, den første, og Safan, den anden, og Jaenaj og Safat - i Basan.
+{5:13} Og deres Brødre efter deres Fædres Hus vare: Mikael og Mesullam og Seba og Joraj og Jaekan og Sia og Eber, i alt syv.
+{5:14} Disse ere Sønner af Abihail, en Søn af Huri, som var en Søn af Jaroa og, en Søn af Gilead, en Søn af Mikael, en Søn af Jesisaj, en Søn af Jahdo, en Søn af Bus.
+{5:15} Ahi, en Søn af Abdiel, som var en Søn af Guni, var den ypperste i deres Fædres Hus.
+{5:16} Og de boede i Gilead udi Basan og i dens tilliggende Stæder og paa alle Sarons Marker indtil deres Grænser.
+{5:17} Disse bleve alle indførte i Slægtregisteret i Jothams, Judas Konges, Dage, og i Jeroboams, Israels Konges, Dage.
+{5:18} Rubens Børn og Gaditerne og Manasses halve Stamme, som vare stridbare Folk, Mænd, som bare Skjold og Sværd og spændte Buer og vare oplærte til Krig, vare fire og fyrretyve Tusinde og syv Hundrede og tresindstyve, som kunde drage ud i Hæren.
+{5:19} Og de førte Krig imod Hagarenerne og imod Jethur og Nafis og Nodab.
+{5:20} Og de fik Hjælp imod dem, og Hagarenerne og alt det, som var med dem, bleve givne i deres Haand; thi de raabte til Gud i Krigen, og han bønhørte dem, thi de forlode sig paa ham.
+{5:21} Og de førte deres Kvæg bort, deres Kameler, halvtredsindstyve Tusinde, og to Hundrede og halvtredsindstyve Tusinde Faar og to Tusinde Asener og hundrede Tusinde Menneskesjæle.
+{5:22} Thi der faldt mange ihjelslagne, thi Krigen var af Gud; og de boede i deres Sted, indtil de bleve bortførte.
+{5:23} Og Manasses halve Stammes Børn boede i Landet, fra Basan indtil Baal-Hermon og Senir og Hermons Bjerg; de vare blevne mange.
+{5:24} Og disse vare de Øverste for deres Fædrenehuse: Efer og Jisei og Eliel og Asriel og Jeremia og Hodavia og Jadiel, vældige Stridsmænd, navnkundige Mænd, de øverste for deres Fædrenehuse.
+{5:25} Men de forsyndede sig imod deres Fædres Gud og bolede efter de Folks Guder i Landet, hvilke Gud havde ødelagt for deres Ansigt.
+{5:26} Og Israels Gud opvakte Fuls Aand, Kongens af Assyrien, og Thilgath-Pilnesers Aand, Kongens af Assyrien, at han bortførte dem, Rubeniterne og Gaditerne og den halve Manasses Stamme, og han bragte dem til Hala og Habor og Hara og til Floden Gosan, indtil denne Dag.
+{6:1} Levis Sønner vare: Gersom, Kahath og Merari.
+{6:2} Men Kahaths Sønner vare: Amram, Jizehar og Hebron og Ussiel.
+{6:3} Og Amrams Børn vare: Aron og Mose og Maria; og Arons Sønner vare: Nadab og Abihu, Eleasar og Ithamar:
+{6:4} Eleasar avlede Pinehas, Pinehas avlede Abisua,
+{6:5} og Abisua avlede Bukki; og Bukki avlede Ussi,
+{6:6} og Ussi avlede Seraja, og Seraja avlede Merajoth,
+{6:7} Merajoth avlede Amarja, og Amarja avlede Ahitub,
+{6:8} og Ahitub avlede Zadok, og Zadok avlede Ahimaaz,
+{6:9} og Ahimaaz avlede Asaria, og Asaria avlede Johanan,
+{6:10} og Johanan avlede Asaria, ham, som havde Præsteembede i det Hus, som Salomo havde bygget i Jerusalem.
+{6:11} Og Asaria avlede Amaria, og Amaria avlede Ahitub,
+{6:12} og Ahitub avlede Zadok, og Zadok avlede Sallum,
+{6:13} og Sallum avlede Hilkia, og Hilkia avlede Asaria,
+{6:14} og Asaria avlede Seraja, og Seraja avlede Jozadak;
+{6:15} men Jozadak gik med, der Herren lod Juda og Jerusalem bortføre ved Nebukadnezar.
+{6:16} Levis Sønner vare: Gersom Kahath og Merari.
+{6:17} Og Gersoms Sønners Navne ere disse: Libni og Simei.
+{6:18} Men Kahaths Sønner vare: Amram og Jizehar og Hebron og Ussiel.
+{6:19} Meraris Sønner vare: Maheli og Musi; og disse ere Leviternes Slægter efter deres Fædre.
+{6:20} Gersoms Søn var Libni, hans Søn var Jahath, hans Søn var Simma,
+{6:21} hans Søn var Joa, hans Søn var Iddo, hans Søn var Sera, hans Søn var Jeathraj.
+{6:22} Kahaths Efterkommere vare: Hans Søn Amminadab, dennes Søn Kora, dennes Søn Assir,
+{6:23} dennes Søn Elkana og hans Søn Abiasaf og hans Søn Assir,
+{6:24} dennes Søn Thahath, dennes Søn Uriel, dennes Søn Ussia og dennes Søn Saul.
+{6:25} Og Elkanas Sønner vare: Amasaj og Ahimoth.
+{6:26} Dennes Søn var Elkana; Elkanas Søn var Zofaj, og hans Søn var Nahath.
+{6:27} Dennes Søn var Eliab, dennes Søn var Jeroham, dennes Søn var Elkana.
+{6:28} Og Samuels Sønner vare: den førstefødte Vasni, og Abija.
+{6:29} Meraris Efterkommere vare: Maheli, dennes Søn Libni, dennes Søn Simei; og hans Søn Ussa,
+{6:30} dennes Søn Simea, dennes Søn Hagija og hans Søn Asaja.
+{6:31} og disse ere de, som David ansatte til Sangens Tjeneste i Herrens Hus, efter at Arken var kommen til Hvile.
+{6:32} Og de gjorde Tjeneste ved Sangen foran Forsamlingens Pauluns Tabernakel, indtil Salomo byggede Herrens Hus i Jerusalem, og de forestode deres Tjeneste efter deres bestemte Vis.
+{6:33} Og disse ere de, som der stode med deres Sønner: Af Kahathiterens Sønner: Sangeren Heman, en Søn af Joel, der var en Søn af Samuel,
+{6:34} en Søn af Elkana, en Søn af Jeroham, en Søn af Eliel, en Søn af Thoa,
+{6:35} en Søn af Zuf, en Søn af Elkana, en Søn af Mahath, en Søn af Amasaj,
+{6:36} en Søn af Elkana, en Søn af Joel, en Søn af Asaria, en Søn af Zefania,
+{6:37} en Søn af Thahat, en Søn af Asir, en Søn af Abiasaf, en Søn af Kora,
+{6:38} en Søn af Jizehar, en Søn af Kahath; en Søn af Levi, en Søn af Israel.
+{6:39} Og hans Broder Asaf stod ved hans højre Side; Asaf var en Søn af Berekia, der var en Søn af Simea,
+{6:40} en Søn af Mikael, en Søn af Baaseja, en Søn af Malkija,
+{6:41} en Søn af Ethni, en Søn af Sera, en Søn af Adaja,
+{6:42} en Søn af Ethan; en Søn af Simma, en Søn af Simei,
+{6:43} en Søn af Jahath, en Søn af Gersom, en Søn af Levi.
+{6:44} Og Meraris Børn, deres Brødre, stode ved den venstre Side: Ethan, en Søn af Kisi; der var en Søn af Abdi, en Søn af; Malluk,
+{6:45} en Søn af Husabja, en Søn af Amazia, en Søn af Hilkia,
+{6:46} en Søn af Amzi, en Søn af Bani, en Søn af Samer,
+{6:47} en Søn af Maheli, en Søn af Musi, en Søn af Merari, en Søn af Levi:
+{6:48} Og deres Brødre Leviterne vare givne dem til alle Haande Tjeneste i Guds Huses Tabernakel.
+{6:49} Men Aron og hans Sønner gjorde Røgoffer paa Brændofferets Alter og paa Røgofferalteret, de vare beskikkede til al Gerning i det Allerhelligste og til at gøre Forligelse for Israel efter alt det, sorn Mose, Guds Tjener, havde befalet.
+{6:50} Og disse ere Arons Efterkommere: Hans Søn var Eleasar, dennes Søn Pinehas, dennes Søn Abisua,
+{6:51} dennes Søn Bukki, dennes Søn Ussi, dennes Søn Seraja,
+{6:52} dennes Søn Merioth, dennes Søn Amaria, dennes Søn Ahitub,
+{6:53} dennes Søn Zadok, dennes Søn Ahimaaz.
+{6:54} Og disse vare deres Boliger efter deres Byer i deres Landemærke, for Arons Børn, efter Kahathiternes Slægt; thi denne Lod faldt for dem.
+{6:55} Og de gave dem Hebron i Judas Land og dens Marker trindt omkring den.
+{6:56} Og Stadens Jord og dens Landsbyer gave de Kaleb, Jefunnes Søn.
+{6:57} Saa gave de til Arons Børn Tilflugtsstæderne Hebron og Libna og dens Marker og Jathir og Esthemoa og dens Marker
+{6:58} og Hilen og dens Marker, Debir og dens Marker
+{6:59} og Asan og dens Marker og Bethsemes og dens Marker
+{6:60} og af Benjamins Stamme: Geba og dens Marker, Allemeth og dens Marker og Anathoth og dens Marker; alle deres Stæder vare tretten Stæder for deres Slægter.
+{6:61} Men de øvrige, Kahaths Børn, af Stammens Slægt tilfaldt af den halve Manasses Stammes Halvdel ved Lod ti Stæder
+{6:62} Og Gersoms Børn i deres Slægter havde af Isaskars Stamme og af Asers Stamme og af Nafthalis Stamme og af Manasses Stamme i Basan tretten Stæder.
+{6:63} Meraris Børn i deres Slægter havde af Ruben Stamme og af Gads Stamme og af Sebulons Stamme ved Lod tolv Stæder.
+{6:64} Saa gave Israels Børn Liviterne Stæderne og deres Marker.
+{6:65} Og de gave ved Lod af Judas Børns Stamme og af Simeons Børns Stamme og af Benjamins Børns Stamme disse Stæder, som de nævnede ved Navn.
+{6:66} Og de af Kahaths Børns Slægter fik Ejendoms Stæder af Efraims Stamme.
+{6:67} Thi de gave dem Tilflugtsstæderne Sikem og dens Marker paa Efraims Bjerg og Geser og dens Marker
+{6:68} og Jokmeam og dens Marker og Beth-Horon og dens Marker
+{6:69} og Ajalon og dens Marker og Gath-Rimmon og dens Marker
+{6:70} og af den halve Manasses Stamme: Aner og dens Marker og Bileam og dens Marker. Dette var for de øvrige, Kahaths Børns Slægt.
+{6:71} Gersoms Børn gave de af den halve Manasses Stammes Slægt: Golan i Basan og dens Marker og Astharoth og, dens Marker
+{6:72} og af Isaskars Stamme: Kedes og dens Marker, Dobrath og dens Marker
+{6:73} og Ramoth og dens Marker og Anem og dens Marker
+{6:74} og af Asers Stamme: Masal og dens Marker og Abdon og dens Marker,
+{6:75} og Hukok og dens Marker og Rekob og dens Marker
+{6:76} og af Nafthalis Stamme: Kedes i Galilæa og dens Marker og Hammon og dens Marker og Kirjathaim og dens Marker.
+{6:77} De øvrige, Meraris Børn, gave de af Sebulons Stamme Rimono og dens Marker, Thabor og dens Marker.
+{6:78} Og paa hin Side Jordanen ved Jeriko, Østen for Jordanen, gave de dem af Rubens Stamme: Bezer i Ørken og dens Marker og Jahza og dens Marker
+{6:79} og Kedemoth og dens Marker og Mefat og dens Marker
+{6:80} og af Gads Stamme Ramoth i Gilead og dens Marker og Mahanaim og dens Marker
+{6:81} og Hesbon og dens Marker og Jaeser og dens Marker.
+{7:1} Og Isaskars Sønner vare: Thola og Fua, Jasub og Simron, i alt fire.
+{7:2} Og Tholas Sønner vare: Ussi og Refaja og Jeriel og Jahmaj og Jibsam og Samuel, Øverster for deres Fædrenehuse for Thola, vældige til Strid i deres Slægter; deres Tal var i Davids Dage to og tyve Tusinde og seks Hundrede.
+{7:3} Og Ussis Sønner vare: Jisraja; og Jisrajas Sønner vare: Mikael og Obadia og Joel og Jissija; disse fem vare alle sammen Øverster.
+{7:4} Og med dem efter deres Slægter, efter deres Fædrenehuse, vare seks og tredive Tusinde Mand som Tropper til Krigshæren; thi de havde mange Hustruer og Børn.
+{7:5} Men deres Brødre af alle Isaskars Slægter vare vældige til Strid; der var syv og firsindstyve Tusinde, da de alle bleve indførte i Slægtregisteret.
+{7:6} Benjamins Sønner vare: Bela og Beker og Jedial, ialt tre.
+{7:7} Og Belas Sønner vare: Ezbon og Ussi og Ussiel og Jerimoth og Iri, fem Øverster for derer Fædrenehuse, vældige til Strid; og de vare, da de bleve indførte i Slægtregisteret, to og tyve Tusinde og fire og tredive.
+{7:8} Og Bekers Sønner vare: Semira og Joas og Elieser, Elioenaj og Omri og Jerimoth og Abia og Anathoth og Alemeth; alle disse vare Bekers Børn.
+{7:9} Og da de bleve indfør te i Slægtregisteret efter deres Slægter, efter Øversterne for deres Fædrenehuse, vældige til Strid, da var der tyve Tusinde og to Hundrede.
+{7:10} Og Jediaels Sønner vare Bilhan; og Bilhans Sønner vare: Jeus og Benjamin og Ehud og Knaana og Sethan og Tharsis og Ahisahar.
+{7:11} Disse vare alle Jediaels Børn Øverster for deres Fædrenehuse, vældige til Strid; sytten Tusinde og to Hundrede vare de, som uddroge i Hæren til Krig;
+{7:12} desuden Suppim og Huppim, Irs Børn. Husim var Ahers Børn.
+{7:13} Nafthalis Sønner vare: Jahziel og Guni og Jezer og Sallum, Efterkommere af Bilha.
+{7:14} Manasses Sønner vare: Asriel, som hans Hustru fødte; hans Medhustru, den syriske, fødte Makir, Gileads Fader.
+{7:15} Og Makir tog til Hustru Huppims og Suppims Søster, hvis Navn var Maaka; og den anden Søns Navn var Zelafehad, og Zelafehad havde Døtre.
+{7:16} Og Maaka, Makirs Hustru, fødte en Søn og kaldte hans Navn Peres, og hans Broders Navn var Seres, og hans Sønner vare Ulam og Rekem.
+{7:17} Og Ulams Sønner vare: Bedan; disse ere Gileads Børn, han var en Søn af Makir, Manasses Søn.
+{7:18} Og hans Søster var Hammoleket, hun fødte Ishod og Abieser og Mahela.
+{7:19} Og Semidas Sønner vare: Ahjan og Sekem og Likhi og Anjam.
+{7:20} Og Efraims Sønner vare: Suthela og hans Søn Bered og hans Søn Thahat og hans Søn Eleada og hans Søn Thahat
+{7:21} og hans Søn Sabad og hans Søn Suthelah, samt Eser og Elead; men dem sloge Mændene af Gath, som vare fødte i Landet, ihjel, fordi de vare dragne ned at tage deres Kvæg.
+{7:22} Derfor sørgede Efraim, deres Fader, mange Dage, og hans Brødre kom at trøste ham.
+{7:23} Og han gik ind til sin Hustru, og hun blev frugtsommelig og fødte en Søn, og han kaldte hans Navn Beria; thi det var sket under Ulykke i hans Hus.
+{7:24} Og hans Datter var Seera, og hun byggede det nedre og det øvre Beth-Horon og Ussen-Seera.
+{7:25} Og hans Søn var Refa, og Resef og Thela var hans Søn, og Thahan var hans Søn,
+{7:26} Ladan hans Søn, Ammihud hans Søn, Elisama hans Søn,
+{7:27} Non hans Søn, Josva hans Søn.
+{7:28} Og deres Ejendom og deres Boliger vare: Bethel og dens tilliggende Stæder og imod Østen Naaran og imod Vesten Geser og dens tilliggende Stæder, og Sikem og dens tilliggende Stæder, indtil Gaza og dens tilliggende Stæder.
+{7:29} Og paa Manasses Børns Side laa Beth-Sean og dens tilliggende Stæder, Thaanak og dens tilliggende Stæder, Megiddo og dens tilliggende Stæder, Dor og dens tilliggende Stæder; udi disse boede Josefs, Israels Søns, Børn.
+{7:30} Asers Sønner vare Jimna og Jisva og Jisvi og Beria, og deres Søster var Sera.
+{7:31} Og Berias Sønner vare: Heber og Malkiel; denne er Birsaviths Fader.
+{7:32} Og Heber avlede Jaflet og Somer og Hotham og Sua, deres Søster.
+{7:33} Jaflets Sønner vare: Pasak og Bimhal og Asvath; disse vare Jaflets Sønner.
+{7:34} Og Semers Sønner vare: Ahi og Rahda, Jehubba og Aram.
+{7:35} Og Helems, hans Broders, Sønner vare: Zofa og Jimna og Seles og Amal.
+{7:36} Zofas Sønner vare: Sua og Harnefer og Sual og Beri og Jimra,
+{7:37} Beser og Hod og Samma og Silsa og Jitran og Beera.
+{7:38} Og Jethers Sønner vare: Jefunne og Fispa og Ara.
+{7:39} Og Ullas Sønner vare: Arak og Haniel og Rizia.
+{7:40} Alle disse vare Asers Børn, Øverster for deres Fædrenehuse, udvalgte, vældige til Strid, Øverster iblandt Fyrsterne; og da de indførtes i Slægtregisteret til Hæren i Krigen, var deres Tal seks og tyve Tusinde Mænd.
+{8:1} Og Benjamin avlede Bela sin førgstefødte, Asbel den anden og Ahra den tredje,
+{8:2} Noha den fjerde og Rafa den femte.
+{8:3} Og Bela havde Sønner: Addar og Gera og Abihud
+{8:4} og Abisua og Naaman og Ahoa
+{8:5} og Gera og Sefufan og Huram.
+{8:6} Og disse ere Ehuds Børn:- Disse vare Øverster for deres Fædrenehuse iblandt Indbyggerne i Geba, men bleve førte bort til Manahath,
+{8:7} da Naaman og Ahia og Gera førte dem bort - han avlede nemlig Ussa og Ahihud.
+{8:8} Og Saharajim avlede Børn i Moabs Land, efter at han havde skilt sig ved Husim og Baara, sine Hustruer;
+{8:9} og han avlede af Hodes, sin Hustru: Joab og Zibja og Mesa og Malkam
+{8:10} og Jeuz og Sokja og Mirma; disse vare hans Sønner, Øverster for deres Fædrenehuse.
+{8:11} Og af Husim havde han avlet Abitub og Elpaal.
+{8:12} Og Elpaals Sønner vare: Eber og Miseam og Semer; denne byggede Ono og Lod og dens tilliggende Stæder;
+{8:13} og Beria og Sema, de vare Øverster for deres Fædrenehuse iblandt Indbyggerne i Ajalon; disse dreve Indbyggerne i Gath paa Flugt;
+{8:14} og Ahio, Sasak og Jeremoth,
+{8:15} og Sebadja og Arad og Eder
+{8:16} og Mikael og Jispa og Joha, Berias Sønner,
+{8:17} og Sebadja og Mesullam og Hiski og Heber
+{8:18} og Jismeraj og Jisslia og Jobab, Elpaals Sønner,
+{8:19} og Jakim og Sikri og Sabdi
+{8:20} og Elienaj og Zilthaj og Eliel
+{8:21} og Adaja og Beraja og Simrath, Simei Sønner,
+{8:22} og Jispan og Eber og Eliel
+{8:23} og Abdon og Sikri og Hanan
+{8:24} Og Hananja og Elam og Anthothija
+{8:25} og Jifdeja og Pniel, Sasaks Sønner,
+{8:26} og Samseraj og Seharja og Athalja,
+{8:27} og Jaaresia og Elija og Sikri, Jerohams Sønner:
+{8:28} Disse vare Øverster for deres Fædrenehuse, Øverster for deres Slægter; og disse boede i Jerusalem.
+{8:29} Men i Gibeon boede Gibeons Fader, og hans Hustrus Navn var Maaka.
+{8:30} Og hans førstefødte Søn var Abdon, derefter Zur og Kis og Baal og Nadab
+{8:31} og Gedor og Ahio og Seker.
+{8:32} Og Mikloth avlede Simea; og disse boede ogsaa tværs over for deres Brødre i Jerusalem med deres Brø dre.
+{8:33} Og Ner avlede Kis, og Kis avlede Saul, og Saul avlede Jonathan og Malkisua og Abinadab og Esbaal.
+{8:34} Og Jonathans Søn var Merib-Baal, og Merib-Baal avlede Mika.
+{8:35} Og Mikas Sønner vare: Pithon og Melek og Thaerea og Akas.
+{8:36} Og Akas avlede Joadda, og Joadda avlede Alemeth og Asmaveth og Simri, og Simri avlede Moza.
+{8:37} Og Moza avlede Bina; og dennes Søn var Rafa, dennes Søn Eleasa, dennes Søn Azel.
+{8:38} Og Azel havde seks Sønner, og disse vare deres Navne: Asri- kam, Bokru og Jismael og Searja og Obadja og Hanan; alle disse vare Azels Sønner.
+{8:39} Og hans Broder Eseks Sønner vare: Ulam hans førstefødte, Jeus den anden og Elifelet den tredje.
+{8:40} Og Ulams Sønner vare Mænd, som vare vældige til Strid, som kunde spænde Buen, og som havde mange Sønner og Sønnesønner, Hundrede og halvtredsindstyve; alle disse vare af Benjamins Børn.
+{9:1} Og hele Israel blev indført i Slægtregisteret, og se, de ere optegnede i Israels Kongers Bog; men Juda var bortført til Babel for sin Forsyndelses Skyld.
+{9:2} Og de første Indbyggere, som boede i deres Ejendom, i deres Stæder, vare: Israel, Præsterne, Leviterne og Templets Livegne.
+{9:3} Men der boede i Jerusalem af Judas Børn og af Benjamins Børn og af Efraims og Manasses Børn:
+{9:4} Uthaj, en Søn af Amihud, der var en Søn af Omri, der var en Søn af Imri, der var en Søn af, Bani, af Perez s, Judas Søns, Børn;
+{9:5} og af Seloniten: Asaja den førstefødte og hans Sønner;
+{9:6} og af Seras Sønner: Jeuel og deres Brødre, seks Hundrede og halvfemsindstyve;
+{9:7} og af Benjamins Børn: Sallu en Søn af Mesullam, som var en Søn af Hodavia, en Søn af Hassenua,
+{9:8} og Jibneja, Jerohams Søn, og Ela, der var en Søn af Ussi, en Søn af Mikri, og Mesullam, der var en Søn af Sefatja, der var en Søn af Revel, Jibnijas Søn.
+{9:9} Og deres Brødre i deres Slægter vare ni Hundrede og seks og halvtredsindstyve; alle disse Mænd var Øverster for deres Fædrenehuse efter deres Fædrenehuse.
+{9:10} Men af Præsterne: Jedaja og Jojarib og Jakin;
+{9:11} og Asaria, en Søn af Hilkia, der var en Søn af Mesullam, en Søn af Zadok, en Søn af Merejoth, en Søn af Ahitub, en Fyrste i Guds Hus;
+{9:12} og Adaja, der var en Søn af Jeroham, der var en Søn af Pashur, der var en Søn af Malkia; og Maesaj, der var en Søn af Adiel, en Søn af Jahsera, en Søn. af Mesullam, en Søn af Mesillemeth, en Søn af Immer;
+{9:13} tilmed deres Brødre, Øverster i deres Fædrenehuse, Tusinde og syv Hundrede og tresindstyve, dygtige, Mænd, til Tjenestens Gerning i Guds Hus.
+{9:14} Men af Leviterne: Semaja, en Søn Hasub, der var en Søn af Asrikam en Søn af Hasabja, af Meraris Børn
+{9:15} og Bakbakar, Heres og Galal, Mathania, en Søn af Mika, der var en Søn af Sikri, Asafs Søn,
+{9:16} og Obadja, en Søn af Semaja, der var en Søn af Galal, Jeduthuns Søn; og Berekia, en Søn af Asa, Elkanas Søn, som boede i Nethofathiternes Landsbyer.
+{9:17} Og Portnerne: Sallum og Akkub og Talmon og Ahiman; og for deres Brødre var Sallum den øverste;
+{9:18} og indtil nu er han ved Kongens Port imod Østen; disse ere Portnere for Levis Børns Lejre.
+{9:19} Og Sallum, en Søn af Kore, der var en Søn af Abiasaf, Koras Søn, og hans Brødre af hans Faders Hus, Korhiterne, vare over Tjenestens Gerning, og de toge Vare paa Paulunets Dørtærskler, ligesom deres Fædre havde været over Herrens Lejr og havde taget Vare paa Indgangen.
+{9:20} Og Pinehas, Eleasars Søn, var fordum en Fyrste over dem; Herren var med ham.
+{9:21} Sakaria Meselemias Søn, var Portner for Forsamlingens Pauluns Dør.
+{9:22} Alle disse, som vare udvalgte til Portnere ved Dørtærsklerne, vare to Hundrede og tolv; de vare indførte i Slægtregisteret i deres Landsbyer; dem havde Daavid og Seeren Samuel beskikket paa Tro og Love.
+{9:23} Og de og deres Børn vare ved Portene til Herrens Hus, til Paulunets Hus, til at holde Vagt.
+{9:24} Portnerne vare beskikkede imod de fire Vejr: Imod Øst, Vest, Nord og Syd.
+{9:25} Og deres Brødre i deres Landsbyer skulde komme ind hver syvende Dag, fra Tid til Tid tillige med disse.
+{9:26} Thi hine fire mægtige iblandt Portnerne vare beskikkede paa Tro og Love; disse vare Leviterne, og de vare over Kamrene og over Guds Huses Skatte.
+{9:27} Og de bleve om Natten trindt omkring Guds Hus; thi det tilkom dem at holde Vagt, og de havde Nøgle at oplade med, og det hver Morgen.
+{9:28} Og nogle af dem vare over Tjenestens Redskaber; thi de bragte dem ind efter Tal og bragte dem ud efter Tal.
+{9:29} Og nogle af dem vare satte til at være over Redskaberne, ja over alle Helligdommens Redskaber, og over Melet og Vinen og Olien og Virakken og de vellugtende Urter.
+{9:30} Men nogle af Præsternes Børn lavede ved Kunst Salven af de vellugtende Urter.
+{9:31} Og Mathithja af Leviterne, som var Korhiteren Sallums førstefødte, var paa Tro og Love beskikket til at forestaa Tilberedelsen af Bagværket.
+{9:32} Og af Kahathiternes Børn, af deres Brødre, vare nogle over Skuebrødene for at berede dem hver Sabbat.
+{9:33} Af disse vare og Sangerne, Øverster for deres Fædrenehuse iblandt Leviterne, frie for anden Tjeneste i Kamrene; thi det paalaa dem Dag og Nat at være ved denne Gerning.
+{9:34} Disse ere Øversterne for deres Fædrenehuse iblandt Leviterne, Øverster for deres Slægter; disse boede i Jerusalem.
+{9:35} Men i Gibeon boede Gibeons Fader, Jejel, og hans Hustrus Navn var Maaka.
+{9:36} Og hans førstefødte Søn var Abdon, derefter Zur og Kis og Baal og Ner og Nadab
+{9:37} og Gedor og Ahio og Sakaria og Mikloth.
+{9:38} Og Mikloth avlede Simeon og de boede ogsaa, tværs over for deres Brødre, i Jerusalem med deres Brødre.
+{9:39} Og Ner avlede Kis, og Kis avlede Saul, og Saul avlede Jonathan og Malkisua og Abinadab og Esbaal.
+{9:40} Og Merib-Baal var Jonathans Søn, og Merib-Baal avlede Mika.
+{9:41} Og Mikas Sønner vare: Pithon og Melek og Thaerea.
+{9:42} Og Akas avlede Jeara, og Jeara avlede Alemeth og Asmaveth og Simri, og Simri avlede Moza.
+{9:43} Og Moza avlede Bina, og dennes Søn var Refaja, dennes Søn var Eleasa, og hans Søn var Azel.
+{9:44} Og Azel havde seks Sønner, og disse vare deres Navne: Asrikam, Bokru og Ismael og Searja og Obadja og Hanan; disse vare Azels Sønner.
+{10:1} Og Filisterne strede imod Israel, og Israels Mænd flyede for Filisternes Ansigt og faldt ihjelslagne paa Gilboas Bjerg.
+{10:2} Og Filisterne forfulgte Saul og hans Sønner, og Filisterne ihjelsloge Jonathan og Abinadab og Malkisua, Sauls Sønner.
+{10:3} Og Krigen blev svar imod Saul, og Skytterne, som førte Bue, naaede ham, og han blev saare angst for Skytterne.
+{10:4} Da sagde Saul til sin Vaabendrager: Drag dit Sværd ud og stik mig igennem dermed, at ikke disse uomskaarne skulle komme og handle ilde med mig; men hans Vaabendrager vilde ikke, thi han frygtede saare; da tog Saul Sværdet og styrtede sig deri.
+{10:5} Der hans Vaabendrager saa, at Saul var død, da styrtede ogsaa han sig i sit Sværd og døde.
+{10:6} Saa døde Saul og hans tre Sønner og alt hans Hus, de døde til Hobe.
+{10:7} Der alle Israels Mænd som vare i Dalen, saa, at de flyede, og at Saul og hans Sønner vare døde, da forlode de deres Stæder og flyede, og Filisterne kom og boede i dem.
+{10:8} Og det skete den anden Dag, da Filisterne kom til at plyndre de ihjelslagne, da fandt de Saul og hans Sønner faldne paa Gilboas Bjerg.
+{10:9} Og de udplyndrede ham og toge hans Hoved og hans i Vaaben, og de sendte hen i Filisternes Land trindt omkring for at bringe Budskab derom til deres Afguder og til Folket.
+{10:10} Og de lagde hans Vaaben i deres Guds Hus og fæstede hans Hjerneskal paa Dagons Hus.
+{10:11} Der alle de i Jabes udi Gilead hørte alt det, som Filisterne havde gjort imod Saul,
+{10:12} da gjorde alle stridbare Mænd sig rede og toge Sauls Legeme og hans Sønners Legemer, og de førte dem til Jabes, og de begrove deres Ben under Egen i Jabes og fastede i syv Dage.
+{10:13} Saa døde Saul i sin Forsyndelse, som han havde begaaet imod Herren, fordi han ikke havde holdt Herrens Ord, men han havde endog adspurgt og søgt Spaakvinden.
+{10:14} Og han søgte ikke Herren, derfor dræbte han ham og vendte Riget til David, Isajs Søn.
+{11:1} Da samledes hele Israel til David i Hebron og sagde: Se, vi ere dine Ben og dit Kød.
+{11:2} Ogsaa tilforn, endog der Saul var Konge, har du ført Israel ud og ind; saa har og Herren din Gud sagt til dig: Du skal føde mit Folk Israel, og du skal være en Fyrste over mit Folk Israel.
+{11:3} Og alle Israels Ældste kom til Kongen i Hebron, og David gjorde en Pagt med dem i Hebron for Herrens Ansigt, og de salvede David til Konge over Israel efter Herrens Ord ved Samuel.
+{11:4} Og David og hele Israel drog hen til Jerusalem, det er Jebus; og Jebusiterne vare der Landets Indbyggere.
+{11:5} Og Indbyggerne i Jebus sagde til David: Du skal i komme herind; men David indtog Zions Befæstning, det er Davids Stad.
+{11:6} Og David sagde: Hvo som helst der først slaar Jebusiterne, skal være Øverste og Høvedsmand; saa steg Joab, Zerujas Søn, først op og blev Øverste.
+{11:7} Og David boede i Befæstningen, derfor kaldte man den Davids Stad:
+{11:8} Og han byggede Staden deromkring, fra Milla og rundt omkring; og Joab udbedrede det Øvrige af Byen.
+{11:9} Og David gik stedse frem og blev stor, og den Herre Zebaoth var med ham.
+{11:10} Og disse ere de Øverste iblandt de vældige, som David havde, som holdt mandeligen med ham i hans Regering tillige med hele Israel, saa at de gjorde ham til Konge efter Herrens Ord over Israel.
+{11:11} Og dette er Tallet paa de vældige, som David havde: Jasobeam, Hakmonis Søn, en Øverste for Høvedsmændene, han svingede sit Spyd imod tre Hundrede, som bleve ihjelslagne paa en Gang.
+{11:12} Og efter ham var Eleasar Dodos Søn, Ahohiten, han var iblandt de tre vældige.
+{11:13} Han var med David i Pasdammin, der Filisterne vare samlede der til Striden, og der var et Stykke Ager fuldt med Byg, og Folket flyede for Filisternes Ansigt.
+{11:14} de stillede sig midt paa det Stykke og reddede det og sloge Filisterne, og Herren gjorde en stor Frelse.
+{11:15} Og tre af de tredive ypperste droge ned til David ved Klippen til Hulen ved Adullam; men Filisternes Lejr havde lejret sig i Refaims Dal.
+{11:16} Og David var da i Befæstningen, og Filisternes Besætning var da i Bethlehem.
+{11:17} Og David fik Lyst og sagde: Hvo viI give mig Vand at drikke af den Brønd i Bethlehem, som er ved Porten?
+{11:18} Da brøde de tre ind i Filisterne Lejr og droge Vand af den Brønd i Bethlehem, som var ved Porten og toge det op og bragte det til David; men David vilde ikke drikke det, men udøste det for Herren.
+{11:19} Og han sagde: Min Gud lade de være langt fra mig at gøre dette; skulde jeg drikke disse Mænds Blod, da de har sat deres Liv i Fare? thi med Livsfare have de bragt det hid; og han vilde ikke drikke det; dette gjorde de tre vældige.
+{11:20} Og Abisaj, Joabs Broder, var den ypperste iblandt de tre, og han svingede sit Spyd imod tre Hundrede, som bleve ihjelslagne; og han var navnkundig iblandt de tre.
+{11:21} Af de tre var han herligere end de to, derfor blev han deres Høvedsmand; men han naaede ikke de første tre.
+{11:22} Benaja, Jojadas Søn, en stridbar Mands Søn, mægtig i Gerninger, fra Kabzeel, han slog to Løvehelte af Moabiterne, og han gik ned og slog en Løve midt i en Brønd en Dag, da der var Sne.
+{11:23} Og han slog en ægyptisk Mand, en Mand, fem Alen høj, og Egypteren havde et Spyd i, Haanden som en Væverstang; men han gik ned imod ham med en Kæp, og han rev Spydet af Ægypterens Haand og slog ham ihjel med hans eget Spyd.
+{11:24} Dette gjorde Benaja, Jojadas Søn, og han var navnkundig iblandt de tre vældige.
+{11:25} Se, han var mere æret end de tredive, dog naaaede han ikke de tre; og David satte ham i sit Raad.
+{11:26} Men de vældige i Hærene vare: Asael, Joabs Broder; Elhanan, Dodos Søn af Bethlehem;
+{11:27} Sammoth, Haroriten; Helez, Peloniten;
+{11:28} Ira Ikkes Søn, Thekoiten; Abieser, Anathothiten;
+{11:29} Sibeka, Husathiten; Ilaj, Ahohiten;
+{11:30} Maharaj, Netofathiten; Heled, Baenas Søn, Netofathiten;
+{11:31} Ithaj, Ribajs Søn, af Benjamins Børns Gibea; Benaja, Pireathoniten;
+{11:32} Huraj fra Dalene ved Gaas; Abiel, Arbathiten;
+{11:33} Asmaveth, Baharumiten; Eljakbar, Saalboniten;
+{11:34} Hasems, Gisonitens, Børn Jonathan, Sages Søn, Harariten;
+{11:35} Ahiam, Sakars Søn, Harariten; Elifal, Urs Søn;
+{11:36} Hefer, Makerathiten; Ahia; Poloniten;
+{11:37} Hezro, Karmeliten; Naeraj, Esbajs Søn;
+{11:38} Joel, Nathans Broder; Mibkar, Geris Søn;
+{11:39} Zelek, Ammoniten; Naheraj, Berothiten, Joabs, Zerujas Søns, Vaabendrager;
+{11:40} Ira, Jithriten; Gareb, Jithriten;
+{11:41} Uria, Hethiten; Sabad, Ahelajs Søn;
+{11:42} Adina, Sisas Søn Rubeniten, Rubeniternes Øverste, og tredive foruden ham;
+{11:43} Hanan Maakas Søn, og Josafat, Mithniten;
+{11:44} Usia, Asthratiten; Sama og Jejel, Hotams, Aroeritens, Sønner;
+{11:45} Jedial, Simris Søn, og Joha, hans Broder, Thiziten;
+{11:46} Eliel af Maheviterne; og Jeribaj og Josavja, Elnaams Sønner; og Jitma, Moabiten;
+{11:47} Eliel og Obed og Jaesiel af Mezobaja.
+{12:1} Og disse ere de, som kom til David i Ziklag, der han endnu maatte holde sig inde for Sauls, Kis's Søns, Ansigt; og de vare iblandt de vældige, som hjalp i Krigen;
+{12:2} de vare rustede med Bue, kastede med Stene med højre og venstre Haand og skøde Pile med Buen; de vare af Sauls Brødre, af Benjamin.
+{12:3} Ahieser var den ypperste, og Joas, Gibeathiten Semajas Sønner, og Jesiel og Peleth, Asmaveths Sønner, og Beraka og Jehu, Anathothiten.
+{12:4} Og Jismaja, Gibeoniten, var vældig iblandt de tredive og sat over de tredive, og Jeremia og Jahasiel og Johanan og Josabad, Gederathiten,
+{12:5} Elusaj og Jerimoth og Bealja og Semarja og Safatja, Harufiten,
+{12:6} Elkana og Jisija og Asareel og Joeser og Jasobeam, Koriterne,
+{12:7} og Joela, og Sebadja, Jerohams Sønner, af Gedor.
+{12:8} Og af Gaditerne gik nogle over til David til Befæstningen i Ørken, vældige til Strid, Stridsmænd til Krigen, rustede med Skjold og Spyd; og deres Ansigter vare som Løvers Ansigter, og de vare snare til at løbe som Raadyr paa Bjergene.
+{12:9} Eser var den første, Obadja den anden, Eliab den tredje,
+{12:10} Mismanna den fjerde, Jeremia den femte,
+{12:11} Athaj den sjettte, Eliel den syvende,
+{12:12} Johanan den ottende, Elisabad, den niende,
+{12:13} Jeremias den tiende, Makbannaj den ellevte.
+{12:14} Disse vare af Gads Børn, Øverster for Hæren; den ringeste af dem var mere end hundrede, og den største mere end tusinde.
+{12:15} Disse ere de, som gik over Jordanen i den første Maaned, da den var fuld over alle sine Bredder; og de dreve alle Dalenes Indbyggere paa Flugt imod Østen og imod Vesten.
+{12:16} Der kom og af Benjamins og Judas Børn til Befæstningen til David.
+{12:17} Og David gik ud til dem og svarede og sagde til dem: Dersom I komme med Fred til mig for at hjælpe mig, da skal mit Hjerte være forenet med eder; men dersom I komrne for at bedrage mig og overgive mig til min Fjender, enddog der ingen Uret er i mine Hænder, da se vore Fædres Gud til og straffe det!
+{12:18} Og Aanden iførte sig Amasaj, den Øverste af Høvedsmændene, og han sagde: Dig, David, tilhøre vi, og med dig, du Isajs Søn, ere vi; Fred, ja Fred være med dig og Fred med dem, som hjælpe dig! thi din Gud hjælper dig. Da tog David imod dem og satte dem til Øverster for Troppen.
+{12:19} Og af Manasse vare nogle gaaede over til David, der han kom med Filisterne: imod Saul til Krig, dog uden at hjælpe dem; thi Filisternes Fyrster: lode ham fare efter en Raadslagning og sagde: Om han gik over til sin Herre Saul, maatte det koste os vore Hoveder.
+{12:20} Der han drog til Ziklag, gik over til ham af Manasse: Adna og Josabad og Jedial og Mikael og Josabad og Elihu og Zilthaj, Øverster over de tusinde, som hørte til Manasse.
+{12:21} Og de hjalp David imod Krigsfolkene, thi de vare alle vældige til Strid, og de bleve Høvedsmænd for Hæren.
+{12:22} Thi der kom til den Tid daglig nogle til David for at hjælpe ham, indtil det blev til en stor Lejr, som Guds Lejr.
+{12:23} Og dette er Tallet paa de Øverster over dem, som vare bevæbnede til Striden, de, som kom til David i Hebron for at skaffe ham Sauls Rige efter Herrens Mund:
+{12:24} Judas Børn, som bare Skjold og Spyd, vare seks Tusinde og otte Hundrede, bevæbnede til Strid;
+{12:25} af Simeons Børn, vældige til Strid, til Hæren, syv Tusinde og hundrede;
+{12:26} af Levis Børn, fire Tusinde og seks Hundrede.
+{12:27} Og Jojada var en Fyrste for Arons Børn, og der var tre Tusinde og syv Hundrede med ham.
+{12:28} Og Zadok var en ung Mand, vældig til Strid, og af hans Faders Hus vare to og tyve Høvedsmænd;
+{12:29} og af Benjamins Børn, Sauls Brødre, tre Tusinde; thi hidindtil havde den største Del af dem taget Vare paa, hvad der var at varetage i Sauls Hus.
+{12:30} Og af Efraims Børn tyve Tusinde og otte Hundrede, vældige til Strid, navnkundige Mænd i deres Fædres Hus;
+{12:31} og af den halve Mannasses Stamme atten Tusinde, som vare nævnede ved Navn, for at komme at gøre David til Konge.
+{12:32} Og af Isaskars Børn, som vare kyndige og forstandige paa Tiderne, saa at de vidste, hvad Israel skulde gøre, var der to Hundrede Øverster, og alle deres Brødre fulgte deres Ord.
+{12:33} Af Sebulon, som droge ud til Strid, rustede til Krig med alle Haande Krigsvaaben, halvtredsindstyve Tusinde, og de stillede sit i Slagorden uden tvedelt Hjerte
+{12:34} og af Nafthali tusinde Høvedsmænd og med dem syv og tredive Tusinde, som førte Skjold og Spyd;
+{12:35} og af Daniterne rustede til Krig otte og tyve Tusinde og seks Hundrede;
+{12:36} og af Aser, som droge ud til Strid, at ruste sig til Krig, fyrretyve Tusinde;
+{12:37} og af dem paa hin Side Jordanen, af Rubeniterne og Gaditerne og den halve Mannsses Stamme, med alle Haande Stridsvaaben til Krig, hundrede og tyve Tusinde.
+{12:38} Alle disse Krigsmænd, om stillede sig i Slagorden, kom med et retskaffent Hjerte til Hebron, at gøre David til Konge over hele Israel; og alle de øvrige af Israel havde ogsaa eet Hjerte til at gøre David til Konge.
+{12:39} Og de vare der hos David i tre Dage, aade og drak; thi deres Brødre havde beredt Mad for dem.
+{12:40} Ogsaa de, som vare nær hos dem indtil Isaskar og Sebulon og Nafthali, førte Brød paa Asenerne og paa Kamelerne og paa Mulerne og paa Øksnene, Spise af Mel; Figenkager og Klaser Rosiner og Vin og Olie og Øksne og Faar i Mangfoldighed; thi der var Glæde i Israel.
+{13:1} Og David holdt et Raad med Høvedsmændene over tusinde og over hundrede og med alle Fyrsterne.
+{13:2} Og David sagde til hele Israels Forsamling: Dersom det synes godt for eder, og det er fra Herren, vor Gud, saa lader os hastelig sende Bud til dem af vore Brødre, som ere blevne tilbage i alle Israels Lande, og ligervis til Præsterne og Leviterne i Stæderne paa deres Marker, at de kunne forsamle sig med os.
+{13:3} Og lader os flytte vor Guds Ark over til os; thi vi søgte den ikke i Sauls Dage.
+{13:4} Da sagde den hele Forsamling, at man skulde gøre saa; thi den Ting syntes at være ret for hele Folkets Øjne.
+{13:5} Saa samlede David hele Israel fra Ægypten Sihor og til Hamath for at føre Guds Ark fra Kirjath-Jearim.
+{13:6} Og David og hele Israel drog op til Baalath, til Kirjath-Jearim, som hører til Juda, for at hente Gud Herrens Ark op derfra, hans, som sidder paa Keruber, og hvis Navn paakaldes.
+{13:7} Og de førte Guds Ark paa en ny Vogn fra Abinada's Hus og Ussa og Ahio førte Vognen.
+{13:8} Og David og hele Israel legede for Guds Ansigt af al Magt baade med Sange og med Harper og med Psaltre og med Trommer og med Cymbler og med Basuner.
+{13:9} Og der de kom til Kidons Lade da udrakte Ussa sin Haand for at gribe fat paa Arken, thi Øksnene vege ud af Sporet.
+{13:10} Da optændtes Herrens Vrede imod Ussa, og han slog ham, fordi han udrakte sin Haand til Arken, og han døde der for Guds Ansigt.
+{13:11} Da blev David ilde tilfreds, fordi Herren havde gjort et Skaar paa Ussa, og han kaldte det samme Sted Perez-Ussa indtil denne Dag.
+{13:12} Og David frygtede for Gud paa den samme Dag og sagde: Hvorledes skal jeg lade Guds Ark komme til mig?
+{13:13} Og David vilde ikke føre Arken til sig i Davids Stad; men han lod den føre hen til Githiten Obed-Edoms Hus.
+{13:14} Og Guds Ark blev ved Obed-Edoms Hus, i hans Hus, i tre Maaneder, og Herren velsignede Obed-Edoms Hus og alt det, han havde.
+{14:1} Og Hiram, Kongen af Tyrus, sendte Bud til David med Gedertræ og Murmestre og Tømmermestre for at bygge ham et Hus.
+{14:2} Og David for nam, at Herren havde stadfæstet ham til Konge over Israel; thi hans Rige blev overmaade ophøjet for hans Folks Israels Skyld.
+{14:3} Og David tog endnu Hustruer i Jerusalem, og David avlede endnu Sønner og Døtre.
+{14:4} Og disse vare deres Navne, som bleve ham fødte i Jerusalem: Sammua og Sobab, Nathan og Salomo
+{14:5} og Jibkar og Elisua og Elifelet
+{14:6} og Noga og Nefeg og Jafia
+{14:7} og Elisama og Beeljada og Elifelet.
+{14:8} Og der Filisterne hørte, at David var salvet til Konge over hele Israel, da droge alle Filisterne op for at søge efter David; der David, hørte det, da drog han ud imod dem.
+{14:9} Og Filisterne kom og udbredte sig i Refaims Dal.
+{14:10} Og David spurgte Gud ad og sagde: Skal jeg drage op imod Filisterne? Og Herren sagde til ham: Drag op, thi jeg vil give dem i din Haand.
+{14:11} Og der de droge op til Baal-Perazim, da slog David dem der, og David sagde: Gud har brudt igennem mine Fjender ved min Haand, ligesom Vandet bryder igennem; derfor kaldte man det samme Steds Navn Baal-Perazim.
+{14:12} Og de efterlode deres Guder der; og David bød, og de bleve opbrændte med Ild.
+{14:13} Og Filisterne bleve endnu ved og udbredte sig i Dalen.
+{14:14} Og David adspurgte Gud ydermere, og Gud sagde til ham: Du skal ikke drage op efter dem, men vend dig fra dem, at du kan komme til dem tværs over for Morbærtræerne.
+{14:15} Og det skal ske, naar du hører en Lyd af en Skriden hen over Morbærtræernes Toppe, da skal du drage ad til Striden; thi Gud er udgangen for dit Ansigt at slaa Filisternes Lejr.
+{14:16} Og David gjorde, som Gud havde befalet ham, og de sloge Filisternes Lejr fra Gibeon og indtil Geser.
+{14:17} Og Davids Navn kom ud i alle Landene, og Herren lod Frygt for ham komme over alle Hedninger.
+{15:1} Og han byggede sig Huse i Davids Stad og beredte et Sted til Guds Ark og udslog et Paulun til den.
+{15:2} Da sagde David: Ingen skal bære Guds Ark uden Leviterne; thi Herren har udvalgt dem til at bære Guds Ark og at tjene ham indtil evig Tid.
+{15:3} Derfor samlede David hele Israel til Jerusalem for at føre Herrens Ark op til sit Sted, som han havde beredt til den.
+{15:4} Og David samlede Arons Børn og Leviterne;
+{15:5} af Kahaths Børn: Uriel den Øverste og hans Brødre, hundrede og tyve;
+{15:6} af Meraris Børn: Asaja den Øverste og hans Brødre, to Hundrede og tyve;
+{15:7} af Gersoms Børn: Joel den Øverste og hans Brødre, hundrede og tredive;
+{15:8} af Elisafans Børn: Semaja den Øverste og hans Brødre, to Hundrede;
+{15:9} af Hebrons Børn: Eliel den øverste og hans Brødre, firsindstyve;
+{15:10} af Ussiels Børn: Amminadab den Øverste og hans Brødre, hundrede og tolv.
+{15:11} Og David kaldte ad Zadok og Abjathar, Præsterne, og ad Leviterne, ad Uriel, Asaja og Joel, Semaja og Eliel og Amminadab,
+{15:12} og han sagde til dem: I ere Øverster for Fædrenehuse iblandt Leviterne, helliger eder og eders Brødre og fører Herrens, Israels Guds, Ark op til det Sted, som jeg har beredt til den.
+{15:13} Thi fordi I ikke første Gang vare med, har Herren, vor Gud, gjort et Skaar iblandt os, fordi vi ikke søgte ham, saaledes som ret var.
+{15:14} Saa helligede Præsterne og Leviterne sig til at føre Herrens, Israels Guds, Ark op.
+{15:15} Og Levi Børn opløftede Guds Ark, saaledes som Mose havde befalet efter Herrens Ord, paa deres Skuldre, med Stængerne over den.
+{15:16} Og David sagde til Leviternes Øverster, at de skulde stille deres Brødre, Sangerne, frem med Sangens Instrumenter, Psaltre og Harper og Gymbler, for at de skulde lade sig høre ved at opløfte Røsten med Glæde.
+{15:17} Da fremstillede Leviterne Heman, Joels Søn, og af hans Brødre Asaf, Berekias Søn, og af Meraris Børn, deres Brødre: Ethan, Kusajas Søn.
+{15:18} Og med dem vare deres Brødre af anden Rang: Sakaria, Ben og Jaesiel og Semiramoth og Jehiel og Unni, Eliab og Benaja og Maeseja og Mathithja og Elifeleja og Mikneja og Obed-Edom og Jeiel, Portnerne.
+{15:19} Og Sangerne, Heman, Asaf og Ethan, lode sig høre med Kobbercymbler.
+{15:20} Og Sakaria og Asiel og Semiramoth og Jehiel og Unni og Eliab og Maeseja og Benaja lode sig høre med Psaltre efter Alamoth.
+{15:21} Og Mathithja og Elifeleja og Mikneja og Obed-Edom og Jeiel og Asasia anførte dem, som spillede paa Harper efter Skeminith.
+{15:22} Og Kenanja, Leviternes Øverste, var over dem, som vare satte til at bære; han vejledede dem i at bære, thi han var forstandig.
+{15:23} Og Berekia og Elkana vare Dørvogtere ved Arken.
+{15:24} Men Sebanja og Josafat og Nethaneel og Amasaj og Sakaria og Benaja og Elieser, Præsterne, som blæste i Basunerne, gik foran Guds Ark; og Obed-Edom og Jehia vare Dørvogtere ved Arken.
+{15:25} Saa skete det, at David og Israels Ældste og de Øverste over tusinde gik hen for at hente Herrens Pagts Ark op af Obed-Edoms Hus med Glæde.
+{15:26} Og det skete, der Gud hjalp Leviterne, som bare Herrens Pagts Ark, da ofrede de syv Okser og syv Vædre.
+{15:27} Og David var klædt med en Kappe af kosteligt Linklæde og ligesaa alle Leviterne, som bare Arken, og Sangerne og Kenanja, Øverste for dem, som bare, og Sangerne; og David havde en linnet Livkjortel paa.
+{15:28} Saa førte hele Israel Herrens Pagts Ark op med Frydeskrig og med Trompeters Lyd og med Basuner og med Cymbler, og de lode sig høre med Psaltre og Harper.
+{15:29} Og det skete, der Herrens Pagts Ark kom ind i Davids Stad da saa Mikal, Sauls Datter, ud af Vinduet, og hun saa Kong David springe og lege, og hun foragtede ham i sit Hjerte.
+{16:1} Og de indførte Guds Ark og satte den midt i Paulunet, som David havde opslaget til den, og ofrede Brændofre og Takofre for Guds Ansigt.
+{16:2} Og der David var færdig med at ofre Brændofferet og Takofferet, da velsignede han Folket i Herrens Navn.
+{16:3} Og han uddelte til hver Mand i Israel, baade Mænd og Kvinder, til hver især et helt Brød og et Stykke Kød og en Rosinkage.
+{16:4} Og han satte nogle af Leviterne for Herrens Ark til Tjenere og til at prise og at takke og at love Herren Israels Gud;
+{16:5} Asaf var den ypperste og den anden efter ham Sakaria;- Jeiel og Semiramoth og Jehiel og Mathithja og Eliab og Benaja og Obed-Edom og Jeiel med Psaltres Instrumenter og med Harper, og Asaf lod sig høre med Cymbler;
+{16:6} men Benaja og Jehasiel, Præsterne, med stedse lydende Basuner foran Guds Pagts Ark.
+{16:7} Paa den Dag overdrog David første Gang Asaf og hans Brødre at synge Lovsangen for Herren:
+{16:8} Lover Herren, paakalder hans Navn, kundgører hans Gerninger iblandt Folkene.
+{16:9} Synger for ham, synger Psalmer for ham, taler om alle hans underlige Gerninger!
+{16:10} Roser eder af hans hellige Navn; deres Hjerte skal glædes, som søge Herren.
+{16:11} Spørger efter Herren og hans Magt, søger hans Ansigt altid!
+{16:12} Kommer hans underlige Gerninger i Hu, som han har gjort, hans underlige Ting og hans Munds Domme.
+{16:13} I, hans Tjener Israels Sæd! I Jakobs Børn, hans udvalgte!
+{16:14} Han er Herren vor Gud, hans Domme ere i al Verden.
+{16:15} Kommer evindeligt hans Pagt i Hu, det Ord, han har befalet, til tusinde Slægter,
+{16:16} som han indgik med Abraham, og hans Ed til Isak,
+{16:17} og stadfæstede for Jakob til en Skik, for Israel til en evig Pagt,
+{16:18} der han sagde: Dig vil jeg give Kanaans Land, eders Arvs Part,
+{16:19} der I vare en liden Hob Folk, ja faa og fremmede der.
+{16:20} Og de vandrede fra Folk til Folk, og fra et Rige til et andet Folk.
+{16:21} Han lod ingen Mand gøre dem Uret og straffede Konger for deres Skyld, sigende:
+{16:22} Rører ikke ved mine Salvede, og gører mine Profeter intet ondt!
+{16:23} Synger for Herren, alt Landet! bebuder fra Dag til Dag hans Frelse!
+{16:24} Fortæller hans Herlighed iblandt Hedningerne, hans underfulde Gerninger iblandt alle Folkene.
+{16:25} Thi Herren er stor og saare priselig, og han er forfærdelig over alle Guder.
+{16:26} Thi alle Folkenes Guder ere Afguder, men Herren gjorde Himmelen.
+{16:27} Ære og Hæder er for hans Ansigt, Styrke og Glæde er paa hans Sted.
+{16:28} Giver Herren, I Folks Slægter! giver Herren Ære og Styrke!
+{16:29} Giver Herren hans Navns Ære; fremfører Skænk og kommer for hans Ansigt, tilbeder Herren i hellig Prydelse!
+{16:30} Al Jorden bæve for hans Ansigt, og Jordens Kreds skal befæstes, at den ikke ryster.
+{16:31} Himlene skulle glædes, og Jorden frydes, og de skulle sige iblandt Hedningerne: Herren regerer.
+{16:32} Havet skal bruse og dets Fylde; Marken skal frydes, og alt det, som er paa den.
+{16:33} Da skulle Træerne i Skoven fryde sig for Herrens Ansigt, thi han kommer for at dømme Jorden.
+{16:34} Lover Herren, thi han er god, thi hans Miskundhed varer evindelig,
+{16:35} og siger: Frels os, vor Frelses Gud! og saml os og udfri os fra Hedningerne for at love dit hellige Navn, at berømme os af din Pris.
+{16:36} Lovet være Herren, Israels Gud, fra Evighed til Evighed! Og alt Folket sagde Amen, og: Lov Herren!
+{16:37} Saa lod han der blive foran Herrens Pagts Ark Asaf og hans Brødre til stadig Tjeneste foran Arken, til hver Dags Gerning paa sin Dag.
+{16:38} Og Obed-Edom og deres Brødre, otte og tresindstyve, ja Obed-Edom, Jeduthuns Søn, og Hosa satte han til Portnere.
+{16:39} Og Zadok, Præsten, og hans Brødre, Præsterne, lod han tjene foran Herrens Tabernakel paa den Høj, som er Gibeon,
+{16:40} at de stadigt skulde bringe Herren Brændofre paa Brændofferets Alter, Morgen og Aften, og det efter alt det, som er skrevet i Herrens Lov, som han bød Israel.
+{16:41} Og med dem vare Heman og Jeduthun og de øvrige af de udvalgte, om vare nævnte ved Navn, til at love Herren, fordi hans Miskundhed varer evindelig.
+{16:42} Ja med dem vare Heman og Jeduthun, for dem, som lode sig høre med Basuner og Cymbler og med Guds Sanges Instrumenter; men Jeduthuns Sønner vare ved Porten.
+{16:43} Saa drog alt Folket hen, hver til sit Hus; og David vendte om for at velsigne sit Hus.
+{17:1} Og det skete, der David boede i sit Hus, da sagde David til Nathan, Profeten: Se, jeg bor i et Hus af Cedertræ, og Herrens Pagts Ark bor under Tæpper.
+{17:2} Da sagde Nathan til David: Gør alt det, som er i dit Hjerte; thi Gud er med dig.
+{17:3} Men det skete i den samme Nat, at Guds Ord lød til Nathan, sigende:
+{17:4} Gak, og du skal sige til David, min Tjener: Saa sagde Herren: Du skal ikke bygge mig et Hus til at bo udi,
+{17:5} efterdi jeg har ikke boet i et Hus fra den Dag, da jeg opførte Israel, og indtil denne Dag; men jeg vandrede fra Paulun til Paulun og fra Tabernakel til Tabernakel.
+{17:6} Hvor som helst jeg har vandret i al Israel, har jeg vel der talt noget Ord med en af Israels Dommere, som jeg har befalet at føde mit Folk, og sagt: Hvorfor bygge I mig ikke et Hus af Cedertræ?
+{17:7} Saa skal du nu sige saaledes til min Tjener, til David: Saa sagde den Herre Zebaoth: Jeg tog dig fra Faarestien, fra Faarene, at du skulde være en Fyrste over mit Folk Israel.
+{17:8} Og jeg har været med dig, i hvor du gik, og har udryddet alle dine Fjender for dit Ansigt og gjort dig et Navn som de stores Navn som ere paa Jorden.
+{17:9} Og jeg har beredt mit Folk Israel et Sted og plantet det, at det skal bo paa sit Sted og ikke ydermere forstyrres; og uretfærdige Folk skulle ikke mere fortrykke det som i Begyndelsen,
+{17:10} endog fra de Dage, da jeg gav Dommere Befaling over mit Folk Israel; og jeg har ydmyget alle dine Fjender, og jeg kundgør dig, at Herren vil bygge dig et Hus.
+{17:11} Og det skal ske, naar dine Dage ere til Ende, at du gaar herfra med dine Fædre, da vil jeg oprejse din Sæd efter dig, det skal være en af dine Sønner, og jeg vil stadfæste hans Rige.
+{17:12} Han skal bygge mig et Hus, og jeg vil stadfæste hans Stol evindelig.
+{17:13} Jeg vil være ham en Fader, og han skal være mig en Søn; og jeg vil ikke lade min Miskundhed vige fra ham, saaledes som jeg lod den vige fra ham, som var før dig.
+{17:14} Men jeg vil befæste ham i mit Hus og i mit Rige evindelig, og hans Stol skal være fast evindelig.
+{17:15} Efter alle disse Ord og efter hele dette Syn, saaledes talte Nathan til Kong David.
+{17:16} Da gik Kong David ind og blev for Herrens Ansigt og sagde: Hvo er jeg, Herre Gud, og hvad er mit Hus, at du har ført mig hidindtil?
+{17:17} Men dette var endnu lidet agtet for dine Øjne, o Gud! saa du endog talte om din Tjeners Hus i Fremtiden; og du har set til mig paa Menneskers Vis, du Gud Herren i det høje!
+{17:18} Hvad skal David ydermere tale til dig om den Ære, som du har bevist imod din Tjener; thi du kender din Tjener.
+{17:19} Herre! for din Tjeners Skyld og efter dit Hjerte har du gjort al denne store Ting, at du vilde lade mig vide alle de store Ting.
+{17:20} Herre! der er ingen som du, og der er, ingen Gud uden du, efter alt det, som vi have hørt med vore Øren.
+{17:21} Og hvo er som dit Folk Israel, et eneste Folk paa Jorden, som Gud gik hen at forløse sig til et Folk, for at sætte dig et Navn ved store og forfærdelige Ting, ved at uddrive Hedningerne for dit Folks Ansigt, hvilket du forløste fra Ægypten.
+{17:22} Og du satte dit Folk Israel til et Folk evindelig, og du, Herre! du er bleven dem til en Gud.
+{17:23} Og nu, Herre! det Ord, som du talte over din Tjener og over hans Hus, blive bestandigt evindelig, og gør, som du har talt.
+{17:24} Ja, det blive bestandigt, og dit Navn blive stort til evig Tid, at man skal sige: Herren Zebaoth, Israels Gud, er Gud over Israel; og David, din Tjeners, Hus skal blive fast for dit Ansigt.
+{17:25} Thi du, min Gud! du har aabenbaret for din Tjeners Øre, at du viI bygge ham et Hus, derfor har din Tjener fundet sit Hjerte til at bede for dit Ansigt.
+{17:26} Og nu, Herre! du er den Gud, og du har talt dette gode til din Tjener.
+{17:27} Saa begynd nu at velsigne din Tjeners Hus, at det maa blive evindelig for dit Ansigt; thi du, Herre! har velsignet det, saa lad det blive velsignet evindelig!
+{18:1} Og det skete derefter, at David slog Filisterne og ydmygede dem, og han tog Gat og dens tilliggende Byer af Filisternes Haand.
+{18:2} Han slog og Moabiterne, og Moabiterne bleve Davids Tjener og bragte ham Skænk.
+{18:3} David slog og Hadad-Eser, Kongen af Zoba, ved Hamat, der han drog hen at vende sin Haand imod Floden Frat.
+{18:4} Og David tog fra ham tusinde Vogne og syv Tusinde Ryttere og tyve Tusinde Fodfolk, og David lammede alle Vognhestene, og han lod kun hundrede Heste blive tilovers af dem.
+{18:5} Men Syrerne fra Damaskus kom for at hjælpe Hadad-Eser, Kongen af Zoba, og David slog af Syrerne to og tyve Tusinde Mand.
+{18:6} Og David lagde Besætning udi Syrien i Damaskus, og Syrerne bleve Davids Tjenere og bragte ham Skænk, og Herren frelste David, i hvor han drog hen.
+{18:7} Og David tog de Guldskjolde, som vare hos Hadad-Esers Tjenere, og førte dem til Jerusalem.
+{18:8} Og fra Tibehat og fra Kun, Hadad-Esers Stæder, tog David saare meget Kobber; deraf gjorde Salomo Kobberhavet og Støtterne og Kobberkarrene.
+{18:9} Og der Thou, Kongen af Hamat, hørte, at David havde slaget hele Hadad-Esers, Kongen af Zobas, Hær,
+{18:10} da sendte han sin Søn Hadoram til Kong David for at hilse ham og at velsigne ham, fordi han havde stridt imod Hadad-Eser og slaget ham; thi Hadad-Eser førte stedse Krig imod Thou; og han havde alle Haande Guldkar og Sølvkar og Kobberkar med sig.
+{18:11} Ogsaa dem helligede Kong David for Herren, tillige med det Sølv og Guld, som han havde taget fra alle Hedninger, fra Edom og fra Moab og fra Ammons Børn og fra Filisterne og fra Amalek.
+{18:12} Og Abisaj, Zerujas Søn, slog Edomiterne i Saltdalen, atten Tusinde.
+{18:13} Og han lagde Besætning i Edom, og alle Edomiterne bleve Davids Tjenere; og Herren frelste David, i hvor han drog hen.
+{18:14} Saa var David Konge over hele Israel, og han gjorde Ret og Retfærdighed for alt sit Folk.
+{18:15} Og Joab, Zerujas Søn, var over Krigshæren, og Josafat. Ahiluds Søn, var Historieskriver.
+{18:16} Og Zadok, Ahitubs Søn, og Abimelek, Abjathars Søn, vare Præster, og Seusa var Skriver.
+{18:17} Og Benaja, Jojadas Søn, var over de Krethi og de Plethi; og Davids Sønner vare de første ved Kongens Haand.
+{19:1} Og det skete derefter, at Nahas, Ammons Børns Konge, døde, og hans Søn blev Konge i hans Sted.
+{19:2} Da sagde David: Jeg vil gøre Miskundhed imod Hanon, Nahas Søn, thi hans Fader gjorde Miskundhed imod mig; og David sendte Bud at lade ham trøste over hans Fader, og Davids Tjenere kom til Ammons Børns Land, til Hanon, for at trøste ham.
+{19:3} Da sagde Ammons Børns Fyrster til Hanon: Mon David i dine Øjne ærer din Fader, ved det han sender dig Trøstere? mon hans Tjenere ikke ere komne til dig for at udforske og at omstyrte og at udspejde Landet?
+{19:4} Da tog Hanon Davids Tjenere og lod dem rage og skar Halvdelen af deres Klæder indtil Skrævet og lod dem fare.
+{19:5} Og nogle gik og gave David det til Kende om de Mænd; da sendte han dem et Bud i Møde, thi Mændene vare saare forhaanede, og Kongen lod sige: Bliver i Jeriko, indtil eders Skæg vokser, og kommer da tilbage!
+{19:6} Der Ammons Børn saa, at de havde gjort sig forhadte for David, da sendte Hanon og Ammons Børn tusinde Gentner Sølv for at leje sig fra Mesopotamien og fra Syria-Maaka og fra Zoba Vogne og Ryttere.
+{19:7} Og de lejede sig to og tredive Tusinde Vognkæmpere og Kongen af Maaka og hans Folk, og de kom og lejrede sig lige for Medba; og Ammons Børn samlede sig fra deres Stæder og kom til Striden.
+{19:8} Der David hørte det, da udsendte han Joab og de vældiges hele Hær.
+{19:9} Og Ammons Børn droge ud og opstillede deres Slagorden foran Indgangen til Staden, men Kongerne, som vare komne, stillede særskilt paa Marken.
+{19:10} Der Joab saa, at Krigen truede ham for og bagfra, da udvalgte han nogle af alle de udvalgte i Israel og opstillede sig imod Syrerne.
+{19:11} Og det øvrige Folk gav han under sin Broder Abisajs Haand, og de opstillede sig imod Ammons Børn.
+{19:12} Og han sagde: Dersom Syrerne blive mig for stærke, da skal du være mig til Hjælp: men dersom Ammons Børn blive dig for stærke, da vil jeg hjælpe dig.
+{19:13} Vær frimodig, og lader os vise os frimodige for vort Folk og for vor Guds Stæder; men Herren gøre, hvad som godt er for hans Øjne.
+{19:14} Da drog Joab frem og det Folk, som var hos ham, til Striden imod Syrerne; og disse flyede for hans Ansigt.
+{19:15} Der Ammons Børn saa, at Syrerne flyede, da flyede og for Abisaj, hans Broders, Ansigt, og kom til Staden; og Joab kom til Jerusalem.
+{19:16} Og der Syrerne saa, at de vare slagne for Israels Ansigt, da sendte de Bud og lode de Syrer, som vare paa hin Side Floden, rykke ud, og Sofak, Hadad-Esers Stridshøvedsmand, anførte dem.
+{19:17} Der det blev David tilkendegivet, da samlede han hele Israel og drog over Jordanen, og han kom til dem og stillede sig imod dem, og David stillede sig i Slagorden imod Syrerne, og de strede med ham.
+{19:18} Men Syrerne flyede for Israels Ansigt, og David ihjelslog af Syrerne syv Tusinde Vognkæmpere og fyrretyve Tusinde Fodfolk, ligeledes dræbte han Sofak, Stridshøvedsmanden.
+{19:19} Der Hadad-Esers Tjenere saa, at de vare slagne for Israels Ansigt, da gjorde de Fred med David og tjente ham; og Syrerne vilde ikke ydermere hjælpe Ammons Børn.
+{20:1} Og det skete paa den Tid, der Aaret var omme, paa den Tid Kongerne pleje at uddrage til Krig, da førte Joab Stridshæren ud og ødelagde Ammons Børns Land, og han kom og belejrede Rabba, men David blev i Jerusalem; og Joab slog Rabba og nedbrød den.
+{20:2} Og David tog deres Konges Krone fra hans Hoved og fandt, at dens Vægt var et Gentner Guld, og der var kostbare Stene i den, og den kom over Davids Hoved; og han bortførte af Staden saare meget Bytte.
+{20:3} Men Folket, som var derudi, førte han ud, og han skar dem over med, Save og med Jerntærskeslæder og med Knive, og saaledes gjorde David ved alle Ammons Børns Stæder; siden vendte David og alt Folket tilbage til Jerusalem.
+{20:4} Og det skete derefter, at der stod et Slag i Geser med Filisterne; da slog Husathiten, Sibekaj, Sifaj af Rafas Børn, og de bleve ydmygede.
+{20:5} Og der var endnu en Krig med Filisterne; og Elhanan, Jairs Søn, slog Lahemi, Goliaths, Githitens, Broder, hvis Spydstage var som en Væverstang.
+{20:6} Og der var endnu Krig i Gat, og der var en høj Mand, og han havde seks Fingre paa hver Haand og seks Tæer paa hver Fod, i alt fire og tyve, og han var ogsaa født for Rafa.
+{20:7} Og der han forhaanede Israel, da slog Jonathan, en Søn af Davids Broder Simea, ham ihjel.
+{20:8} Disse vare fødte for Rafa i Gat, og de faldt ved Davids Haand og ved hans Tjeneres Haand.
+{21:1} Og Satan stod Israel imod, og han tilskyndede David til at tælle Israel.
+{21:2} Og David sagde til Joab og til Folkets Høvedsmænd: Gaar, tæller Israel fra Beersaba og indtil Dan, og bringer mig Besked, at jeg kan vide deres Tal.
+{21:3} Da sagde Joab: Herren lægge til sit Folk, som disse ere, hundrede Gange saa mange! ere de ikke, min Herre Konge, alle sammen min Herres Tjenere hvorfor forlanger min Herre da dette? hvorfor skal dette være til en Skyld paa Israel
+{21:4} Men Kongens Ord fik Overhaand imod Joab; saa drog Joab ud og vandrede igennem hele Israel og kom til Jerusalem.
+{21:5} Og Joab gav David Tallet paa Folket, som var talt; og det hele Israel var elleve Hundrede Tusinde Mænd, som kunde uddrage Sværd, og Juda fire Hundrede og halvf jerdsindstyve Tusinde Mænd, som kunde uddrage Sværd.
+{21:6} Dog talte han ikke Levi og Benjamin med iblandt dem; thi Kongens Ord var Joab vederstyggeligt.
+{21:7} Men denne Gerning var ond for Guds Øjne, derfor slog han Israel.
+{21:8} Da sagde David til Gud: Jeg har syndet saare, at jeg har gjort denne Gerning; men nu, kære, borttag din Tjeners Misgerning, thi jeg handlede meget daarligt.
+{21:9} Og Herren talte til Gad, Davids Seer, og sagde:
+{21:10} Gak og tal til David og sig: Saa sagde Herren: Jeg lægger dig tre Ting for, udvælg dig een af dem, og den vil jeg gøre dig.
+{21:11} Der Gad kom til David, da sagde han til ham: Saa sagde Herren: Tag du imod
+{21:12} enten Hunger i tre Aar, eller imod Nederlag for dine Modstanderes Ansigt tre Maaneder, og at dine Fjenders Sværd naar dig, eller imod Herrens Sværd, det er Pest, tre Dage udi Landet, saa at Herrens Engel udbreder Ødelæggelse i hele Israels Landemærke; saa se nu til, hvad Svar jeg skal sige til den igen, som mig udsendte.
+{21:13} Da sagde David til Gad: Jeg er saare angst; kære, jeg vil falde i Herrens Haand, thi hans Barmhjertighed er saare stor, og jeg vil ikke falde i Menneskens Haand.
+{21:14} Saa lod Herren Pest komme i Israel, og der faldt af Israel halvfjerdsindstyve Tusinde Mænd.
+{21:15} Og Gud sendte en Engel til Jerusalem for at ødelægge den, og der han ødelagde den, saa Herren til og angrede det onde og sagde til Engelen, som ødelagde: Det er nok, drag nu din Haand tilbage; og Herrens Engel stod ved Ornans, Jebusitens Tærskeplads.
+{21:16} Der David opløftede sine Øjne og saa Herrens Engel staa imellem Jorden og imellem Himmelen og det dragne Sværd i hans Haand udrakt over Jerusalem, da faldt David og de Ældste, skjulte med Sæk, paa deres Ansigt.
+{21:17} Og David sagde til Gud: Har jeg ikke sagt, at man skulde tælle Folket? ja jeg, jeg er den, som syndede og gjorde meget ilde, men disse Faar, hvad have de gjort? Herre, min Gud! kære, lad din Haand være imod mig og imod min Faders Hus, og ikke imod dit Folk til Plage.
+{21:18} Da sagde Herrens Engel til Gad, et han skulde sige til David, at David skulde gaa op for at rejse Herren et Alter paa Ornans, Jebusitens, Tæ rskeplads.
+{21:19} Saa gik David op efter Gads Ord, som denne talte i Herrens Navn.
+{21:20} Der Ornan vendte sig om, da saa han Engelen, og hans fire Sønner, som vare hos ham, skjulte sig; men Ornan tærskede Hvede.
+{21:21} Og David kom til Ornan, og Ornan saa sig om og saa David, og han gik frem fra Tærskepladsen og bøjede sig ned for David med Ansigtet til Jorden.
+{21:22} Og David sagde til Ornan: Giv mig den Tærskeplads, saa vil jeg bygge Herren et Alter derpaa; giv mig den for fuld Betaling, at Plagen maa holde op for Folket.
+{21:23} Da sagde Ornan til David: Tag du den og gør, min Herre Konge! det, som er godt for dine Øjne; se, jeg giver Okserne til Brændoffer og Tærskeslæderne til Veddet, og Hveden til Madofferet, jeg giver det alt.
+{21:24} Og Kong David sagde til Ornan: Ikke saa, men jeg vil visselig købe det for fuld Betaling; thi jeg vil ikke tage det, som tilhører dig, til Herren og til at ofre Brændoffer for intet.
+{21:25} Saa gav David Ornan for Stedet seks Hundrede Sekel Guld efter Vægt.
+{21:26} Og David byggede Herren der et Alter og ofrede Brændofre og Takofre; og der han kaldte paa Herren, da bønhørte han ham ved Ild fra Himmelen paa Brændofferets Alter.
+{21:27} Og Herren sagde til Engelen, at han skulde stikke sit Sværd i Skeden igen.
+{21:28} Samme Tid, der David saa, at Herren bønhørte ham paa Ornans, Jebusitens, Tærskeplads, da ofrede han der.
+{21:29} Thi Herrens Tabernakel som Mose havde ladet gøre i Ørken, og Brændofferets Alter var paa den samme Tid paa Højen udi Gibeon.
+{21:30} Og David kunde ikke gaa hen foran den for at søge Gud; thi han var forfærdet for Herrens Engels Sværd.
+{22:1} Og David sagde: Her skal den Herre Guds Hus være, og her skal Israels Brændoffers Alter være.
+{22:2} Og David befalede at samle de fremmede, som vare i Israels Land, og han beskikkede Stenhuggere for at tildanne hugne Sten til at bygge Guds Hus.
+{22:3} Og David skaffede Jern i Mangfoldighed til Søm til Dørene i Portene og til Kramper og Kobber i Mangfoldighed, saa at der vidstes ingen Vægt derpaa,
+{22:4} og Cedertræ uden Tal; thi Zidonierne og Tyrierne førte Cedertræ i Mangfoldighed til David.
+{22:5} Thi David sagde: Salomo, min Søn, er en ung Mand og blødhjertet, og Huset, som skal bygges Herren, skal være overmaade stort, navnkundigt og berømmeligt i alle Lande; jeg vil forberede det for ham. Saa forberedte David saare meget før sin Død.
+{22:6} Da kaldte han ad Salomo, sin Søn, og bød ham bygge Herrens, Israels Guds, Hus.
+{22:7} Og David sagde til Salomo: Min Søn! hvad mig angaar, da stod mit Hjerte til at bygge Herren min Guds Navn et Hus;
+{22:8} men Herrens Ord skete til mig og sagde: Du har udøst meget Blod ført store Krige, du skal ikke bygge mit Navn et Hus, fordi du udøste meget Blod paa Jorden for mit Ansigt.
+{22:9} Se, den Søn, som dig skal fødes, han skal være en Rolighedens Mand, thi jeg vil skaffe ham Rolighed for alle hans Fjender trindt omkring; thi Salomo skal være hans Navn; og jeg vil give Fred og Rolighed over Israel i hans Dage.
+{22:10} Han skal bygge mit Navn et Hus, og han skal være mig en Søn, og! jeg vil være ham en Fader, og jeg vil stadf æste hans Riges Trone over Israel til evig Tid.
+{22:11} Nu, min Søn, Herren skal være med dig, og du skal blive lykkelig og bygge Herren din Gud et Hus, som han talte om,
+{22:12} Visselig, Herren skal give dig Klogskab og Forstand og give dig Befaling over Israel; men du skal holde Herren din Guds Lov.
+{22:13} Da skal du være lykkelig, naar du beflitter dig paa at gøre efter de Skikke og Love, som Herren bød Israel ved Mose; vær frimodig og stærk, du skal ikke frygte og ikke ræddes.
+{22:14} Og se, jeg har beredt til Herrens Hus i min Trængsel hundrede Tusinde Gentner Guld og tusinde Gange tusinde Centner Sølv; dertil Kobber og Jern, som ej er til at veje, thi der er meget deraf; jeg har og beredt Træ og Sten, og dertil maa du lægge mere.
+{22:15} Saa har du og mange hos dig, som kunne gøre Arbejdet, Stenhuggere og Mestre til at arbejde i Sten og Træ og alle Haande kløgtige Mænd til alle Haande Gerning.
+{22:16} Paa Guldet, paa Sølvet og paa Kobberet og paa Jernet er intet Tal; gør dig rede og udfør det, og Herren være med dig!
+{22:17} Og David bød alle Israels Fyrster at hjælpe Salomo, hans Søn:
+{22:18} Er ej Herren eders Gud med eder og har skaffet eder Rolighed trindt omkring thi han har givet Landets Indbyggere i min Haand, og Landet er undertvunget for Herrens Ansigt og for hans Folks Ansigt.
+{22:19} Giver nu eders Hjerte og eders Sjæl hen til at søge Herren eders Gud, og gører eder rede og bygger Gud Herrens Helligdom for at indføre Herrens Pagts Ark og Guds Helligdoms Kar i Huset, som skal bygges for Herrens Navn.
+{23:1} Der David var gammel og mæt af Dage, da gjorde han Salomo, sin Søn, til Konge over Israel.
+{23:2} Og han samlede alle Israels Fyrster, Præsterne og Leviterne.
+{23:3} Og Leviterne bleve talte fra tredive Aar gamle og derover, og deres Tal var, Hoved for Hoved, Mand for Mand, otte og tredive Tusinde.
+{23:4} Af dem skal der til at forestaa Gerningen ved Herrens Hus være fire og tyve Tusinde, og til Fogeder og Dommere seks Tusinde;
+{23:5} og fire Tusinde til Portnere og fire Tusinde til at love Herren med Instrumenterne, som jeg har gjort til Lovsangen.
+{23:6} Og David delte dem i Skifter efter Levis Sønner, Gerson, Kahath og Merari.
+{23:7} Af Gersoniterne vare Ladan og Simei.
+{23:8} Ladans Sønner vare: Jehiel den første og Setham og Joel, i alt tre.
+{23:9} Simeis Sønner vare: Selomith og Hasiel og Haran, i alt tre; disse vare Øverster for Ladans Fædrenehuse.
+{23:10} Og Simeis Sønner vare: Jahath, Sisa og Jeus og Beria; disse fire vare Simeis Sønner.
+{23:11} Og Jahath var den første og Sisa den anden; men Jeus og Beria havde ikke mange Sønner, derfor bleve de regnede for eet Fædrenehus.
+{23:12} Kahaths Sønner vare: Amram, Jizehar, Hebron og Ussiel, i alt fire.
+{23:13} Amrams Sønner vare: Aron og Mose; og Aron blev udtagen til at hellige det Højhellige, han og hans Sønner til evig Tid, til at gøre Røgelse for Herrens Ansigt, til at tjene ham og at velsigne i hans Navn til evig Tid.
+{23:14} Men Mose, den Guds Mand, hans Sønner regr edes til Levi Stamme.
+{23:15} Moses Sønner vare: Gersom og Elieser.
+{23:16} Og Gersoms Sønner vare: Sebuel den første.
+{23:17} Og Eliesers Sønner vare: Rehania den første; og Elieser havde ikke andre Sønner, men Rehabias Børn formerede sig overmaade.
+{23:18} Jizehars Sønner vare: Selomith den første.
+{23:19} Hebrons Sønner vare: Jerija den første, Amaria den anden, Jehasiel den tredje og Jekameam den fjerde.
+{23:20} Ussiels Sønner vare: Mika den første, Jesija, den anden.
+{23:21} Meraris Sønner vare: Maheli og Mufi; Mahelis Sønner vare: Eleasar og Kis.
+{23:22} Og Eleasar døde og havde ingen Sønner, men Døtre; men Kis's Sønner, deres Brødre toge dem til Ægte.
+{23:23} Musis Sønner vare: Maheli og Eder og Jeremoth, i alt tre.
+{23:24} Disse ere Levis Børn efter deres Fædres Hus, Fædrenehusenes Øverster, som bleve regnede efter Navnes Tal, efter deres Hoveder, og som gjorde Gerningen til Herrens Hus's Tjeneste, fra tyve Aar gamle og derover.
+{23:25} Thi David havde sagt: Herren, Israels Gud, har skaffet sit Folk Rolighed, og det skal bo i Jerusalem ind til evig Tid,
+{23:26} og Leviterne behøve heller ikke at bære Tabernaklet eller noget af dets Redskaber, som høre til dets Tjeneste.
+{23:27} Thi efter Davids sidste Ord vare de, som udgjorde Tallet af Levis Børn, de fra tyve Aar gamle og derover.
+{23:28} Thi de bleve satte ved Siden af Arons Børn til Herrens Hus's Tjeneste, over Forgaardene og over Kamrene og over alle Haande hellige Tings Renselse og til Gerning ved Guds Hus's Tjeneste
+{23:29} og ved Skuebrødene og ved Melet til Madofferet og til de usyrede, tynde Kager og ved Panden og ved det, som æltedes, og ved Hulmaal og Længdemaal
+{23:30} og til at staa hver Morgen for at takke og for at love Herren og ligesaa om Aftenen
+{23:31} og til at ofre Herren alle Brændofre paa Sabbaterne, paa Nymaanederne og paa de bestemte Højtider efter Tal, som deres Vis var, idelig for Herrens Ansigt.
+{23:32} Og de skulde tage Vare paa, hvad der var at varetage ved Forsamlingens Paulun, og paa hvad der var at varetage ved Helligdommen, og paa hvad der var at varetage for Arons Børn, deres Brødre, til Herrens Hus's Tjeneste.
+{24:1} Men for Arons Børn vare Skifterne disse: Arons Sønner vare Nadab og Abihu, Eleasar og Ithamar.
+{24:2} Men Nadab og Abihu døde for deres Faders Ansigt, og de havde ingen Børn; og Eleasar og Ithamar gjorde Præstetjeneste.
+{24:3} Og David tillige med Zadok af Eleasars Børn og Akimelek af Ithamars Børn inddelte dem til deres Embede i deres Tjeneste.
+{24:4} Og der blev flere fundne af Eleasars Børn, som vare Øverster for Mændene, end af Ithamar Børn, da de delte dem; af Eleasaz's Børn var der seksten Øverster for deres Fædrenehuse, men af Ithamars Børn for deres Fædrenehuse var der otte.
+{24:5} Og de inddelte dem efter Lodkastning, disse med hine; thi der havde været Helligdommens Fyrster og Guds Fyrster saavel af Eleasars Børn som af Ithamars Børn.
+{24:6} Og Semaja, Nethaneels Søn, Skriveren, en af Leviterne, opskrev dem i Paasyn af Kongen og Fyrsterne, og Zadok, Præsten, og Akimelek, Abjathars Søn, og Øversterne for Fædrenehusene blandt Præsterne og Leviterne; et Fædrenehus blev udtrukket for Eleasar, et andet blev skiftevis udtrukket for Ithamar.
+{24:7} Den første Lod kom ud for Jojarib, den anden for Jedaja,
+{24:8} den tredje for Harim, den fjerde for Seorim,
+{24:9} den femte for Malkia, den sjette for Mijamin,
+{24:10} den syvende for Hakkoz, den ottende for Abia,
+{24:11} den niende for Jesua, den tiende for Sekania,
+{24:12} den ellevte for Eljasib, den tolvte for Jakim,
+{24:13} den trettende for Hufa, den fjortende for Jesebab,
+{24:14} den femtende for Bilga, den sekstende, for Immer,
+{24:15} den syttende Hesir, den attende for Hafizez,
+{24:16} den nittende for Petakia, den tyvende for Ezekiel,
+{24:17} den en og tyvende for Jakin, den to og tyvende for Gamul,
+{24:18} den tre og tyvende for Delaja, den fire og tyvende for Maaseja.
+{24:19} Disses Embedsgerning var det at gaa ind i Herrens Hus, som deres Vis var, efter deres Faders, Arons, Anvisning, saaledes som Herren, Israels Gud havde budt ham.
+{24:20} Og hvad de øvrige af Levis Børn angaar, da var der af Amrams Sønner Subael, af Subaels Sønner Jedeja.
+{24:21} Hvad Rehabia angaar, da var af Rehabias Sønner Jissija den første.
+{24:22} Af Jizehariterne var der Selomoth, af Selomoths Sønner var der Jahath;
+{24:23} og Jerijas Sønner: Amaria var den anden, Jehasiel den tredje, Jekameam den fjerde.
+{24:24} Af Ussiels Sønner var der Mika, af Mikas Sønner var der Samir.
+{24:25} Jissija var Mikas Broder; af Jissijas Sønner var der Sakaria.
+{24:26} Meraris Sønner vare: Maheli og Musi, Børn af hans Søn Jasia.
+{24:27} Meraris Børn af hans Søn Jasia vare baade Skoam og Sakur og Ibri.
+{24:28} Af Maheli var der Eleasar og han havde ingen Sønner.
+{24:29} Hvad Kis angaar, Kis's Sønner vare Jeramel.
+{24:30} Og Musis Sønner vare: Maheli og Eder og Jerimoth; disse ere Leviternes Børn efter deres Fædres Hus.
+{24:31} Ogsaa de kastede Lod ligesom deres Brødre, Arons Børn, i Paasyn af Kong David og Zadok og Akimelek, og Øversterne for Fædrenehusene iblandt Præsterne og Leviterne, Øversten for Fædrenehuset saavel som hans yngste Broder.
+{25:1} Og David og Stridshøvedsmændene udtoge til Tjeneste af Asafs og Hemans og Jeduthuns Børn dem, som skulde profetere med Harper og med Psaltre og med Cymbler, og Tallet paa Mændene efter deres Embedsgerning var:
+{25:2} Af Asafs Børn: Sakur og Josef og Nathania og Asareela, Asafs Sønner, under Asaf, som profeterede efter Kongens Anvisning;
+{25:3} af Jeduthun: Jeduthuns Sønner vare: Gedalja og Zeri og Jesaja og Hasabja og Mathithja, i alt seks, med Harper, under deres Fader Jeduthun, som profeterede ved at takke og love Herren;
+{25:4} af Heman: Hemans Sønner vare: Bukkija, Mathanja, Ussiel, Sebuel og Jerimoth, Hananja, Hanani, Eliatha, Giddalthi og Romamthi-Eser, Josbekasa, Mallothi, Hothir, Mahasioth.
+{25:5} Alle disse vare Sønner af Heman, Kongens Seer i Guds Ord, de skulde lade Hornet lyde; og Gud havde givet Heman fjorten Sønner og tre Døtre.
+{25:6} Alle disse vare under deres Fædre ved Sangen i Herrens Hus, med Cymbler, Psaltre og Harper til Guds Hus's Tjeneste, efter Kongens, Asafs og Jeduthuns og Hemans Anvisning.
+{25:7} Og deres Tal tillige med deres Brødres, som vare oplærte i Herrens Sang, alle Mestrene vare to Hundrede, otte og firsindstyve.
+{25:8} Og de kastede Lod om, hvad de skulde tage Vare paa, saavel den yngste som den ældste, saavel Mesteren som Lærlingen.
+{25:9} Og den første Lod kom ud for Asaf, nemlig for Josef; den anden for Gedalja, ham og hans Brødre og hans Sønner, i alt tolv;
+{25:10} den tredje for Sakur, hans Sø nner og hans Brødre, i alt tolv;
+{25:11} den fjerde for Jizri, hans Sønner og hans Brødre, i alt tolv;
+{25:12} den femte for Nethania, hans Sønner og hans Brødre, i alt tolv;
+{25:13} den sjette for Bukkija, hans Sønner og hans Brødre, i alt tolv;
+{25:14} den syvende for Isareela, hans Sønner og hans Brødre, i alt tolv;
+{25:15} den ottende for Jesaja, hans Sønner og hans Brødre, i alt tolv;
+{25:16} den niende for Mathanja, hans Sønner og hans Brødre, i alt tolv;
+{25:17} den tiende for Simei, hans Sønner og hans Brødre, i alt tolv;
+{25:18} den ellevte for Asareel, hans Sønner og hans Brødre, i alt tolv;
+{25:19} den tolvte for Hasabia, hans Sønner og hans Brødre, i alt tolv;
+{25:20} den trettende for Subael, hans Sønner og hans Brødre, i alt tolv;
+{25:21} den fjortende for Mathithja, hans Sønner og hans Brødre, i alt tolv;
+{25:22} den femtende for Jerimoth, hans Sønner og hans Brødre, i alt tolv;
+{25:23} den sekstende for Hananja, hans Sønner og hans Brødre, i alt tolv;
+{25:24} den syttende for Josbekasa, hans Sønner og hans Brødre, i alt tolv;
+{25:25} den attende for Hanani, hans Sønner og hans Brødre, i alt tolv;
+{25:26} den nittende for Mallothi, hans Sønner og hans Brødre, i alt tolv;
+{25:27} den tyvende for Eliatha, hans Sønner og hans Brødre, i alt tolv;
+{25:28} den en og tyvende for Hothir, hans Sønner og hans Brødre, i alt tolv;
+{25:29} den to og tyvende for Giddalthi, hans Sønner og hans Brodre, i alt tolv;
+{25:30} den tre og tyvende for Mahesioth, hans ønner og hans Brødre, i alt tolv;
+{25:31} den fire og tyvende for Romamthi-Eser, hans Sønner og hans Brødre, i alt tolv.
+{26:1} Hvad Portnernes Skrifter angaar, saa var der af Koriterne Meselemia, Kores Søn, af Asafs Børn.
+{26:2} Og Meselemia havde Sønner: Sakaria den førstefø dte, Jedial den anden, Sebadja den tredje, Jathniel den fjerde,
+{26:3} Elam den femte, Johanan den sjette, Eljoenaj den syvende.
+{26:4} Og Obed-Edom havde Sønner: Semaja den førstefødte, Josabad den anden, Joa den tredje og Sakar den fjerde og Nethaneel den femte,
+{26:5} Ammiel den sjette, Isaskar den syvende, Peulthaj den ottende; thi Gud havde velsignet ham.
+{26:6} Og for hans Søn Semaja bleve Sønner fødte, som herskede i deres Fædres Hus; thi de vare vældige i Styrke.
+{26:7} Semajas Sønner vare: Othni og Refael og Obed, Elsabad, hans Brødre, duelige Folk, Elihu og Semakja.
+{26:8} Alle disse vare af Obed-Edoms Sønner, de med deres Sønner og deres Brødre, duelige Mænd og stærke til Tjenesten; der var to og tresindstyve af Obed-Edom.
+{26:9} Og Meselemias Sønner og Brødre, duelige Folk, vare atten.
+{26:10} Og Hosa af Meraris Børn havde Sønner: Simri var den første, enddog han ikke var den førstefødte, men hans Fader havde sat ham til at væere den første;
+{26:11} Hilkia den anden, Tebalia den tredje, Sakaria den fjerde; alle Hosas Sønner og Brødre vare tretten.
+{26:12} Efter disse, nemlig Mændenes Øverster, faldt Portnernes Skifter til Vagterne, i Forening med deres Brødre, for at gøre Tjeneste i Herrens Hus.
+{26:13} Og de kastede Lod, saavel for den yngste som for din ældste, efter deres Fædres Hus, til hver Port.
+{26:14} Og Lodden imod Østen faldt for Selemia; og de kastede Lod for hans Søn Sakaria, en klog Raadgiver, og hans Lod faldt ud imod Norden.
+{26:15} For Obed-Edom faldt Lodden imod Sønden, og for hans Sønner imod Skatkamrenes Hus.
+{26:16} For Suppim og for Hosa faldt Lodden imod Vesten ved Skalleket Port, paa Vejen, som gaar op ad; der var Vagt over for Vagt.
+{26:17} Imod Østen vare seks af Leviterne, imod Norden vare fire hver Dag, imod Sønden fire hver Dag og ved Skatkamrene to og to.
+{26:18} Ved Parbar imod Vesten: Fire var der paa Vejen, to hen imod Parbar.
+{26:19} Disse vare Portnernes Skifter af Koriternes Børn og af Meraris Børn.
+{26:20} Men af Leviterne var Ahia over Guds Hus's Skatte og de hellige Tings Skatte.
+{26:21} Ladans Sønner, nemlig Gersonitens Sønner af Ladan, Øversterne for Gersoniten Ladans Fædrenehuse, var Jehieli.
+{26:22} Jehielis Sønner vare Setham og Joel, hans Broder, som vare over Herrens Hus's Skatte.
+{26:23} Af Amramiterne, af Jizehariterne, af Hebroniterne, af Ussieliterne,
+{26:24} var Sebuel en Søn af Gersom, Moses Søn, Opsynsmand over Skattene.
+{26:25} Men hvad angaar hans Brødre, dem af Elieser, saa var dennes Søn Rehabia og dennes Søn Jesaja og dennes Søn Joram og dennes Søn Sikri og dennes Søn Selomoth.
+{26:26} Denne Selomoth og hans Brødre vare over alle Skattene af de hellige Ting, som Kong David samt Øversterne for Fædrenehusene, Høvedsmændene over tusinde, over hundrede og Stridshøvedsmændene havde helliget.
+{26:27} Fra Krigene og af Byttet havde de helliget det til at udbedre Herrens Hus med.
+{26:28} Og alt hvad Samuel, Seeren og Saul, Kis's Søn, og Abner, Ners Søn, og Joab, Zerujas Søn, havde helliget, alt hvad hver havde helliget, det var under Selomiths og hans Brødres Haand.
+{26:29} Af Jizehariterne vare Kenanja og hans Sønner beskikkede over Israel, til den udvortes Gerning, som Fogeder og som Dommere.
+{26:30} Af Hebroniterne vare Hasabia og hans Brødre, duelige Folk, tusinde og syv Hundrede, beskikkede over Embederne i Israel paa denne Side Jordanen imod Vesten, til alle Haande Herrens Gerning og til Kongens Tjeneste.
+{26:31} Af Hebroniterne var Jeriia den Øverste for Hebroniterne efter deres Slægter, efter deres Fædrenehuse; i det fyrretyvende Aar af Davids Regering blev der søgt og fundet iblandt dem vældige Helte i Jæser i Gilead.
+{26:32} Og hans Brødre vare duelige Mænd, to Tusinde og syv Hundrede, Øverster for Fædrenehuse; og Kong David satte dem over Rubeniterne og Gaditerne og den halve Manasses Stamme i alle Guds Sager og alle Kongens Sager.
+{27:1} Og Israels Børn efter deres Tal, Øversterne for Fædrenehusene og Høvedsmændene over tusinde og over hundrede og deres Fogeder, de, som tjente Kongen i hver Sag, som paalaa Skifterne, hvilke traadte til og gik fra, Maaned for Maaned, i alle Aarets Maaneder, vare i ethvert Skifte fire og tyve Tusinde.
+{27:2} Over det første Skifte i den første Maaned var Jasabeam, Sabdiels Søn, og udi hans Skifter vare fire og tyve Tusinde.
+{27:3} Han var af Perez's Børn, den Øverste over alle Stridshøvedsmændene, i den første Maaned.
+{27:4} Og over den anden Maaneds Skifte var Dodaj, Ahohiten, og ved hans Skifte var ogsaa Fyrsten Mikloth, og udi hans Skifte vare fire og tyve Tusinde.
+{27:5} Den tredje Stridshøvedsmand for den tredje Maaned var Benaja, Jojadas Søn, Præsten, han var en Øverste, og udi han Skifte vare fire og tyve Tusinde.
+{27:6} Denne Benaja var vældig iblandt de tredive og over de tredive; og ved hans Skifte var hans Søn Ammi-Sabad.
+{27:7} Den fjerde i den fjerde Maaned var Asael, Joabs Broder, og Sabadja, hans Søn, efter ham, og i hans Skifte vare fire og tyve Tusinde.
+{27:8} Den femte i den femte Maaned var den Fyrste Samhuth, Jisrehiten, og i hans Skifte vare fire og tyve Tusinde.
+{27:9} Den sjette i den sjette Maaned var Ira, Ikes's Søn, Thekoiten, og i hans Skifte vare fire og tyve Tusinde.
+{27:10} Den syvende i den syvende Maaned var Helez, Peloniten, af Efraims Børn, og i hans Skifte vare fire og tyve Tusinde.
+{27:11} Den ottende i den ottende Maaned var Sibekaj, Husathiten, af Serahiterne, og i hans Skifte vare fire og tyve Tusinde.
+{27:12} Den niende i den niende Maaned var Abieser, Anathothiten, af Benjaminiterne, og i hans Skift og vare fire og tyve Tusinde.
+{27:13} Den tiende i den tiende Maaned var Maharaj, Netofathiten, af Serahiterne, og i hans Skifte vare fire og tyve Tusinde.
+{27:14} Den ellevte i den ellevte Maaned var Benaja, Pireathoniten, af Efraims Børn, og i hans Skifte vare fire og tyve Tusinde.
+{27:15} Den tolvte i den tolvte Maaned var Heldaj, Netofathiten, af Othniels Slægt, og i hans Skifte, vare fire og tyve Tusinde.
+{27:16} Og over Israels Stammer var: For Rubeniterne en Fyrste Elieser, Sikris Søn; for Simeoniterne Sefatja, Maakas Søn;
+{27:17} for Levi Hasabja, Kemuels Søn; for Aron Zadok;
+{27:18} for Juda Elihu, en af Davids Brødre; for Isaskar Omri, Mikaels Søn;
+{27:19} for Sebulon Jesmaja, Obadjas Søn; for Nafthali Jerimoth, Asriels Søn;
+{27:20} for Efraims Børn Hosea, Asasias Søn; for den halve Manasses Stamme Joel, Pedajas Søn;
+{27:21} for den halve Manasses Stamme i Gilead Iddo, Sakarias Søn; for Benjamin Jaasiel, Abners Søn;
+{27:22} for Dan Asareel, Jerohams Søn; disse vare Israels Stammers Fyrster.
+{27:23} Men David tog ikke Tal paa dem, som vare fra tyve Aar gamle og derunder; thi Herren havde sagt, at han vilde formere Israel som Stjernerne paa Himmelen.
+{27:24} Joab, Zerujas Søn, havde begyndt at tælle, men fuldendte det ikke, fordi der blev en Vrede derfor over Israel; og Tallet blev ikke opført i Tallet i Kong Davids Krønikers Bog.
+{27:25} Og over Kongens Skatte var Asmaveth, Adiels Søn; og over Forraadet paa Marken, i Stæderne og i Byerne og i Taarnene var Jonathan, Ussias Søn.
+{27:26} Og over dem, som gjorde Markarbejdet ved at dyrke Jorden, var Esri, Kelubs Søn.
+{27:27} Og over Vingaardene var Simei, Ramathiten; og over Vingaardenes Forraad af Vin var Sabdi, Sifmiten.
+{27:28} Og over Oliegaardene og Morbærtræerne, som vare i Lavlandet, var Baal-Hanan, Gederiten; og over Forraadet af Olie var Joas.
+{27:29} Og over det store Kvæg, som græssede i Saron, var Sitri, Saroniten; og over Øksnene i Dalene var Safat, Adlajs Søn.
+{27:30} Og over Kamelerne var Obil Ismaeliten; og over Aseninderne var Jedeja, Meronothiten.
+{27:31} Og over Smaakvæget var Jasis, Hagariten; alle disse vare Opsynsmænd over det Gods, som hørte Kong David til.
+{27:32} Men Jonathan, Dav ids Faders Broder, var Raadgiver, en forstandig Mand, han var og Skriver; og Jehiel, Hakmonis Søn, var hos Kongens Sønner.
+{27:33} Og Akitofel var Kongens Raadgiver; og Husaj, Arkiten, var Kongens Ven.
+{27:34} Og efter Akitofel kom Jojada, Benajas Søn, og Abjathar; men Joab var Kongens Stridshøvedsmand.
+{28:1} Da samlede David alle Israels Fyrster, Stammernes Øverster og Øversterne over de Skifter, som tjente Kongen, og Øversterne over tusinde og Øversterne over hundrede og Øversterne over alt Kongens og hans Sønners Gods og Kvæg, med Hofmændene og de vældige og alle de vældige i Strid, til Jerusalem.
+{28:2} Og Kong David rejste sig paa sine Fødder og sagde: Hører mig, mine Brødre og mit Folk! mit Hjerte stod til at bygge et Hvilehus til Herrens Pagts Ark og til vor Guds Fødders Skammel, og jeg havde forberedt Bygningen;
+{28:3} men Gud sagde til mig: Du skal ikke bygge mit Navn et Hus; thi du er en Krigsmand og har udøst Blod.
+{28:4} Nu har Herren, Israels Gud, udvalgt mig af hele min Faders Hus til at være Konge over Israel evindelig; thi han udvalgte Juda til en Fyrste, og i Judas Hus min Faders Hus, og iblanat min Faders Sønner havde han Behagelighed til mig, saa han gjorde mig til Konge over al Israel.
+{28:5} Og af alle mine Sønner (thi Herren har givet mig mange Sønner ) har han udvalgt Salomo, min Søn til at sidde paa Herrens Riges Trone over Israel.
+{28:6} Og han har sagt mig: Din Søn Salomo, han skal bygge mit Hus og mine Forgaarde; thi jeg har udvalgt mig ham til en Søn, og jeg vil være ham en Fader.
+{28:7} Og jeg vil stadfæste hans Rige til evig Tid, dersom han holder fast ved at gøre mine Bud og mine Befalinger som paa denne Dag.
+{28:8} Og nu for det ganske Israels, Herrens Forsamlings, Øjne og for vor Guds Øren, ser hen til og søger alle Herrens, eders Guds, Bud, paa det I maa eje det gode Land og efterlade eders Børn det til Arv efter eder til evig Tid.
+{28:9} Og du, Salomo, min Søn! kend din Faders Gud, og tjen ham med et retskaffent Hjerte og med en villig Sjæl, thi Herren ransager alle Hjerter og forstaar alle Tankers Digten; dersom du søger ham, skal han findes af dig, og dersom du forlader ham, skal han forkaste dig i Evighed.
+{28:10} Se nu til, thi Herren har udvalgt dig til at bygge et Hus til en Helligdom; vær frimodig og udfør det!
+{28:11} Og David gav Salomo sin Søn en Afbildning af Forhallen og dets Bygninger og dets Skatkamre og dets Sale og dets inderste Kamre og af Naadestolens Hus;
+{28:12} og en Afbildning af alt det, som stod for ham i Aanden, af Herrens Hus's Forgaarde og af alle Kamrene trindt omkring, som vare bestemte for Guds Hus's Skatte og for de hellige Tings Skatte
+{28:13} og for Præsternes og Leviternes Skifter og for al Tjenestens Gerning i Herrens Hus og for alle Kar til Herrens Hus's Tjeneste;
+{28:14} af Guldet efter Vægten paa Guldet til alle Haande Kar, hvert til sin Tjeneste; af alle Haande Sølvkar efter Vægten, til alle Haande Kar, hvert til sin Tjeneste.
+{28:15} Og han gav ham Vægten paa Guldlysestagerne og deres Guldlamper, efter Vægten paa hver Lysestage og dens Lamper; og paa Sølvlysestagerne, efter Vægten paa hver Lysestage og dens Lamper, hver Lysestage til sin Tj eneste,
+{28:16} og Guldet efter Vægt til Skuebrødenes Borde, til hvert Bord, og Sølvet til Sølvbordene.
+{28:17} Og han gav ham Madkrogene og Bækkenerne og de Skaaler, som skulde være af purt Guld, og Guldbægene efter Vægt paa hvert Bæger og Sølvbægerne efter Vægt paa hvert Bæger
+{28:18} og Røgelsealteret, som skulde være af lutret Guld efter Vægten, Afbildningen af Vognen, nemlig Guldkeruberne, som skulde udbrede Vingerne og dække over Herrens Pagts Ark.
+{28:19} Om alle disse Ting har han undervist mig, sagde David, ved Skrift fra Herrens Haand, om alle Tingene efter Afbildningen.
+{28:20} David sagde til sin Søn Salomo: Vær frimodig og stærk og udfør det, frygt ikke og ræddes ikke; thi Gud Herren, min Gud, skal være med dig, han skal ikke slippe dig og ej forlade dig, indtil du har fuldkommet al Gerningen til Tjenesten i Herrens Hus.
+{28:21} Og se, her ere Præsternes og Leviternes Skifter til al Tjenesten i Guds Hus; ogsaa ere hos dig til alle Gerninger alle de, som ere frivillige og begavede med Visdom til al Tjenesten, dertil Fyrsterne og alt Folket beredt efter alle dine Ord.
+{29:1} Og Kong David sagde til hele Forsamlingen: Salomo, den eneste af mine Sønner, som Gud har udvalgt, er en ung Person og blødhjertet, men Ger ningen er stor; thi det Slot er ikke for et Menneske, men for den Herre Gud.
+{29:2} Og af al min Kraft har jeg til min Guds Hus samlet Guld til Guldtøj og Sølv til Sølvtøj og Kobber til Kobbertøj og Jern til Jerntøj og Træ til Trætøj, Onyksstene og Stene til at indfatte, og Karbunkelstene og stukne Klæder og alle Haande kostbare Stene og mange Marmorstene.
+{29:3} Og desuden, fordi; jeg har Behagelighed til min Guds Hus, har jeg givet, hvad jeg ejer af Guld og Sølv; dette har jeg givet til min Guds Hus foruden alt det, som jeg har samlet til Helligdommens Hus:
+{29:4} Tre Tusinde Gentner Guld af Ofirs Guld og syv Tusind Centner lutret Sølv til at beslaa Husenes Vægge med,
+{29:5} at der kan være Guld til GuIdtøjet og Sølv til Sølvtøjet og til alt det Arbejde, der udføres ved Mestres Haand; og hvo er villig til at fylde sin Haand i Dag for Herren?
+{29:6} Da gave Øversterne for Fædrenehusene og Israels Stammers Øverster og Øversterne over tusinde og over hundrede og Øversterne over Kongens Arbejde frivilligt.
+{29:7} Og de gave til Arbejdet paa Guds Hus fem Tusinde Gentner Guld og ti Tusinde Drakmer og ti Tusinde Centner Sølv og atten Tusinde Gentner Kobber og hundrede Tusinde Gentner Jern.
+{29:8} Og de, hos hvem der blev fundet Stene, gave dem til Herrens Hus's Skat ved Jehiels Gersonitens Haand.
+{29:9} Og Folket var glad over, at de gave frivilligt; thi de gave Herren af et retskaffent Hjerte, frivilligt; og Kong David glædede sig ogsaa med stor Glæde.
+{29:10} Og David lovede Herren for den ganske Forsamlings Øjne, og David sagde: Lovet være du, Herre, Israels vor Faders Gud, fra Evighed og til Evighed!
+{29:11} Dig, Herre! hører Majestæt og Vælde og Herlighed og Sejr og Ære til; thi alt i Himmelen og paa Jorden er dit, ja, dit, Herre! er Riget, og du er ophøjet over alt til et Hoved.
+{29:12} Og Rigdom og Ære er for dit Ansigt, og du regerer over alting, og Kraft og Vælde er i din Haand; og i din Haand staar det at gøre alt stort og stærkt.
+{29:13} Og nu, vor Gud! vi takke dig og love din Herligheds Navn.
+{29:14} Thi hvad er jeg, og hvad er mit Folk, at vi skulle have Kraft til at give frivilligt, som det her er sket? thi det er alt af dig, og af din Haand have vi givet dig det.
+{29:15} Thi vi ere fremmede for dit Ansigt og Gæster som alle vore Fædre: Vore Dage paa Jorden ere som en Skygge, og her er ingen Forhaabning.
+{29:16} Herre, vor Gud! al denne Mængde, som vi have samlet til at bygge dig et Hus for til dit hellige Navn, den er af din Haand og det er alt sammen dit.
+{29:17} Og, min Gud: jeg ved, at du prøver Hjerter og har Behag til Oprigtighed, jeg har i mit Hjertes Oprigtighed givet alle disse Ting frivilligt og har nu med Glæde set dit Folk, som her fandtes, at det har givet dig frivilligt.
+{29:18} Herre, Abrahams Isaks og Israels, vore Fædres Gud! bevar dette evindeligt som dit Folks Hjertes Tanker og Sind, og bered deres Hjerter til dig!
+{29:19} Og giv min Søn Salomo et retskaffent Hjerte til at holde dine Bud, dine Vidnesbyrd og dine Skikke og til at gøre det alt sammen og til at bygge det Slot, som jeg har forberedt.
+{29:20} Siden sagde David til den ganske Forsamling: Kære, lover Herren, eders Gud; og al Forsamlingen lovede Herren, deres Fædres Gud, og bøjede sig og nedkastede sig for Herren og for Kongen.
+{29:21} Og de bragte Herren Slagtofre og ofrede Brændofre for Herren, den følgende Dags Morgen, nemlig tusinde Okser, tusinde Vædere, tusinde Lam, og deres Drikofre og Slagtofre i Mængde for al Israel.
+{29:22} Og de aade og drak for Herrens Ansigt paa den samme Dag med stor Glæde og gjorde anden Gang Salomo, Davids Søn, til Konge og salvede ham for Herren til Fyrste og Zadok til Præst.
+{29:23} Saa sad Salomo paa Herrens Trone som Konge i sin Fader Davids Sted og blev lykkelig, og al Israel var ham lydig.
+{29:24} Og alle Fyrsterne og de vældige, ja ogsaa alle Kong Davids Sønner, de underkastede sig Kong Salomo.
+{29:25} Og Herren gjorde Salomo overmaade stor for al Israels Øjne og gav ham kongelig Ære, som ingen Konge havde haft før ham over Israel.
+{29:26} Og David, Isajs Søn, havde været, Konge over al Israel.
+{29:27} Men Dagene, som han havde været Konge over Israel, vare fyrretyve Aar; i Hebron regerede han syv Aar, og i Jerusalem regerede han tre og tredive Aar.
+{29:28} Og han døde i en god Alder, mæt af Dage, Rigdom og Ære; og Salomo, hans Søn, blev, Konge i hans Sted.
+{29:29} Men Kong Davids Gerninger, de første og sidste, se, de ere beskrevne med i Samuel Seerens Krønike og med i Nathan Profetens Krønike og med i Gad Seerens Krønike;
+{29:30} tillige med hele hans Regering og hans Vælde og Tiderne, som forløb over ham og over Israel og over alle Landes Riger.

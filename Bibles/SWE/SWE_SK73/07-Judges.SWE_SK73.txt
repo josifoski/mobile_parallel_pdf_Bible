@@ -1,0 +1,618 @@
+{1:1} Efter Josua död frågade Israels barn Herran, och sade: Ho skall ibland oss föra örliget emot de Cananeer?
+{1:2} Herren sade: Juda skall föra det; si, jag hafver gifvit landet i hans hand.
+{1:3} Då sade Juda till sin broder Simeon: Drag med mig upp i min lott, och låt oss strida emot de Cananeer, så vill jag åter draga med dig i din lott. Så drog Simeon med honom.
+{1:4} Då nu Juda drog ditupp, gaf Herren honom de Cananeer och Phereseer i deras händer; och de slogo i Besek tiotusend män.
+{1:5} Och de funno AdoniBesek i Besek; och stridde emot honom, och slogo de Cananeer och Phereseer.
+{1:6} Men AdoniBesek flydde, och de jagade efter honom, fingo honom, och höggo af honom tummarna, både af hans händer och fötter.
+{1:7} Då sade AdoniBesek: Sjutio Konungar, med afhuggna tummar af deras händer och fötter, hemtade upp under mitt bord; såsom jag nu gjort hafver, så hafver Gud vedergullit mig. Och de förde honom till Jerusalem, der blef han död.
+{1:8} Men Juda barn stridde emot Jerusalem, och vunno det, och slogo det med svärdsegg, och brände staden upp.
+{1:9} Sedan drogo Juda barn neder, till att strida emot de Cananeer, som bodde på bergen, och söderut, och i dalarna.
+{1:10} Och Juda drog emot de Cananeer, som bodde i Hebron; men Hebron het i förtiden KiriathArba; och slog Sesai, och Ahiman, och Thalmai;
+{1:11} Och drog dädan emot Debirs inbyggare; men Debir het i förtiden KiriathSepher.
+{1:12} Och Caleb sade: Den som KiriathSepher slår och vinner, honom vill jag gifva mina dotter Achsa till hustru.
+{1:13} Då vann det Athniel, Kenas son, Calebs yngsta broders; och han gaf honom sina dotter Achsa till hustru.
+{1:14} Och det begaf sig, då hon indrog, vardt henne rådet, att hon skulle bedas en åker af sin fader; och hon gaf sig ifrån åsnanom. Då sade Caleb till henne: Hvad är dig?
+{1:15} Hon sade: Gif mig en välsignelse; ty du hafver gifvit mig ett söderland; gif mig ock ett, som vatten hafver. Då gaf han henne ett, som vatten hade ofvan och nedan.
+{1:16} Och de Keniters barn, Mose svågers, drogo upp utu Palma staden med Juda barn uti Juda öken, som ligger sunnan för den staden Arad; och gingo till, och bodde ibland folket.
+{1:17} Och Juda drog åstad med hans broder Simeon, och slogo de Cananeer i Zephat, och gåfvo honom tillspillo, och kallade staden Horma.
+{1:18} Dertill vann Juda Gaza med dess tillhöring, och Askelon med dess tillhöring, och Ekron med dess tillhöring.
+{1:19} Och Herren var med Juda, så att han intog berget; förty han kunde icke intaga dem som i dalarna bodde, derföre, att de hade jernvagnar.
+{1:20} Och de gåfvo Caleb Hebron, såsom Mose sagt hade; och han fördref derut de tre Enaks söner.
+{1:21} Men BenJamins barn fördrefvo icke de Jebuseer, som bodde i Jerusalem; utan de Jebuseer bodde när BenJamins barn i Jerusalem, allt intill denna dag.
+{1:22} Sammalunda drogo ock Josephs barn upp till BethEl; och Herren var med dem.
+{1:23} Och Josephs hus bespejade BethEl, det tillförene het Lus.
+{1:24} Och hållarena fingo se en man gå utu staden, och sade till honom: Visa oss huru vi skole komma in i staden, så vilje vi göra barmhertighet med dig.
+{1:25} Och när han hade vist dem hvar de skulle komma in, slogo de staden med svärdsegg; men den mannen och all hans slägt läto de gå.
+{1:26} Då drog den samme mannen in uti de Hetheers land, och byggde en stad, och kallade honom Lus. Den heter ännu i dag så.
+{1:27} Och Manasse fördref icke BethSean med dess döttrar; icke heller Thaanach med dess döttrar, och icke heller de inbyggare i Dor med dess döttrar, ej heller de inbyggare i Jibleam med dess döttrar, ej heller de inbyggare i Megiddo med dess döttrar; och de Cananeer begynte till att bo i de samma landena.
+{1:28} Men då Israel kom till magt, gjorde han de Cananeer skattpligtiga, och fördref dem icke.
+{1:29} Sammalunda fördref icke heller Ephraim de Cananeer, som bodde i Gaser; utan de Cananeer bodde ibland dem i Gaser.
+{1:30} Sebulon fördref icke heller dem som bodde i Kitron och Nahalol; utan de Cananeer bodde ibland dem, och voro skattpligtige.
+{1:31} Asser fördref icke dem som bodde i Acco; icke heller dem som bodde i Zidon, i Ahlab, i Achsib, i Helbah, i Aphik och i Rehob;
+{1:32} Utan de Asseriter bodde ibland de Cananeer, som i landena bodde; ty de fördrefvo dem icke.
+{1:33} Napthali fördref icke dem som bodde i BethSemes, ej heller i BethAnath; utan bodde ibland de Cananeer, som i landena bodde; men de i BethSemes och i BethAnath vordo skattpligtige.
+{1:34} Men de Amoreer trängde Dans barn in på bergena, och stadde dem icke till, att de kommo neder i dalarna.
+{1:35} Och de Amoreer begynte bo på de bergena Heres i Ajalon och Saalbim; dock vardt Josephs hus hand dem för svår, så att de vordo skattpligtige.
+{1:36} Och de Amoreers gränsa var der man uppgår till Akrabbim, och ifrå klippone, och ifrå höjdene.
+{2:1} Och kom en Herrans Ängel upp ifrå Gilgal till Bochim, och sade: Jag förde eder utur Egypten, och lät eder komma in uti det land, som jag edra fäder svorit hade, och sade: Jag skall icke göra mitt förbund med eder ogildt i evig tid;
+{2:2} Att I icke skullen göra något förbund med detta lands inbyggare, utan skullen bryta deras altare omkull; men I hafven intet lydt mine röst. Hvi hafven I det gjort?
+{2:3} Sade jag ock med: Jag vill icke fördrifva dem för eder; att de skola vara eder till snaro, och deras gudar eder till nät.
+{2:4} Och då Herrans Ängel dessa orden sagt hade till all Israels barn, hof folket sina röst upp, och gret;
+{2:5} Och kallade det rummet Bochim, och offrade der Herranom.
+{2:6} Ty då Josua hade släppt folket ifrå sig, och Israel var dragen hvar till sin arfvedel, till att intaga landet,
+{2:7} Tjente folket Herranom, så länge Josua lefde, och de äldste, som länge lefde efter Josua, och sett hade alla Herrans stora gerningar, som han Israel gjort hade.
+{2:8} Men då Josua, Nuns son, Herrans tjenare, död var, hundrade och tio år gammal,
+{2:9} Begrofvo de honom i hans arfvedels gränso i ThimnathHeres, på Ephraims berg, på norra sidone vid Gaas berg.
+{2:10} Då ock alle de, som på den tiden lefde, voro samkade till sina fäder, kom ett annat slägte upp efter dem, som intet kände Herran, eller de gerningar, som han med Israel gjort hade.
+{2:11} Så gjorde Israels barn det ondt var för Herranom, och tjente Baalim;
+{2:12} Och öfvergåfvo Herran deras fäders Gud, som dem utur Egypti land fört hade, och följde andra gudar efter, och de folks gudar, som omkring dem bodde, och tillbådo dem, och förtörnade Herran.
+{2:13} Ty de öfvergåfvo ju mer och mer Herran, och tjente Baal och Astaroth.
+{2:14} Så förgrymmade då Herrans vrede sig öfver Israel, och gaf dem i deras hand, som dem röfvade, att de dem beröfva skulle, och sålde dem i deras fiendars händer allt omkring; och de kunde icke mer stå deras fiendar emot;
+{2:15} Utan, ehvart de vände sig, var Herrans hand emot dem till deras ofärd, såsom Herren dem sagt, och Herren dem svorit hade; och de vordo hårdeliga plågade.
+{2:16} När nu Herren uppväckte domare, som dem hulpo utu röfvarenas hand,
+{2:17} Så lydde de icke heller domarena, utan bedrefvo hor med andra gudar, och tillbådo dem, och veko snarliga af den vägen, der deras fäder på gångit hade, till att lyda Herrans bud och gjorde intet såsom de.
+{2:18} Då nu Herren uppväckte dem domare, så var Herren med domarenom, och halp dem utu deras fiendars hand, så länge domaren lefde; ty Herren förbarmade sig öfver deras suckan, öfver dem som dem tvingade, och trängde.
+{2:19} Men när domaren blef död, så vände de sig, och förderfvade det mer än deras fäder, så att de följde andra gudar, till att tjena dem, och tillbedja dem, de gingo icke ifrå sina påfunder, eller ifrå sina halsstyfva väsende.
+{2:20} Derföre förgrymmade sig så Herrans vrede öfver Israel, att han sade: Efter detta folket hafver gått ifrå mitt förbund, som jag deras fäder budit hafver, och icke velat höra min röst;
+{2:21} Så skall jag nu härefter ingen fördrifva af de Hedningar, som Josua återlefde, då han blef död;
+{2:22} Att jag på dem må försöka Israel, om de vilja blifva på Herrans vägar, och vandra på dem, såsom deras fäder vandrat hafva, eller ej.
+{2:23} Så lät då Herren blifva dessa Hedningar, att han icke med hast fördref dem, hvilka han i Josua hand icke gifvit hade.
+{3:1} Desse äro de Hedningar, som Herren lät blifva, på det han skulle med dem försöka Israel, som intet visste utaf Canaans örlig;
+{3:2} Och att Israels barnas afföda måtte veta och lära strida, de som tillförene intet visste deraf;
+{3:3} Nämliga de fem Philisteers Förstar, och alla Cananeer och Zidonier, och de Heveer, som bodde på Libanons berg, allt ifrå det berget BaalHermon, tilldess man kommer till Hamath.
+{3:4} De samme blefvo till att försöka Israel med dem, att man måtte förfara, om de lydde Herrans bud, som han deras fäder budit hade genom Mose.
+{3:5} Då nu Israels barn bodde ibland de Cananeer, Hetheer, Amoreer, Phereseer, Heveer och Jebuseer,
+{3:6} Togo de deras döttrar till hustrur, och gåfvo sina döttrar deras söner, och tjente deras gudar;
+{3:7} Och gjorde illa för Herranom, och förgåto Herran deras Gud, och tjente Baalim och lundom.
+{3:8} Då förgrymmade sig Herrans vrede öfver Israel, och sålde dem i CusanRisathaims hand, Konungens i Mesopotamien; och så tjente Israels barn CusanRisathaim i åtta år.
+{3:9} Då ropade Israels barn till Herran, och Herren uppväckte dem en frälsare, som dem frälste, Athniel, Kenas son, Calebs yngste broders.
+{3:10} Och Herrans Ande var i honom, och han vardt domare i Israel, och drog ut till strid; och Herren gaf CusanRisathaim, Konungen i Syrien, i hans hand, så att hans hand vardt honom öfvermägtig.
+{3:11} Så blef landet stilla i fyratio år; och Athniel, Kenas son, blef död.
+{3:12} Men Israels barn gjorde ännu mer ondt för Herranom. Då stärkte Herren Eglon, de Moabiters Konung, emot Israel, derföre att de gjorde det ondt var för Herranom;
+{3:13} Och församlade till sig Ammons barn och de Amalekiter; och han drog åstad, och slog Israel, och tog in Palma staden.
+{3:14} Och Israels barn tjente Eglon, de Moabiters Konung, i aderton år.
+{3:15} Så ropade de till Herran, och Herren uppväckte dem en frälsare, Ehud, Gera son, Jemini sons; han var ofärdig i sin högra hand. Och Israels barn sände med honom skänker till Eglon, de Moabiters Konung.
+{3:16} Och Ehud gjorde sig ett tveeggadt svärd, en aln långt, och band det under sin kläder på högra låret;
+{3:17} Och bar fram skänken till Eglon, de Moabiters Konung; och Eglon var en ganska fet man.
+{3:18} Och när han hade fått ifrå sig skänken, öfvergaf han folket, som hade burit skänken;
+{3:19} Och vände tillbaka igen ifrå de afgudar i Gilgal; och lät båda: Jag hafver, o Konung, något hemligit tala vid dig. Han bad gifva ljud; och de gingo alle ut, som stodo omkring honom.
+{3:20} Och Ehud kom till honom in, och han satt uti en sommarsal allena; och Ehud sade: Jag hafver Guds ord till dig; då stod han upp af sinom stol.
+{3:21} Men Ehud räckte ut sina venstra hand, och tog svärdet af sitt högra lår, och stötte det in uti hans buk;
+{3:22} Så att ock skaftet följde in med bladet, och fetman innelyckte skaftet; ty han drog intet svärdet ut af hans buk, och träcken gick af honom.
+{3:23} Men Ehud gick ut genom bakdörrena, och lät igen dörrena efter sig, och slog henne i lås.
+{3:24} Då han nu utkommen var, gingo hans tjenare in; och som de sågo, att dörren på sommarsalen igenlyckt var, sade de: Han är tilläfventyrs gången på stol i kammaren till sommarsalen.
+{3:25} När de nu så länge bidt hade, att de skämdes, ty ingen lät dem dörrena upp af salen, togo de nyckelen, och läste upp; si, då låg deras herre der död på jordene.
+{3:26} Och Ehud undflydde, medan de fördröjde, och gick fram om afgudarna, och undkom allt intill Seirath.
+{3:27} Och då han kom derin, blåste han i basuner på Ephraims berg, och Israels barn drogo med honom af bergena, och han framför dem;
+{3:28} Och sade till dem: Följer mig efter, ty Herren hafver gifvit edra fiendar, de Moabiter, i edra händer; och de följde honom efter, och vunno Jordans färjostad, den som drager åt Moab, och läto ingen komma deröfver.
+{3:29} Och slogo de Moabiter af på den tiden vid tiotusend män, alltsammans ädla och stridsamma män, så att icke en undslapp.
+{3:30} Alltså vordo de Moabiter på den tiden nederlagde, under Israels barnas hand; och landet var stilla i åttatio år.
+{3:31} Efter honom var Samgar, Anaths son; han slog sexhundrade Philisteer med en herdastaf, och frälste ock han Israel.
+{4:1} Men Israels barn gjorde ytterligare illa för Herranom, då Ehud var död.
+{4:2} Och Herren sålde dem uti Jabins, de Cananeers Konungs, händer, som satt i Hazor, och hans härhöfvitsman var Sisera, och han bodde i Haroseth Hedningarnas.
+{4:3} Och Israels barn ropade till Herran; ty han hade niohundrade jernvagnar, och tvingade Israels barn med våld i tjugu år.
+{4:4} På den samma tiden var domarinna i Israel, den Prophetissan Debora, Lappidoths hustru.
+{4:5} Och hon bodde under Deboras palmträ, emellan Rama och BethEl, på Ephraims berg; och Israels barn kommo ditupp till henne för rätta.
+{4:6} Hon sände åstad, och kallade Barak, AbiNoams son, af Kedes Naphthali, och lät säga honom: Hafver icke Herren Israels Gud budit dig: Gack åstad, och drag upp på berget Thabor, och tag tiotusend män med dig, utaf Naphthali och Sebulons barn?
+{4:7} Ty jag vill föra till dig Sisera, Jabins härhöfvitsman, vid den bäcken Kison, med hans vagnar, och med all hans hop; och vill gifva honom i dina händer.
+{4:8} Barak sade till henne: Om du far med mig, så drager jag åstad; men far du icke med, så drager icke heller jag.
+{4:9} Hon sade: Jag vill draga med dig; men segren blifver icke din i denna resone, som du gör; utan Herren skall gifva Sisera uti en qvinnos hand. Så gjorde Debora redo, och for med Barak till Kedes.
+{4:10} Då kallade Balak Sebulon och Naphthali till Kedes, och drog till fot med tiotusend män; Debora följde ock med honom.
+{4:11} Men Heber den Keniten var dragen ifrå de Keniter, ifrå Hobabs barn, Mose svågers, och hade uppslagit sin tjäll vid den eken Zaanaim invid Kedes.
+{4:12} Då vardt Sisera bådadt, att Barak, AbiNoams son, var dragen upp på det berget Thabor.
+{4:13} Så samkade han alla sina vagnar tillhopa, niohundrade jernvagnar; och allt det folk med honom var, ifrå Haroseth Hedningarnas, allt intill den bäcken Kison.
+{4:14} Men Debora sade till Barak: Upp, detta är den dagen, i hvilkom Herren hafver gifvit Sisera i dina hand; ty Herren skall draga ut för dig. Så drog Barak neder af berget Thabor, och de tiotusend män med honom.
+{4:15} Och Herren förskräckte Sisera med alla hans vagnar, och all hans här, för Baraks svärdsegg, så att Sisera sprang ifrå sin vagn, och flydde till fot.
+{4:16} Men Barak jagade efter vagnarna och hären, allt intill Haroseth Hedningarnas, och all Sisera här föll för svärdsegg, så att icke en blef öfver.
+{4:17} Men Sisera flydde till fot in uti Jaels tjäll, Hebers den Kenitens hustrus; förty Konung Jabin i Hazor, och Hebers den Kenitens hus stodo i frid med hvarannan.
+{4:18} Och Jael gick ut emot Sisera, och sade till honom: Kom, min herre, kom in till mig, och frukta dig intet; och han gaf sig in till henne uti hennes tjäll, och hon höljde öfver honom en mantel.
+{4:19} Och han sade till henne: Kära, gif mig litet vatten till att dricka, ty mig törster. Då tog hon en bytto mjölk, och gaf honom dricka, och höljde på honom.
+{4:20} Och han sade till henne: Gack fram i dörrena på tjället, och om någor kommer och frågar, om någor är här, så säg: Ingen.
+{4:21} Så tog Jael, Hebers hustru, en nagla af tjället, och en hammar i sina hand, och gick sakta in till honom, och slog honom naglan genom tinningen, så att han sank neder till jordena; ty han var sömnig och vanmägtig, och blef död.
+{4:22} Då Barak jagade efter Sisera, gick Jael ut emot honom, och sade till honom: Kom hit, jag vill visa dig den man, som du söker efter. Och då han kom in till henne, låg Sisera död, och naglen fast i hans tinning.
+{4:23} Alltså nederlade Gud, på den tiden, Jabin, de Cananeers Konung för Israels barn.
+{4:24} Och Israels barnas hand fullföljde, och vardt stark emot Jabin, de Cananeers Konung, tilldess de utrotade honom.
+{5:1} Då söngo Deborah och Barak, AbiNoams son, på den samma tiden, och sade:
+{5:2} Lofver Herran, att Israel är åter fri vorden, och folket hafver varit der viljogt till.
+{5:3} Hörer till, I Konungar, och akter uppå, I Förstar: jag vill, Herranom vill jag sjunga, Herranom Israels Gudi vill jag spela.
+{5:4} Herre, då du utdrogst ifrå Seir, och gick fram ifrån Edoms mark, då skalf jorden, himmelen dröp, och skyarna dröpo vatten.
+{5:5} Bergen smulto för Herranom, Sinai för Herranom Israels Gud.
+{5:6} I Samgars, Anaths sons, tid, i Jaels tid, voro vägarna förgångne; och de som på stigarna gå skulle, de vandrade krokota vägar.
+{5:7} Det fattades, bönder fattades i Israel, tilldess jag Debora uppkom, tilldess jag uppkom en moder i Israel.
+{5:8} Ett nytt hafver Gud utvalt, portarna hafver han bestridt; ingen sköld eller spets vardt sedd ibland fyratiotusend i Israel.
+{5:9} Mitt hjerta faller till Israels regenter, hvilke friviljoge äro ibland folket.
+{5:10} Lofver Herran, I som riden på sköna åsninnor, I som sitten för rätta; och sjunger, I som gån på vägomen.
+{5:11} Der skyttarna ropa ibland dem som vatten hemta, der säge man om Herrans rättfärdighet, om hans bönders rättfärdighet i Israel; då drog Herrans folk neder till portarna.
+{5:12} Upp, upp, Debora, upp, upp, och sjung ena viso; upp, Barak, och fånga dina fångare, du AbiNoams son.
+{5:13} Då vordo de förlåtne rådande öfver de mägtiga; Herren vardt rådandes genom mig öfver de hjeltar.
+{5:14} Utaf Ephraim var deras rot emot Amalek; och efter dig BenJamin i ditt folk. Af Machir äro komne regenter; och af Sebulon äro regerare vordne igenom skrifpennan.
+{5:15} Isaschars Förstar voro med Debora, och Isaschar var såsom Barak i dalenom, utsänder med sitt fotfolk. Ruben höll mycket af sig, och skiljde sig ifrån oss.
+{5:16} Hvi blefst du i dinom fårahyddom, till att höra hjordarnas bräkande; och höll mycket af dig, och skiljde dig ifrån oss?
+{5:17} Gilead blef hinsidon Jordan. Och hvi bor Dan ibland skeppen? Asser satt i hafsens hamn, och blef i sina förfallna byar.
+{5:18} Men Sebulons folk vågade sina själ i döden; Naphthali desslikes på höjdene af markene.
+{5:19} Konungarna kommo och stridde. Då stridde de Cananeers Konungar i Thaanach, vid det vattnet Megiddo; men de hade ingen vinning deraf.
+{5:20} Af himmelen var stridt emot dem; stjernorna i deras lopp stridde emot Sisera.
+{5:21} Den bäcken Kison vältrade dem, den bäcken Kedumim, den bäcken Kison. Träd, min själ, på de starka.
+{5:22} Då darrade hästarnas fötter, för deras starka åsittares förfärelses skull.
+{5:23} Förbanner den staden Meros, sade Herrans Ängel; förbanner hans borgare, att de icke kommo Herranom till hjelp; till hjelp Herranom, till de hjeltar.
+{5:24} Välsignad vare ibland qvinnor Jael, Hebers den Kenitens hustru; välsignad vare hon i hyddomen ibland qvinnor.
+{5:25} Mjölk gaf hon, då han vatten beddes, och bar smör in uti en härlig skål.
+{5:26} Hon tog naglan med sin hand, och smedshammaren i sina högra hand, och slog Sisera genom hans hufvud; sönderkrossade, och genomstack hans tinningar.
+{5:27} Till hennes fötter krökte han sig, föll neder, och lade sig; han krökte sig, och föll neder till hennes fötter; såsom han krökte sig, så låg han förderfvad.
+{5:28} Sisera moder såg genom fenstret ut, och gret igenom gallren: Hvi förtöfvar hans vagn så länge, att han icke kommer? Hvi fördröja hans vagns hjul?
+{5:29} De visesta ibland hennes qvinnor svarade, då hon så jämmerliga qvidde:
+{5:30} Skulle de icke finna och byta rof, hvarjom manne en ung pigo eller två till byte; och Sisera brokot stickad kläder till byte, stickad brokot kläder om halsen till byte?
+{5:31} Alltså, Herre, förgånge alle dine fiender; men de som honom kär hafva, de vare såsom uppgångande solen i sine magt. Och landet hade frid i fyratio år.
+{6:1} Och då Israels barn gjorde det ondt var för Herranom, gaf Herren dem under de Midianiters hand i sju år.
+{6:2} Och då de Midianiters hand vardt för stark öfver Israel, gjorde Israels barn sig klyfter i bergen, och kulor, och fäste.
+{6:3} Och när Israel något sådde, så kommo de Midianiter upp, och de Amalekiter, och de af österlanden;
+{6:4} Och lägrade sig emot dem, och förderfvade växten på landet, allt intill Gasa, och läto ingen boskap blifva qvar i Israel, hvarken får, fä eller åsnar.
+{6:5} Förty de kommo ditupp med sinom boskap och tjäll, såsom ett stort tal gräshoppor, så att hvarken de eller deras cameler stodo till att räkna; och de föllo in i landet, på det de skulle förderfva det.
+{6:6} Så vardt Israel mycket försvagad för de Midianiter. Då ropade Israels barn till Herran.
+{6:7} Som de nu ropade till Herran, för de Midianiters skull,
+{6:8} Sände Herren till dem en Prophet; han sade till dem: Detta säger Herren Israels Gud: Jag hafver fört eder utur Egypten, och utu träldomens hus;
+{6:9} Och hafver frälst eder utu de Egyptiers hand, och utur alla deras hand, som eder tvingade, och hafver drifvit dem ut för eder, och gifvit eder deras land;
+{6:10} Och sade till eder: Jag är Herren edar Gud; frukter intet de Amoreers gudar, i hvilkas land I bon. Och I lydden mine röst intet.
+{6:11} Och en Herrans Ängel kom, och satte sig under ena ek i Ophra, hvilken Joas tillhörde, de Esriters fader; och hans son Gideon tröskade hvete i pressen, på det han skulle fly för de Midianiter.
+{6:12} Då syntes honom Herrans Ängel, och sade till honom: Herren vare med dig, du stridsamme hjelte.
+{6:13} Gideon sade till honom: Min Herre, är Herren med oss, hvi vederfars oss då allt detta? Och hvar äro all hans under, som våre fäder hafva förtäljt oss, och sagt: Herren hafver fört oss utur Egypten? Herren hafver nu öfvergifvit oss, och gifvit oss i de Midianiters händer.
+{6:14} Då vände Herren sig till honom, och sade: Gack åstad i denna dine kraft; du skall fria Israel utu de Midianiters händer; si, jag hafver sändt dig.
+{6:15} Han sade till honom: Min Herre, hvarmed skall jag fria Israel? Si, min slägt är den minsta i Manasse, och jag är den svagaste i mins faders hus.
+{6:16} Herren sade till honom: Jag vill vara med dig, så att du skall slå de Midianiter, såsom en man.
+{6:17} Men han sade till honom: Käre, hafver jag funnit nåd för dig, så gif mig ett tecken, att det är du, som talar med mig.
+{6:18} Gack icke hädan, tilldess jag kommer till dig, och bär mitt spisoffer, och lägger det för dig. Han sade: Jag vill blifva, tilldess du kommer igen.
+{6:19} Och Gideon gick, och slagtade ett kid, och tog ett epha osyradt mjöl; och lade kött uti en korg, och lät sådet uti ena kruko, och bar ut till honom under ekena, och gick fram.
+{6:20} Men Guds Ängel sade till honom: Tag köttet, och det osyrada, och lägg det på hälleberget, som här är, och gjut sådet ut. Och han gjorde så.
+{6:21} Då räckte Herrans Ängel käppen ut, som han hade i handene, och kom vid köttet och det osyrada mjölet med käppsändanom; och elden kom utu hällebergena, och förtärde köttet och det osyrada mjölet. Och Herrans Ängel försvann utu hans ögon.
+{6:22} Då nu Gideon såg, att det var en Herrans Ängel, sade han: O! Herre, Herre, hafver jag nu sett en Herrans Ängel ansigte mot ansigte?
+{6:23} Men Herren sade till honom: Frid vare med dig; frukta dig intet, du skall icke dö.
+{6:24} Då byggde Gideon dersammastäds Herranom ett altare, och kallade det fridsens Herre. Det står der ännu på denna dag, i Ophra, de Esriters faders.
+{6:25} Och i den samma nattene sade Herren till honom: Tag en stut ibland oxarna, som dinom fader tillhöra, och en annan stut som sju åra gammal är, och slå sönder Baals altare, som är dins faders, och hugg bort den lunden, som der när står.
+{6:26} Och bygg Herranom dinom Gud ett altare öfverst på desso hällebergena, och red det till; och tag den andra stuten, och offra ett bränneoffer, med veden af lundenom, som du borthuggit hafver.
+{6:27} Då tog Gideon tio män utaf sina tjenare, och gjorde såsom Herren honom sagt hade; men han fruktade sig göra det om dagen, för sins faders hus skull, och för folkens skull i stadenom; utan om nattena gjorde han det.
+{6:28} Då nu folket i staden stodo upp bittida om morgonen, si, då var Baals altare sönderslaget, och lunden der när afhuggen; och den andre stuten för ett bränneoffer lagd på det altaret, som uppbygdt var.
+{6:29} Och den ene sade till den andra: Ho hafver detta gjort? Och då de sökte, och frågade derefter, vardt sagdt: Gideon, Joas son, hafver det gjort.
+{6:30} Då talade folket i staden till Joas: Få oss hitut din son; han måste dö, derföre, att han hafver omkullslagit Baals altare, och afhuggit lunden der när.
+{6:31} Men Joas sade till alla dem som när honom stodo: Viljen I lägga eder ut för Baal? Viljen I fria honom? Den som lägger sig ut för honom, han skall dö i denna morgon. Är han gud, så hämne sig sjelf, att hans altare omkullslaget är.
+{6:32} Ifrå den dagen kallade man honom JerubBaal, och sade: Baal hämne sig sjelf, att hans altare omkullslaget är.
+{6:33} Då församlade sig tillhopa de Midianiter och Amalekiter, och de österländningar, och drogo öfver, och lägrade sig i den dalen Jisreel.
+{6:34} Så iklädde Herrans Ande Gideon, och han lät blåsa i basuner, och kallade AbiEser, att de skulle följa honom;
+{6:35} Och sände bådskap i hela Manasse, och kallade dem, att de skulle ock följa honom; han sände ock bådskap till Asser, och Sebulon, och Naphthali; de kommo upp emot honom.
+{6:36} Och Gideon sade till Gud: Vill du frälsa Israel igenom mina hand, såsom du sagt hafver,
+{6:37} Så vill jag lägga ett skinn med ullone ut på logan; om daggen lägger sig allenast på skinnet, och all marken är torr, så kan jag märka, att du vill frälsa Israel igenom mina hand, såsom du sagt hafver.
+{6:38} Och det skedde så. Och då han den andra morgonen bittida uppstod, tryckte han daggena utu skinnet, och uppfyllde ena skål med det vattnet.
+{6:39} Och Gideon sade till Gud: Din vrede förgrymme sig icke öfver mig, om jag än en tid talar; jag vill än en tid försökat med skinnet; vare nu allena torrt på skinnena, och daggen på allo markene.
+{6:40} Gud gjorde ock så i samma natt, att allena var torrt på skinnet, och dagg uppå allo markene.
+{7:1} Då stod JerubBaal, det är Gideon, bittida upp, och allt folket, som med honom var, och lägrade sig vid den brunnen Harod, så att han hade de Midianiters här norrut, bakföre det berget More i dalenom.
+{7:2} Och Herren sade till Gideon: Folket, som med dig är, är allt för mycket. Om jag gåfve Midian i deras händer, måtte Israels barn berömma sig emot mig, och säga: Min hand hafver frälst mig.
+{7:3} Så låt nu utropa för folkets öron, och säga: Den som rädder är och förfärad, han vände om, och skynde sig af berget Gilead. Då vände folket tillbaka, tu och tjugu tusend, så att icke utan tiotusend blefvo qvara.
+{7:4} Och Herren sade till Gideon: Detta folket är ännu för mycket; haf dem neder till vattnet, der vill jag pröfva dig dem; och om hvilken jag säger dig, att han skall draga med dig, han skall draga med dig; och om hvilken jag säger, att han icke skall draga med dig, han skall icke draga.
+{7:5} Och han hade folket neder till vattnet. Och Herren sade till Gideon: Hvilken som läppjar vattnet med sine tungo, såsom en hund läppjar, honom ställ afsides; desslikes dem som på sin knä nederfalla till att dricka.
+{7:6} Då var deras tal, som med munnen läppjat hade utu handene, trehundrade män; allt det andra folket hade fallit på knä och druckit.
+{7:7} Och Herren sade till Gideon: Med de trehundrade män, som läppjat hafva, vill jag frälsa eder, och gifva de Midianiter i dina händer; men det andra folket låt alltsammans gå hem till sitt.
+{7:8} Och de togo spisning för folket med sig, och sina basuner; men de andra Israeliter lät han alla gå hvar och en i sina hyddo; men han stärkte sig med de trehundrade män; och de Midianiters här låg nedanför honom i dalenom.
+{7:9} Och Herren sade till honom i samma natt: Statt upp, och gack neder till lägret; ty jag hafver gifvit dem i dina händer.
+{7:10} Om du fruktar dig att gå ditneder, så låt din dräng Pura gå ned med dig till lägret;
+{7:11} Att du må få höra hvad de tala; sedan skall du med magt draga neder till lägret. Så gick Gideon med sin dräng Pura neder till det rummet på lägret, der vakten var.
+{7:12} Men de Midianiter och de Amalekiter, och alle österländningarna, hade lägrat sig i dalenom, såsom en hop gräshoppor; och deras cameler stodo icke till att räkna, så månge voro de, såsom sanden på hafsens strand.
+{7:13} Då nu Gideon kom, si, då förtäljde en för dem andra en dröm, och sade: Mig tyckte, att ett bjuggbröd, på glöd bakadt, välte sig intill de Midianiters lägre, och då det kom till tjället, slog det det, och kastade det neder, och vände upp ned uppå thy, så att tjället låg.
+{7:14} Då svarade den andre: Det är icke annat än Gideons svärd, Joas sons, den Israelitens; Gud hafver gifvit de Midianiter i hans händer med hela hären.
+{7:15} Då Gideon nu hörde förtäljas sådana dröm, och hans utläggning, tillbad han, och kom igen i Israels här, och sade: Upp, ty Herren hafver gifvit de Midianiters här uti edra händer.
+{7:16} Och han skifte de trehundrade män i tre delar, och fick hvarjom och enom en basun i sina hand, och tomma krukor, och lampor deruti;
+{7:17} Och sade till dem: Ser på mig, och görer ock så; si, när jag kommer intill hären, såsom jag gör, så görer ock med.
+{7:18} Såsom jag blås i basunen, och alle de som med mig äro, så skolen ock I blåsa i basunen omkring hela hären, och säga: Herren och Gideon.
+{7:19} Så kom Gideon, och hundrade män med honom, till det yttersta på hären, till första väktarena, som der skickade voro och väckte dem upp, och blåste med basunerna, och slogo sönder krukorna i sina händer.
+{7:20} Och så blåste då alle tre hoparna med basunerna, och slogo sönder krukorna; men lamporna höllo de i deras venstra hand, och basunen i deras högra hand, och blåste och ropade: Herrans och Gideons svärd.
+{7:21} Och hvar och en stod på sitt rum, omkring hären. Då begynte hela hären att löpa, ropa och fly.
+{7:22} Och som de trehundrade män blåste i basunerna, gjorde Herren så, att hvars och ens svärd i hela härenom var emot den andra; och hären flydde allt intill BethSittaZereratha, allt intill gränsona åt den slättene Mehola vid Tabbath.
+{7:23} Och de Israels män af Naphthali, af Asser, och af hela Manasse, skriade, och jagade efter de Midianiter.
+{7:24} Och Gideon sände bådskap på hela berget Ephraim, och lät säga dem: Kommer neder emot de Midianiter, och kommer förr än de till vattnet, intill BethBara och Jordan. Så ropade alle de som af Ephraim voro, och kommo förr än de till vattnet, intill BethBara och Jordan.
+{7:25} Och de fingo fatt på två de Midianiters Förstar, Oreb och Seeb; och dråpo Oreb på det hälleberget Oreb, och Seeb i Seebs press; och jagade de Midianiter; och båro Orebs och Seebs hufvud till Gideon öfver Jordan.
+{8:1} Och de män af Ephraim sade till honom: Hvi gjorde du oss detta, att du icke kallade oss, då du drog till strids emot de Midianiter? Och kifvade svårliga på honom.
+{8:2} Men han sade till dem: Hvad hafver jag nu gjort, det edro gerning liknas kan? Är icke en vinqvist Ephraims bättre, än hela AbiEsers vinbergning?
+{8:3} Gud hafver gifvit i edra händer de Midianiters Förstar Oreb och Seeb. Huru skulle jag kunnat det gjort, som I gjort hafven? Då han detta sade, stillades deras vrede emot honom.
+{8:4} Då nu Gideon kom till Jordan, gick han deröfver med trehundrade män, som med honom voro; och de voro trötte, och jagade efter.
+{8:5} Och han sade till det folket i Succoth: Käre, gif detta folket, som under mig är, något bröd, förty de äro trötte; att jag måtte jaga efter de Midianiters Konungar, Sebah och Zalmunna.
+{8:6} Men de öfverste i Succoth sade: Äro Sebahs och Zalmunna händer allaredo i dina händer, att vi ju skole gifva dinom här bröd?
+{8:7} Gideon sade: Nu väl, när Herren gifver Sebah och Zalmunna i mina hand, skall jag söndertröska edart kött med törne utur öknene, och med tistlar.
+{8:8} Och han drog dädan upp till Pnuel, och talade sammalunda till dem. Och det folket i Pnuel svarade honom lika som de i Succoth.
+{8:9} Och han sade ock till det folket i Pnuel: Kommer jag igen i frid, så skall jag bryta detta tornet neder.
+{8:10} Men Sebah och Zalmunna voro i Karkor, och deras här när dem, vid femtontusend, hvilke alle voro undsluppne af hela de österländningars här; ty tjugu och hundrade tusend voro fallne, som svärd utdraga kunde.
+{8:11} Och Gideon drog uppåt på den vägen, der man i tjäll bor, österut in mot Nobah och Jogbeha, och slog hären; ty hären var trygg.
+{8:12} Och Sebah och Zalmunna flydde; men han jagade efter dem, och grep de två Midianiters Konungar, Sebah och Zalmunna, och förskräckte hela hären.
+{8:13} Då nu Gideon, Joas son, kom igen af stridene, förr än solen uppgången var,
+{8:14} Fick han fatt på en dräng utaf det folket i Succoth, och frågade honom; han skref honom upp de öfversta i Succoth, och deras äldsta, sju och sjutio män.
+{8:15} Och han kom till det folket i Succoth, och sade: Si, här äro Sebah och Zalmunna, om hvilka I bespottaden mig, och saden: Är då allaredo Sebahs och Zalmunna hand uti dina händer, att vi ju skole gifva dino folke, som trött är, bröd?
+{8:16} Och han tog de äldsta af staden, och törne utaf öknene och tistlar, och lät dermed sönderslita det folket i Succoth.
+{8:17} Och tornet i Pnuel bröt han neder, och slog ihjäl folket i stadenom.
+{8:18} Och till Sebah och Zalmunna sade han: Hurudana voro de män, som I slogen ihjäl i Thabor? De sade: De voro sådana som du, och dägelige såsom ens Konungs barn.
+{8:19} Han sade: De voro mine bröder, mine moders söner; så sant som Herren lefver, om I haden låtit dem lefva, skulle jag icke aflifva eder;
+{8:20} Och sade till sin förstfödda son Jether: Statt upp, och dräp dem. Men drängen drog sitt svärd icke ut; ty han fruktade sig, efter han var ännu en ung dräng.
+{8:21} Då sade Sebah och Zalmunna: Statt du upp, och slå oss; ty efter som mannen är, så är ock hans magt. Så stod Gideon upp, och slog ihjäl Sebah och Zalmunna, och tog de spänger, som voro på deras camelers halsar.
+{8:22} Då sade till Gideon någre af Israel: Var herre öfver oss, du och din son, och dins sons son, efter du hafver frälst oss ifrå de Midianiters hand.
+{8:23} Men Gideon sade till dem: Jag vill ingen herre vara öfver eder, och min son skall icke heller vara herre öfver eder; utan Herren skall vara herre öfver eder.
+{8:24} Och Gideon sade till dem: Ett begärar jag af eder, hvar och en gifve mig de örnaringar, som han röfvat hafver; förty, efter de voro Ismaeliter, hade de gyldene örnaringar.
+{8:25} De sade: Dem vilje vi gifva; och bredde ett kläde ut, och hvar och en kastade örnaringarna deruppå, som han röfvat hade.
+{8:26} Och de gyldene örnaringarna, som han hade begärat, gjorde till vigt tusende sjuhundrade siklar guld; förutan de spänger, kedjor och skarlakanskläder, som de Midianiters Konungar plägade bära, och förutan deras camelers halsband.
+{8:27} Och Gideon gjorde der en lifkjortel af, och satte honom i sin stad Ophra; och hela Israel bedref der hor uppå; och det vardt Gideon och hans huse till förargelse.
+{8:28} Alltså vordo de Midianiter förnedrade för Israels barn, och hofvo sitt hufvud icke mer upp; och landet var stilla i fyratio år, så länge Gideon lefde.
+{8:29} Och JerubBaal, Joas son, gick bort, och bodde i sitt hus.
+{8:30} Och Gideon hade sjutio söner, som utaf hans länder komne voro; ty han hade många hustrur.
+{8:31} Och hans frilla, den han hade i Sichem, födde honom ock en son; hans namn kallade han AbiMelech.
+{8:32} Och Gideon, Joas son, blef död i godom ålder, och vardt begrafven i sins faders Joas graf, i Ophra, de Esriters faders.
+{8:33} Då Gideon var död, vände Israels barn om, och bedrefvo hor efter Baalim, och gjorde BaalBerith sig till en gud.
+{8:34} Och Israels barn kommo intet Herran deras Gud ihåg, den dem frälsat hade ifrån allas deras fiendars hand allt omkring.
+{8:35} Och de gjorde ingen barmhertighet med JerubBaals Gideons huse, efter allt det goda, som han emot Israel gjort hade.
+{9:1} Men AbiMelech, JerubBaals son, gick bort till Sichem till sina moders bröder, och talade med dem, och med hela slägtene af hans moderfaders hus, och sade:
+{9:2} Käre, taler för alla mäns öron i Sichem: Hvilket är eder bättre, att sjutio män, alle JerubBaals barn, blifva herrar öfver eder, eller en man blifver herre öfver eder? Kommer ock dertillmed ihåg, att jag är edart ben och kött.
+{9:3} Då talade hans moders bröder all dessa orden om honom, för alla mäns öron i Sichem; och deras hjerta bevektes efter AbiMelech; ty de tänkte: Han är vår broder;
+{9:4} Och gåfvo honom sjutio silfpenningar utur BaalBeriths huse; och AbiMelech lejde sig dermed lösaktiga och lättfärdiga män, som honom följde efter.
+{9:5} Och han kom i sins faders hus i Ophra, och slog sina bröder, JerubBaals söner, sjutio män, ihjäl på enom sten; men Jotham, den yngste sonen JerubBaals, blef igen; ty han vardt undstungen.
+{9:6} Och sig församlade alle män af Sichem, och hela Millo hus; och gingo till, och gjorde AbiMelech till Konung vid den höga ekena, som stod i Sichem.
+{9:7} Då detta var sagdt Jotham, gick han bort, och stod öfverst på Grisims berg, och hof sin röst upp, ropade, och sade till dem: Hörer mig, I män af Sichem, att Gud ock hörer eder.
+{9:8} Trän gingo till och skulle smörja öfver sig en Konung, och sade till oljoträt: Var vår Konung.
+{9:9} Men oljoträt svarade dem: Skulle jag öfvergifva min fetma, hvilken både Gud och menniskor prisa i mig, och gå bort, och uppsättas öfver trän?
+{9:10} Då sade trän till fikonträt: Kom du, och var Konung öfver oss.
+{9:11} Men fikonträt sade till dem: Skulle jag öfvergifva min sötma och mina goda frukt, och gå bort, och uppsättas öfver trän?
+{9:12} Då sade trän till vinträt: Kom du, och var vår Konung.
+{9:13} Men vinträt sade till dem: Skulle jag öfvergifva min must, den Gud och menniskor glada gör, och gå bort, och uppsättas öfver trän?
+{9:14} Då sade all trän till törnebuskan: Kom du, och var Konung öfver oss.
+{9:15} Och törnebusken sade till trän: Är det sant, att I viljen smörja mig till Konung öfver eder, så kommer, och betror eder under min skugga; hvar I icke viljen, så gånge en eld utu törnebuskan, och förtäre cedreträn i Libanon.
+{9:16} Hafven I nu gjort rätt och redeliga, att I hafven gjort AbiMelech till Konung; och hafven I gjort väl emot JerubBaal och hans hus; och hafven så gjort emot honom som han förtjent hafver;
+{9:17} Att min fader för edra skull stridde, och vågade sin själ, derföre att han skulle frälsa eder ifrå de Midianiters hand;
+{9:18} Och hafven uppsatt eder i denna dag emot mins faders hus, och slagit hans söner ihjäl, sjutio män på en sten, och gjort eder till Konung AbiMelech, hans tjensteqvinnos son, öfver de män i Sichem, efter han edar broder är;
+{9:19} Hafven I nu gjort rätt och redeliga emot JerubBaal och hans hus på denna dag, så varer glade öfver AbiMelech, och han vare glad öfver eder.
+{9:20} Hvar ock icke, så gånge en eld utaf AbiMelech, och förtäre de män af Sichem, och af Millo hus; och gånge desslikes ut en eld af de män i Sichem, och af Millo hus, och förtäre AbiMelech.
+{9:21} Och Jotham flydde, och undvek, och gick till Ber, och bodde der, för hans broders AbiMelechs skull.
+{9:22} Då nu AbiMelech hade rådit öfver Israel i tre år,
+{9:23} Sände Gud en ondan vilja emellan AbiMelech och de män af Sichem; förty de män af Sichem förtalade AbiMelech,
+{9:24} Och kastade honom före den ogerning, som han bedref på de sjutio JerubBaals söner, och lade deras blod på AbiMelech deras broder, den dem ihjälslog; och på de män i Sichem, som honom hans hand dertill styrkt hade, att han sina bröder drap.
+{9:25} Och de män i Sichem beställde ett bakhåll öfverst på bergen, och röfvade på vägenom alla de som foro der fram; och det vardt bådadt AbiMelech.
+{9:26} Så kom Gaal, Ebeds son, och hans bröder, och gingo in i Sichem; och de män i Sichem förläto sig uppå honom;
+{9:27} Och drogo ut på markena, och bergde sina vingårdar, och trampade der, och gjorde en dans, och gingo uti deras guds hus, och åto och drucko, och bannade AbiMelech.
+{9:28} Och Gaal, Ebeds son, sade: Hvad är AbiMelech? Och hvad är Sichem, att vi honom tjena skole? Är icke han JerubBaals son, och hafver satt sin tjenare Sebul hit öfver Hemors folk, Sichems faders? Hvi skulle vi tjena honom?
+{9:29} Gud gifve, att detta folket vore under mine hand, att jag måtte förjaga AbiMelech. Och det vardt sagdt AbiMelech: Föröka din här, och drag ut.
+{9:30} Förty Sebul, öfversten i stadenom, då han hörde Gaals, Ebeds sons ord, vardt han illa vred;
+{9:31} Och sände bådskap till AbiMelech hemliga, och lät säga honom: Si, Gaal, Ebeds son, och hans bröder, äro komne till Sichem, och göra dig staden genstörtigan;
+{9:32} Så statt nu upp om natten, du och ditt folk, som när dig är, och var i bakhåll för dem i markene.
+{9:33} Och i morgonstundene, när solen uppgår, så var bittida uppe, och fall till staden; och när han och det folk, som med honom är, draga ut till dig, så gör med dem såsom din hand finna kan.
+{9:34} AbiMelech stod upp om nattena, och allt folket, som med honom var, och satte bakhåll inför Sichem med fyra skarar.
+{9:35} Och Gaal, Ebeds son, drog ut för stadsporten; men AbiMelech reste upp utaf bakhållet, med det folk som med honom var.
+{9:36} Då nu Gaal såg folket, sade han till Sebul: Si, der kommer en hop folk neder af bergshöjdene. Sebul sade: Du ser skuggan af bergen, likasom det vore menniskor.
+{9:37} Gaal talade än en tid, och sade: Si, der kommer en hop folk neder midt utaf landet; och en här kommer på den vägen till trollareekena.
+{9:38} Då sade Sebul till honom: Hvar är nu din mun, som sade: Ho är AbiMelech, att vi honom tjena skole? Är icke nu detta det folk, som du föraktat hafver? Drag nu ut, och strid med honom.
+{9:39} Gaal drog ut med Sichems folk, och stridde med AbiMelech.
+{9:40} Men AbiMelech jagade honom, så att han flydde för honom; och månge föllo slagne allt intill stadsporten.
+{9:41} Och AbiMelech blef i Aruma; men Sebul dref Gaal och hans bröder ut, så att de icke måtte blifva i Sichem.
+{9:42} Om morgonen gick folket ut på markena; och det vardt sagdt AbiMelech.
+{9:43} Och han tog folket, och skifte det i tre delar, och beställde håll på dem i markene. Som han nu såg, att folket gick utu stadenom, föll han till dem, och slog dem.
+{9:44} Men AbiMelech med den hopen, som med honom var, föllo till, och trädde intill stadsporten; de andre två hoparna föllo till alla dem som på markene voro, och slogo dem.
+{9:45} Då stridde AbiMelech emot staden den hela dagen, och vann honom; och drap det folk, som derinne var, och slog staden neder, och sådde salt deruppå.
+{9:46} När de män, som i Sichems torn bodde, detta hörde, gingo de in uti ett fäste i den gudens Beriths hus.
+{9:47} Då AbiMelech det hörde, att alle de män af Sichems torn voro församlade,
+{9:48} Gick han på det berget Zalmon med allt sitt folk, som med honom var; och tog ena yxa i sin hand, och högg en gren af ett trä, och lade på sin axel, och sade till allt folket, som med honom var: Hvad I sågen att jag gjorde, det görer ock I med hast såsom jag.
+{9:49} Då högg allt folket hvar i sin stad en gren af, och följde AbiMelech efter, och kastade dem intill fästet, och tände der eld uppå; så att alle de män af Sichems torn blefvo döde, vid tusend män och qvinnor.
+{9:50} Och AbiMelech drog till Thebez, och belade det, och vann det.
+{9:51} Men der var ett starkt torn midt i stadenom, på hvilket flydde alle, både män och qvinnor, och alle stadsens inbyggare, och läste igen efter sig, och stego upp på taket af tornet.
+{9:52} Då kom AbiMelech intill tornet, och stridde deremot, och kom sig intill porten af tornet, på det han skulle tända der eld uppå;
+{9:53} Men en qvinna kastade ett stycke af en qvarnsten ned på AbiMelechs hufvud, och slog honom hufvudskålena sönder.
+{9:54} Då kallade AbiMelech drängen, som hans värja drog, hasteliga, och sade till honom: Drag ut ditt svärd, och dräp mig, att man icke skall säga: En qvinna slog honom ihjäl. Så stack hans dräng honom igenom, och han blef död,
+{9:55} Då nu de Israeliter, som med honom voro, sågo att AbiMelech var död, gick hvar och en hem till sin ort.
+{9:56} Alltså betalade Gud AbiMelech det onda, som han emot sin fader gjort hade, då han drap sina sjutio bröder;
+{9:57} Desslikes allt det onda, som de män af Sichem gjorde, betalade dem Gud på deras hufvud; och öfver dem kom Jothams förbannelse, JerubBaals sons.
+{10:1} Efter AbiMelech kom upp en annan frälsare i Israel, Thola, en man af Isaschar, Puahs son, Dodo sons; och han bodde i Samir på Ephraims berg.
+{10:2} Och han dömde Israel i tre och tjugu år, och blef död, och vardt begrafven i Samir.
+{10:3} Efter honom kom upp Jair, en Gileadit, och han dömde Israel i tu och tjugu år.
+{10:4} Och han hade tretio söner, ridande på tretio åsnafålar, och hade tretio städer, de kallades HavothJair allt intill denna dag, och ligga i Gilead.
+{10:5} Och Jair blef död, och vardt begrafven i Kamon.
+{10:6} Men Israels barn gjorde åter det ondt var för Herranom; och tjente Baalim och Astaroth, och de gudar i Syria, och de gudar i Zidon, och Moabs gudar, och Ammons barnas gudar, och de Philisteers gudar, och öfvergåfvo Herran, och tjente honom intet.
+{10:7} Då förgrymmade sig Herrans vrede öfver Israel, och sålde dem under de Philisteers och Ammons barnas hand.
+{10:8} Och de tvingade och förtryckte Israels barn, ifrå det året, i aderton år; alla Israels barn på hinsidon Jordan, uti de Amoreers lande, som i Gilead ligger.
+{10:9} Dertill drogo Ammons barn öfver Jordan, och stridde emot Juda, BenJamin, och emot Ephraims hus, så att Israel vardt ganska svårliga förtryckt.
+{10:10} Då ropade Israels barn till Herran, och sade: Vi hafve syndat emot dig; ty vi hafve öfvergifvit vår Gud, och tjent Baalim.
+{10:11} Men Herren sade till Israels barn: Betvingade ock icke eder de Egyptier, de Amoreer, Ammons barn, de Philisteer,
+{10:12} De Zidonier, de Amalekiter och Maoniter? Och jag halp eder utu deras händer, då I ropaden till mig.
+{10:13} Så hafven I dock likaväl öfvergifvit mig, och tjent andra gudar; derföre vill jag intet mer hjelpa eder.
+{10:14} Går och åkaller de gudar, som I utvalt hafven; låter dem hjelpa eder uti edor bedröfvelses tid.
+{10:15} Men Israels barn sade till Herran: Vi hafve syndat; gör du med oss hvad dig täckes, allenast hjelp oss i denna tiden.
+{10:16} Och de kastade ifrå sig de främmande gudar, och tjente Herranom; och honom ömkade deröfver, att Israel så tvingad vardt.
+{10:17} Och Ammons barn slogo sig ihop, och lägrade sig i Gilead; men Israels barn församlade sig, och lägrade sig i Mizpa.
+{10:18} Och folket, de öfverste i Gilead, sade emellan sig: Hvilken som först begynner till att strida emot Ammons barn, han skall vara höfvitsman öfver alla de som bo i Gilead.
+{11:1} Jephthah, en Gileadit, var en stridsam hjelte, dock likväl enes skökos son; och Gilead hade födt Jephthah.
+{11:2} Men då Gileads hustru födde honom barn, och de samma barn vordo stor, drefvo de Jephthah ut, och sade till honom: Du skall intet arf taga i vårs faders huse; ty du äst ens annors qvinnos son.
+{11:3} Då flydde han för sina bröder, och bodde i det landet Tob; och till honom församlade sig lösaktige män, och drogo ut med honom.
+{11:4} Och någon tid derefter stridde Ammons barn med Israel.
+{11:5} Då nu Ammons barn så stridde med Israel, gingo de äldste af Gilead bort, till att hemta Jephthah utu Tobs lande;
+{11:6} Och sade till honom: Kom, och var vår höfvitsman, att vi måge strida emot Ammons barn.
+{11:7} Men Jephthah sade till de äldsta af Gilead: Ären icke I de som mig haten, och hafven drifvit mig utu mins faders hus, och nu kommen I till mig, medan I ären i bedröfvelse?
+{11:8} De äldste i Gilead sade till Jephthah: Derföre komme vi nu igen till dig, att du skall gå med oss, och hjelpa oss strida emot Ammons barn; och vara vår höfvitsman öfver alla de som bo i Gilead.
+{11:9} Jephthah sade till de äldsta i Gilead: Om I hemten mig igen till att strida emot Ammons barn, och Herren gifver dem för mig, skall jag då vara edar höfvitsman?
+{11:10} De äldste af Gilead sade till Jephthah: Herren vare tillhörare emellan oss, om vi icke göre som du sagt hafver.
+{11:11} Alltså gick då Jephthah med de äldsta af Gilead, och folket satte honom för höfvitsman och öfversta öfver sig; och Jephthah talade allt detta inför Herranom i Mizpa.
+{11:12} Då sände Jephthah bådskap till Konungen öfver Ammons barn, och lät säga honom: Hvad hafver du med mig att skaffa, att du kommer emot mig, till att strida emot mitt land?
+{11:13} Konungen öfver Ammons barn svarade Jephthas bådskap: Derföre, att Israel hafver tagit bort mitt land, då de drogo utur Egypten, allt ifrån Arnon intill Jabbok, och allt intill Jordan; så få mig nu det igen med frid.
+{11:14} Jephthah sände åter bådskap till Ammons barnas Konung;
+{11:15} Och lät säga honom: Så säger Jephthah: Israel hafver intet land borttagit, antingen ifrå de Moabiter, eller ifrån Ammons barn;
+{11:16} Förty när de drogo utur Egypten, vandrade Israel genom öknena allt intill röda hafvet, och kom till Kades;
+{11:17} Och sände bådskap till de Edomeers Konung, och sade: Låt mig draga igenom ditt land; men de Edomeers Konung tillstadde dem intet. Och sände han båd till Konungen öfver de Moabiter; han ville icke heller tillstädjat. Så blef Israel i Kades;
+{11:18} Och vandrade i öknene, och drog omkring de Edomeers och Moabiters land, och kom östan på de Moabiters land, och lägrade sig på hinsidon Arnon; och kom intet in uti de Moabiters landsändar; ty Arnon är de Moabiters landamäre.
+{11:19} Och Israel sände båd till Sihon, de Amoreers Konung, i Hesbon, och sade: Låt oss draga igenom ditt land in till mitt rum.
+{11:20} Men Sihon betrodde icke Israel, att han skulle draga igenom hans landsändar; utan församlade allt sitt folk, och lägrade sig i Jahza, och stridde med Israel.
+{11:21} Men Herren Israels Gud gaf Sihon, med allt hans folk, i Israels händer, så att de slogo dem; alltså tog Israel in allt de Amoreers land, som då i samma land bodde;
+{11:22} Och togo alla de Amoreers landsändar in, ifrån Arnon allt intill Jabbok, och ifrån öknene intill Jordan.
+{11:23} Så hafver nu Herren Israels Gud fördrifvit de Amoreer för sino folke Israel; och du vill nu taga dem in.
+{11:24} Hafver din gud Chemos några fördrifvit, dem må du intaga, och låta oss intaga alla dem som Herren vår Gud för oss fördrifvit hafver.
+{11:25} Menar du, att du bättre rätt hafver, än Balak, Zipors son, de Moabiters Konung? Trätte icke han och stridde emot Israel?
+{11:26} Så ändock Israel nu i trehundrad år bott hafver i Hesbon och dess döttrar, i Aroer och dess döttrar, och i alla städer, som ligga vid Arnon; hvi friaden I det icke på den tiden?
+{11:27} Jag hafver intet brutit emot dig, och du gör så illa emot mig, att du strider emot mig. Herren döme i dag emellan Israel och Ammons barn.
+{11:28} Men Ammons barnas Konung skötte intet efter de Jephthahs ord, som han böd honom till.
+{11:29} Då kom Herrans Ande öfver Jephthah, och han drog igenom Gilead och Manasse, och igenom Mizpe, som i Gilead ligger, och ifrå Mizpe, som i Gilead ligger, inpå Ammons barn.
+{11:30} Och Jephthah lofvade Herranom ett löfte, och sade: Gifver du Ammons barn i mina hand;
+{11:31} Hvad som helst utu mins hus dörr kommer emot mig, när jag med frid igenkommer ifrån Ammons barn, det skall höra Herranom till; och jag skall offra det till bränneoffer.
+{11:32} Så drog Jephthah in på Ammons barn till att strida på dem; och Herren gaf dem i hans händer.
+{11:33} Och han slog dem, allt ifrån Aroer intilldess man kommer till Minnith, tjugu städer, och intill vingårdaplatsen, en mägtig stor slagtning. Och vordo så Ammons barn nedtryckte för Israels barn.
+{11:34} Då nu Jephthah kom till Mizpa till sitt hus, si, då gick hans dotter ut emot honom, med pipande och dansande, och hon var enda barn, och han hade eljest ingen son eller dotter.
+{11:35} Och som han fick se henne, ref han sin kläder, och sade: Aj! min dotter, du gör mig en hjertans sorg, och bedröfvar mig; ty jag hafver öppnat min mun inför Herranom, och kan icke kalla det tillbaka.
+{11:36} Men hon sade: Min fader, hafver du öppnat din mun inför Herranom, så gör med mig såsom utaf din mun gånget är, efter Herren hafver hämnats på dina fiendar. Ammons barn.
+{11:37} Och hon sade till sin fader: Allenast beder jag dig om ett, att du unner mig två månader, att jag går neder på bergen, och begråter min jungfrudom med mina leksystrar.
+{11:38} Han sade: Gack; och lät henne gå i två månader. Så gick hon bort med sina leksystrar, och begret sin jungfrudom på bergen.
+{11:39} Och efter två månader kom hon igen till sin fader, och han gjorde henne såsom han lofvat hade; och hon hade intet skaffa haft med någrom man.
+{11:40} Och en sedvänja kom upp i Israel, att Israels döttrar gingo årliga till, och begreto Jephthahs den Gileaditens dotter, fyra dagar om året.
+{12:1} Och de af Ephraim skriade, och gingo norrut, och sade till Jephthah: Hvi drogst du i strid emot Ammons barn, och kallade icke oss, att vi hade mått dragit med dig? Vi vilje uppbränna ditt hus med dig i elde.
+{12:2} Jephthah sade till dem: Jag och mitt folk hade en stor sak med Ammons barn; och jag kallade på eder, men I hulpen mig intet utu deras händer.
+{12:3} Då jag nu såg, att ingen frälsare på färde var, satte jag mina själ i mina hand, och drog åstad emot Ammons barn, och Herren gaf dem i mina hand. Hvi kommen I nu hitupp till mig, till att strida emot mig?
+{12:4} Och Jephthah församlade alla män i Gilead, och stridde emot Ephraim; och de män i Gilead slogo Ephraim, derföre, att de sade: Ären I dock, I Gileaditer, ibland Ephraim och Manasse, såsom de der af Ephraim beskyddas måste?
+{12:5} Och de Gileaditer togo in Jordans färjostad för Ephraim. När de nu sade: Vi äre ock de beskyddade af Ephraim, låt mig fara öfver; så sade de män af Gilead till honom: Äst du en Ephrait? När han nu svarade nej,
+{12:6} Så bådo de honom säga Schibboleth; så sade han Sibboleth, och kunde icke rätt säga det ut. Så togo de honom fatt, och dråpo honom vid färjostaden åt Jordan; så att på den tiden föllo af Ephraim tu och fyratio tusend.
+{12:7} Och Jephthah dömde Israel i sex år. Och Jephthah den Gileaditen blef död, och vardt begrafven i de städer i Gilead.
+{12:8} Efter dessom dömde Ibzan af BethLehem Israel.
+{12:9} Han hade tretio söner, och tretio döttrar gifte han ut, och tretio döttrar tog han utanefter till sina söner; och dömde Israel i sju år;
+{12:10} Och blef död, och blef begrafven i BethLehem.
+{12:11} Efter dessom dömde Israel Elon, en Sebulonit, och dömde Israel i tio år;
+{12:12} Och blef död, och vardt begrafven i Ajalon, uti Sebulons land.
+{12:13} Efter dessom dömde Israel Abdon, Hillels son, en Pirgathonit.
+{12:14} Han hade fyratio söner, och tretio sonasöner, som på sjutio åsnafålar redo. Han dömde Israel i åtta år;
+{12:15} Och blef död, och vardt begrafven i Pirgathon uti Ephraims lande, på de Amalekiters berg.
+{13:1} Och Israels barn gjorde åter det ondt var för Herranom; och Herren gaf dem uti de Philisteers händer i fyratio år.
+{13:2} Men en man var i Zorga utaf Dans slägte, benämnd Manoah, och hans hustru var ofruktsam, och födde intet.
+{13:3} Och Herrans Ängel syntes hustrune, och sade till henne: Si, du äst ofruktsam, och föder intet; men du skall varda hafvandes, och föda en son.
+{13:4} Så vakta dig nu, att du icke dricker vin, eller starka drycker, och att du intet orent äter;
+{13:5} Ty du skall varda hafvandes, och föda en son, hvilkom ingen rakoknif skall komma på hufvudet; förty den pilten skall vara en Guds Nazir utaf moderlifvet; och han skall begynna till att frälsa Israel utu de Philisteers hand.
+{13:6} Då kom qvinnan, och talade med sin man och sade: En Guds man kom till mig, och han var till seendes såsom en Guds Ängel, ganska förskräcklig; så att jag intet frågade honom hvadan han var, eller hvart han ville; och han sade mig intet hur han het.
+{13:7} Men han sade till mig; Si, du skall varda hafvandes, och föda en son; så drick nu intet vin, eller starka drycker, och ät intet orent; förty pilten skall vara en Guds Nazir, ifrå moderlifvet allt intill hans död.
+{13:8} Då bad Manoah Herran, och sade: Ack! Herre, låt den Guds mannen åter komma till oss, den du utsändt hafver, att han må lära oss, hvad vi skole göra med piltenom, som födas skall.
+{13:9} Och Gud hörde Manoahs röst; och Guds Ängel kom igen till qvinnona; och hon satt på markene, och hennes man Manoah var icke när henne.
+{13:10} Då lopp hon hasteliga, och underviste det sinom man, och sade till honom: Si, den mannen hafver synts mig, som i dag kom till mig.
+{13:11} Manoah stod upp, och följde qvinnona efter, och kom till mannen, och sade till honom: Äst du den mannen, som talade med qvinnone? Han sade: Ja.
+{13:12} Och Manoah sade: När nu sker såsom du sagt hafver, hurudana skola piltens seder och gerning vara?
+{13:13} Herrans Ängel sade till Manoah: Han skall vakta sig för allt det som jag qvinnone sagt hafver.
+{13:14} Han skall icke äta hvad utaf vinträ kommet är, och skall intet vin dricka, eller starka drycker, och äta intet orent; allt det jag henne budit hafver, skall han hålla.
+{13:15} Manoah sade till Herrans Ängel: Käre, låt oss behålla dig här, vi vilje tillreda dig ett kid af getterna.
+{13:16} Men Herrans Ängel svarade Manoah: Om du än behåller mig, så äter jag dock intet utaf ditt bröd; men vill du göra Herranom ett bränneoffer, så må du det offra; ty Manoah visste icke, att det var en Herrans Ängel.
+{13:17} Och Manoah sade till Herrans Ängel: Huru heter du, att vi dig prisa måge, när du kommer såsom du sagt hafver?
+{13:18} Herrans Ängel sade till honom: Hvi frågar du efter mitt Namn, det dock underligit är?
+{13:19} Då tog Manoah ett kid af getterna och spisoffer, och lade det på en sten Herranom; och han gjorde det underliga; och Manoah med hans hustru sågo deruppå.
+{13:20} Och då lågen uppgick af altaret åt himmelen, för Herrans Ängel ock upp i altarens låga. Då Manoah och hans hustru det sågo, föllo de neder till jordena på sitt ansigte.
+{13:21} Och Herrans Ängel syntes intet mer Manoah och hans hustru. Så förnam Manoah, att det var en Herrans Ängel;
+{13:22} Och sade till sina hustru: Vi måste döden dö, att vi hafve sett Gud.
+{13:23} Men hans hustru svarade honom: Om Herren hade velat dräpa oss, så hade han icke anammat bränneoffret och spisoffret af våra händer, och hade icke tett oss allt detta, ej heller låtit oss detta höra, såsom nu skedt är.
+{13:24} Och qvinnan födde en son, och kallade honom Simson; och pilten växte, och Herren välsignade honom.
+{13:25} Och Herrans Ande begynte till att vara med honom, uti Dans lägre, emellan Zorga och Esthaol.
+{14:1} Simson gick ned till Thimnath, och såg ena qvinno i Thimnath, utaf de Philisteers döttrar.
+{14:2} Och då han uppkom, underviste han det sinom fader och sine moder, och sade: Jag hafver sett ena qvinno i Thimnath, utaf de Philisteers döttrar; käre, gifver mig henne till hustru.
+{14:3} Hans fader och moder sade till honom: Är nu ingen qvinna ibland dina bröders döttrar, och i allt mitt folk, att du går bort, och tager dig hustru när de Philisteer, som oomskorne äro? Simson sade till sin fader: Gif mig denna; ty hon behagar min ögon.
+{14:4} Men hans fader och moder visste icke, att det var af Herranom; ty han sökte tillfälle emot de Philisteer; och de Philisteer rådde på den tiden öfver Israel.
+{14:5} Så gick Simson neder med sinom fader och sine moder till Thimnath; och som de kommo till vingårdarna vid Thimnath, si, då kom ett ungt lejon rytandes emot honom.
+{14:6} Och Herrans Ande föll öfver honom, och han ref det sönder i stycker, såsom man hade sönderrifvit ett kid, och hade dock platt intet i handene; och sade icke sinom fader eller sine moder, hvad han gjort hade.
+{14:7} Då han nu kom ditneder, talade han med qvinnone, och hon behagade Simson i hans ögon.
+{14:8} Och några dagar derefter kom han igen till att taga henne, och gick af vägenom till att bese aset af lejonet; si, då var en bisvärm i aset af lejonet, och hannog.
+{14:9} Och han tog det i sina hand, och åt deraf i vägenom, och gick till sin fader och till sina moder, och gaf dem, så att de ock åto; men han sade dem intet deraf, att han hade tagit hannogen utaf lejonets as.
+{14:10} Och då hans fader kom ditneder till qvinnona, gjorde Simson der bröllop, såsom unga män pläga göra.
+{14:11} Och då de sågo honom, fingo de honom tretio stallbröder, som skulle vara när honom.
+{14:12} Men Simson sade till dem: Jag vill sätta eder ena gåto före; om I det utgäten, och råken rätt i dessa sju bröllopsdagar, så vill jag gifva eder tretio skjortor, och tretio högtidskläder.
+{14:13} Men kunnen I icke utråda henne, så skolen I gifva mig tretio skjortor och tretio högtidskläder. Och de sade till honom: Sätt fram dina gåto, låt oss höra henne.
+{14:14} Han sade till dem: Af fråssarenom utgick mat, och sötme utaf dem starka. Och de kunde i tre dagar icke råka uppå gåtona.
+{14:15} På sjunde dagen talade de till Simsons hustru: Locka för dinom man, att han utsäger oss gåtona, eller vi skole bränna dig och dins faders hus upp i eld; hafven I budit oss hit, till att göra oss fattiga?
+{14:16} Då gret Simsons hustru för honom, och sade: Du äst mig vred, och hafver mig icke kär; du hafver gifvit mins folks barnom ena gåto före, och hafver icke utsagt mig henne. Han sade till henne: Si, jag hafver icke utsagt henne minom fader, eller mine moder; skulle jag nu sägat för dig?
+{14:17} Och hon gret i de sju dagar för honom, medan bröllopet stod. På sjunde dagen sade han henne det, ty hon låg honom så hårdt uppå; och hon sade gåtona för sins folks barnom.
+{14:18} Då sade de män af stadenom till honom på sjunde dagen, förra än solen gick neder: Hvad är sötare än hannogen; hvad är starkare än lejonet? Han sade till dem: Om I icke haden plöjt med minom kalf, I haden icke råkat på mina gåto.
+{14:19} Och Herrans Ande föll på honom, och han gick neder till Askelon, och slog tretio män af dem, och tog deras kläder, och gaf högtidskläder dem som gåtona på råkat hade; och vardt ganska vred, och gick upp i sin faders hus.
+{14:20} Men Simsons hustru vardt gifven enom hans stallbroder, den honom tillydde.
+{15:1} Och det begaf sig efter några dagar, om hveteandene, att Simson sökte sina hustru med ett kid af getterna; och som han tänkte: Jag vill gå till mina hustru i kammaren, ville hennes fader icke låta honom in;
+{15:2} Och sade: Jag mente att du hade varit henne vred vorden, ty hafver jag gifvit henne dinom stallbroder; men hon hafver ena yngre syster, hon är dägeligare än hon, tag henne för desso.
+{15:3} Då sade Simson till honom: Jag hafver en gång en rättfärdig sak emot de Philisteer; jag skall göra eder skada.
+{15:4} Och Simson gick bort, och fick trehundrade räfvar, och tog brandar, och vände ju en stjert emot den andra, och satte ju en brand emellan två stjertar;
+{15:5} Och tände eld på dem, och släppte dem uti de Philisteers säd, och brände upp kärfvarna med den ståndande sädene, och vingårdarna, och oljoträn.
+{15:6} Då sade de Philisteer: Ho hafver detta gjort? Då sades: Simson den Thimnitens måg, derföre att han hafver tagit honom hans hustru ifrå, och gifvit henne hans stallbroder. Då foro de Philisteer upp, och brände upp både henne och hennes fader i eld.
+{15:7} Men Simson sade till dem: Jag låter eder det göra; jag vill ändå hämna mig på eder, och sedan vara tillfrids.
+{15:8} Och han slog dem hårdeliga, både på skuldror och på länder; och gick neder, och bodde uti en bergklyfto i Etham.
+{15:9} Då drogo de Philisteer upp, och belade Juda; och gåfvo sig neder till Lehi.
+{15:10} De af Juda sade: Hvi hafven I dragit hitupp emot oss? De svarade: Vi äre komne hitupp till att binda Simson, att vi måge göra honom, såsom han oss gjort hafver.
+{15:11} Så drogo tretusend män af Juda neder i bergklyftena i Etham, och sade till Simson: Vetst du icke, att de Philisteer äro rådande öfver oss? Hvi hafver du så gjort emot oss? Han sade till dem: Såsom de hafva gjort emot mig, så hafver jag gjort emot dem igen.
+{15:12} De sade till honom: Vi äre komne hitneder till att binda dig, och få dig de Philisteer i händer. Simson sade till dem: Så svärjen, att I viljen intet hinder göra mig.
+{15:13} De svarade honom: Vi vilje intet hinder göra dig; utan vi vilje allenast binda dig, och antvarda dig dem i händer, och vilje intet dräpa dig; och de bundo honom med tu ny tåg, och förde honom upp ifrå klippone.
+{15:14} Och då han kom intill Lehi, skriade de Philisteer, och kommo emot honom; men Herrans Ande föll på honom, och tågen på hans armar vordo såsom blår, de af eld förbrände äro, så att banden på hans händer försmulto.
+{15:15} Och han råkade en rutten åsnakindbåga; han räckte ut sina hand och tog honom, och slog dermed tusende män.
+{15:16} Och Simson sade: Der ligga de ihop; med en åsnakindbåga hafver jag slagit tusende män.
+{15:17} Och då han det utsagt hade, kastade han kindbågan utu sine hand, och kallade det rummet RamathLehi.
+{15:18} Och som han begynte svårliga törsta, åkallade han Herran, och sade: Du hafver en så stor salighet gifvit igenom dins tjenares hand, och nu måste jag dö i törst, och falla uti de oomskornas händer.
+{15:19} Då öppnade Gud ena oxlatand i kindbåganom, och der gick ut vatten; och som han drack, kom hans ande igen, och vederqvicktes; derföre heter ock det rummet åkallarens kindbågabrunn, allt intill denna dag.
+{15:20} Och han dömde Israel uti de Philisteers dagar i tjugu år.
+{16:1} Och Simson gick till Gasa, och fick der se ena sköko, och lade sig när henne.
+{16:2} Då vardt sagdt de Gasiter: Simson är kommen härin; och de omhvärfde honom, och läto taga vara på honom i stadsportenom i hela nattene; och voro stilla i hela nattene, och sade: I morgon, då ljust varder, vilje vi slå honom ihjäl.
+{16:3} Men Simson låg intill midnatt. Då stod han upp om midnatt, och fattade båda dörrarna i stadsporten med båda dörrträn, och skottbommen, och lade dem på sina axlar, och bar dem upp på bergshöjdena för Hebron.
+{16:4} Derefter fick han kärlek till ena qvinno vid den bäcken Sorek, hvilken het Delila.
+{16:5} Upp till henne kommo de Philisteers Förstar, och sade till henne: Tala så vid honom, att du kan få se, hvarutinnan han sådana stor kraft hafver, och hvarmed vi kunne varda honom öfverhändige, så att vi finge bindan och tvingan; så vilje vi gifva dig hvar våra tusende och hundrade silfpenningar.
+{16:6} Och Delila sade till Simson: Käre, säg mig, hvaruti står din stora starkhet; och hvarmed man kunde binda dig, och tvinga dig?
+{16:7} Simson sade till henne: Om man bunde mig med sju ny tåg, som ännu intet förtorkad voro, så vorde jag svag, och såsom en annor menniska.
+{16:8} Då förde de Philisteers Förstar upp till henne sju ny tåg, som ännu intet förtorkad voro, och hon band honom dermed.
+{16:9} Och de hade håll på honom när henne i kammaren; och hon sade till honom: De Philisteer öfver dig, Simson! Och han slet sönder tågen, såsom ett vridet snöre söndergår, när det af eld förbrändt är; och vardt icke kunnigt, hvarutinnan hans starkhet var.
+{16:10} Då sade Delila till Simson: Si, du hafver gäckat mig, och ljugit för mig; säg mig dock nu, hvarmed man dig binda kan?
+{16:11} Han svarade: Om jag vorde bunden med ny tåg, der ännu intet arbete med gjordt är, så vorde jag svag, och såsom en annor menniska.
+{16:12} Så tog Delila ny tåg, och band honom dermed, och sade: De Philisteer öfver dig, Simson! Och de hade håll på honom i kammaren; och han slet sönder dem utaf sina armar, såsom ett snöre.
+{16:13} Delila sade till honom: Du hafver ännu gäckat mig, och ljugit för mig. Käre, säg mig dock, hvarmed man kan dig binda? Han svarade henne: Om du flätade sju lockar af mitt hufvud uti ett fläteband.
+{16:14} Och hon fäste dem in med en nagla, och sade till honom: De Philisteer öfver dig, Simson! Och han vaknade upp af sinom sömn, och drog de flätade lockar med nagla och fläteband ut.
+{16:15} Då sade hon till honom: Huru kan du säga, att du hafver mig kär, efter ditt hjerta är dock icke när mig? I tre gånger hafver du gäckat mig, och icke sagt mig, hvarutinnan din stora starkhet är.
+{16:16} Och som hon alla dagar låg honom uppå med sådana ordom, och lät honom ingen ro få, vardt hans själ uppgifven allt intill döden.
+{16:17} Och sade henne allt sitt hjerta, och sade till henne: På mitt hufvud hafver aldrig någon rakoknif kommit, ty jag är en Guds Nazir af moderlifvet; om man rakar håret af mig, så går min starkhet ifrå mig, så att jag varder svag, lika som andra menniskor.
+{16:18} Då nu Delila såg, att han hade uppenbarat henne allt sitt hjerta, sände hon bort, och lät kalla de Philisteers Förstar, och sade: Kommer än en gång hitupp; ty han hafver uppenbarat mig allt sitt hjerta. Då kommo de Philisteers Förstar upp till henne, och hade penningarna med sig i sine hand.
+{16:19} Och hon lät honom sofva på sitt knä, och kallade en, som rakade honom bort de sju lockar af hans hufvud; och hon begynte till att tvinga honom, och hans magt var gången ifrå honom.
+{16:20} Och hon sade till honom: De Philisteer öfver dig, Simson! Som han nu vaknade af sinom sömn, tänkte han: Jag vill gå ut, såsom jag i flera resor gjort hafver, jag vill slita mig lös; och visste icke, att Herren var viken ifrå honom.
+{16:21} Men de Philisteer grepo honom, och stungo honom ögonen ut, och förde honom neder till Gasa, och bundo honom med två kopparfjettrar; och han måste mala i fängelset.
+{16:22} Och hans hufvudhår begynte åter växa, der han rakad var.
+{16:23} Då församlade sig de Philisteers Förstar, till att göra sinom gud Dagon ett stort offer, och göra sig glada, och sade: Vår gud hafver gifvit oss vår fienda Simson i våra händer.
+{16:24} Sammalunda när folket såg honom, prisade de deras gud: ty de sade: Vår gud hafver gifvit vår fienda i våra händer, den vårt land förderfvade, och slog många af oss ihjäl.
+{16:25} Då nu deras hjerta väl gladt var, sade de: Låt hemta Simson, att han må spela för oss. Så hemtade de Simson utu fängelset, och han spelade för dem, och de ställde honom emellan två pelare.
+{16:26} Men Simson sade till drängen, som ledde honom vid handena: Låt mig taga på pelarena, på hvilka huset hänger, att jag må stödja mig derintill.
+{16:27} Och huset var fullt med män och qvinnor; och de Philisteers Förstar voro der ock alle, och på taket vid tretusend män och qvinnor, de som sågo till huru Simson spelade.
+{16:28} Men Simson åkallade Herran, och sade: Herre, Herre, tänk uppå mig, och styrk mig, Gud! i denna gången, att jag för båda min ögon må ena reso hämnas på de Philisteer.
+{16:29} Och han fattade de två medelpelare, på hvilka huset hängde, och stödde sig på dem, och tog den ena i den högra, och den andra i den venstra handena;
+{16:30} Och sade: Min själ dö med de Philisteer! och han böjde dem krafteliga. Så föll huset uppå Förstarna, och uppå allt folket, som derinne var, så att de döde, som han drap i sin död, voro flere, än de som han drap medan han lefde.
+{16:31} Då kommo hans bröder ditneder, och hela hans faders hus, och togo honom upp, och båro honom upp, och begrofvo honom i hans faders Manoahs graf, emellan Zorga och Esthaol. Men han dömde Israel i tjugu år.
+{17:1} En man var på Ephraims berg, benämnd Micha.
+{17:2} Han sade till sina moder: De tusende och hundrade silfpenningar, som äro tagne ifrå dig, och som du svorit öfver, och sagt för min öron, si, de samma penningar äro när mig; jag hafver tagit dem till mig. Då sade hans moder: Välsignad vare min son Herranom.
+{17:3} Så fick han sine moder de tusende och hundrade silfpenningar igen; och hans moder sade: Jag hafver helgat de penningarna Herranom ifrå mine hand, för min son, till att man må göra ett gjutet beläte; derföre så får jag dig dem nu igen.
+{17:4} Men han fick sine moder penningarna igen. Då tog hans moder tuhundrade silfpenningar, och fick dem till guldsmeden; han gjorde henne ett gjutet beläte; det var sedan i Micha huse.
+{17:5} Och den mannen Micha hade så ett guds hus; och han gjorde en lifkjortel, och afgudar, och fyllde enom sinom son handena, att han vardt hans Prester.
+{17:6} På den tiden var ingen Konung i Israel, och hvar och en gjorde såsom honom tyckte godt vara.
+{17:7} Men en ung man var på den tiden af BethLehem Juda, ibland Juda slägte, och han var en Levit, och var dersammastäds främmande.
+{17:8} Men han drog utu BethLehem, Juda stad, till att vandra hvart han kunde; och då han kom på Ephraims berg till Micha hus, på det han skulle hålla sin väg fram,
+{17:9} Frågade honom Micha: Hvadan kommer du? Han svarade honom: Jag är en Levit af BethLehem Juda, och vandrar hvart jag kan.
+{17:10} Micha sade till honom: Blif när mig, du skall vara min fader, och min Prest; jag vill gifva dig årliga tio silfpenningar, och någor förenämnd kläder, och din födo. Och Leviten gick med honom.
+{17:11} Och Leviten tog till att blifva när mannenom; och han höll den unga mannen såsom en son.
+{17:12} Och Micha fyllde Levitenom handena, så att han vardt hans Prester, och blef så i Micha huse.
+{17:13} Och Micha sade: Nu vet jag, att Herren varder mig godt görandes, efter jag hafver en Levit till Prest.
+{18:1} På den tiden var ingen Konung i Israel; och Dans slägte sökte sig en arfvedel, der de måtte bo; ty intill den dagen var ännu ingen arflott fallen för dem ibland Israels slägter.
+{18:2} Och Dans barn sände utaf sitt slägte och sina landsändar fem höfvitsmän, stridsamma män, ifrå Zorga och Esthaol, till att bespeja landet, och ransaka om det, och sade till dem: Går åstad, och bespejer landet; och de kommo uppå Ephraims berg till Micha hus, och blefvo der öfver nattene.
+{18:3} Och som de nu voro med Micha husfolk, kände de röstena af dem unga mannenom Levitenom, och gingo bort till honom, och sade till honom: Ho hafver kommit dig hit? Hvad gör du här? Och hvad hafver du här?
+{18:4} Han svarade dem: Så och så hafver Micha gjort emot mig, och hafver lejt mig, att jag skall vara hans Prester.
+{18:5} De sade till honom: Käre, fråga Gud till, att vi måge få veta om vår väg, som vi vandrom, skall oss lyckosam varda.
+{18:6} Presten svarade dem: Går åstad med frid; edar väg är rätt för Herranom, den I vandren.
+{18:7} Så gingo de fem män åstad, och kommo till Lais, och sågo att det folk, som derinne var, bodde säkert, efter de Zidoniers sed, stilla och säkre; och ingen var, som dem något bekymmer gjorde i landena, eller hade det under sig; och voro långt ifrå de Zidonier, och hade intet beställa med något folk.
+{18:8} Och de kommo till sina bröder i Zorga och Esthaol; och deras bröder sade till dem: Huru går det till med eder?
+{18:9} De sade: Upp, låt oss draga upp till dem; ty vi hafve besett landet, det är ganska godt; derföre skynder eder, och varer icke sene till att draga, att I mågen komma och taga landet in.
+{18:10} När I kommen, varden I finnande ett säkert folk, och landet är vidt och bredt; ty Gud hafver det gifvit i edra händer, en sådana plats, der intet fattas som på jordene är.
+{18:11} Så drogo ut af Dans slägte, ifrå Zorga och Esthaol, sexhundrad män, väl väpnade till strids;
+{18:12} Och drogo ditupp, och lägrade sig i KiriathJearim i Juda; deraf kallas det rummet Dans lägre, allt intill denna dag; och det är bakför KiriathJearim.
+{18:13} Och dädan gingo de upp på Ephraims berg, och kommo till Micha hus.
+{18:14} Då svarade de fem män, som hade varit utgångne till att bespeja Lais land, och sade till sina bröder: Veten I ock, att i dessom husom är en lifkjortel, afgudar och gjutet beläte? I mågen tillse, hvad eder till görandes är.
+{18:15} De drogo dit, och kommo i den unga mansens Levitens hus, uti Micha hus, och helsade honom vänliga.
+{18:16} Men de sexhundrad väpnade, med deras harnesk, som voro utaf Dans barnom, stodo för dörrene.
+{18:17} Och de fem män, som hade utdragne varit till att bespeja landet, gingo upp, och kommo dit, och togo belätet, lifkjortelen, och de gjutna afgudarna; emedan stod Presten för portenom när de sexhundrad väpnade i deras harnesk.
+{18:18} Som nu hine voro komne in uti Micha hus, och togo belätet, lifkjortelen, och de gjutna afgudarna, sade Presten till dem: Hvad gören I?
+{18:19} De svarade honom: Tig, och håll munnen på dig, och kom med oss, att du må blifva vår fader och Prester. Är det dig bättre, att du äst Prester uti ens mans huse, än uti en hel slägt och ätt i Israel?
+{18:20} Det behagade Prestenom väl; och tog både lifkjortelen, afgudarna, och belätet, och gaf sig midt ibland folket.
+{18:21} Och då de vände om, och drogo sin väg, skickade de barnen, och boskapen, och allt det bästa som de hade, framför sig.
+{18:22} Som de nu voro fjerran komne ifrå Micha hus, ropade de män, som i husen voro vid Micha hus, och följde efter Dans barn;
+{18:23} Och ropade till Dans barn. Och de vände sitt ansigte om, och sade till Micha: Hvad skadar dig, att du så ropar?
+{18:24} Han svarade: I hafven tagit bort mina gudar, som jag gjort hafver, och Presten, och dragen edra färde, och hvad hafver jag nu mer? Och I sägen ändå till mig: Hvad skadar dig?
+{18:25} Men Dans barn sade till honom: Låt dina röst intet höras när oss, att icke öfverfalla dig vrede män, och du låter dina själ till, och dins hus själ.
+{18:26} Så gingo Dans barn sin väg. Och Micha, då han såg att de voro honom för starke, vände om, och kom igen till sitt hus.
+{18:27} Men de togo det Micha gjort hade, och den Presten, som han hade, och kommo till Lais, till ett stilla och säkert folk, och slogo dem med svärdsegg, och uppbrände staden med eld.
+{18:28} Och ingen var, som dem undsatte, ty han låg långt ifrå Zidon, och hade med ingom beställa; och han låg i den dalen, som ligger vid BethRehob. Så byggde de staden, och bodde deruti;
+{18:29} Och kallade honom Dan, efter sins faders Dans namn, hvilken af Israel född var; och staden het tillförene Lais.
+{18:30} Och Dans barn uppsatte sig belätet; och Jonathan, Gersons son, Manasse sons, och hans söner voro Prester uti de Daniters slägte, allt intill den tiden, som de vordo förde fångne utu landena;
+{18:31} Och satte alltså ibland sig det Micha beläte, som han gjort hade, så länge som Guds hus var i Silo.
+{19:1} Uti den tiden var ingen Konung i Israel. Och en Levitisk man var en främling vid sidone af Ephraims berg, och hade tagit sig ena frillo till hustru uti BethLehem Juda.
+{19:2} Och som hon bedref hor när honom, lopp hon ifrå honom till sins faders hus till BethLehem Juda, och blef der i fyra månader.
+{19:3} Och hennes man stod upp, och for efter henne, på det han skulle tala vänliga med henne, och hemta henne igen till sig. Och han hade en dräng och ett par åsnar med sig. Och hon hade honom in uti sins faders hus; och då qvinnones fader såg honom, vardt han glad, och undfick honom.
+{19:4} Och hans svär, qvinnones fader, höll honom uppe, så att han blef der i tre dagar när honom; åto och drucko, och blefvo der om nattene.
+{19:5} På fjerde dagen voro de bittida uppe, och han stod upp, och ville färdas; då sade qvinnones fader till sin måg: Styrk ditt hjerta med en beta bröd, sedan mån I fara.
+{19:6} Och de satte sig, och åto hvar med annan, och drucko. Så sade qvinnones fader till mannen: Käre, blif öfver nattena, och ditt hjerta vare lustigt.
+{19:7} Men mannen stod upp, och ville färdas, men hans svär nödgade honom, så att han blef den nattena der.
+{19:8} Om morgonen på femte dagen var han uppe, och ville färdas; då sade qvinnones fader: Käre, vederqvick ditt hjerta, och låt oss töfva, så länge något lider uppå dagen; och de åto med hvarannan.
+{19:9} Och mannen stod upp och ville fara med sine frillo, och med sinom dräng; men hans svär, qvinnones fader, sade till honom: Si, dagen är framliden, och aftonen är för handene, blif qvar i natt; si, här är herberge ännu i denna dagen; blif här öfver natten, att ditt hjerta må vara lustigt; i morgon stån I bittida upp, och dragen edra färde till dina hyddor.
+{19:10} Men mannen ville icke blifva öfver nattena, utan stod upp, och for sin väg, och kom inför Jebus, det är Jerusalem, och hans par åsnar klefjade, och hans frilla med honom.
+{19:11} Som de nu kommo intill Jebus, förled fast dagen, och drängen sade till sin herra: Käre, kom och låt oss draga in uti de Jebuseers stad, och blifva der öfver nattena.
+{19:12} Men hans herre sade till honom: Vi vilje icke draga in uti de främmandes stad, som icke äro af Israels barn; utan vi vilje fram bätter till Gibea;
+{19:13} Och sade till sin dräng: Gack uppå, att vi måge komma någorstäds till nattena, antingen i Gibea eller i Ramah.
+{19:14} Och de drogo framåt, och reste; och solen gick dem neder hardt invid Gibea, som ligger i BenJamin.
+{19:15} Och der drogo de in, till att blifva der i Gibea öfver nattena. Då han kom derin, satte han sig på gatone i stadenom; ty der var ingen, som dem ville herberga i sino huse öfver nattena.
+{19:16} Och si, der kom en gammal man utaf markene, ifrå sitt arbete om aftonen; och han var också utaf Ephraims berg, och en främling i Gibea; men folket i det rummet voro Jemini barn.
+{19:17} Och då han upplyfte sin ögon, såg han den främmande mannen på gatone, och sade till honom: Hvart vill du? Och hvadan kommer du?
+{19:18} Han svarade honom: Vi äre komne ifrå BethLehem Juda, och farom intill sidona af Ephraims berg, dädan jag är; och var faren till BethLehem Juda, och nu far jag till Herrans hus, och ingen vill herberga mig.
+{19:19} Vi hafve halm och foder till våra åsnar, och bröd och vin för mig, och dine tjenarinno, och för drängen, som med dinom tjenare är; så att oss fattas intet.
+{19:20} Den gamle mannen sade: Var tillfrids; allt det dig fattas, finner du när mig; allenast blif icke öfver nattena på gatone.
+{19:21} Och han hade honom i sitt hus, och gaf åsnomen foder; och de tvådde sina fötter, och åto och drucko.
+{19:22} Och som deras hjerta begynte vara gladt, si, då kommo män af stadenom, Belials barn, och belade huset, och klappade på dörrena, och sade till den gamla mannen, värden i huset: Låt oss få den mannen hitut, som i ditt hus kommen är, att vi måge känna honom.
+{19:23} Men mannen husvärden gick ut till dem, och sade till dem: Icke så, mine bröder, görer icke detta onda; efter denne mannen är kommen i mitt hus; görer icke en sådana galenskap.
+{19:24} Si, jag hafver ena dotter, den ännu en jungfru är, och denne hafver ena frillo, dem vill jag låta komma ut till eder, att I förnedren dem, och gören med dem hvad eder täckes; men på denna mannen görer icke en sådana galenskap.
+{19:25} Men männerna ville intet lyda honom. Så tog mannen sina frillo, och hade henne ut till dem; den kände de, och hade sig skändeliga med henne i den hela nattene allt intill morgonen; och som morgonrodnen uppgick, läto de gå henne.
+{19:26} Då kom qvinnan, litet för dagningen, inför dörrena af mansens hus, der hennes herre inne var, och föll der omkull, och låg der intill ljust var.
+{19:27} Då nu hennes herre uppstod om morgonen, och lät upp dörrena af huset, och gick ut till att fara sin väg; si, då låg hans frilla för dörrene af huset, och hennes händer på tröskelen.
+{19:28} Och han sade till henne: Statt upp, låt oss gå; men hon svarade honom intet. Så tog han henne på sin åsna, redde sig till, och for hem till sitt.
+{19:29} Som han hemkom, tog han en knif, och tog sina frillo, och styckade henne, med ben och med allo, i tolf stycker, och sände till alla Israels landsändar.
+{19:30} Alle de, som det sågo, sade: Sådant är aldrig skedt eller sedt, sedan Israels barn kommo utur Egypti land, intill denna dag: Nu, betänker eder häröfver, och rådens vid, och säger till.
+{20:1} Så drogo Israels barn ut, och församlade sig ihop, såsom en man, ifrå Dan allt intill BerSeba, och ifrå Gileads land, intill Herran i Mizpa.
+{20:2} Och gingo tillhopa utaf alla vrår, all folk af all Israels slägte i Guds menighet, fyrahundradetusend män till fot, som svärd utdrogo.
+{20:3} Men BenJamins barn fingo höra, att Israels barn voro dragne upp till Mizpa, och Israels barn sade: Säger, huru det onda tillgånget är.
+{20:4} Då svarade Leviten, qvinnones man, som dräpen var, och sade: Jag kom till Gibea i BenJamin med mine frillo, till att blifva der öfver nattena;
+{20:5} Då hofvo sig upp borgarena i Gibea emot mig, och belade mig i huset, om nattena, och ville slå mig ihjäl, och skämde min frillo, så att hon blef död.
+{20:6} Så tog jag min frillo, och styckade henne, och sände det i alla Israels arfs mark; förty de hade gjort en slem ting, och galenskap i Israel.
+{20:7} Si, nu ären I här alle Israels barn, rådens vid, hvad I skolen göra dertill.
+{20:8} Då reste sig allt folket upp, såsom en man, och sade: Ingen gånge hem i sina hyddo eller i sitt hus;
+{20:9} Utan det vilje vi nu göra emot Gibea; låt oss kasta lott;
+{20:10} Och taga tio män af hundrade, och hundrade af tusend, och tusend af tiotusend, af alla Israels slägter, att de besörja spisning för folket, att de måga komma, och göra med Gibea BenJamins, efter all deras galenskap, som de i Israel bedrifvit hafva.
+{20:11} Så församlade sig till staden alle Israels män, såsom en man, och förbundo sig.
+{20:12} Och Israels slägter sände några män till alla BenJamins slägt, och läto säga dem: Hvad är det för en ond ting, som när eder skedd är?
+{20:13} Så får oss nu ut de män, Belials barn i Gibea, att vi måge dräpa dem, och låta det onda komma ifrån Israel. Men BenJamins barn ville icke lyda sina bröders Israels barnas röst;
+{20:14} Utan församlade sig utu städerna intill Gibea, till att draga ut till strids emot Israels barn.
+{20:15} Och vordo på den dagen talde BenJamins barn utu städerna, sex och tjugu tusend män, som svärd utdrogo; förutan de borgare i Gibea, de vordo talde sjuhundrade utvalde män.
+{20:16} Och ibland allt detta folket voro sjuhundrade utvalde män, som vensterhändte voro, och kunde med slungor drabba på ett hår, så att de intet felade.
+{20:17} Men de män af Israel, förutan de af BenJamin, vordo talde fyrahundradetusend män, som svärd förde, och stridsamme män voro.
+{20:18} Israels barn stodo upp, och drogo upp till Guds hus, och frågade Gud, och sade: Ho skall draga ditupp för oss till att begynna striden emot BenJamins barn? Herren sade: Juda skall begynna.
+{20:19} Alltså stodo Israels barn om morgonen upp, och lägrade sig för Gibea;
+{20:20} Och hvar och en af Israel gick ut till att strida med BenJamin, och skickade sig till att strida emot Gibea.
+{20:21} Då föllo BenJamins barn ut af Gibea, och slogo på den dagen af Israel tu och tjugu tusend män till markena.
+{20:22} Men folket Israels män förmannade sig, och redde sig till att ytterligare strida på samma platsen, der de sig i den förra dagen redt hade;
+{20:23} Och Israels barn drogo upp, och greto för Herranom allt intill aftonen, och frågade Herran, och sade: Skole vi mer falla till och strida med BenJamins barn, våra bröder? Herren sade: Drager upp till dem.
+{20:24} Och då Israels barn trädde den andra dagen till att strida emot BenJamins barn,
+{20:25} Föllo de BenJamiter utu Gibea emot dem på samma dagen, och slogo ännu till markena adertontusend män af Israels barn, som alle svärd förde.
+{20:26} Då drogo all Israels barn upp, och allt folket, och kommo till Guds hus, och greto, och blefvo der för Herranom, och fastade den dagen intill aftonen, och offrade bränneoffer och tackoffer för Herranom.
+{20:27} Och Israels barn frågade Herran, och dersammastäds var Guds förbunds ark på den tiden.
+{20:28} Och Pinehas, Eleazars son, Aarons sons, stod för honom på den tiden, och sade: Skole vi mer draga ut till att strida emot BenJamins barn, våra bröder, eller skall jag vända igen? Herren sade: Drager ditupp; i morgon skall jag gifva dem i edra händer.
+{20:29} Och Israels barn beställde ett bakhåll omkring staden Gibea;
+{20:30} Och drogo så Israels barn upp på tredje dagen till BenJamins barn; och skickade sig emot Gibea, såsom i de två gånger tillförene.
+{20:31} Då drogo BenJamins barn ut emot folket, och gåfvo sig ifrå staden, och begynte till att slå och sarga några af folket, såsom förr i de två gånger, i markene på två vägar, den ene går till BethEl, och den andre till Gibea, vid tretio män i Israel.
+{20:32} Då tänkte BenJamins barn: De äro slagne för oss såsom tillförene. Men Israels barn sade: Låt oss fly, att vi måge komma dem ifrå staden ut uppå vägarna.
+{20:33} Så reste upp alle män af Israel, hvar af sitt rum, och skickade sig i BaalThamar, och det bakhållet af Israel gaf sig upp utu sitt rum, ifrå Gaba kulo;
+{20:34} Och kommo in mot Gibea tiotusend män, utvalde af hela Israel, så att striden vardt skarp; men de visste icke, att dem ondt tillstundade.
+{20:35} Alltså slog Herren BenJamin för Israels barn, så att Israels barn på den dagen förderfvade fem och tjugu tusend och hundrade män i BenJamin, som alle svärd förde.
+{20:36} Ty då BenJamins barn sågo, att de slagne voro, gåfvo Israels män dem rum; ty de förläto sig på bakhållet, som de hade beställt invid Gibea.
+{20:37} Och bakhållet skyndade sig ock, och drogo fram till Gibea, och stormade till, och slogo den hela staden med svärdsegg.
+{20:38} Och de hade en lösen sig emellan, de män af Israel och bakhållet, till att öfverfalla dem med svärd, när röken af stadenom uppslog.
+{20:39} Då nu de män af Israel vände sig i stridene, och BenJamin begynte till att slå och försarga i Israel vid tretio män; och tänkte: De äro slagne för oss såsom i den förra stridene;
+{20:40} Så begynte slå en rök af staden rättupp. Och BenJamin vände sig tillbaka; si, då gick röken af hela stadenom upp i himmelen.
+{20:41} Och de män af Israel vände ock om; då förskräcktes de män af BenJamin; förty de sågo, att dem tillstundade ondt.
+{20:42} Och de vände sig för de män af Israel på den vägen till öknena; men striden fullföljde dem; dertill de som af städerna inkomne voro, de förderfvade dem derinne.
+{20:43} Och de kringhvärfde BenJamin, och fullföljde dem allt intill Menuah, och förtrampade dem inför Gibea österut.
+{20:44} Och föllo af BenJamin adertontusend män, som alle stridsamme män voro.
+{20:45} Då vände de sig, och flydde åt öknena till den bergklippon Rimmon; men på den samma vägen slogo de femtusend män, och följde dem efter allt intill Gideom, och slogo dem af tutusend.
+{20:46} Och så föllo på den dagen af BenJamin fem och tjugu tusend män, som svärd förde, och alle stridsamme män voro.
+{20:47} Allenast sexhundrad män vände sig, och flydde åt öknena till den bergklippon Rimmon; och blefvo i Rimmons bergklippo i fyra månader.
+{20:48} Och de män af Israel kommo igen till BenJamins barn, och slogo med svärdsegg dem i stadenom, både folk och fä, och allt det man fann; och alla de städer, som de funno, uppbrände de i eld.
+{21:1} Och de män af Israel hade svorit i Mizpa, och sagt: Ingen af oss skall gifva sina dotter de BenJamiter till hustru.
+{21:2} Och folket kom till Guds hus, och blef der för Gudi allt intill aftonen; och de upphofvo sina röst, och greto svårliga,
+{21:3} Och sade: O Herre Israels Gud, hvi är detta skedt i Israel, att en slägt är i dag nederlagd i Israel?
+{21:4} Och andra dagen var folket bittida uppe och byggde der ett altare, och offrade bränneoffer och tackoffer.
+{21:5} Och Israels barn sade: Hvilken är den af Israels slägter, som icke hit uppkommen är med menighetene inför Herran? Ty en stor ed var gången, att den som icke uppkomme till Herran i Mizpa, han skulle döden dö.
+{21:6} Och Israel ångrade sig öfver sin broder BenJamin, och sade: I dag är en slägt i Israel nederlagd.
+{21:7} Huru vilje vi göra, att de som qvare äro måga få hustrur? Ty vi hafve svorit vid Herran, att vi icke skole gifva dem hustrur utaf våra döttrar;
+{21:8} Och sade: Hvilken är af Israels slägter, som icke är kommen hitupp till Herran i Mizpa? Och si, der hade ingen varit i menighetenes lägre utaf Jabes i Gilead;
+{21:9} Ty de talde folket, och si, der var ingen borgare af Jabes i Gilead.
+{21:10} Då sände menigheten tolftusend män af stridsamma män, och bödo dem, och sade; Går bort, och slår med svärdsegg de borgare i Jabes i Gilead, med hustrur och barn.
+{21:11} Dock skolen I så göra: allt det mankön är, och alla de qvinnor, som när manne legat hafva, skolen I tillspillogifva.
+{21:12} Och de funno när de borgare i Jabes i Gilead fyrahundrade pigor, som jungfrur voro, och när ingen man legat hade; dem förde de i lägret till Silo, som ligger i Canaans land.
+{21:13} Då sände hela menigheten bort, och lät tala med BenJamins barn, som lågo i bergklippone Rimmon, och kallade dem vänliga.
+{21:14} Alltså kommo BenJamins barn igen på den tiden; och de gåfvo dem till hustrur de som de vid lif behållit hade utaf Jabes qvinnfolk i Gilead; och funno så inga flera.
+{21:15} Då ångrade sig folket öfver BenJamin, att Herren hade gjort ett splitter i Israels slägter.
+{21:16} Och de äldste i menighetene sade: Hvad vilje vi göra, att de som öfver äro måga ock få hustrur? Ty de qvinnor i BenJamin äro förgjorda;
+{21:17} Och sade: De måste ju behålla sitt arf, som igenblefne äro af BenJamin, att icke en slägt nederlägges i Israel.
+{21:18} Och vi kunne icke gifva dem våra döttrar till hustrur; ty Israels barn hafva svorit och sagt: Förbannad vare den, som de BenJamiter gifver hustru.
+{21:19} Och de sade: Si, det är en årlig Herrans högtid i Silo, norrut ifrå Guds hus, österut på den vägen, som drager ifrå BethEl intill Sichem, och söder ifrå Lebona.
+{21:20} Och de bödo BenJamins barnom, och sade: Går bort, och sitter i försåt i vingårdarna.
+{21:21} När I då sen, att Silo döttrar gå ut i dans, så gifver eder hasteliga utu vingårdarna, och tager hvar och en sig en hustru af Silo döttrar, och går uti BenJamins land.
+{21:22} När nu deras fäder eller bröder komma till att beklaga sig för oss, vilje vi säga till dem: Varer dem barmhertige för våra skull; förty vi hafve icke tagit dem hustrur med strid, utan I villen icke gifva dem dem; det är nu edor skull.
+{21:23} BenJamins barn gjorde ock så, och togo qvinnor efter sitt tal, hvilka de röfvade utaf dansen; och foro bort, och bodde i sin arfvedel, och byggde städer, och bodde deruti.
+{21:24} Israels barn foro ock dädan på den tiden, hvar och en till sina slägt, och till sina ätt; och drogo ut dädan, hvar och en till sin arfvedel.
+{21:25} På den tiden var ingen Konung i Israel; utan hvar och en gjorde hvad honom tycktes rätt vara.

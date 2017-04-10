@@ -1,0 +1,942 @@
+{1:1} adam, shet, aenosha
+{1:2} kenan, mahalalel, yereda
+{1:3} hanok, matoosholah, lemeka
+{1:4} nooh, shom, ham aur yepet.
+{1:5} yepet ke putra gomer, magog, madaai, savan, toobal, meshok aur teeras haain.
+{1:6} aur gomer ke putra ashakanaj, deepat aur togarma haain.
+{1:7} aur yavan ke putra aeleesha, tashasha, aur kittee aur rodanee log haain.
+{1:8} ham ke putra kusha, misra, poot aur kanan haain.
+{1:9} aur koosh ke putra saba, habeela, sabata, rama aur sabtaka haain aur rama ke putra shaba aur dadan haain.
+{1:10} aur koosh se nimraed utpann hua mrathvee par paahila veer vahee hua.
+{1:11} aur misra se loodee, anamee, lahavee, naptahee.
+{1:12} patroosee, kasaloohee vahan se paalishtee nikale aur kaptoree utpann hue.
+{1:13} kanan se usaka jetta seedon aur hitta.
+{1:14} aur yaboosee, aemoree, girgashaee.
+{1:15} hiyvee, aka, seenee.
+{1:16} arvadee, samaree aur hamatee utpann huae.
+{1:17} shom ke putra aelam, ashshoor, arpakshad, lood, aram, us, hool, geter aur meshok haain.
+{1:18} aur arpakshad se sholah aur sholah se aeber utpann hua.
+{1:19} aur aeber ke do putra utpann huae aek ka nam peleg is karan rakha gaya ki usake dinon men prathvee banttee gai aur usake bhai ka nam yoktan tha.
+{1:20} aur yoktan se almodad, shuulep, hasarmavet, yeraha.
+{1:21} hadoram, ujal, dikla.
+{1:22} aebal, abeemaael, shaba,
+{1:23} opeer, haveela aur sobab utpann hue ye hee sab yoktan ke putra haain.
+{1:24} shom, arpakshad, sholaha.
+{1:25} aeber, peleg, roo.
+{1:26} saroog, nahor, terah,
+{1:27} abraam, vahee ibraaheem bhee kahalata haai.
+{1:28} ibraaheem ke putra isahak aur ishmaael haain.
+{1:29} inakee vanshaavaaliyan ye haain. ishmaael ka jetta navayot, fir kedar, adavel, mibasama.
+{1:30} mishma, dooma, massa, hadad, tema.
+{1:31} yatoor, napeesha, kedama. ye ishmaael ke putra huae.
+{1:32} fir katoora jo ibraaheem kee rakhelee thee, usake ye putra utpann hua, arthata us se jimraan, yokshaan, madan, midhan, yishabak aur shooh utpann hue. yokshaan ke putra shaba aur dadata.
+{1:33} aur midhan ke putra aepa, aeper, hanok, abeeda aur aelada, ye sab katoora ke putra haain.
+{1:34} ibraaheem se isahak utpann hua. isahak ke putra aesav aur israaaela.
+{1:35} aesav ke putra aeleepaj, rooael, yoosha, yalam aur korah haain.
+{1:36} aeleepaj ke ye putra haain teman, omar, sapee, gatam, kanaj, timna aur apaleka.
+{1:37} rooael ke putra nahat, jerah, shamma aur mijja.
+{1:38} fir seir ke putra lotan, shaebal, siboen, ana, deeshaen, aeser aur deeshaan haain.
+{1:39} aur lotan ke putra horee aur homam, aur lotan kee bahin timna theen.
+{1:40} shaebal ke putra alyan, manahat, aebal, shashaee aur onama.
+{1:41} aur sibon ke putra ayya, aur ana. ana ka putra deeshaena. aur deeshaen ke putra hamraan, aeshaban, yitraan aur karana.
+{1:42} aeser ke putra bilhan, jachan aur yakana. aur deeshaan ke putra us aur aran haain.
+{1:43} jab kisee raja ne israaaeliyon par rajy n kiya tha, tab aedom ke desh men ye raja huae arthata bor ka putra bela aur usakee rajadhaanee ka nam dinhaba tha.
+{1:44} bela ke marane par, bosraai jerah ka putra yobab, usake sthan par raja hua.
+{1:45} aur yobab ke marane par, temaniyon ke desh ka hooshaam usake sthan par raja hua.
+{1:46} fir hooshaam ke marane par, badad ka putra hadad, usake sthan par raja hua yah vahee haai, jis ne midhaaniyon ko moab ke desh men mar liya aur usakee rajadhaanee ka nam abeet tha.
+{1:47} aur hadad ke marane par, masraekai samla usake sthan par raja hua.
+{1:48} fir samla ke marane par shaaul, jo mahanad ke tatt par ke rahobot nagar ka tha, vah usake sthan par raja hua.
+{1:49} aur shaaul ke marane par akabor ka putra balhanan usake sthan par raja hua.
+{1:50} aur balhanan ke marane par, hadad usake sthan par raja hua aur usakee rajadhaanee ka nam pai tha. aur usakee patnee ka nam mahetabel tha jo mejaahab kee natinee aur matrod kee bettee thee. aur hadad mar gaya.
+{1:51} fir aedom ke aadhaipaati ye the arthata aadhaipaati timna, adhaipaati alya, adhaipaati yatet, adhaipaati oholeevama,
+{1:52} aadhaipaati aela, aadhaipaati peenon, adhaipaati kanaj,
+{1:53} aadhaipaati teman, adhaipaati mibasar, aadhaipaati magdeeael, aadhaipaati irama.
+{1:54} aedom ke ye adhaipaati hue.
+{2:1} israaael ke ye putra huae rooben, shaimon, levee, sahooda, issakar, jabooloon, dana.
+{2:2} yoosuf, binyameen, nantalee, gad aur ashora.
+{2:3} yahooda ke ye putra huae aer, onan aur shola, usake ye teenon putra, batashoo nam aek kananee sree se utpann huae. aur yahooda ka jetta aer, yahova kee drashtti men bura tha, is karan us ne usako mar dala.
+{2:4} yahooda kee bahoo tamar se peres aur jerah utpann hue. yahooda ke sab putra panch huae.
+{2:5} meres ke putra hesraen aur hamoola.
+{2:6} aur jereh ke putra jimrae, aetan, heman, kalakol aur dara sab milakar pancha.
+{2:7} fir kama ka putra akar jo arpan kee hui pastu ke vishay men vishvasaghaat karake israaaeliyon ka kashtt denevala hua.
+{2:8} aur aetan ka putra ajaryaha.
+{2:9} hesraen ke jo putra utpann huae yarael, ram aur kaloobaai.
+{2:10} aur ram se ammeenadab aur ammeenadab se nahashaen utpann hua jo yahoodiyon ka pradhaan bana.
+{2:11} aur nahashaen se salma aur salma se boaj,
+{2:12} aur boaj se obed aur obed se yishau utpann hua.
+{2:13} aur yishau se usaka jetta aeleeab aur doosara abeenadab teesara shaima.
+{2:14} chautha natanel aur panchavan raain. chhtta osem aur satavan daud utpann hua.
+{2:15} inakee baahinen sarooyah or abeegaail theen.
+{2:16} aur sarooyah ke putra abeeshau, yoab aur asahel ye teen the.
+{2:17} aur abeegaail se amasa utpann hua, aur amasa ka pita ishmaaelee yeter tha.
+{2:18} hesraen ke putra kaleb ke ajooba nam aek stree se, aur yareeot se, bette utpann hue aur isake putra ye hooae arthata yeshor, shobab aur adana.
+{2:19} jab ajooba mar gai, sab kaleb ne aepraat ko byah liya aur jisase hoor utpann hua.
+{2:20} aur hoor se uree aur uree se basalel utpann hua.
+{2:21} isake bad hesraen gilad ke pita makeer kee bettee ke pas gaya, jise us ne tab byah liya, jab vah satt varsha ka tha aur us se sagoob utpann hua.
+{2:22} aur sagoob se yair janma, jisake gilad desh men teis nagar the.
+{2:23} aur gashoor aur aram ne yair kee bastaiyon ko aur ganvon samet kanat ko, un se le liya ye sab nagar milakar satt the. ye sab gilad ke pita makeer ke putra huae.
+{2:24} aur jab hesraen kalebepraata men mar gaya, tab usakee aabiyyah nam sree se ashahoor utpann hua jo tako ka pita hua.
+{2:25} aur hesraen ke jette yarael ke ye putra huae arthata ram jo usaka jetta tha aur boona, oren, osem aur yaahiyyaha.
+{2:26} aur yarael kee aek aur patnee thee, jisaka nam atara tha vah onam kee mata thee.
+{2:27} aur yarael ke jette ram ke ye putra hua, arthata mas, yameen aur aekera.
+{2:28} aur onam ke putra shammaai aur yada hue. aur shammaai ke putra nadab aur abeeshoor hue.
+{2:29} aur abeeshoor kee patnee ka nam abeehaail tha, aur us se ahaban aur moleed utpann huae.
+{2:30} aur nadab ke putra seled aur atpaaim huae seled to nisantan mar gaya. aur attaaim ka putra yishaee.
+{2:31} aur yishaee ka putra shoshaan aur shoshaan ka putra ahalaai.
+{2:32} fir shammaai ke bhai yada ke putra yeter aur yonatan huae yeter to nisantan mar gaya.
+{2:33} yanatan ke putra pelet aur jaja yarael ke putra ye huae.
+{2:34} shoshaan ke to betta n hua, keval beattyaian hui. shoshaan ke pas yarha nam aek misraee das tha.
+{2:35} aur shoshaan ne usako apanee bettee byah dee, aur us se attaai utpann hua.
+{2:36} aur attaai se natan, natan se jabada.
+{2:37} jabad se aepalal, aepalal se obeda.
+{2:38} obed se yeho, yehoo se ajaryaha.
+{2:39} ajaryah se helaais, helaais se aelasa.
+{2:40} aelasa se sismaai, sismaai se shallooma.
+{2:41} shalloom se yakamyah aur yakamyah se aeleeshaama utpann hue.
+{2:42} fir yarael ke bhai kaleb ke ye putra huae arthata usaka jetta mesha jo jeep ka pita hua. aur maresha ka putra hebraen bhee usee ke vansh men hua.
+{2:43} aur hebraen ke putra korah, tappooh, rekem aur shoma.
+{2:44} aur shoma se yorkam ka pita raham aur rekem se shammaai utpann hua tha.
+{2:45} aur shammaai ka putra maon hua aur maon betsoor ka pita hua.
+{2:46} fir aepa jo kaleb kee rakhelee thee, us se haran, mosa aur gajej utpann hue aur haran se gajej utpann hua.
+{2:47} fir yahadaai ke putra regem, yotam, geshaan, pelet, aepa aur shaapa.
+{2:48} aur maka jo kaleb kee rakhelee thee, us se shober aur tirhana utpann hue.
+{2:49} fir us se madamanna ka pita shaap aur makabena aur giba ka pita shaba utpann hue. aur kaleb kee bettee akasa thee. kaleb ke putra yen hue.
+{2:50} aepraata ke jette hoor ka putra kiryatyareem ka pita shaebala.
+{2:51} betalehem ka pita salma aur betagader ka pita harepa.
+{2:52} aur kiryatyareem ke pita shaebal ke vansh men haroae adho manuhotavasee,
+{2:53} aur kiryatyareem ke kul arthata yitrae, pootee, shoomatee aur mishraai aur in se sorai aur aeshtaolee nikale.
+{2:54} fir salma ke vansh men betalehem aur natopai, atraetabetyoab aur adho manahatee, soree.
+{2:55} fir yabes men rahanevale lekhkon ke kul arthata tiratee, shaimatee aur sookatee huae. ye rekab ke gharane ke moolapurush hamman ke vanshavale kenee haain.
+{3:1} daud ke putra jo hebraen men us se utpann huae ve ye haain jetta amnon jo yijraelee aheenoam se, doosara daaniyyel jo karmelee abeegaail se utpann hua.
+{3:2} teesara abashaalom jo gashoor ke raja talmaai kee bettee maka ka mutra tha, chautha odaniyyah jo harageet ka putra tha.
+{3:3} panchavan shapatyah jo abeetal se, aur chhttvan yitraam jo usakee sree aegla se utpann hua.
+{3:4} daud se hebraen men chh putra utpann hua, aur vahan us ne saddhe sat varsha rajy kiya aur yarooshalem men taaintees varsha rajy kiya.
+{3:5} aur yarooshalem men usake ye putra utpann huae arthata shaima, shaebab, tatan aur sulaaiman, ye charo ammeeael kee bettee batashoo se utpann huae.
+{3:6} aur yibhar, aeleeshaama aeleepeleta.
+{3:7} negah, nepeg, yapee.
+{3:8} aeleeshaama, aelyada aur aeleemelet, ye nau putra the, ye sab daud ke putra the.
+{3:9} aur inako chhod rakhealiyon ke bhee putra the, aur inakee bahin tamar thee.
+{3:10} fir sulaaiman ka putra rahabam utpann hua rahabam ka aabiyyah ka asa, asa ka yahoshaapata.
+{3:11} yahoshapat ka yoram, yoram ka ahajyah, ahajyah ka yoasha.
+{3:12} yoash ka amasyah, amasyah ka ajaryah, ajaryah ka yotama.
+{3:13} yotam ka ahaj, ahaj ka hijaakiyyah, hijaakiyyah ka manashsho.
+{3:14} manashsho ka amon, aur amon ka yoshaiyyah putra hua.
+{3:15} aur yoshaiyyah ke putra usaka jeia yohanan, doosara yahoyakeema teesara sidaakiyyah, chauaitha shallooma.
+{3:16} aur yahoyakeem ka putra yakonyah, isaka putra sidaakiyyaha.
+{3:17} or yakonyah ka putra asseer, usaka putra shaalateeaela.
+{3:18} aur malkeeram, padayah, shoenassar, yakamyah, hoshaama aur nadabyaha.
+{3:19} aur padayah ke putra jarubbabel aur shaimee huae aur jarubbabel ke putra mashuullam aur hananyah, jinakee baheen shalomeet thee.
+{3:20} aur hashooba, ohel, berekyah, hasadhah aur yooshamesed, pancha.
+{3:21} aur hananyah ke putra palatyah aur yashaayaha. aur rapayah ke putra arnan ke putra obadhah ke putra aur shakanyah ke putra.
+{3:22} aur takanyah ka putra shamayaha. aur shamayah ke putra hattoosh aur yigal, bareeh, naryah aur shapat, chh.
+{3:23} aur naryah ke putra aelyoaenaai, hijaakiyyah aur ajraeekam, teena.
+{3:24} aur aelyoaenaai ke putra hodabyah, aelyashaeeb, palayah, akakoob, yohanan, dalayah aur ananee, sata.
+{4:1} yahooda ke putra peres, hesraen, kama, hoor aur shaebala.
+{4:2} aur shaebal ke putra rayah se yahat aur yahat se ahoomaai aur lahad utpann hua, ye sorai kul haain.
+{4:3} aur aetam ke pita ke ye putra huae arthata yijrael, yishma aur yidasha, jinakee bahin ka nam hassalelaponee tha.
+{4:4} aur gador ka pita panooael, aur roosha ka pita aejera. ye aepraata ke jette hoor ke santan haai, jo betalehem ka pita hua.
+{4:5} aur tako ke pita ashahoor ke heba aur nara nam do striayan theen.
+{4:6} aur nara se ahujjam, heper, temanee aur hahashataree utpann hua, nara ke ye hee putra, hue.
+{4:7} aur hela ke putra, seret, yisahar aur aemnana.
+{4:8} fir kos se anoob aur sobeva utpann huae aur usek vansh men haroon ke putra aharhel ke kul bhee utpann hue.
+{4:9} aur yabes apane bhiyon se adhaik pratishttit hua, aur usakee mata ne yah kahakar usaka nam yabes rakha, ki maain ne ise peedit hokar utpann kiya.
+{4:10} aur yabes ne israaael ke parameshvar ko yah kahakar pukara, ki bhla hota, ki too mujhe sachamuch ashaeesh deta, aur mera desh baddhata, aur tera hath mere sath rahata, aur too mujhe burai se aeesa bacha rakhta ki maain us se peeadit t hota! aur jo kuchh us ne manga, vah parameshvar ne use diya.
+{4:11} fir shooha ke bhai kaloob se aeshaton ka pita maheer utpann hua.
+{4:12} aur aeshaton ke vansh men rama ka gharana, aur paseh aur irnahash ka pita taahinna utpann hua, reka ke log ye hee haain.
+{4:13} aur kanaj ke putra, otneeael aur sarayah, aur otneeael ka putra hatata.
+{4:14} monotaai se opra aur sarayah se yoab jo geharashaeem ka pita hua ve kareegar the.
+{4:15} aur yapunne ke putra kaleb ke putra aela aur nam, aur aela ke putra kanaja.
+{4:16} aur yahallel ke putra, jeep, jeepa, teeraya aur asarela.
+{4:17} aur aejra ke putra yeter, mered, aeper aur yalon, aur usakee sree se miyryam, shammaai aur aeshatamo ka pita yishabah utpann hue.
+{4:18} aur usakee yahoodin sree se gador ka pita yered, soko ke pita heber aur janoh ke pita yakooteeael utpann hua, ye firon kee bettee bitya ke putra the jise mered ne byah liya tha.
+{4:19} aur hodiyyah kee sree jo naham kee baahin thee, usake putra keela ka pita aek geremee aur aeshatamo ka pita aek makai.
+{4:20} aur shaeemon ke putra amnon, rinna, benhanan aur tolon aur yishaee ke putra johet aur benajoheta.
+{4:21} yahooda ke putra shola ke putra leka ka pita aer, maresha ka pita lada aur ashabe ke gharane ke kul jis men san ke kapade ka kam hota tha.
+{4:22} aur yokeem aur kojeba ke manushy aur yoash aur sarap jo moab men prabhuta karate the aur yashoob, lehem inaka vrattant praacheen haai.
+{4:23} ye kumhar the, aur nataim aur gadera men rahate the jahan ve raja ka kamakaj karate huae usake pas rahate the.
+{4:24} shaimon ke putra namooael, yameen, yareeb, jerah aur shaaula.
+{4:25} aur shaaul ka putra shalloom, shalloom ka putra mibasam aur mibasam ka mishma hua.
+{4:26} aur mishma ka putra hammooael, usaka putra jakkoor, aur usaka putra shaimee.
+{4:27} shaimee ke solah bette aur chh beattyaian hui parantu usake bhaiyon ke bahut bette n hue aur unaka sara kul yahoodiyon ke barabar n baddha.
+{4:28} ve bershaba, molada, hasarshooala.
+{4:29} bilha, aesem, tolada.
+{4:30} batooael, horma, silkag,
+{4:31} betamarkabot, hasasrooseem, betabiree aur shaaraaim men bas gaae daud ke rajay ke samay tak unake ye hee nagar rahe.
+{4:32} aur unake ganv aetam, aeen, rimmon, token aur ashaan nam panch nagara.
+{4:33} aur bal tak jitane ganv in nagaron ke asapas the, unake basane ke sthan ye hee the, aur yah unakee vanshaavalee haain.
+{4:34} fir mashaebab aur yamlek aur apasyah ka putra yoshaa.
+{4:35} aur yoael aur yoshaibyah ka putra yeho, jo sarayah ka pota, aur aseeael ka paramota tha.
+{4:36} aur aelyoaenaai aur yakoba, yashaehayah aur asayah aur adeeael aur yaseemeeael aur banayaha.
+{4:37} aur shaipee ka putra jeeja jo allon ka putra, yah yadayah ka putra, yah shaimraee ka putra, yah shamayah ka putra tha.
+{4:38} ye jinake nam likhen huae haai, apane apane kul men pradhaan the aur unake pitaron ke gharane bahut baddh gaae.
+{4:39} ye apanee bhed-bakaariyon ke liye charai ddoonddhne ko gador kee ghaattee kee tarai kee poorva or tak gaae.
+{4:40} aur unako uttam se uttam charai milee, aur desh lamba-chauda, chaait aur shaanati ka tha kyonki vahan ke paahile rahanevale ham ke vansh ke the.
+{4:41} aur jinake nam upar likhe haai, unhon ne yahooda ke raja hijaakiyyah ke dinon men vahan akar jo moonee vahan mile, unako deron samet marakar aeesa satyanash kar dala ki ah tak unaka pata naheen haai, aur ve unake sthan men rahane lage, kyonaki vahan unakee bhed-bakaariyon ke liye charai theen.
+{4:42} aur un men se arthata shaimoniyon men se pach sau purush apane upar palatyah, naryah, rapayah aur ujjeeael nam yishaee ke putraen ko apane pradhaan ttharaya
+{4:43} tab ve seid pahad ko gaa, aur jo amelekee bachakar rah gaae the unako mara, aur aj ke din tab vahan rahate haain.
+{5:1} israaael ka jetta to rooben tha, parantu us ne jo apane pita ke bichhaune ko ashuud kiya, is karan jette ka aadhaikar israaael ke putra yoosufa ke putraen ko diya gaya. vanshaavalee jette ke adhaikar ke anusar naheen ttharee.
+{5:2} kyoki yahooda apane bhiyon par prabal ho gaya, aur pradhaan usake vansh se hua parantu jette ka adhaikar yoosufa ka tha.
+{5:3} israaael ke jette putra rooben ke putra ye hua, arthata hanok, pallo, hesraen aur kama.
+{5:4} aur yoael ke putra shamayah, shamayah ka gog, gog ka shaimee.
+{5:5} shaimee ka meeka, meeka ka rayah, rayah ka bala.
+{5:6} aur bal ka putra bera, isako ashshoor ka raja tilagataapilaneser bandhauai men le gaya aur vah roobeniyo ka pradhaan tha.
+{5:7} aur usake bhaiyon kee chanshavalee ke likhte yamay ve apane apane kul ke anusar ye tthare, arthata mukhy to yeeael, fir jakaryaha.
+{5:8} aur ajaj ka putra bela jo shoma ka pota aur yoael ka parapota tha, vah aroaer men aur nabo aur balmon tak rahata tha.
+{5:9} aur poorva or vah us jangal ke sivane tak raha jo parat mahanad tak mahunchata haai, kyonaki unake pashu gilad desh men baddh gaae the.
+{5:10} aur shaul ke dinon men unhon ne haagiryon se yuddh kiya, aur hagraee unake hath se mare gaae tab ve gilad kee saree poorabee alang men apane deron men rahane lage.
+{5:11} gadee unake samhane salka tak bashaan desh men rahate the.
+{5:12} arthata mukhy to yoael aur doosara shaapam fir yanaai aur shaapat, ye bashaan men rahate the.
+{5:13} aur unake bhai apane apane pitaron ke gharanon ke anusar meekaael, mashuullam, shoba, yoraai, yakan, jee aur aeber, sat the.
+{5:14} ye abeehaail ke putra the, jo hooree ka putra tha, yah yorah ka putra, yah gilad ka putra, yah mikaael ka putra, yah yashaeeshau ka putra, yah yahado ka putra, yah booj ka putra tha.
+{5:15} inake pitaron ke gharanon ka mukhy poorush abdeeael ka putra, aur goonee ka pota ahee tha.
+{5:16} ye log bashaan me, gilad aur usake ganvon me, aur shaaron kee sab charaiyon men usakee paralee or tak rahate the.
+{5:17} in sabhon kee vanshaavalee yahooda ke raja yonatan ke dinon aur israaael ke raja yarobam ke dinon men likhee gai.
+{5:18} roobeniyo, gadiyon aur manashshon ke adho gotra ke yoddha jo ddhal bandhane, talavar chalane, aur dhanush ke teer chhodne ke yogy aur yuddh karana seekhe huae the, ve chauvalees hajar sat sau satt the, jo yuddh men jane ke yogy the.
+{5:19} inhon ne haagiryon aur yatoor napeesh aur nodab se yuddh kiya tha.
+{5:20} unake viruddh inako sahayata milee, aur agraee un sab samet jo unake sath the unake hath men kar diae gaa, kyonaki yuddh men inhon ne parameshvar kee dohai dee thee aur us ne unakee binatee is karan sunee, ki inhon ne us par bhrosa rakha tha.
+{5:21} aur inhon ne unake pashu har lia, arthaata untt to pachas hajar, bhed-bakaree addhai lak, gadahe do hajar, aur manushy aek lakh bandhauae karake le gaae.
+{5:22} aur bahut se mare pade the kyonaki vah ladai parameshvar kee or se hui. aur ye unake sthan men banshuuai ke samay tak base rahe.
+{5:23} fir manashsho ke adho gotra kee santan us desh men base, aur ve bashaan se le balheman, aur saneer aur heman parvat tak faail gaae.
+{5:24} aur unake pitaron ke gharanon ke mukhy purush ye the, arthata aeper, yishae, aeleeael, ajraeeael, yirmayah, hodayyah aur yahadeeael, ye bade veer aur namee aur apane pitaron ke gharanon ke mukhy purush the.
+{5:25} aur unhon ne apane pitaron ke parameshvar se vishvasaghaat kiya, aur us desh ke log jinako parameshvar ne unake samhane se vinash kiya tha, unake devataon ke peechhe yyabhaichaarin kee nai ho liae.
+{5:26} isaliye israaael ke parameshvar ne ashshoor ke raja pool aur ashshoor ke raja tilagatpailaneser ka man ubhara, aur inhon ne unhen arthata roobeniyo, gadiyon aur manashsho ke adho gotra ke logon ko bandhaua karake halah, habor aur hara aur gojan nadee ke pas pahuncha diya aur ve aj ke din tak vaheen rahate haain.
+{6:1} levee ke putra geshan, kahat aur mararee.
+{6:2} aur kahat ke putra, amraam, yisahar, hebraen aur ujjeeaela.
+{6:3} aur amraam kee santan haroon, moosa aur maariyanm, aur haroon ke putra, nadab, abeeho, aeleeajar aur itamara.
+{6:4} aeleeajar se peenahas, peenahas se abeeshoo.
+{6:5} abeeshoo se bukkee, bukkee se ujjee.
+{6:6} ujjee se jaraah, jaraah se marayota.
+{6:7} marayot se amaryah, amaryah se aheetooba.
+{6:8} aheetoob se sadok, sadok se aheemasa.
+{6:9} aheemas se ajaryah, ajaryah se yohanana.
+{6:10} aur yohanan se ajaryah, utpann hua jo sulaaiman ke yarooshalem men banaae huae bhvan men yajak ka kam karata tha
+{6:11} fir ajaryah se amaryah, amaryah se yaheetooba.
+{6:12} yaheetoob se sadok, sadok se shallooma.
+{6:13} shalloom se hilaakiyyah, hilaakiyyah se ajaryaha.
+{6:14} ajaryah se sarayah, aur sarayah se yahosadak utpann hua.
+{6:15} aur jab yahova, yahooda aur yarooshalem ko nabookadanessar ke dara bandhaua karake le gaya, tab yahosadak bhee bandhaua hokar gaya.
+{6:16} levee ke putra gesham, kahat aur mararee.
+{6:17} aur gesham ke putraen ke nam ye the, arthata libnee aur shaimee.
+{6:18} aur kahat ke putra amraam, yisahar, hebraen aur ujjeeaela.
+{6:19} aur mararee ke putra mahalee aur mooshaee aur apane apane pitaron ke gharanon ke anusar leviyon ke kul ye huae.
+{6:20} arthata, geshan ka putra libnee hua, libnee ka yahat, yahat ka jimma.
+{6:21} jimma ka yoah, yoah ka io, io ka jerah, aur jerah ka putra yataraai hua.
+{6:22} fir kahat ka putra ammeenadab hua, ammeenadab ka korah, korah ka asseera.
+{6:23} asseer ka aelkana, aelkana ka aebyasap, aebyasap ka asseera.
+{6:24} asseer ka tahat, tahat ka ureeael, ureeael ka ujjaiyyah aur ujjaiyyah ka putra shaaul hua.
+{6:25} fir aelkana ke putra amasaai aur aheemota.
+{6:26} aelkana ka putra sopaai, sopaai ka nahata.
+{6:27} nahat ka aeleeab, aeleeab ka yaroham, aur yaroham ka putra aelkana hua.
+{6:28} aur shamooael ke putra, usaka jetta yoael aur doosara abiyyah hua.
+{6:29} fir mararee ka putra mahalee, mahalee ka libnee, libnee ka shaimee, shaimee ka ujja.
+{6:30} ujja ka shaima shaima ka haaggaiyyah aur haggaiyyah ka putra asayah hua.
+{6:31} fir jinako daud ne sandook ke ttkaiana pane ke bad yahova ke bhvan men gane ke aadhaikaree tthara diyaya ve ye haain.
+{6:32} jab tab sulaaiman yarooshalem men yahova ke bhvan ko banava n chuka, tab tak ve milapavale tamboo ke nivas ke samhane gane ke dara seva karate the aur is seva men niyam ke anusar upasthiat hua karate the.
+{6:33} jo apane apane putraen samet upaasthiat hua karate the ve ye haai, arthata kahaatiyon men se heman gavaaiya jo yoael ka putra tha, aur yoael shamuael ka.
+{6:34} shamooael aelkana ka, aelkana yaroham ka, yaroham aeleeael ka, aeleeael toh ka.
+{6:35} toh soop ka, soop aelkana ka, aelkana mahat ka, mahat amasaai ka.
+{6:36} amasaai aelkana ka, aelkana yoael ka, yoael ajaryah ka, ajaryah sapanyah ka.
+{6:37} samanyah tahat ka, tahat asseer ka, asseer aebyasap ka, aettyasap korah ka.
+{6:38} korah yisahar ka, yisahar kahat ka, kahat levee ka aur levee israaael ka putra tha.
+{6:39} aur usaka bhai asap jo usake daahine khda hua karata tha vah berekyah ka putra tha, aur berekyah shaima ka.
+{6:40} shaima meekaael ka, meekaael baseyah ka, baseyah maalmaiyyah ka.
+{6:41} maalkaiyyah aetnee ka, aetnee jerah ka, jerah adayah ka.
+{6:42} adayah aetan ka, aetan jimma ka, jimma shaimee ka.
+{6:43} shaimee yahat ka, yahat gesham ka, gesham levee ka putra tha.
+{6:44} aur bai or unake bhai mararee khde hote the, arthata aetav jo keeshaee ka putra tha, aur keeshaee abdee ka, abdee mallook ka.
+{6:45} mallook hashabyah ka, hashabyah amasyaah ka, amasyah hilaakiyyah ka.
+{6:46} hilaakiyyah amasee ka, amasee banee ka, banee shomer ka.
+{6:47} shomer mahalee ka, mahalee mooshaee ka, mooshaee mararee ka, aur mararee levee ka putra tha.
+{6:48} aur inake bhai jo leveey the vah parameshvar ke bhvan ke nivas kee sab prakar kee seva ke liye arpan kiae huae the.
+{6:49} parantu haroon aur usake putra hopabali kee vedee, aur dhoop kee vedee donon par baalidan chaddhate, aur param paavitrasthan ka sab kam karate, aur israaaeliyon ke liye praayaashchait karate the, jaaise ki parameshvar ke das moosa ne agyaaaaen dee theen.
+{6:50} aur haroon ke vansh men ye hua, arthata usaka putra aeleeajar hua, aur aeleeajar ka peenahas, peenahas ka abeeshoo.
+{6:51} abeeshoo ka bukkee, bukkee ka ujjee, ujjee ka jaraaha.
+{6:52} jaraah ka marayot, marayot ka amaryah, amaryah ka aheetooba.
+{6:53} aheetoob ka sadok aur sadok ka aheemas putra hua.
+{6:54} aur unake bhagon men unakee chhavaaniyon ke anusar unakee baastaiyan ye haai, arthata kahat ke kulon men se pahilee chitthee jo haroon kee santan ke nam par nikalee.
+{6:55} arthata charon or kee charaiyon samet yahooda desh ka hebraen unhen mila.
+{6:56} parantu us nagar ke khet aur ganv yapunne ke putra kaleb ko diae gaae.
+{6:57} aur haroon kee santan ko sharannagar hebraen, aur charaiyon samet libna,
+{6:58} aur yatteer aur apanee apanee charaiyon samet aeshatamo. heelen, dabeera.
+{6:59} ashaan aur betashomesha.
+{6:60} aur binyameen ke gotra men se apanee apanee charaiyon samet geba, allemet aur anatot diae gaae. unake gharanon ke sab nagar terah the.
+{6:61} aur shosh kahaatiyon ke gotra ke kul, arthata manashsho ke adho gotra men se chitthee dalakar das nagar diae gaae.
+{6:62} aur geshamiyon ke kulon ke anusar unhen issakar, ashor aur naptalee ke gotra, aur bashaan men rahanevale manashsho ke gotra men se terah nagar mile.
+{6:63} marariyon ke kulon ke anusar unhen rooben, gad aur jabooloon ke gotron men se chitthee dalakar barah nagar diae gaae.
+{6:64} aur israaaeliyon ne leaviyon ko ye nagar charaiyon samet diae.
+{6:65} aur unhon ne yahoodiyo, shaimoniyon aur binyameeaniyon ke gotraen men se ve nagar dia, jinake nam upar diae gaae haain.
+{6:66} aur kahatiyon ke kai kulon ko unake bhag ke nagar aepraaim ke gotra men se mile.
+{6:67} so unako apanee apanee charaiyon samet aepraaim ke pahadee desh ka shakem jo sharan nagar tha, fir gejera.
+{6:68} yokamam, betherona.
+{6:69} ayyalon aur gatraimmona.
+{6:70} aur manashsho ke adho gotra men se apanee apanee charaiyon samet aner aur bilam shosh kahaatiyon ke kul ko mile.
+{6:71} fir geshamiyon ko manashsho ke adho gotra ke kul men se to apanee apanee charaiyon samet bashaan ka golan aur ashatarota.
+{6:72} aur issakar ke gotra men se apanee apanee charaiyon samet kedesha, dabarata.
+{6:73} ramot aur anem,
+{6:74} aur ashor ke gotra men se apanee apanee charaiyon samet mashaal, abdona.
+{6:75} hookok aur rahoba.
+{6:76} aur naptalee ke gotra men se apanee apanee charaiyon samet galeel ka kedesh hammon aur kiryataaim mile.
+{6:77} fir shosh leaviyon arthata marariyon ko jabooloon ke gotra men se to apanee apanee charaiyon samet shaimmon aur tabora.
+{6:78} aur yareeho ke pas kee yaradan nadee kee poorva aur rooben ke gotra men se to apanee apanee charaiyon samet jangal ka beser, yahasa.
+{6:79} kademot aur mepata.
+{6:80} aur gad ke gotra men se apanee apanee charaiyon samet gilad ka ramot mahanaaim,
+{6:81} heshaebon aur yajer diae gaae.
+{7:1} issakar ke putra tola, pooa, yashoob aur shaimraen, char the.
+{7:2} aur tola ke putra ujjee, rapayah, yareeael, yahamaai, yibasam aur shamooael, ye apate apate pitaron ke gharanon arthata tola kee santan ke mukhy purush aur bade veer the, aur daud ke dinon men unake vansh kee ginatee bais hajar chh sau thee.
+{7:3} aur ujjee ka putra yijraah, aur yijraah ke putra meekaael, obadhah, yoael aur yishshiayyah panch the ye sab mukhy purush the.
+{7:4} aur unake sath unakee vanshaavaaliyon aur pitaron ke gharanon ke anusar sena ke dalon ke chhttees hajar yoddha the kyonki unake bahut striayan aur putra the.
+{7:5} aur unake bhai jo issakar ke sab kulon men se the, ve sattasee hajar bade veer the, jo apanee apanee vanshaavalee ke anusar gine gaae.
+{7:6} binyameen ke putra bela, beker aur yadeeael ye teen the.
+{7:7} bela ke putra aesabon, ujjee, ujjeeael, yareemot aur iree ye panch the. ye apane apane pitaron ke gharaton ke mukhy purush aur bade veer the, aur apanee apanee vanshaabalee ke anusar unakee ginatee bais hajar chauntees thee.
+{7:8} aur beker ke putra jameera, yoasha, baleeaejer, aelyoaenaai, omrae, yaremot, aabiyyah, anatot aur alemet ye sab beker ke putra the.
+{7:9} ye jo apane apane pitaron ke gharanon ke mukhy purush aur bade veer the, inake vansh kee ginatee apanee apanee vanshaavalee ke anusar bees hajar do sau thee.
+{7:10} aur yadeeael ka putra bilhan, aur bilhan ke putra, yoosha, binyameen, aehood, kanana, jetan, tashash aur aheeshahar the.
+{7:11} ye sab jo yadeeael kee santan aur apane apane pitaron ke gharanon men mukhy purush aur bade veer the, inake vansh se sena men yuddh karane ke yagy satrah hajar do sau purush the.
+{7:12} aur ir ke putra shuuppeem aur huppeem aur aher ke putra hooshaee the.
+{7:13} naptalee ke putra, aehaseeael, goonee, yeser aur shalloom the, ye bilha ke pote the.
+{7:14} manashsho ke putra, asraeeael jo usakee aramee rakhelee sree se utpann hua tha aur us aramee sree ne gilad ke pita makeer ko bhee janm diya.
+{7:15} aur makeer jasakee baahin ka nam maka tha us ne huppeem aur shuuppeem ke liye striayan byah lee, aur doosare ka nam salofaad tha, aur salofaad ke beattyaian hui.
+{7:16} fir makeer kee sree maka ke aek putra utpann hua aur usaka nam peresh rakha aur usake bhai ka nam shoresh tha aur isake putra ulam aur rakem the.
+{7:17} aur ulam ka putra badana. ye gilad kee santan the jo makeer ka putra aur manashsho ka pota tha.
+{7:18} fir usakee bahin hammoleket ne ishahod, abeeaejer aur mahala ko janm diya.
+{7:19} aur shameeda ke putra aan, shokem, likhee aur aneeam the.
+{7:20} aur aepraaim ke putra shootelah aur shootelah ka bered, bered ka tahat, tahat ka aelada, aelada ka tahata.
+{7:21} tahat ka jabad aur jabad ka putra shootelah hua, aur yejer aur aelad bhee jinhen gat ke manushyon ne jo us desh men utpann huae the isaaliye ghaat kiya, ki ve unake pashu har lene ko utar aae the.
+{7:22} so unaka pita aepraaim unake liye bahut din shaek karata raha, aur usake bhai use shaanti dene ko aae.
+{7:23} aur vah apanee patnee ke pas gaya, aur us ne garbhvatee hokar aek putra ko janm diya aur bapraaim ne usaka nam is karan bareea rakha, ki usake gharane men vipaattai padee thee.
+{7:24} aur usakee putraee shora thee, jis ne nichale aur uparavale donon bethoran nam nagaron ko aur ujjenashora ko draddh karaya.
+{7:25} aur usaka putra repa tha, aur reshop bhee, aur usaka putra telah, telah ka tahan, tahan ka ladan,
+{7:26} ladan ka ammeehood, ammeehood ka aeleeshaama.
+{7:27} aeleeshama ka noon, aur noon ka putra yahoshoo tha.
+{7:28} aur unakee nij boomi aur bastaiyan ganvon samet betel aur poorva kee or naran aur pashchaim kee or ganvon samet gejer, fir ganvon samet shakem, aur ganvon samet ajja theen.
+{7:29} aur manashshoiyon ke sivane ke pas apane apane ganvon samet betashaan, tanak, maagio aur dora. in men israaael ke putra yusufa kee santan ke log rahate the.
+{7:30} ashor ke putra, yimna, yishva, yishvee aur barueea, aur unakee bahin serah hui.
+{7:31} aur bareea ke putra, heber aur malkeeael aur yah bijat ka pita hua.
+{7:32} aur heber ne yapalet, shaemer, hotam aur unakee baahin shooa ko janm diya.
+{7:33} aur yapalet ke putra pasak bimhal aur ashvata. yapalet ke ye hee putra the.
+{7:34} aur shomer ke putra, ahee, rohaga, yahubba aur aram the.
+{7:35} aur usake bhai helem ke putra sopah, yimna, sholesh aur amal the.
+{7:36} aur sopah ke putra, sooh, harneper, shooal, veree, imraa.
+{7:37} beser, hod, shamma, shailasa, yitraan aur bera the..
+{7:38} aur yeter ke putra, yapunne, pispa aur ara.
+{7:39} aur ulla ke putra, arah, hanneeael aur risya.
+{7:40} ye sab ashor ke vush men hua, aur apane apane pitaron ke gharanon men mukhy purush aur bade se bade veer the aur pradhaanon men mukhy the. aur ye jo apanee apanee vanshaavalee ke anusar sena men yuddh karane ke liye gine gaa, inakee ginatee chhbbees hajar thee.
+{8:1} binyameen se usaka jetta bela, doosara ashabel, teesara ah,
+{8:2} chautha noha aur panchavan rapa utpann hua.
+{8:3} aur bela ke putra, aar, gera, abeehooda.
+{8:4} abeeshoo, naman, ahoh,
+{8:5} gera, shapoopan aur hooram the.
+{8:6} aur aehood ke putra ye huae geba ke nivaasiyon ke pitaron ke gharanon men mukhy purush ye the, jinhen bandhauai men manahat ko le gaae the.
+{8:7} aur naman, aahiyyah aur gera inhen bhee bandhaua karake manahat ko le gaae the, aur us ne ujja aur ahilood ko janm diya.
+{8:8} aur shaharaaim se hashaeem aur bara nam apanee striayon ko chhod dene ke bad moab desh men ladke utpann huae.
+{8:9} aur usakee apanee sree hodesh se yoab, sibya, mesha, malkam, yoos, sokya,
+{8:10} aur mirma utpann huae usake ye putra apane apane pitaron ke gharanon men mukhy purush the.
+{8:11} aur hooshaeem se abeetoob aur aelpal ka janm hua.
+{8:12} aelpal ke putra aeber, mishaam aur shomer, isee ne ono aur ganvon samet lod ko basaya.
+{8:13} fir vareea aur shoma jo ayyalon ke nivaasiyon ke pitaron ke gharanon men mukhy purush the, aur jinhon ne gat ke nivaasiyon ko bhga diya.
+{8:14} aur ao, haasak, yaramota.
+{8:15} jabadhah, arad, aedera.
+{8:16} meekaael, yispa, yoha, jo baaeia ke putra the.
+{8:17} jabadhah, mashuullam, hijakee, hebara.
+{8:18} yishamaraai, yijaleea, yobab, jo aelpal ke putra the.
+{8:19} aur yakeem, jikree, jabdee.
+{8:20} aeleeaenaai, sillataai, aeleeaela.
+{8:21} adayah, barayah aur shaimraat jo shaimee ke putra the.
+{8:22} aur yishapan, yaber, aeleeaela.
+{8:23} abdon, jikree, hanana.
+{8:24} hananyah, aelam, antotiyyaha.
+{8:25} yipadayah aur panooael jo shaashak ke putra the.
+{8:26} aur shamasharaai, shaharyah, atalyaha.
+{8:27} yoreshyah, aeliyyah aur jikr jo yaroham ke putra the.
+{8:28} ye apanee apanee peeddhee men apane apane pitaron ke gharanon men mukhy purush aur pradhaan the, ye yarooshalem men rahate the.
+{8:29} aur gibon men gibon ka pita rahata tha, jisakee patnee ka tam maka tha.
+{8:30} aur usaka jetta putra abdon tha, fir shoor, keesha, bal, nadaba.
+{8:31} gadora ao aur jeker huae.
+{8:32} aur mikot se shaima utpann hua. aur ye bhee apane bhiyon ke samhane yarooshalem men rahate the, apane bhaiyon hee ke sath.
+{8:33} aur ner se keesh utpann hua, keesh se shaaul, aur shaaul se yonatan, malakeesha, abeenadab, aur aeshabal utpann hua.
+{8:34} aur yonatan ka putra mareebbal hua, aur mareebbal se meeka utpann hua.
+{8:35} aur meeka ke putra peeton, melek, tare aur ahaja.
+{8:36} aur ahaj se yahoaa utpann hua. aur yahoaa se alemet, ajamavet aur jimraee aur jimraee se mosa.
+{8:37} mosa se bina utpann hua. aur isaka putra rapa hua, rapa ka aelasa aur aelasa ka putra asel hua.
+{8:38} aur asel ke chh putra huae jinake ye nam the, arthata ajraeekam, bokaro, yishmaael, shaaryah, obadhah, aur hanana. ye hee sab asel ke putra the.
+{8:39} or usake bhai aeshok ke ye putra hua, arthata usaka jetta ulam, doosara yoosha, teesara aeleepeleta.
+{8:40} aur ulam ke putra shooraveer aur dhanudhararee hua, aur unake bahut bette-pote arthata deddh sau huae. ye hee sab binyameen ke vansh ke the.
+{9:1} is prakar sab israaaelee apanee apanee vanshaavalee ke anusar, jo israaael ke rajaon ke vrattant kee pustak men likhee haai, gine gaae. aur yahoodee apane vishvasaghaat ke karan bandhauai men babul ko pahunchaae gaae.
+{9:2} jo log apanee apanee nij boomi arthata apane nagaron men rahate the, vah israaaelee, yajak, leveey aur nateen the.
+{9:3} aur yarooshalem men kuchh yahoodee kuchh binyameen, aur kuchh aepraaimee, aur manashshoi, rahate the
+{9:4} arthata yahooda ke putra peres ke vansh men se ammeehood ka putra utaai, jo omraee ka putra, aur imraee ka pota, aur banee ka parapota tha.
+{9:5} aur shaeeloiyon men se usaka jetta putra asayah aur usake putra.
+{9:6} aur jerah ke vansh men se yooael, aur inake bhi, ye chh sau nabbe hue.
+{9:7} fir binyameen ke vansh men se salloo jo mashuullam ka putra, hodayyah ka pota, aur hassanooa ka parapota tha.
+{9:8} aur yibiryyah jo yaroham ka putra tha, aela jo ujjee ka putra, aur mikree ka pota tha, aur mashuullam jo shapatyah ka putra, rooael ka pota, aur yibnaiyyah ka parapota tha
+{9:9} aur inake bhai jo apanee apanee vanshaavalee ke anusar milakar nau sau chhppana. ye sab purush apane apane pitaron ke gharanon ke anusar pitaron ke gharanon men mukhy the.
+{9:10} aur yajakon men se yadayah, yahoyareeb aur yakeen,
+{9:11} aur ajaryah jo parameshvar ke bhvan ka pradhaan aur hilaakiyyah ka putra tha, yah pashuullam ka putra, yah sadok ka putra, yah marayot ka putra, yah aheetoob ka putra tha.
+{9:12} aur adayah jo yaroham ka putra tha, yah pashahoor ka putra, yah malkaiyah ka putra, yah masaai ka putra, yah adoael ka putra, yah jera ka putra, yah pashuullam ka putra, yah mashailleet ka putra, yah immer ka putra tha.
+{9:13} aur unake bhai the, jo apane apane pitaron ke gharanon men satrah sau satt mukhy purush the, ve parameshvar ke bhvan kee seva ke kam men bahut nipun purush the.
+{9:14} fir leviyon men se mararee ke vansh men se shamayah jo hashshoov ka putra, ajraeekam ka pota, aur hashayyah ka parapota tha.
+{9:15} aur bakabakkar, heresh aur galal aur asap ke vansh men se mattanyah jo meeka ka putra, aur jikree ka pota tha.
+{9:16} aur obadhah jo shamayah ka putra, galal ka pota aur yadootoon ka parapota tha, aur berekyah jo asa ka putra, aur aelkana ka pota tha, jo natopaiyon ke ganvon men rahata tha.
+{9:17} or darapalon men se apane apane bhiyon sahit shalloom, akkoob, talmon aur aheeman, un men se mukhy to shalloom tha.
+{9:18} aur vah ab tak poorva or raja ke faattk ke pas darapalee karata tha. leviyon kee chhavanee ke darapal ye hee the.
+{9:19} aur shalloom jo kore ka putra, aebyasap ka pota, aur korah ka parapota tha, aur usake bhai jo usake moolapurush ke gharane ke arthata korahee the, vah is kam ke adhaikaree the, ki ve tamboo ke darapal hon. unake purakha to yahova kee chhavanee ke aadhaikaree, aur paaittav ke ravavale the.
+{9:20} aur agale samay men aeleeajar ka putra peenahas jisake sang yahova rahata tha vah unaka pradhaan tha.
+{9:21} mesholemyah ka putra jakaryah milapavale tamboo ka darapal tha.
+{9:22} ye sab jo darapal hone ko chune gaa, vah do sau barah the. ye jinake purakhaon ko daud aur shamooael dasha ne vishvasayogy janakar ttharaya tha, vah apane apane ganv men apanee apanee vanshaavalee ke anusar gine gaae.
+{9:23} so ve aur unakee santan yahova ke bhvan arthata tamboo ke bhvan ke faattkon ka aadhaikar baree baree rakhte the.
+{9:24} darapal poorva, paashchaim, uttar, dakkhian, charon disha kee or chaukee dete the.
+{9:25} or unake bhai jo ganvon men rahate the, unako sat sat din ke bad baree baree se unake sang rahane ke liye ana padta tha.
+{9:26} kyonaki charon pradhaan darapal jo leveey the, ve vishvasayogy janakar parameshvar ke bhvan kee kottariyon aur bhndaron ke adhaikaree ttharaae gaae the.
+{9:27} aur ve parameshvar ke bhvan ke asapas isaaliye rat bitate the, ki usakee raksha unhen saunpee gai thee, aur bhora-bhor ko use kholana unheen ka kam tha.
+{9:28} aur un men se kuchh upasana ke patraen ke adhaikaree the, kyonki ye ginakar bheetar pahunchaa, aur ginakar bahar tikale bhee jate the.
+{9:29} aur un men se kuchh saman ke, aur pavitrasthan ke patraen ke, aur maaide, dakhmadha, tel, loban aur sugandhadrayyon ke adhaikaree ttharaae gaae the.
+{9:30} aur yajakon ke putraen men se kuchh sugandhadrayyon men gandhaee ka kam karate the.
+{9:31} aur maatityah nam aek leveey jo korahee shalloom ka jetta tha use bishvasayogy janakar tavon par banai hui vastuon ka adhaikaree niyukt kiya tha.
+{9:32} aur usake bhiyon arthat kahaatiyon men se kuchh to bhnttvalee rottee ke adhaikaree the, ki har aek vishraamadin ko use taaiyar kiya karen.
+{9:33} aur ye gavaaiye the jo leveey pitaron ke gharanon men mukhy the, aur kottriyon men rahate, aur aaair kam se chootte the kyonaki ve rata-din apane kam men lage rahate the.
+{9:34} ye hee apanee apanee peeddhee men leaviyon ke pitaron ke gharanon men mukhy purush the, ye yarooshalem men rahate the.
+{9:35} aur gibon men gibon ka pita yeeael rahata tha, jisakee patnee ka nam maka th.
+{9:36} usaka jetta putra abdon hua, fir sur, keesha, bal, ner, nadaba.
+{9:37} gador, ao, jakaryah aur milkota.
+{9:38} aur milkot se shaimam utpann hua aur ye bhee apane bhiyon ke samhane apane bhiyon ke sang yarooshalem men rahate the.
+{9:39} aur ner se keesha, keesh se shaaul, aur shaaul se yonatan, malkeesha, abeenadab aur aeshabal utpann huae.
+{9:40} aur yonatan ka putra mareebbal hua, aur mareebbal se meeka utpann hua.
+{9:41} aur meeka ke putra peeton, melek, tahra aur ahaj the.
+{9:42} aur ahaj se yara aur yara se alemet, ajamavet aur jimrae, aur jimraee se mosa.
+{9:43} aur mosa se bina utpann hua aur bina ka putra rapayah hua, rapayah ka aelasa, aur aelasa ka putra asel hua.
+{9:44} aur asel ke chh putra huae jinake ye nam the, arthata ajraeekam, bokaro, yishmaael, shaaryah, obadhah aur hatana asel ke ye hee putra hue.
+{10:1} paalishtee israaaeliyon se lade aur israaaelee paalishtaiyon ke samhane se bhage, aur gilabo nam pahad par mare gaae.
+{10:2} aur paalishtee shaaul aur usake putraen ke peechhe lage rahe, aur paalishtaiyon ne shaaul ke putra yonatan, abeenadab aur malkeeshoo ko mar dala.
+{10:3} aur shaaul ke sath dhamasan yuddh hota raha aur dhanudharariyon ne use ja liya, aur vah unake karan yyakul ho gaya.
+{10:4} tab shaaul ne apane haathaiyar ddhonevale se kaha, apanee talavar kheenchakar mujhe jhonk de, kaheen aeesa n ho ki ve khtanaraahit log akar meree ttttha kare, parantu usake haathyaiar ddhonevale ne bhyabheet hokar aeesa karane se inakar kiya, tab shaaul apanee talavar khdee karake us par gir pada.
+{10:5} yah dekhkar ki shaaul mar gaya haai usaka haathaiyar ddhonepasal bhee apanee talavar par ap girakar mar gaya.
+{10:6} yon shaaul aur usake teenon putra, aur usake gharane ke sab log aek sang mar gaae.
+{10:7} yah dekhkar ki ve bhag gaa, aur shaaul aur usake putra mar gaa, us tarai men rahanevale sab israaaelee manushy apane apane nagar ko chhodkar bhag gaae aur palishtee akar un men rahane lage.
+{10:8} doosare din jab palishtee mare huon ke mal ko loottne aa, tab unako shaaul aur usake putra gilabo pahad par pade huae mile.
+{10:9} tab unhon ne usake vasren ko utar usaka sir aur hathaiyar le liya aur paalishtaiyon ke desh ke sab sthanon men dooton ko isaaliye bheja ki unake devataon aur sadhaaran logon men yah shuubh samachar dete jaaen.
+{10:10} tab unhon ne usake haathaiyar apane devalay men rakhe, aur usakee khopadee ko dagon ke mandair men lattka diya.
+{10:11} jab gilad ke yabesh ke sab logon ne suna ki palishtaiyon ne shaaul se kya kya kiya haai.
+{10:12} tab sab shooraveer chale aur shaaul aur usake putraen kee lothen uttakar yabesh men le aa, aur unakee haddiyon ko yabesh men aek banj vraksha ke tale gad diya aur sat din tak anashan kiya.
+{10:13} yon shaaul us vishvasaghaat ke karan mar gaya, jo us ne yahova se kiya tha kyonaki us ne yahova ka vachan ttal diya tha, fir us ne bootasiddhi karanevalee se poochhkar sammaati lee thee.
+{10:14} us ne yahova se n poochha tha, isaaliye yahova ne use marakar rajy ko yishau ke putra daud ko de diya.
+{11:1} tab sab israaaelee daud ke pas hebraen men ikatthe hokar kahane lage, sun, ham log aur too aek hee haddee aur mans haain.
+{11:2} agale dinon men jab shaaul raja tha, tab bhee israaaeliyon ka agua too hee tha, aur tere parameshvar yahova ne tujh se kaha, ki meree praja israaael ka charavaha, aur meree praja israaael ka pradhaan, too hee hoga.
+{11:3} isaliye sab israaaelee puraniye hebraen men raja ke pas aa, aur daud ne unake sath hebraen men yahova ke samhane vacha bandhaee aur unhon ne yahova ke vachan ke anusar, jo us ne shamooael se kaha tha, israaael ka raja hone ke liye daud ka abhaishok kiya.
+{11:4} tab sab israaaeliyon samet daud yarooshalem gaya, jo yaboos bhee kahalata tha, aur vahan yaboosee nam us desh ke nivasee rahate the.
+{11:5} tab yaboos ke nivaasiyon ne daud se kaha, too yahan ane naheen paaega. taubhee daud ne siyyon nam gaddh ko le liya, vahee daudapur bhee kahalata haai.
+{11:6} aur daud ne kaha, jo koi yaboosiyon ko sab se paahile marega, vah mukhy senapati hoga, tab sarooyah ka putra yoab sab se paahile chaddh gaya, aur senapaati ban gaya.
+{11:7} aur daud us gaddh men rahane laga, isaaliye usaka nam daudapur pada.
+{11:8} aur us ne nagar ke charon or, arthata millo se lekar charon or shaharapanash banavai, aur yoab ne shosh nagar ke khshdharon ko fir basaya.
+{11:9} aur daud kee pratishtta adhaik baddhtee gai aur senaon ka yahova usake sang tha.
+{11:10} yahova ne israaael ke vishy jo vachan kaha tha, usake anusar daud ke jin shooraveeron ne sab israaaeliyon samet usake rajy men usake paksha men hokar, use raja banane ko jaor diya, un men se mukhy purush ye haain.
+{11:11} daud ke shooraveeron kee namavalee yah haai, arthata kisee hakmonee ka putra yashaebam jo teeson men mukhy t, us ne teen sau purushaen par bhala chala kar, unhen aek hee samay men mar dala.
+{11:12} usake bad ahohee dodo ka putra eleeajar jo teenon mahan veeron men se ek tha.
+{11:13} vah pasadammeem men jahan jav ka aek khet tha, daud ke sang raha jab paalishtee vahan yuddh karane ko iatthe huae the, aur log paalishtaiyon ke samhane se bhag gaae.
+{11:14} tab unhon ne us khet ke beech men khde hokar usakee raksha kee, aur paalishtaiyon ko mara, aur yahova ne unaka bada uddhar kiya.
+{11:15} aur teeson mukhy purushaen men se teen daud ke pas chattan ko, arthata adullam nam gufaa men gaa, aur paalishtaiyon kee chhavanan rapaim nam tarai men padee iui thee.
+{11:16} us samay daud gaddh men tha, aur us samay paalishtaiyon kee ek chaukee betalehem men thee.
+{11:17} tab daud ne badee abhailasha ke sath kaha, kaun mujhe betalehem ke faattk ke pas ke kuen ka panee pilaaega.
+{11:18} tab ve teenon jan palishtaiyon kee chhavanee men toott pade aur betalehem ke faattk ke kuen se panee bhrakar daud ke pas le aae parantu daud ne peene se inakar kiya aur yahova ke samhane ardha karake undela.
+{11:19} aur us ne kaha, mera parameshvar mujh se aeesa karana door rakhe kya maain in manushyon ka lohoo peeun jinhon ne apane praanon par khela haai? ye to apane praan par khelakar use le aae haain. isaliye us ne vah panee peene se inakar kiya. in teen veeron ne ye hee kam kiae.
+{11:20} aur abeeshau jo yoab ka bhai tha, vah teenon men mukhy tha. aur us ne apana bhala chalakar teen sau ko mar dala aur teenon men namee ho gaya.
+{11:21} doosaree shraenee ke teenon men vah adhaik pratishttit tha, aur unaka pradhaan ho gaya, parantu mukhy teenon ka pad ko n pahuncha.
+{11:22} yahoyada ka putra banayah tha, jo kabajel ke aek veer ka putra tha, jis ne bade bade kam kiae the, us ne sinh saman do moaabiyon ko mar dala, aur himaretu men us ne aek gadhe men utar ke aek sinh ko mar dala.
+{11:23} fir us ne aek deelavale arthata panch hath lambe misraee purush ko mar dala, vah misraee hath men julahon ka ddheka ka aek bhala liae huae tha, parantu banayah aek lattee hee liae huae usake pas gaya, aur misraee ke hath se bhale ko chheenakar usee ke bhale se use ghaat kiya.
+{11:24} aeese aeese kam karake yahoyada ka putra banayah un teenon veeron meen namee ho gaya.
+{11:25} vah to teeson se adhaik pratishttit tha, parantu mukhy teenon ke pad ko n pahuncha. usako daud ne apanee nij sabha men sabhasad kiya.
+{11:26} fir dalon ke veer ye the, arthata yoab ka bhai asahel, betalehemee dodo ka putra aelhanana.
+{11:27} haroree shammot, palonee helesa.
+{11:28} takoi ikkesh ka putra ira, anatotee abeeaejera.
+{11:29} sibbake hosatee, ahohee ilaai.
+{11:30} maharaai natopai, aek aur natopai bana ka putra heleda.
+{11:31} binyameeaniyon ke giba nagaravasee reebaai ka putra itaai, piratonee banayaha.
+{11:32} gashake nalon ke pas rahanevala hooraai, arabavasee abeeaela.
+{11:33} bahooreemee ajamavet, shalbonee aelyahaba.
+{11:34} geejoi hashom ke putra, fir hararee shaage ka putra yonatana.
+{11:35} hararee sakar ka putra aheeam, ur ka putra aeleepala.
+{11:36} makerai heper, palonee ahiyyaha.
+{11:37} karmelee hesrae, aejbaai ka putra naraai.
+{11:38} natan ka bhai yoael, hagraee ka putra mibhara.
+{11:39} mammonee selek, berotee naharaai jo sarooyah ke putra yoab ka hathaiyar ddhonevala tha.
+{11:40} yeteree ira aur gareba.
+{11:41} hittee uriyyah, ahalaai ka putra jabada.
+{11:42} tees purushaen samet roobenee shaeeja ka putra adeena jo roobeaniyon ka muakhaiya tha.
+{11:43} maka ka putra hanan, metenee yoshaapata.
+{11:44} ashatarotee ujjaiyyah, aroaeree hotam ke putra shaama aur yeeaela.
+{11:45} shaimraee ka putra yadeeael aur usaka bhai teesee, yoha.
+{11:46} mahaveemee aeleeael, aelanam ke putra yareebaai aur yoshayyah,
+{11:47} moabee yitma, aeleeael, obed aur masobai yaseeaela.
+{12:1} jab daud sikalag men keesh ke putra shaaul ke dr ke mare chhpai rahata tha, tab ye usake pas vahan aa, aur ye un veeron men se the jo yuddh men usake sahayak the.
+{12:2} ye dhanudhararee the, jo daahine-baye, donon hathon se gofan ke patthr aur dhanush ke teer chala sakate the aur ye shaaul ke bhaiyon men se binyameenee the.
+{12:3} mukhy to aheeaejer aur doosara yoash tha jo gibavasee shamaa ka putra tha fir ajamavet ke putra yajeeael aur pelet, fir baraka aur anatotee yehoo.
+{12:4} aur gibonee yishamayah jo teeson men se aek veer aur unake upar bhee tha fir yirmayah, yahajeeael, yohanan, gaderavasee yojabada.
+{12:5} aeloojaai, yareemot, balyah, shamaryah, haroopee shapatyaha.
+{12:6} aelkana, yishaiyyah, ajarel, yoaejer, yashaebam, jo sab korahavanshaee the.
+{12:7} aur gadoravasee yaroham ke putra yoaela aur jabadhaha.
+{12:8} fir jab daud janbal ke gaddh men rahata tha, tab ye gadee jo shooraveer the, aur yuddh vidha seekhe huae aur ddhal aur bhala kam men lanevale the, aur unake muh sinh ke se aur ve pahadee mrag ke saman veg se daudnevale the, ye aur gaadiyon se alag hokar usake pas aae.
+{12:9} arthata mukhy to aejer, doosara obadhah, teesara aeleeaba.
+{12:10} chautha mishmanna, panchapan yirmayaha.
+{12:11} chhtta attaai, satavan aeleeaela.
+{12:12} attvan yohanan, nauvan aelajabada.
+{12:13} dasavan yirmayah aur gyarahavan makabannaai tha.
+{12:14} ye gadee mukhy yoddha the, un men se jo sab se chhotta tha vah to aek sau ke upar, aur jo sab se bada tha, vah hajar ke upar tha.
+{12:15} ye hee ve haai, jo pahile maheene men jab yaradan nadee sab kadadon ke upar upar bahatee thee, tab usake par utare aur poorva aur pashchaim danon or ke sab tarai ke rahanevalon ko bhga diya.
+{12:16} aur kai aek binyameenee aur yahoodee bhee daud ke pas gaddh men aae.
+{12:17} un se milane ko daud nikala aur un se kaha, yaadi tum mere pas mitrabhav se meree sahayata karane ko aae ho, tab to mera man tum se laga rahega parantu jo tum mujhe dhaekha dekar mere shatrauon ke hath pakadvane aae ho, to hamare pitaron ka parameshvar is par drashtti karake dantte, kyonki mere hath se koi upadrav naheen hua.
+{12:18} ab atma amasaai men samaya, jo teeson veeron men mukhy tha, aur us ne kaha, he daud! ham tere haain he yishau ke putra! ham teree or ke haai, tera kushal hee kushal ho aur tere sahayakon ka kushal ho, kyonki tera parameshvar teree sahayata kiya karata haai. isaaliye daud ne unako rakh liya, aur apane dal ke muakhaiye tthara diae.
+{12:19} fir kuchh manashshoi bhee us samay daud ke pas bhag gaa, jab vah paalishtaiyon ke sath hokar shaaul se ladne ko gaya, parantu usakee kuchh sahayata n kee, kyonaki palishtaiyon ke saradaron ne sammati lene par vah kahakar use bida kiya, ki vah hamare sir kattvakar apane svamee shaaul se fir mil jaaega.
+{12:20} jab vah siklag ko ja raha tha, tab ye manashshoi usake pas bhag gaae arthata adana, yojabad, yadeeael, meekaael, yojabad, aeleehoo aur sillataai jo manashsho ke hajaron ke mukhaiye the.
+{12:21} inhon ne lutteron ke dal ke viruddh daud kee sahayata kee, kyonaki ye sab shooraveer the, aur sena ke pradhaan bhee ban gaae.
+{12:22} varan pratidin log daud kee sahayata karane ko usake pas ate rahe, yahan tak ki parameshvar kee sena ke saman aek badee sena ban gai.
+{12:23} fir log ladne ke liye haathaiyar bandho huae hobraen men daud ke pas isaliye aae ki yahova ke vachan ke anusar shaaul ka rajy usake hath men kar den unake muakhaiyon kee ginatee yah haai.
+{12:24} yahooda ke ddhal aur bhala liae huae chh hajar att sau hathaiyarabandha ladne ko baae.
+{12:25} shaimonee sat hajar aek sau taaiyar shooraveer ladne ko aae.
+{12:26} leveey char hajar chh sau aae.
+{12:27} aur haroon ke gharane ka pradhaan yahoyada tha, aur usake sath teen hajar sat sau aae.
+{12:28} aur sadok nam aek javan veer bhee aya, aur usake pita ke gharane ke bais pradhaan aae.
+{12:29} aur shaaul ke bhai binyameeaniyon men se teen hajar aa, kyonki us samay tak adho binyameeaniyon se aadhaik shaaul ke gharane ka paksha karate rahe.
+{12:30} fir aepraaimiyon men se bade veer aur apane apane pitaron ke gharanon men namee purush bees hajar att sau aae.
+{12:31} aur manashsho ke adho gotra men se daud ko raja banane ke liye attarah hajar aa, jinake nam bataae gaae the.
+{12:32} aur issakariyon men se jo samay ko pahachanate the, ki israaael ko kya karana uchit haai, unake pradhaan do sau the aur unake sab bhai unakee agyaa men rahate the.
+{12:33} fir jabooloon men se yuddh ke sab prakar ke haathaiyar liae huae ladne ko panati bandhanevale yoddha pachas hajar aa, ve panati bandhnevale the aur chanchal n the.
+{12:34} fir naptalee men se pradhaan to aek hajar, aur unake sang ddhal aur bhala liae saaintees hajar aae.
+{12:35} aur daaniyon men se ladne ke liye panti bandhanevale attais hajar chh sau aae.
+{12:36} aur ashor men se ladne ko panti bandhanevale chalees hajar yoddha aae.
+{12:37} aur yaradan par rahanevale roobenee, gadee aur manashsho ke adho gotraiyon men se yuddh ke sab prakar ke hathaiyar liae huae aek lakh bees hajar aae.
+{12:38} ye sab yuddh ke liye panti bandhanevale daud ko sare israaael ka raja banane ke liye hebraen men sachche man se aa, aur aur sab israaaelee bhee daud ko raja banane ke liye sahamat the.
+{12:39} aur ve vahan teen din daud ke sang khate peete rahe, kyonaki unak bhaiyon ne unake liye taaiyaree kee thee.
+{12:40} aur jo unake nikatt varan issakar, jabooloon aur naptalee tak rahate the, ve bhee gadaho, untto, khchcharon aur baailon par maaida, anjeeron aur kishaamish kee ttiikaya, dakhmadha aur tel aadi bhojanavastu ladakar laa, aur baail aur bhed-bakaariyan bahutayat se laae kyonki israaael men anand manaya jaraha tha.
+{13:1} aur daud ne sahasrpaatiyo, shatapatiyon aur sab pradhaanon se sammati lee.
+{13:2} tab daud ne israaael kee saree mandlee se kaha, yadi yah tum ko achchha lage aur hamare parameshvar kee ichchha ho, to israaael ke sab deshaen men jo hamare bhai rah gaae haain aur unake sath jo yajak aur leveey apane apane charaivale nagaron men rahate haai, unake pas bhee yah kahala bhejen ki hamare pas ikatthe ho jao.
+{13:3} aur ham apane parameshvar ke sandamak ko apane yahan le aaen kyonaki shaaul ke dinon men ham usake sameep naheen jate the.
+{13:4} aur samast mandlee ne kaha, ham aeesa hee karenge, kyonaki yah bat un sab logon kee draashtti men uchit maloom hui.
+{13:5} tab daud ne misra ke shaeehor se le hamat kee ghaattee tab ke sab israaaeliyon ko isaliye ikattha kiya, ki parameshvar ke sandook ko kiryatyareem se le aae.
+{13:6} tab daud sab israaaeliyon ko sang lekar bala ko gaya, jo kiryatyareem bhee kahalata aur yahooda ke bhag men tha, ki parameshvar yahova ka sandook vahan se le aae vah to karoobon par virajanevala haai, aur usaka nam bhee yahee liya jata haai.
+{13:7} tab unhon ne parameshvar ka sandook aek nai gadee par chaddhakar, abeenadab ke ghar se nikala, aur ujja aur ao us gadee ko hankane lage.
+{13:8} aur daud aur sare israaaelee parameshvar ke samhane tan man se geet gate aur beena, sarangee, df, jhanjh aur turahiyan bajate the.
+{13:9} jab ve keedon ke khlihan tak aa, tab ujja ne apana hath sandook thamane ko baddhaya, kyonki baailon ne ttokar khai thee.
+{13:10} tab yahova ka kop ujja par bhdk utta aur us ne us ko mara kyonki us ne sandook par hath lagaya tha vah vaheen parameshvar ke samhane mar gaya.
+{13:11} tab daud aprasann hua, isaliye ki yahova ujja par toott pada tha aur us ne us sthan ka nam peresujja rakha, yah nam aj tak bana haai.
+{13:12} aur us din daud parameshvar se drakar kahane laga, maain parameshvar ke sandook ko apane yahan kaaise le aun?
+{13:13} tab daud ne sandook ko apane yahan daudapur men n laya, parantu obededom nam gatee ke yahan le gaya.
+{13:14} aur parameshvar ka sandook obededom ke yahan usake gharane ke pas teen maheene tak raha, aur yahova ne obededom ke gharane par aur jo kuchh usaka tha us par bhee ashaeesh dee.
+{14:1} aur sor ke raja heeram ne daud ke pas doot bheje, aur usaka bhvan banane ko devadaru kee lakadee aur raj aur baddhi bheje.
+{14:2} aur daud ko nishchay ho gaya ki yahova ne mujhe israaael ka raja karake sthiar kiya, kyonaki usakee praja israaael ke nimitt usaka rajy atyant baddh gaya tha.
+{14:3} aur yarooshalem men daud ne aur striayan byah lee, aur un se aur bette-beattyaian utpann hui.
+{14:4} usake jo santan yarooshalem men utpann hua, unake nam ye haain arthata shammo, shaebab, natan, sulaaimana
+{14:5} yibhar, aeleeshoo, aelapeleta
+{14:6} nogah, nepeg, yapee, aeleeshaama,
+{14:7} belyada aur aeleepeleda.
+{14:8} jab paalishtaiyon ne suna ki poore israaael ka raja hone ke liye daud ka abhaishok hua, tab sab palishtaiyon ne daud kee khoj men chaddhai kee yah sunakar daud unaka samhana karane ko nikal gaya.
+{14:9} aur paalishtee aae aur rapaim nam tarai men dhaava mara.
+{14:10} tab daud ne parameshvar se poochha, kya maain palishtaiyon par chaddhai karoon? aur kaya too unhen mere hath men kar dega? yahova ne us se kaha, chaddhai kar, kyonki maain unhen tere hath men kar doonga.
+{14:11} isaliye jab ve balaparaseem ko aa, tab daud ne un ko vaheen mar liya tab daud ne kaha, parameshvar mere dara mere shatrauon par jal kee dhaara kee nai toott pada haai. is karan us sthan ka nam balaparaseem rakha gaya.
+{14:12} vahan ve apane devataon ko chhod gaa, aur daud ko agyaa se ve ag lagakar foonk diae gaae.
+{14:13} fir doosaree bar paalishtaiyon ne usee taii men dhaava mara.
+{14:14} tab daud ne parameshvar se fir poochha, aur parameshvar ne us se kaha, unaka peechha mat kara un se mudkar toot ke vrakshaen ke samhane se un par chhapa mara.
+{14:15} aur jab toot ke vrakshaen kee faunaagiyon men se sena ke chalane kee see ahatt tujhe sun pade, tab yah janakar yuddh karane ko nikal jana ki parameshvar palishtaiyon kee sena ko marane ke liye tere age ja raha haai.
+{14:16} parameshvar kee is agyaa ke anusar daud ne kiya, aur israaaeliyon ne paalishtaiyon kee sena ko gibon se lekar gejer tak mar liya.
+{14:17} tab daud kee keettair sab deshaen men faail gai, aur yahova ne sab jatiyon ke man men usaka bhy bhr diya.
+{15:1} tab daud ne daudapur men bhvan banavaa, aur parameshvar ke sandook ke liye aek sthan taaiyar karake aek tamboo khda kiya.
+{15:2} tab daud ne kaha, leaviyon ko chhod aur kisee ko parameshvar ka sandook uttana naheen chaahiye, kyonaki yahova ne unako isee liye chuna haai ki ve parameshvar ka sandook uttaaen aur usakee seva tthal sada kiya karen.
+{15:3} tab daud ne sab israaaeliyon ko yarooshalem men isaaliye iattha kiya ki yahova ka sandook us sthan par pahunchaae, jise us ne usake liye taaiyar kiya tha.
+{15:4} isaliye daud ne haroon ke santanon aur leviyon ko ikattha kiya
+{15:5} arthata kahatiyon men se ureeael nam pradhaan ko aur usake aek sau bees bhaiyon ko
+{15:6} marariyon men se asayah nam pradhaan ko aur usake do sau bees bhaiyon ko
+{15:7} geshamiyon men se yoael nam pradhaan ko aur usake aek sau tees bhaiyon ko
+{15:8} aeleesapaniyon men se shamayah nam pradhaan ko aur usake do sau bhaiyon ko
+{15:9} hebraeaniyon men se aeleeael nam pradhaan ko aur usake assee bhaiyon ko
+{15:10} aur ujjeeaeliyon men se ammeenadab nam pradhaan ko aur usake aek sau barah bhaiyon ko.
+{15:11} tab daud ne sadok aur aebyatar nam yajakon ko, aur ureeael, asayah, yoael, shamayah, aeleeael aur ammeenadab nam leaviyon ko bulavakar un se kaha,
+{15:12} tum to leveey pitaron ke gharanon men mukhy purush ho isaliye apane bhaiyon samet apane apane ko pavitra karo, ki tum israaael ke parameshvar yahova ka sandook us sthan par pahuncha sako jisako maain ne usake liye taaiyar kiya haai.
+{15:13} kyonaki pahilee bar tum ne usako n uttaya is karan hamara parameshvar yahova ham par toott pada, kyonki ham usakee khoj men niyam ke anusar n lage the.
+{15:14} tab yajakon aur leaviyon ne apane apane ko paavitra kiya, ki israaael ke parameshvar yahova ka sandook le ja saken.
+{15:15} tab us agyaa ke anusar jo moosa ne yahova ka vachan sunakar dee thee, leaviyon ne sandook ko dndon ke bal apane kandhaen par utta liya.
+{15:16} aur daud ne pradhaan leviyon ko agyaa dee, ki apane bhai gavaaiyon ko baje arthata sarangee, veena aur jhanjh dekar bajane aur anand ke sath unche svar se gane ke liye niyukt karen.
+{15:17} tab leaviyon ne yoael ke putra heman ko, aur usake bhaiyon men se berekyah ke putra asap ko, aur apane bhai maraariyon men se kooshaayah ke putra aetan ko ttharaya.
+{15:18} aur unake sath unhon ne doosare pad ke apane bhaiyon ko arthata jakaryah, ben, yajeeael, shameeramot, yaheeael, unnee, aeleeab, banayah, maseyah, mattaityah, aeleepaleh, mikaneyah, aur obededom aur peeael ko jo darapal the ttharaya.
+{15:19} yon heman, asap aur aetan nam ke gavaaiye to peetal kee jhanjh baja bajakar rag chalane ko
+{15:20} aur jakaryah, ajeeael, shameeramot, yaheeael, unnee, aeleeab, maseyah, aur banayah, alamot, nam rag men sarangee bajane ko
+{15:21} aur maattaityah, aeleepaleh, mikaneyah obededom, yeeael aur ajajyah veena khrja men chhedne ko ttharaae gaae.
+{15:22} aur rag uttane ka aadhaikaree kananyah nam leaviyon ka pradhaan tha, vah rag uttane ke vishay shaiksha deta tha, kyonki vah nipun tha.
+{15:23} aur berekyah aur aelakana sandook ke darapal the.
+{15:24} aur shabanyah, yoshaapat, natanel, amasaai, jakaryah, banayah aur aeleeaejer nam yajak parameshvar ke sandook ke age age turaahiyan bajate huae chale, aur obededom aur yahiyyah usake darapal the.
+{15:25} aur daud aur israaaeliyon ke puraniye aur sahasrpati sab milakar yahova kee vacha ka sandook obededom ke ghar se anand ke sath le ane ke liae gaae.
+{15:26} jab parameshvar ne leaviyon kee sahayata kee jo yahova kee vacha ka sandook uttanevale the, tab unhon ne sat baail aur sat meddhe baali kiae.
+{15:27} daud, aur yahova kee vacha ka sandook uttanevale sab leveey aur ganevale aur ganevalon ke sath rag uttanevale ka pradhaan kananyah, ye sab to san ke kapade ke bage pahine the, aur daud san ke kapade ka aepod pahine tha.
+{15:28} is prakar sab israaaelee yahova kee vacha ke sandook ko jayajayakar karate, aur naraasinge, turaahiyan aur jhanjh bajate aur sarangiyan aur veena bajate huae le chale.
+{15:29} jab yahova kee vacha ka sandook daudapur men pahuncha tab shaaul kee bettee meekal ne khaidkee men se jhankakar daud raja ko koodate aur khelate huae dekha, aur use man hee man toochchh jana.
+{16:1} tab parameshvar ka sandook le akar us tamhoo men rakha gaya jo daud ne usake liye khda karaya tha aur parameshvar ke samhane homabali aur melabali chaddhaae gaae.
+{16:2} jab daud homabali aur melabali chaddha jooka, tab us ne yahova ke nam se praja ko ashaeervad diya.
+{16:3} aur us ne kya purusha, kya sre, sab israaaeliyon ko aek aek rottee aur aek aek ttukada mans aur kishaamish kee aek aek ttiikaya banttva dee.
+{16:4} tab us ne kai leviyon ko isaliye tthara diya, ki yahova ke satdook ke samhane seva tthal kiya kare, aur israaael ke parameshvar yahova kee charcha aur usaka dhanyavad aur stuti kiya karen.
+{16:5} unaka muakhaiya to asap tha, aur usake neeche jakaryah tha, fir yeeel, shameeramot, yaheeel, maattaityah, eleeab banayah, obededom aur yeeel the ye to saranagiyan aur veenaen liye huae the, aur asap jhanjh par rag bajata tha.
+{16:6} aur banayah aur yahajeeael nam yajak parameshvar kee vacha ke sandook ke samhane nity turahiyan bajane ke liae niyukt kiae gaae.
+{16:7} tab usee din daud ne yahova ka dhanyavad karane ka kam asam aur usake bhaiyon ko saunp diya.
+{16:8} yahova ka dhanyavad karo, us se praarthna karo desh desh men usake kamon ka prachar karo.
+{16:9} usaka geet gao, usaka bhjan karo, usake sab ashcharya-kaman ka dhyan karo.
+{16:10} usake paavitra nam par ghapand karo yahova ke khojiyon ka day anandait ho.
+{16:11} yahova aur usakee samarth kee khoj karo usake darshan ke liae lagatar khoj karo.
+{16:12} usek kiae huae ashkhryakarma, usake chamatkar aur nyayavachan smaran karo.
+{16:13} he usake das israaael ke vansha, he yakoob kee santan tum jo usake chune huae ho!
+{16:14} vahee hamara parameshvar yahova haai, usake nyay ke kam prathvee bhr men hote haain.
+{16:15} usakee vacha ko sada smaran rakho, yah vahee vachan haai jo us ne hajar peeaddhiyon ke liye tthara diya.
+{16:16} vah vacha us ne ibraaheem ke sath bandhae, aur usee ke vishay us ne isahak se shapath khai,
+{16:17} aur usee ko us ne yakoob ke liye vidhai karake aur israaael ke liye sada kee vacha bandhakar yah kahakar draddh kiya, ki
+{16:18} maain kanan desh tujhee ko doonga, vah bantt men tumhara nij bhag hoga.
+{16:19} us samay to tum ginatee men thode the, varan bahut hee thode aur us desh men paradeshaee the.
+{16:20} aur ve aek jaati se doosaree jaati me, aur aek jajy se doosare men firate to rahe,
+{16:21} parantu us ne kisee panushy ko un par andhor karane n diya aur vah rajaon ko unake nimitt yah dhamakee deta tha, ki
+{16:22} mere abhaishaikton ko mat chhuo, aur n mere naabiyon kee haani karo.
+{16:23} he samast prathvee ke logo yahova ka geet gao. praatidin usake kiae huae uddhar ka shuubh samachar sunate raho.
+{16:24} anyajatiyon men usakee maahima ka, aur desh desh ke logon men usake ashcharya-kaman ka varnn karo.
+{16:25} kyonaki yahova mahan aur stuti ke ati yogy haai, vah to sab devataon se aadhaik bhyayogy haai.
+{16:26} kyonaki desh desh ke sab devata moortiyan hee haain parantu yahova hee ne svarga ko banaya haai.
+{16:27} usake charon or vibhv aur aeeshvarya haai usake sthan men samarth aur anand haai.
+{16:28} he desh desh ke kulo, yahova ka gunanuvad karo, yahova kee mahima aur samarth ko mano.
+{16:29} yahova ke nam kee maahima aeesee mano jo usake nam ke yogy haai. bhentt lekar usake sammukh aao, paavitrata se shaebhayaman hokar yahova ko dandvat karo.
+{16:30} he saree prathvee ke logo usake samhane thrathrao! jagat aeesa sthiar haai, ki vah ttlane ka naheen.
+{16:31} akash anand kare aur prathvee magan ho, aur jaati jati men log kahe, ki yahova raja
+{16:32} hua haai. samudra aur us men kee sab vastuaen garaj utte, maaidan aur jo kuchh us men haai so prafaullait hon.
+{16:33} usee samay van ke vraksha yahova ke samhane jayajayakar kare, kyonki vah prathvee ka nyay karane ko anevala haai.
+{16:34} yahova ka dhanyavad karo, kyonaki vah bhla haai usakee karuna sada kee haai.
+{16:35} aur yah kaho, ki he hamare uddhar karanevale parameshvar hamara uddhar kar, aur ham ko ikattha karake anyajatiyon se chhuda, ki ham tere paavitra nam ka dhanyavad kare, aur teree stuti karate huae tere vishay badai karen.
+{16:36} anadikal se anantakal tak israaael ka parameshvar yahova dhany haai. tab sab praja ne ameen kaha aur yahova kee stuati kee.
+{16:37} tab us ne vahan arthata yahova kee vacha ke sandook ke samhane asap aur usake bhaiyon ko chhod diya, ki pratidin ke prayojan ke anusar ve sandook ke samhane nity seva tthal kiya karen!
+{16:38} aur adsatt bhaiyon samet obededom ko, aur darapalon ke liye yadootoon ke putra obededom aur hosa ko chhod diya.
+{16:39} fir us ne sadok yajak aur usake bhai yajakon ko yahova ke nivas ke samhane, jo gibon ke unche sthan men tha, tthara diya,
+{16:40} ki ve nity savere aur sanjh ko homabali kee vedee par yahova ko homabaali chaddhaya kare, aur un sab ke anusar kiya kare, jo yahova kee yyavastha men likha haai, jise us ne israaael ko diya tha.
+{16:41} aur unake sang us ne heman aur yadootoon aur doosaron ko bhee jo nam lekar chune gaae the tthara diya, ki yahova kee sada kee karuna ke karan usaka dhanyavad karen.
+{16:42} aur unake sang us ne heman aur yadootoon ko bajanevalon ke liye turahiyan aur jhanjhen aur parameshvar ke geet gane ke liye baje dia, aur yadootoon ke betton ko faattk kee rakhvalee karane ko tthara diya.
+{16:43} nidan praja ke sab log apane apane ghar chale gaa, aur daud apane gharane ko ashaeervad dene lautt gaya.
+{17:1} jab daud apane bhvan men rahane laga, tab daud ne natan nabee se kaha, dek, maain to devadaru ke bane huae ghar men rahata hoo, parantu yahova kee vacha ka sandook tamboo men rahata haai.
+{17:2} natan ne daud se kaha, jo kuchh tere man men ho use kar, kyonaki parameshvar tere sang haai.
+{17:3} usee din rat ko parameshvar ka yah vachan natan ke pas pahuncha, jakar mere das daud se kah,
+{17:4} yahova yon kahata haai, ki mere nivas ke liye too ghar banavane n paaega.
+{17:5} kyonaki jis din se maain israaaeliyon ko misra se le aya, aj ke din tak maain kabhee ghar men naheen raha parantu aek tamboo se doosare tamboo ko or aek nivas se doosare nivas ko aya jaya karata hoo.
+{17:6} jahan jahan maain ne sab israaaeliyon ke beech ana jana kiya, kya maain ne israaael ke nyaayiyon men se jinako maain ne apanee praja kee charavahee karane ko ttharaya tha, kisee se aeesee bat kabhee kahee, ki tum logon ne mere liye devadaru ka ghar kyon naheen banavaya?
+{17:7} so ab too mere das daud se aeesa kah, ki senaon ka yahova yon kahata haai, ki maain ne to tujh ko bhedshaala se aur bhed-bariyon ke peechhe peechhe firane se is manasa se bula liya, ki too meree praja israaael ka pradhaan ho jaae
+{17:8} aur jahan kaheen too aya aur gaya, vahan maain tere sang raha, aur tere sab shatrauon ko tere samhane se nashtt kiya haai. ab maain tere nam ko prathvee ke bade bade logon ke namo ke saman bada kar doonga.
+{17:9} aur maain apanee praja israaael ke liye aek sthan ttharaunga, aur usako sthiar karoonga ki vah apane hee sthan men basee rahe aur kabhee chalayaman n ho aur kuttlai log unako nash n karane paaenge, jaaise ki pahile dinon men karate the
+{17:10} us samay bhee jab maain apanee praja israael ke upar nyayee ttharata tha so maain tere sab shatrauon ko daba doonga. fir maain tujhe yah bhee batata hoo, ki yahova tera ghar banaye rakhega.
+{17:11} jab teree ayu pooree ho jayegee aur tujhe apane pitaron ke sang jana padega, tab maain tere bad tere vansh ko jo tere putraen men se hoga, khda karake usake rajy ko sthiar karoonga.
+{17:12} mere liae aek ghar vahee banaaega, aur maain usakee rajagaee ko sadaaiv sthiar rakoonga.
+{17:13} maain usaka pita ttharoonga aur vah mera putra ttharega aur jaaise maain ne apanee karuna us par se jo tujh se paahile tha hattai, vaaise maain us par se n hattaunga,
+{17:14} varan maain usako apane ghar aur apane rajy men sadaaiv sthiar yakoonga aur usakee rajagaee sadaaiv attl rahegee.
+{17:15} in sab baton aur is darshan ke anusar natan ne daud ko samajha diya.
+{17:16} tab daud raja bheetar jakar yahova ke sammukh baaitta, aur kahane laga, he yahova parameshvar! maain kya hoo? aur mera gharana kya haai? ki too ne mujhe yahan tak pahunchaya haai?
+{17:17} aur he parameshvar! yah teree draashtti men chhottee see bat hui, kyonki too ne apane das ke gharane ke vishay bhavishy ke bahut dinon tak kee charcha kee haai, aur he yahova parameshvar! too ne mujhe unche pad ka matushy sa jana haai.
+{17:18} jo maahima tere das par dikhai gai haai, usake vishay daud tujh se aur kya kah sakata haai? too to apane das ko janata haai.
+{17:19} he yahova! too ne apane das ke nimitt aur apane man ke anusar yah bada kam kiya haai, ki tera das usako jan le.
+{17:20} he yahova! jo kuchh ham ne apane kanon se suna haai, usake anusar tere tuly koi nahee, aur n tujhe chhod aur koi parameshvar haai.
+{17:21} fir teree praja israaael ke bhee tuly kaun haai? vah to prathvee bhr men aek hee jaati haai, use parameshvar ne jakar apanee nij praja karane ko chhudaya, isaaliye ki too bade aur dravane kam karake apana nam kare, aur apanee praja ke samhane se jo too ne misra se chhuda lee thee, jaati jati ke logon ko nikal de.
+{17:22} kyonaki too ne apanee praja israaael ko apanee sada kee praja hone ke liye ttharaya, aur he yahova! too ap usaka parameshvar tthara.
+{17:23} isaliye, ab he yahova, too ne jo vachan apane das ke aur usake gharane ke vishay diya haai, vah sadaaiv attl rahe, aur apane vachan ke anusar hee kara.
+{17:24} aur tera nam sadaaiv attl rahe, aur yah kahakar teree badai sada kee jaa, ki senaon ka yahova israaael ka parameshvar haai, varan vah israaael hee ke liye parameshvar haai, aur tera das daud ka gharana tere samhane sthiar rahe.
+{17:25} kyonaki he mere parameshvar, too ne yah kahakar apane das par pragatt kiya haai ki maain tera ghar banaae rakoonga, is karan tere das ko tere sammukh praarthna karane ka hiyab hua haai.
+{17:26} aur ab he yahova too hee parameshvar haai, aur too ne apane das ko yah bhlai karane ka vachan diya haai.
+{17:27} aur ab too ne prasann hokar, apane das ke gharane par aeesee ashaeesh dee haai, ki vah tere sammukh sadaaiv bana rahe, kyonaki he yahova, too ashaeesh de chuka haai, isaliye vah sadaaiv ashaeeashait bana rahe.
+{18:1} isake bad daud ne palishtaiyon ko jeetakar apane adhaeen kar liya, aur ganvon samet gat nagar ko paalishtaiyon ke hath se chheen liya.
+{18:2} fir us ne moaabiyon ka bhee jeet liya, aur moabee daud ke adhaeen hokar bhentt lane lage.
+{18:3} fir jab soba ka raja hadarejer parat mahanad ke pas apane rajy sthiar karane ko ja raha tha, tab daud ne usako hamat ke pas jeet liya.
+{18:4} aur daud ne usase aek hajar rat, sat hajar savar, aur bees hajar piyade har lia, aur daud ne sab rathvale ghodon ke sum kee nas kattvai, parantu aek sau rathvale dhode bacha rakhe.
+{18:5} aur jab daamishk ke aramee, soba ke raja hadarejer kee sahayata karane ko aa, tab daud ne aramiyon men se bais hajar purush mare.
+{18:6} tab daud ne damishk ke aram men sipaahiyon kee chauakiyan baaittai so aramee daud ke adhaeen hokar bhentt le ane lage. aur jahan jahan daud jata, vahan vahan yahova usako jay dilata tha.
+{18:7} aur hadarejer ke karmachariyon ke pas sone kee jo ddhalen thee, unhen daud lekar yarooshalem ko aya.
+{18:8} aur hadarejer ke tibht aur koon nam nagaron se daud bahut sa peetal le aya aur usee se suleman ne peetal ke haud aur khmbhon aur peetal ke patraen ko banavaya.
+{18:9} jab hamat ke raja to ne suna, ki daud ne soba ke raja hadarejer kee samast sena ko jeet liya haai,
+{18:10} tab us ne hadoram nam apane putra ko daud raja ke pas usaka kushal kshom poochhne aur use badhaai dene ko bheja, isaaliye ki us ne hadarejer se ladkar use jeet liya tha kyonki hadarejer to se lada karata tha aur hadoram sone chandee aur peetal ke sab prakar ke patra liye huae aya.
+{18:11} inako daud raja ne yahova ke liye paavitra karake rakha, aur vaaisa hee us sone-chandee se bhee kiya jise sab jaatiyo se, arthata aedomiyon moabiyo, ammoniyo, palishtaiyo, aur amalekiyon se praapt kiya tha.
+{18:12} fir yarooyah ke putra abeeshau ne lan kee tarai men attarah hajar aedomiyon ko mar liya.
+{18:13} tab us ne aedom men sipaahiyon kee chauakiyan baaittai aur sab aedomee daud ke adhaeen ho gaae. aur daud jahan jahan jata tha vahan vahan yahova usako jay dilata tha.
+{18:14} daud to sare israaael par rajy karata tha, aur vah apanee sab praja ke sath nyay aur dharma ke kam karata tha.
+{18:15} aur pradhaan senapaati sarooyah ka putra yoab tha itihas ka likhnevala aheelood ka putra yahoshaapat tha.
+{18:16} pradhaan yajak, aheetoob ka putra sadok aur aebyatar ka putra abeemelek the mantraee shabasha tha.
+{18:17} karetiyon aur paletiyon ka pradhaan yahoyada ka putra banayah tha aur daud ke putra raja ke pas mukhaiye hokar rahate the.
+{19:1} isake bad ammoniyon ka raja nahash mar gaya, aur usaka putra usake sthan par raja hua.
+{19:2} tab daud ne yah socha, ki hanoon ke pita nahash ne jo mujh par praeeti dikhai thee, isaaliye maain bhee us par praeeati dikhaunga. tab daud ne usake pita ke vishay shaanati dene ke liye doot bheje. aur daud ke karpacharee ammoniyon ke desh men hanoon ke pas use shaanati dene ko aae.
+{19:3} parantu ammoniyon ke haakim hanoon se kahane lage, daud ne jo tere pas shaanati denevale bheje haai, vah kya teree samajh men tere pita ka adar karane kee manasa se bheje haain? kya usake karmacharee isee manasa se tere pas naheen aa, ki ddoonddh-ddhanddh karen aur nashtt kare, aur desh ka bhed len?
+{19:4} tab hanoon ne daud ke karmachariyon ko pakada, aur unake bal mudvaa, aur adho vasr arthata nitamb tak kattvakar unako jane diya.
+{19:5} tab kitanon ne jakar daud ko bata diya, ki un purushaen ke sath kaaisa bartav kiya gaya, so us ne logon ko un se milane ke liye bheja kyonki ve purush bahut lajate the. aur raja ne kaha, jab tak tumharee daddhiyan baddh n jaae, tab tak yareeho men tthare raho, aur bad ko lautt ana.
+{19:6} jab ammoniyon ne dekha, ki ham daud ko ghainaune lagate haai, tab hanoon aur ammoniyon ne aek hajar kikkar chandee, aramnaharaaim aur arammaka aur soba ko bhejee, ki rath aur savar kiraye par bulaaen.
+{19:7} so unhon ne battees hajar rat, aur maka ke raja aur usakee sena ko kiraye par bulaya, aur inhon ne akar medaba ke samhane, apane dere khde kiae. aur ammonee apane apane nagar men se ikatthe hokar ladne ko aae.
+{19:8} yah sunakar daud ne yoab aur shooraveeron kee pooree sena ko bheja.
+{19:9} tab ammonee nikale aur nagar ke faattk ke pas panati bandhae, aur jo raja aae the, ve un se alag maaidan men the.
+{19:10} yah dekhkar ki age peechhe donon or hamare viruddh panti bandhaee haai, yoab ne sab bade bade israaaelee veeron men se kitaton ko chhanttkar aramiyon ke samhane unakee panati bandhaai
+{19:11} aur shosh logon ko apane bhai abeeshau ke hath saunp diya, aur unhon ne ammoniyon ke samhane panati bandhaee.
+{19:12} aur us ne kaha, yadi aramee mujh par prabal hone lage, to too meree sahayata karana aur yadi ammonee tujh par prabal hone lage, to maain teree sahayata karoonga.
+{19:13} too hiyab bandha aur ham sab apane logon aur apane parameshvar ke nagaron ke nimitt purushaarth karen aur yahova jaaisa usako achchha lage, vaaisa hee karega.
+{19:14} tab yoab aur jo log usake sath the, araamiyon se yuddh karane ko unake samhane gaa, aur ve usake samhane se bhage.
+{19:15} yah dekhkar ki aramee bhag gaae haai, ammonee bhee usake bhai abeeshau ke samhane se bhagakar nagar ke bheetar ghause. tab yoab yarooshalem ko lautt aya.
+{19:16} fir yah dekhkar ki ve israaaeliyon se har gaae haain araamiyon ne doot bhejakar mahanad ke par ke araamiyon ko bulavaya, aur hadarejer ke senapaati shaepak ko apana pradhaan banaya.
+{19:17} isaka samachar pakar daud ne sab israaaeliyon ko ikattha kiya, aur yaradan par hokar un par chaddhai kee aur unake viruddh panti bandhaai, tab ve us se ladne lage.
+{19:18} parantu aramee israaaeliyon se bhage, aur daud ne un men se sat hajar rathaiyon aur chalees hajar pyadon ko mar dala, aur shaepak senapati ko bhee mar dala.
+{19:19} yah dekhkar ki ve israaaeliyon se har gaae haai, hadarejer ke karmachaariyon ne daud se sanadhai kee aur usake adhaeen ho gaae aur aramiyon ne ammoniyon kee sahayata fir karanee n chahee.
+{20:1} fir naye varsha ke arambh men jab raja log yuddh karane ko nikala karate haai, tab yoab ne bharee sena sang le jakar ammoniyon ka desh ujad diya aur akar rabba ko ghor liya parantu daud yarooshalem men rah gaya aur yoab ne rabba ko jeetakar ddha diya.
+{20:2} tab daud ne unake raja ka mukutt usake sir se utarakar kya deekha, ki usaka taul kikkar bhr sone ka haai, aur us men manai bhee jade the aur vah daud ke sir par rakha gaya. fir us ne us nagar se bahut saman loott men paya.
+{20:3} aur us ne usake rahanevalon ko nikalakar aron aur lohe ke hengon aur kulhaadiyon se kattvaya aur ammoniyon ke sab nagaron ke sath bhee daud ne vaaisa hee kiya. tab daud sab logon samet yarooshalem ko lautt gaya.
+{20:4} isake bad gejer men palishtaiyon ke sath yuddh hua us samay hooshaai sibbakaai ne sippaai ko, jo rapa kee santan tha, mar dala aur ve dab gaae.
+{20:5} aur paalishtaiyon ke sath fir yuddh hua us men yair ke putra aelhanan ne gatee golyat ke bhai lahamee ko mar dala, jisake barchhe kee chhd, julahe kee dongee ke saman thee.
+{20:6} fir gat men bhee yuddh hua, aur vahan aek bade deel ka purush tha, jo rapa kee santan tha, aur usake aek aek hath panv men chh chh ungaaliyan arthata sab milakar chaubees ungaaliyan theen.
+{20:7} jab us ne israaaeliyon ko lalakara, tab daud ke bhai shaima ke putra yonatan ne usako mara.
+{20:8} ye hee gat men rapa se utpann huae the, aur ve daud aur usake sevakon ke hath se mar dale gaae.
+{21:1} aur shautan ne israaael ke viruddh uttkar, daud ko usakaya ki israaaeliyon kee ginatee le.
+{21:2} tab daud ne yoab aur praja ke hakimon se kaha, tum jakar bashorba se le dan tak ke israaael kee ginatee lekar mujhe batao, ki maain jan loon ki ve kitane haain.
+{21:3} yoab ne kaha, yahova kee praja ke kitane hee kyon n ho, vah unako sau guna baddha de parantu he mere prabhu! he raja! kya ve sab raja ke adhaeen naheen haain? mera prabhu aeesee bat kyon chahata haai? vah israaael par dosh lagane ka karan kyon bane?
+{21:4} taubhee raja kee agyaa yoab par prabal hui. tab yoab vida hokar sare israaael men dhoomakar yarooshalem ko lautt aya.
+{21:5} tab yoab ne praja kee ginatee ka jod, daud ko sunaya aur sab talavaariye purush israaael ke to gyarah lak, aur yahooda ke char lakh sattar hajar tthare.
+{21:6} parantu un men yoab ne levee aur binyameen ko n gina, kyonaki vah raja kee agyaa se ghauna karata tha
+{21:7} aur yah bat parameshvar ko buree lagee, isaliye us ne israaael ko mara.
+{21:8} aur daud ne parameshvar se kaha, yah kam jo maain ne kiya, vah mahapap haai. parantu ab apane das ka adharma door kara mujh se to badee moorkhta hui haai.
+{21:9} tab yahova ne daud ke dasha gad se kaha,
+{21:10} jakar daud se kah, ki yahova yon kahata haai, ki maain tujh ko teen vipaattaiyan dikhata hoo, un men se aek ko chun le, ki maain use tujh par daloon.
+{21:11} tab gad ne daud ke pas jakar us se kaha, yahova yon kahata haai, ki jisako too chahe use chun le
+{21:12} ya to teen varsha ka kal pade va teen maheene tak tere virodhaee tujhe nash karate rahe, aur tere shatrauaun kee talavar tujh par chalatee rahe va teen din tak yahova kee talavar chale, arthata maree desh men faaile aur yahova ka doot israaaelee desh men charon or vinash karata rahe. ab soch, ki maain apane bhejanevale ko kya uttar doon.
+{21:13} daud ne gad se kaha, maain bade sankatt men pada hoo maain yahova ke hath men padoo, kyonki usakee daya bahut badee haai parantu manushy ke hath men mujhe padna n pade.
+{21:14} tab yahova ne israaael men maree faailai, aur israaael men sattar hajar purush mar mitte.
+{21:15} fir parameshvar ne aek doot yarooshalem ko bhee use nash karane ko bheja aur vah nash karane hee par tha, ki yahova dukh dene se kheadit hua, aur nash karanevale doot se kaha, bas kara ab apana hath kheench le. aur yahova ka doot yaboosee ornan ke khalihan ke pas khda tha.
+{21:16} aur daud ne ankhen uttakar dekha, ki yahova ka doot hath men kheenchee hui aur yarooshalem ke upar baddhai hui aek talavar liye huae akash ke beech khda haai, tab daud aur puraaniye ttatt paahine huae munh ke bal gire.
+{21:17} tab daud ne parameshvar se kaha, jis ne praja kee ginatee lene kee agyaa dee thee, vah kya maain naheen hoo? ha, jis ne pap kiya aur bahut burai kee haai, vah to maain hee hoo. parantu in bhed-bakaariyon ne kya kiya haai? isaaliye he mere parameshvar yahova! tera hath mere pita ke gharane ke viruddh ho, parantu teree praja ke viruddh n ho, ki ve mare jaaen.
+{21:18} tab yahova ke doot ne gad ko daud se yah kahane kee agyaa dee, ki daud chaddhkar yaboosee ornan ke khalihan men yahova kee aek vedee banaae.
+{21:19} gad ke is vachan ke anusar jo us ne yahova ke nam se kaha tha, daud chaddh gaya.
+{21:20} tab ornan ne peechhe fir ke doot ko dekha, aur usake charon bette jo usake sang the chhpai gaa, ornan to gehoon danvata tha.
+{21:21} jab daud ornan ke pas aya, tab ornan ne draashtti karake daud ko dekha aur khalihan se bahar jakar boomi tak jhukakar daud ko dandvat kiya.
+{21:22} tab daud ne ornan se kaha, us khlihan ka sthan mujhe de de, ki maain us par yahova ko aek vedee banau, usaka poora dam lekar use pujh ko de, ki yah vipitt praja par se door kee jaae.
+{21:23} ornan ne daud se kaha, ise le le, aur mere prabhu raja ko jo kuchh bhaae vah vahee kare sun, maain tujhe homabaali ke liye baail aur idhan ke liye danbane ke hathaiyar aur annabaali ke liye gehoo, yah sab maain deta hoo.
+{21:24} raja daud ne ornan se kaha, so nahee, maain avashy isaka poora dam hee dekar ise mol loonga jo tera haai, use maain yahova ke liye naheen loonga, aur n sentament ka homabali chaddhaunga.
+{21:25} tab daud ne us sthan ke liye ornan ko chh sau shokel sona taulakar diya.
+{21:26} tab daud ne vahan yahova kee aek vedee banai aur homabali aur melabali chaddhakar yahova se praarthna kee, aur us ne hopabali kee vedee par svarga se ag girakar usakee sun lee.
+{21:27} tab yahova ne doot ko agyaa dee aur us ne apanee talavar fir myan men kar lee.
+{21:28} yah dekhkar ki yahova ne yaboosee ornan ke khlihan men meree sun lee haai, daud ne usee samay vahan baalidan kiya.
+{21:29} yahova ka nivas jo moosa ne jangal men banaya tha, aur homabaali kee vedee, ye donon us samay gibon ke unche sthan par the.
+{21:30} parantu daud parameshvar ke pas usake samhane n ja saka, kyonki vah yahova ke doot kee talavar se dr gaya tha.
+{22:1} tab daud kahane laga, yahova parameshvar ka bhvan yahee haai, aur israaael ke liye homabaali kee vedee yahee haai.
+{22:2} tab daud ne israaael ke desh men jo paradeshaee the unako ikattha karane kee agyaa dee, aur parameshvar ka bhvan banane ko patthr gaddhne ke liye raj tthara diae.
+{22:3} fir daud ne faattkon ke kivadon kee keelon aur jodon ke liye bahut sa loha, aur taul se bahar bahut peetal,
+{22:4} aur ginatee se bahar devadar ke ped ikatthe kiae kyonaki seedon aur sor ke log daud ke pas bahut se devadar ke ped laae the.
+{22:5} aur daud ne kaha, mera putra sulaaiman sukumar aur ladka haai, aur jo bhvan yahova ke liye banana haai, use atyant tejomay aur sab deshaen men prasiddh aur shaebhayaman hona chaahiye isaliye maain usake liye taaiyaree karoonga. so daud ne marane se pahile bahut taaiyaree kee.
+{22:6} fir us ne apane putra sulaaiman ko bulakar israaael ke parameshvar yahova ke liye bhvan banane kee agyaa dee.
+{22:7} daud ne apane putra sulaaiman se kaha, meree manasa to thee, ki apane parameshvar yahova ke nam ka aek bhvan banaun.
+{22:8} parantu yahova ka yah vachan mere pas pahuncha, ki too ne lohoo bahut bahaya aur baddhe bade yuddh kiae haai, so too mere nam ka bhvan n banane paaega, kyonki too ne boomi par meree draashtti men bahut lohoo bahaya haai.
+{22:9} dek, tujh se aek putra utpann hoga, jo shaant purush hoga aur maain usako charon or ke shatrauaun se shaaantai doonga usaka nam to sulaaiman hoga, aur usake dinon men maain israaael ko shaantai aur chaain doonga.
+{22:10} vahee mere nam ka bhvan banaaega. aur vahee mera putra ttharega aur maain usaka pita ttharoonga, aur usakee rajagaee ko maain israaael ke upar sada ke liye sthiar rakoonga.
+{22:11} ab he mere putra, yahova tere sang rahe, aur too kratarth hokar us vachan ke anusar jo tere parameshvar yahova ne tere vishay kaha haai, usaka bhvan banana.
+{22:12} ab yahova tujhe buddhi aur samajh de aur israaael ka adhaikaree tthara de, aur too apane parameshvar yahova kee yyavastha ko manata rahe.
+{22:13} too tab hee kratarth hoga jab un vidhaiyon aur niyamon par chalane kee chaukasee karega, jinakee agyaa yahova ne israaael ke liye moosa ko dee thee. hiyab bandha aur draddh ho. mat dra aur tera man kachcha n ho.
+{22:14} sun, maain ne apane klesh ke samay yahova ke bhvan ke liye aek lakh kikkar sona, aur das lakh kikkar chandee, aur peetal aur loha itana ikattha kiya haai, ki bahutayat ke karan taul se bahar haai aur lakadee aur patthr maain ne ikatthe kiae haai, aur too unako baddha sakega.
+{22:15} aur tere pas bahut kareegar haai, arthata patthr aur lakadee ke kattne aur gaddhnevale varan sab bhanati ke kam ke liye sab prakar ke praveen purush haain.
+{22:16} sona, chandee, peetal aur lohe kee to kuchh ginatee naheen haai, so too us kam men lag ja! yahova tere sang nit rahe.
+{22:17} fir daud ne israaael ke sab hakimon ko apane putra sulaaiman kee sahayata karane kee agyaa yah kahakar dee,
+{22:18} ki kya tumhara parameshvar yahova tumhare sang naheen haai? kya us ne numhen charon or se vishraam naheen diya? us ne to desh ke nivaasiyon ko mere vash men kar diya haai aur desh yahova aur usakee praja ke samhane daba hua haai.
+{22:19} sab tan man se apane parameshvar yahova ke pas jaya karo, aur jee lagakar yahova parameshvar ka paavitrasthan banana, ki tum yahova kee vacha ka sandook aur parameshvar ke pavitra patra us bhvan men lao jo yahova ke nam ka bananevala haai.
+{23:1} daud to booddha varan bahut booddha ho gaya tha, isaaliye us ne apane putra sulaaiman ko isagaael par raja niyukt kar diya.
+{23:2} tab us ne israaael ke sab hakimon aur yajakon aur leamiyon ko ikattha kiya.
+{23:3} aur jitane leveey tees varsha ke aur us se adhaik avastha ke the, ve gine aea, aur aek aek purush ke ginane se unakee ginatee adtees hajar hui.
+{23:4} in men se chaubees hajar to yahova ke bhvan ka kam chalane ke liye niyukt hua, aur chh hajar saradar aur nyayee.
+{23:5} aur char hajar darapal niyukt hua, aur char hajar un bajon se yahova kee stuati karane ke liye ttharaae gaae jo daud ne stuti karane ke liye banaae the.
+{23:6} fir daud ne unako geshan, kahat aur mararee nam levee ke putraen ke anusar dalon men alag alag kar diya.
+{23:7} geshaniyon men se to ladan aur shaimee the.
+{23:8} aur ladan ke putra saradar yaheeael, fir jetam aur yoael ye teen the.
+{23:9} aur shaimee ke putra shalemeet, hajeeael aur haran se teen the. ladan ke kul ke poorvajon ke gharanon ke mukhy purush ye hee the.
+{23:10} fir shaimee ke putra yahat, jeena, yoosha, aur vareea ke putra shaimee yahee char the.
+{23:11} yahat mukhy tha, aur jeeja doosara yoosh aur bareea ke vahut bette n hua, is karan ve sab milakar pitaron ka aek hee gharana tthare.
+{23:12} kahat ke putra amraam, yisahar, hebraen aur ujjeeael chara. amraam ke putra haroon aur moosa.
+{23:13} haroon to isaaliye alag kiya gaya, ki vah aur usake santan sada paramapavitra vastuon ko pavitra ttharaae, aur sada yahova ke sammukh dhoop jalaya karen aur usakee seva tthal kare, aur usake nam se ashaeervad diya karen.
+{23:14} parantu parameshvar ke bhkt moosa ke putraen ke nam levee ke gotra ke beech gine gaae.
+{23:15} moosa ke putra, gesham aur aeleeaejera.
+{23:16} aur gesham ka putra shabooael mukhy tha.
+{23:17} aur aeleeaejer ke putra rahabyah mukhya aur aeleeaejer ke aur koi putra n hua, parantu rahabyah ke bahut se bette hue.
+{23:18} yisahar ke putron men se shalomeet mukhy tthara.
+{23:19} hebraen ke putra yareeyyah mukhy, doosara amaryah, teesara yahajeeael, aur chautha yakamam tha.
+{23:20} ujjeeel ke putron men se mukhy to meeka aur doosara yishshiayyah tha.
+{23:21} mararee ke putra mahalee aur mooshee. mahalee ke putra aeleeajar aur keesh the.
+{23:22} aeleeajar putraheen mar gaya, usake keval bettyaian hui so keesh ke putraen ne jo unake bhai the unhen byah liya.
+{23:23} mooshaee ke putra mahalee aedor aur yaremot yah teen the.
+{23:24} leveey pitaron ke gharanon ke mukhy purush ye hee the, ye nam le lekar, aek aek purush karake gine gaa, aur bees varsha kee va us se aadhaik avastha ke the aur yahova ke bhvan men seva tthal karate the.
+{23:25} kyonaki daud ne kaha, israaael ke parameshvar yahova ne apanee praja ko vishraam diya haai, aur vah to yarooshalem men sada ke liye bas gaya haai.
+{23:26} aur leaviyon ko nivas aur us kee upasana ka saman fir uttana n padega.
+{23:27} kyonaki daud kee pichhlee agyaaon ke anusar bees varsha va us se aadhaik avastha ke leveey gine gaae.
+{23:28} kyonaki unaka kam to haroon kee santan kee seva tthal karana tha, arthat yah ki ve anganon aur kottriyon me, aur sab pavitra vastuon ke shuuddh karane men aur parameshvar ke bhvan kee upasana ke sab kamon men seva tthal karen.
+{23:29} aur bhentt kee rottee ka, annabaaliyon ke maaide ka, aur akhmeeree papaadiyon ka, aur tave par banaae huae aur sane huae ka, aur mapane aur taulane ke sab prakar ka kam karen.
+{23:30} aur praati bhor aur prati sanjh ko yahova ka dhanyavad aur usakee stuati karane ke liye khde raha karen.
+{23:31} aur vishraamadinon aur naye chand ke dino, aur niyat payvan men ginatee ke niyam ke anusar nity yahova ke sab hopabaaliyon ko baddhaaen.
+{23:32} aur yahova ke bhvan kee upasana ke vishay milapavale namboo aur pavitrasthan kee raksha kare, aur apane bhai harooniyon ke saunpe huae kam ko chaukasee se karen.
+{24:1} fir haroon kee santan ke dal ye the. haroon ke putra to nadab, abeeho, aeleeajar aur itamar the.
+{24:2} parantu nadab aur abeehoo apane pita ke samhane putraheen mar gaa, is liye yajak ka kam aeleeajar aur itamar karate the.
+{24:3} aur daud ne aeleeajar ke vansh ke sadok aur itamar ke vansh ke ahanmelek kee sahayata se unako apanee apanee seva ke anusar dal dal karake bantt diya.
+{24:4} aur aeleeajar ke vansh ke mukhy purusha, itamar ke vansh ke mukhy purushaen se aadhaik the, aur ve yon bantte gaae arthata aeleeajar ke vansh ke pitaron ke gharanon ke solah, aur itamar ke vansh ke pitaron ke gharanon ke att mukhy purush the.
+{24:5} tab ve chitthee dalakar barabar barabar bantte gaa, kyonki aeleeajar aur itamar donon ke vanshaen men paavitrasthan ke haakim aur parameshvar ke hakim niyukt huae the.
+{24:6} aur natanel ke putra shamayah ne jo leveey tha, unake nam raja aur hakimon aur sadok yajak, aur aebyatar ke putra aheemelek aur yajakon aur leaviyon ke pitaron ke gharanon ke mukhy purushaenke samhane likhe arthata pitaron ka aek gharana to aeleeajar ke vansh men se aur aek itamar ke vansh men se liya gaya.
+{24:7} paahilee chitthee to yahoyareeb ke, aur doosaree yadayah,
+{24:8} teesaree hareem ke, chauthee soreem ke,
+{24:9} panchaveen malkaiyyah ke, chhttveen miyyameen ke,
+{24:10} sataveen hakkos ke, attveen aabiyyah ke,
+{24:11} nauveen yehoo ke, dasaveen shakanyah ke,
+{24:12} gyarahaveen aelyashaeeb ke, barahaveen yakeem ke,
+{24:13} terahaveen huppa ke, chaudahaveen yesebab ke,
+{24:14} pandrahaveen bilga ke, lolahaveen immer ke,
+{24:15} satarahaveen hejeer ke, attarahaveen happaitses ke,
+{24:16} unneesaveen pataah ke, beesaveen yahejakel ke,
+{24:17} ikkeesaveen yakeen ke, baisaveen gamool ke,
+{24:18} teisaveen dalayah ke, aur chaubeesaveen sajyah ke nam par nikaleen.
+{24:19} unakee sevakai ke liye unaka yahee niyam ttharaya gaya ki ve apane us niyam ke anusar jo israael ke parameshvar yahova kee agyaa ke anusar unake moolapurush haroon ne chalaya tha, yahova ke bhvan men jaya karen.
+{24:20} bache huae leaviyon men se amraam ke vansh men se shoobaael, shoobaael ke vansh men se yehadayaha.
+{24:21} bacha rahabyah, sorahabyah, ke vansh men se yishshiayyah mukhy tha.
+{24:22} isahaariyon men se shalomot aur halomot ke vansh men se yahata.
+{24:23} aur hebraen ke vansh men se mukhy to yariyyah, doosara amaryah, teesara yahajeeael, aur chautha yakamama.
+{24:24} ujjeeel ke vansh men se meeka aur meeka ke vansh men se shaameera.
+{24:25} meeka ka bhai yishshiayyah, yishshiayyah ke vansh men se jakaryaha.
+{24:26} mararee ke putra mahalee aur mooshaee aur yajiyyah ka putra bino tha.
+{24:27} mararee ke putra yaajiyyah se bino aur shaeham, jakkoo aur ibraee the.
+{24:28} mahalee se, aeleeajar jisake koi putra n tha.
+{24:29} keesh se kaeesh ke vansh men yaraola.
+{24:30} aur mooshaee ke putra, mahalee, aeder aur yareemota. apane apane pitaro ke gharanon ke anusar ye hee leveey santan ke the.
+{24:31} inhon ne bhee apane bhai haroon kee santanon kee nai daud raja aur sadok aur aheemelek aur yajakon aur leaviyon ke pitaron ke gharanon ke mukhy purushaen ke samhane chitthiyan dalee, arthata mukhy purush ke pitaron ka gharana usake chhotte bhai ke pitaron ke gharane ke barabar tthara.
+{25:1} fir daud aur senapaatiyon ne asap, heman aur yadootoon ke kitane putraen ko sevakai ke liye alag kiya ki ve veena, sarangee aur jhanjh baja bajakar naboovat karen. aur is sevakai ke kam karanevale manushyon kee ginatee yah thee
+{25:2} arthata asap ke putraen men se to jakkoor, yosep, natanyah aur asharela, asap ke ye putra asap hee kee agyaa men the, jo raja kee agyaa ke anusar naboovat karata tha.
+{25:3} fir yadootoon ke putraen men se gadalyah, sareeyashaayah, hasabyah, mattaityah, ye hee chh apane pita yadootoon kee agyaa men hokar jo yahova ka dhanyavad aur stuati kar karake naboovat karata tha, veena bajate the.
+{25:4} aur heman ke putraen men se, mukkaiyyah, mattanyah, lajjeeael, shabooael, yareemot, hananyah, hananee, aeleeata, gilatee, romamateeaejer, yoshabakasha, mallotee, hoteer aur mahajeeota.
+{25:5} parameshvar kee praatigyaanukool jo usaka nam baddhane kee thee, ye sab heman ke putra the jo raja ka dasha tha kyonaki parameshvar ne heman ko chaudah bette aur teen beattyaian deen theen.
+{25:6} ye sab yahova ke bhvan men gane ke liye apane apane pita ke adhaeen rahakar, parameshvar ke bhvan, kee sevakai men jhanj, sarangee aur veena bajate the. aur asap, yadootoon aur heman raja ke adhaeen rahate the.
+{25:7} in sabhon kee ginatee bhaiyon samet jo yahova ke geet seekhe huae aur sab prakar se nipun the, do sau attasee thee.
+{25:8} aur unhon ne kya bada, kya chhotta, kya guro, kya chela, apanee apanee baree ke liye chitthee dalee.
+{25:9} aur paahilee chitthee asap ke betton men se yosep ke nam par nikalee, doosaree gadalyah ke nam par nikalee jisake putra aur bhai us samet barah the.
+{25:10} teesaree jakkoor ke nam par nikalee jisake putra aur bhai us samet barah the.
+{25:11} chauthee yisraee ke nam par nikalee jisake putra aur bhai us samet barah the.
+{25:12} panchaveen natanyah ke nam par nikalee jisake putra aur bhai us samet barah the.
+{25:13} chhtteen bukkaiyyah ke nam par nikalee jisake putra aur bhai us samet barah the.
+{25:14} sataveen yasarela ke nam par nikalee jisake putra aur bhai us samet barah the.
+{25:15} attveen yashaayah ke nam par nikalee jisake putra aur bhai us samet barah the.
+{25:16} nauveen matanyah ke nam par nikalee, jisake putra aur bhai samet barah the.
+{25:17} dasaveen shaimee ke nam par nikalee jisake putra aur bhai us samet barah the.
+{25:18} gyarahaveen ajarel ke nam par nikalee jisake putra aur bhai us samet barah the.
+{25:19} barahaveen hashabyah ke nam par nikalee, jisake putra aur bhai us samet barah the.
+{25:20} terahavee shoobaael ke nam par nikalee, jisake putra aur bhai us samet barah the.
+{25:21} chaudahaveen mattaiyyah ke nam par nikalee jisake putra aur bhai us samet barah the.
+{25:22} pandrahaveen yaremot ke nam par nikalee jisake putra aur bhai us samet barah the.
+{25:23} solahaveen hananyah ke nam par nikalee, jisake putra aur bhai us samet barah the.
+{25:24} satrahaveen yoshabakasha ke nam par nikalee jisake putra aur bhai us samet barah the.
+{25:25} attarahaveen haranee ke nam par nikalee jisake putra aur bhai us samet barah the.
+{25:26} unneesaveen mallotee ke nam par nikalee, jisake putra aur bhai us samet barah the.
+{25:27} beesaveen ialiyyata ke nam par nikalee jisake putra aur bhai us samet barah the.
+{25:28} ikkeesaveen hoteer ke nam par nikalee jisake putra aur bhai us samet barah the.
+{25:29} baisaveen gilatee ke nam par tikalee jisake putra aur bhai us samet barah the.
+{25:30} teisaveen mahajeeot ke nam par nikalee jisake putra aur bhai us samet barah the.
+{25:31} aur chaubeesaveen chitthee romamateeaejer ke nam par nikalee jisake putra aur bhai us samet barah the.
+{26:1} fir darapalon ke dal ye the koraahiyon men se to masholemyah, jo kore ka putra aur asap ke santanon mense tha.
+{26:2} aur masholemyah ke putra hua, arthata usaka jetta jakaryah doosara yadeeael, teesara javadhah,
+{26:3} chautha yateeael, panchavan aelam, chhttvan yahohanan aur satavan aelyahoaenaai.
+{26:4} fir obedeedom ke bhee putra hua, usaka jetta shamayah, doosara yahojabad, teesara yoah, chautha sakar, panchavan natanel,
+{26:5} chhttvan ammeeael, satavan issakar aur attvan pullataai, kyonaki parameshvar ne use ashaeesh dee thee.
+{26:6} aur usake putra shamayah ke bhee putra utpann hua, jo shooraveer hone ke karan apane pita ke gharane par prabhuta karate the.
+{26:7} shamayah ke putra ye the, arthata otee, rapaael, obed, aelajabad aur unake bhai aeleehoo aur samakyah balavan purush the.
+{26:8} ye sab abededom kee santan men se the, ve aur unake putra aur bhai is sevakai ke liye balavan aur shaaktaiman the ye obededomee basatt the.
+{26:9} aur masholemyah ke putra aur bhai attarah the, jo balavan the.
+{26:10} fir mararee ke vansh men se hosa ke bhee putra the, arthata mukhy to shaimraee jisako jetta n hone par bhee usake pita ne mukhy ttharaya,
+{26:11} doosara hilkaiyyah, teesara tabalyah aur chautha jakaryah tha hosa ke sab putra aur bhai milakar terah the.
+{26:12} darapalon ke dal in mukhy purushaen ke the, ye apane bhaiyon ke barabar hee yahova ke bhvan men seva tthal karate the.
+{26:13} inhon ne kya chhotte, kya bade, apane apane pitaron ke gharanon ke anusar aek aek faattk ke liye chitthee dalee.
+{26:14} poorva kee or kee chitthee sholemyah ke nam par nikalee. tab unhon ne usake putra jakaryah ke nam kee chitthee dalee vah buaddhiman mantraee tha aur chitthee uttar kee or ke liye nikalee.
+{26:15} daakkhian kee or ke liye obodedom ke nam par chitthee nikalee, aur usake betton ke nam par khjane kee kottree ke liye.
+{26:16} fir shuuppeem aur hosa ke namon kee chitthee paashchaim kee or ke liye nikalee, ki ve shalleket nam faattk ke pas chaddhai kee sadk par amhane samhane chaukeedaree kiya karen.
+{26:17} poorva or jo chh leveey the, uttar kee or pratidin char, daakkhian kee or praatidin char, aur khjane kee kottree ke pas do tthare.
+{26:18} paashchaim or ke parbar nam sthan par unchee sadk ke pas to char aur parbar ke pas do rahe.
+{26:19} ye darapalon ke dal the, jin men se kitane to korah ke the aur kitane mararee ke vansh ke the.
+{26:20} fir leviyon men se aahiyyah parameshvar ke bhvan aur paavitra kee hui vastuo, donon ke bhndaron ka adhaikaree niyukt hua.
+{26:21} ye ladan kee santan ke the, arthata gershonayon kee santan jo ladan ke kul ke the, arthata ladan aur gershonee ke pitaron ke gharanon ke mukhy purush the, arthata yahoaelee.
+{26:22} yahoaelee ke putra ye the, arthata jetam aur usaka bhai yoael jo yahova ke bhvan ke khjane ke adhaikaree the.
+{26:23} amraaamiyo, yisahariyo, hebraeniyon aur ujjeeaeliyon men se.
+{26:24} aur shabooael jo moosa ke putra geshorm ke vansh ka tha, vah khjanon ka mukhy aadhaikaree tha.
+{26:25} aur usake bhaiyon ka vrattant yah haai aeleeajar ke kul men usaka putra rahabyah, rahabyah ka putra yashaayah, yashaayah ka putra yoram, yoram ka putra jikree, aur jikree ka putra shalomot tha.
+{26:26} yahee shalomot apane bhaiyon samet un sab paavitra kee hui pastuon ke bhndaron ka adhaikaree tha, jo raja daud aur pitaron ke gharanon ke mukhy mukhy purushaen aur sahasrapatiyon aur shatapaatiyon aur mukhy senapatiyon ne paavitra kee theen.
+{26:27} jo loott ladaiyon men milatee thee, us men se unhon ne yahova ka bhvan draddh karane ke liye kuchh paavitra kiya.
+{26:28} varan jitana shamooael dasha, keesh ke putra shaaul, ner ke putra abner, aur sarooyah ke putra yoab ne paavitra kiya tha, aur jo kuchh jis kisee ne paavitra kar rakha tha, vah sab shalomot aur usake bhaiyon ke adhaikar men tha.
+{26:29} yisahariyon men se kananyah aur usake putra, israaael ke desh ka kam arthata saradar aur nyayee ka kam karane ke liye niyukt hue.
+{26:30} aur hebraeaniyon men se hashayyah aur usake bhai jo satrah sau balavan purush the, ve yahova ke sab kam aur raja kee seva ke vishay yaradan kee paashchaim or rahanevale israaaeliyon ke aanaikaree tthare.
+{26:31} hebraeaniyon men se yaariyyah mukhy tha, arthata hebraeaniyon kee peeddhee peeddhee ke pitaron ke gharanon ke anusar daud ke rajy ke chaleesaven varsha men ve ddoonddhe gaa, aur un men se kai shooraveer gilad ke yajer men mile.
+{26:32} aur usake bhai jo veer the, pitaron ke gharanon ke do hajar sat sau mukhy purush the, inako daud raja ne parameshvar ke sab vishayon aur raja ke vishay men roobeniyo, gadiyon aur manashshoke adho gotra ka aadhaikaree ttharaya.
+{27:1} israaaeliyo kee ginatee, arthata mitaron ke gharanon ke mukhy mukhy purushaen aur yahasrapatiyon aur shatapaatiyon aur unake saradaron kee ginatee jo varsha bhr ke maheene maheene upaasthiat hone aur chhuttee panevale dalon ke sab vishayon men raja kee seva tthal karate the, aek aek dal men chaubees hajar the.
+{27:2} paahile maheene ke liye paahile dal ka aadhaikaree jabdeeael ka putra yashaebam niyukt hua aur usake dal men chaubees hajar the.
+{27:3} vah peres ke vansh ka tha aur pahile maheene men sab senapaatiyon ka aadhaikaree tha.
+{27:4} aur doosare maheene ke dal ka adhaikaree dodaai nam aek ahohee tha, aur usake dal ka pradhaan miklot tha, aur usake dal men chaubees hajar the.
+{27:5} teesare maheene ke liye teesara senapaati yahoyada yajak ka putra banayah tha aur usake dal men chaubees hajar the.
+{27:6} yah vahee banayah haai, jo teeson shooron men veer, aur teeson men shraeshtt bhee tha aur usake dal men usaka putra ammeejabad tha.
+{27:7} chauthe maheene ke liye chautha senapati yoab ka bhai asahel tha, aur usake bad usaka putra jabadhah tha aur usake dal men chaubees hajar the.
+{27:8} panchaven maheene ke liye panchavan senapati yijraahee shamhoot tha aur usake dal men chaubees hajar the.
+{27:9} chhttven maheene ke liye chhttvan senapaati takoi ikkesh ka putra ira tha aur usake dal men chaubees hajar the.
+{27:10} sataven maheene ke liye satavan senapaati aepraaim ke vansh ka heles palonee tha aur usake dal men chaubees hajar the.
+{27:11} attven maheene ke liye attvan senapaati jerah ke vansh men se hooshaai sibbakaai tha aur usake dal men chaubees hajar the.
+{27:12} nauven maheene ke liye nauvan senapati binyameenee abeeaejer anatotavasee tha aur usake dal men chaubees hajar the.
+{27:13} dasaven maheene ke liye dasavan senapaati jerahee maharaai natopavasee tha aur usake dal men chaubees hajar the.
+{27:14} gyarahaven maheene ke liye gyarahavan senapaati aepraaim ke vansh ka banayah piratonavasee tha aur usake dal men chaubees hajar the.
+{27:15} barahaven maheene ke liye barahavan senapati otneeael ke vansh ka heldaai natopavasee tha aur usake dal men chaubees hajar the.
+{27:16} fir israaaelee gotron ke ye aadhaikaree the arthata roobeniyon ka pradhaan jikree ka putra aeleeajara shaimoniyon se maka ka putra shapatyaha.
+{27:17} levee se kamooael ka putra hashabyaha haroon kee santan ka sadoka.
+{27:18} yahooda ka aeleehoo nam daud ka aek bhai, issakar se meekaael ka putra omnee.
+{27:19} jabooloon se obadhah ka putra yishamayah, naptalee se ajraeeael ka putra yareemota.
+{27:20} aepraaim se ajajyah ka putra hosho, manashsho se adho gotra ka, fadayah ka putra yoaela.
+{27:21} gilad men adho gotra manashsho se jakaryah ka putra io, binyameen se abner ka putra yaseeael,
+{27:22} aur dan se yaroham ka putra ajarel, tthara. ye hee israaael ke gotraen ke hakim the.
+{27:23} parantu daud ne unakee ginatee bees varsha kee avastha ke teeche n kee, kyonki yahova ne israaael kee ginatee akash ke taron ke barabar baddhane ke liye kaha tha.
+{27:24} sarooyah ka putra yoab ginatee lene laga, par nipatta n saka kyonki ishvar ka krodha israaael par bhdka, aur yah ginatee raja daud ke itihas men naheen likhee gai.
+{27:25} fir adeeael ka putra ajamavet raj bhndaron ka adhaikaree tha, aur dehat aur nagaron aur ganvon aur gaddhon ke bhndaron ka anaikaree ujjaiyyah ka putra yahonatan tha.
+{27:26} aur jo boomi ko jotakar bokar khetee karate the, unaka adhaikaree kaloob ka putra aejraee tha.
+{27:27} aur dakh kee baariyon ka aadhaikaree ramai shaimee aur dakh kee baariyon kee upaj jo dakhmadha ke bhndaron men rakhne ke liye thee, usaka aadhaikaree shaapamee jabdee tha.
+{27:28} or neeche ke desh ke jalapai aur goolar ke vrakshaen ka adhaikaree gaderee balhanan tha aur tel ke bhndaron ka adhaikaree yoash tha.
+{27:29} aur shaaron men charanevale gaya-baailon ka adhaikaree shaaronee shaitrau tha aur taraiyon ke gaya-baailon ka aadhaikaree adalaai ka putra shaapat tha.
+{27:30} aur untton ka aadhaikaree ishmaaelee obeel aur gadaahiyon ka aadhaikaree meronotavasee yehadayaha.
+{27:31} aur bhaid-bakaariyon ka aadhaikaree hagraee yajeej tha. ye hee sab raja daud ke dhan sammattai ke adhaikaree the.
+{27:32} aur daud ka bhteeja yonatan aek samajhdar mantraee aur shaasree tha, aur kisee hakmonee ka putra aeheeael rajaputraen ke sang raha karata tha.
+{27:33} aur aheetopel raja ka mantraee tha, aur aerekee hooshau raja ka mitra tha.
+{27:34} aur yaheetopel ke bad banayah ka putra yahoyada aur aeyyatar mantraee ttharaae gaae. aur raja ka pradhaan senapati yoab tha.
+{28:1} aur daud ne israaael ke sab haakimon ko arthata gotraen ke haakimon aur raja kee seva tthal karanevale dalon ke haakimon ko aur sahasrapatiyon aur shatapaatiyon aur raja aur usake putraen ke pashu aadi sab dhan sampattai ke adhaikaariyo, saradaron aur veeron aur sab shooraveeron ko yarooshalem men bulavaya.
+{28:2} tab daud raja khda hokar kahane laga, he mere bhaiyon! aur he meree praja ke logo! meree suno, meree manasa to thee ki yahova kee vacha ke sandook ke liye aur ham logon ke parameshvar ke charanon kee peeddhee ke liye vishraam ka aek bhvan banau, aur maain ne usake banane kee taaiyaree kee thee.
+{28:3} parantu parameshvar ne mujh se kaha, too mere nam ka bhvan banane n paaega, kyonaki too yuddh karanevala haai aur too ne lohoo bahaya haai.
+{28:4} taubhee israaael ke parameshvar yahova ne mere pita ke sare gharane men se mujhee ko chun liya, ki israaael ka raja sada bana rahoon arthata us ne yahooda ko pradhaan hone ke liye aur yahooda ke gharane men se mere pita ke gharane ko chun liya aur mere pita ke putraen men se vah mujhee ko sare israaael ka raja banane ke liye prasann hua.
+{28:5} aur mere sab putraen men se yahova ne to mujhe bahut putra diae haain us ne mere putra sulaaiman ko chun liya haai, ki vah israaael ke upar yahova ke rajy kee gaee par viraje.
+{28:6} aur us ne mujh se kaha, ki tera putra sulaaiman hee mere bhvan aur anganon ko banaaega, kyonki maain ne usako chun liya haai ki mera putra tthare, aur maain usaka pita ttharoonga.
+{28:7} aur saadi vah meree agyaaon aur niyamon ke manane men aj kal kee nai draddh rahe, to maain usaka rajy sada sthiar rakoonga.
+{28:8} isaliye ab israaael ke dekhte arthatayahova kee mandlee ke dekhte, aur apane parameshvar ke samhane, apane parameshvar yahova kee sab agyaaon ko mano aur un par dhyan karate raho taaki tum is achchhe desh ke aadhaikaree bane raho, aur ise apane bad apane vansh ka sada ka bhag hone ke liye chhod jao.
+{28:9} aur he mere putra sulaaiman! too apane pita ke parameshvar ka gyaan rak, aur khre man aur prasann jeev se usakee seva karata raha kyonki yahova man ko janchata aur vichar men jo kuchh utpann hota haai use samajhta haai. yaadi too usakee khoj men rahe, to vah tujh ko milega parantu yadi too usako tyag de to vah sada ke liye tujh ko chhod dega.
+{28:10} ab chaukas rah, yahova ne tujhe aek aeesa bhvan banane ko chun liya haai, jo pavitrasthan ttharega, hiyav bandhakar is kam men lag ja.
+{28:11} tab daud ne apane putra sulaaiman ko mandair ke osare, kottariyo, bhndaron attariyo, bheetaree kottariyo, aur praayashchait ke ddhkane se sthan ka namoona,
+{28:12} aur yahova ke bhvan ke anganon aur charon or kee kottariyo, aur parameshvar ke bhvan ke bhndaron aur vavitra kee hui vastuon ke bhndaron ke, jo jo namoone ishvar ke atma kee praerana se usako mile the, ve sab de diae.
+{28:13} fir yajakon aur lebiyon ke dalo, aur yahova ke bhvan kee seva ke sab kamo, aur yahova ke bhvan kee seva ke sab saman,
+{28:14} arthatasab prakar kee seva ke liye sone ke patraen ke nimitt sona taulakar, aur sab prakar kee seva ke liye chandee ke patron ke nimitt chandee taulakar,
+{28:15} aur sone kee deevatton ke liye, aur unake deepakon ke liye praati aek aek deevat, aur usake deepakon ka sona taulakar aur chandee ke deevatton ke liye aek aek deevat, aur usake deepak kee chandee, prati aek aek deevatt ke kam ke anusar taulakar,
+{28:16} or bhentt kee rottee kee mejon ke liye aek aek mej ka sona taulakar, aur jandee kee mejon ke liye chandee,
+{28:17} aur chokhe sone ke kantto, kattoron aur pyalon aur sone kee kattoriyon ke liye aek aek kattoree ka sona taulakar, aur chandee kee kattoriyon ke liye aek aek kattoree kee chandee taulakar,
+{28:18} aur dhoop kee vedee ke liye tapaya hua sona taulakar, aur rath arthta yahova kee vacha ka sandook ddhankanevale aur pankh faailaae huae karoobon ke namoone ke liye sona de diya.
+{28:19} maain ne yahova kee shaktai se jo mujh ko milee, yah sab kuchh bajhkar likh diya haai.
+{28:20} fir daud ne apane putra sulaaiman se kaha, hiyav bandha aur draddh hokar is kam men lag ja. mat dr, aur tera man kachcha n ho, kyonki yahova parameshvar jo mera parameshvar haai, vah tere sang haai aur jab tak yahova ke bhvan men jitana kam karana ho vah n ho chuke, tab tak vah n to tujhe dhaekha dega aur n tujhe tyagega.
+{28:21} aur dekh parameshvar ke bhvan ke sab kam ke liye jajakon aur leaviyon ke dal ttharaae gaae haai, aur sab prakar kee seva ke liye sab prakar ke kam prasannata se karanevale buaddhiman purush bhee tera sath denge aur hakim aur saree praja ke log bhee jo kuchh too kahega vahee karenge.
+{29:1} fir raja daud ne saree sabha se kaha, mera putra sulaaiman sukumar ladka haai, aur keval usee ko parameshvar ne chuna haai kam to bharee haai, kyonki yah bhvan manushy ke liye nahee, yahova parameshvar ke liye banega.
+{29:2} maain ne to apanee shaktai bhr, apane parameshvar ke bhvan ke nimitt sone kee vastuon ke liye sona, chandee kee vastuon ke liye chanee, peetal kee vastuon ke liye peetal, lohe kee vastuon ke liye loha, aur lakadee kee vastuon ke liye lakadee, aur sulaaimanee patthr, aur jadne ke yogy manai, aur pachchee ke kam ke liye radg radg ke nag, aur sab bhanti ke manai aur bahut sangamarmar ikattha kiya haai.
+{29:3} fir mera man apane parameshvar ke bhvan men laga haai, is karan jo kuchh maain ne pavitra bhvan ke liye ikattha kiya haai, us sab se adhaik maain apana nij dhan bhee jo sona chandee ke roop men mere pas haai, apane parameshvar ke bhvan ke liye de deta hoo.
+{29:4} arthata teen hajar kikkar opeer ka sona, aur sat hajar kikkar tapai hui chandee, jis se kottariyon kee bheeten maddhee jaaen.
+{29:5} aur sone kee vastuon ke liye sona, aur chandee kee vastuon ke liye chandee, aur kareegaron se bananevale sab prakar ke kam ke liye maain use deta hoo. aur kaun apanee ichchha se yahova ke liye apane ko arpan kar deta haai?
+{29:6} tab pitaron ke gharanon ke pradhaanon aur israaael ke gotraen ke hakimon aur sahasrapatiyon aur shatapaatiyon aur raja ke kam ke adhaikaariyoen ne apanee apanee ichchha se,
+{29:7} parameshvar ke bhvan ke kam ke liye panch hajar kikkar aur das hajar darkanon sona, das hajar kikkar chandee, attarah hajar kikkar peetal, aur aek lakh kikkar loha de diya.
+{29:8} aur jinake pas manai the, unhon ne unhen yahova ke bhvan ke khjane ke liye geshanee yaheeael ke hatha men de diya.
+{29:9} tab praja ke log anaandait hua, kyonki hakimon ne prasann hokar khre man aur apanee apanee ichchha se yahova ke liye bhentt dee thee aur daud raja bahut hee anandait hua.
+{29:10} tab daud ne saree sabha ke sammukh yahova ka dhanyavad kiya, aur daud ne kaha, he yahova! he hamare mool purush israaael ke parameshvar! anadikal se anantakal tak too dhany haai.
+{29:11} he yahova! mahima, parakram, shaebha, samathrya aur vibhv, tera hee haai kyonki akash aur prathvee men jo kuchh haai, vah tera hee haai he yahova! rajy tera haai, aur too sabhon ke upar mukhy aur mahan tthara haai.
+{29:12} dhan aur maahima teree or se milatee haai, aur too sabhon ke upar prabhuta karata haai. samathrya aur parakram tere hee hath men haai, aur sab logon ko baddhana iaur bal dena tere hath men haai.
+{29:13} isaliye ab he hamare parameshvar! ham tera dhnyavad aur tere maahimayukt nam kee stuti karate haain.
+{29:14} maain kya hoo? aur meree praja kya haai? ki ham ko is reeti se apanee ichchha se tujhe bhentt dene kee shaaktai mile? tujhee se to sab kuchh milata haai, aur ham ne tere hath se pakar tujhe diya haai.
+{29:15} teree drashtti men ham to apane sab purakhaon kee nai paraae aur paradeshaee haain prathvee par hamare din chhaya kee nai beete jate haai, aur hamara kuchh ttkaiana naheen.
+{29:16} he hamare parameshvar yahova! vah jo bada sanchay ham ne tere paavitra nam ka aek bhvan banane ke liye kiya haai, vah tere hee hath se hame mila tha, aur sab tera hee haai.
+{29:17} aur he mere parameshvar! maain janata hoo ki too man ko janchata haai aur sidhaai se prasann rahata haai maain ne to yah sab kuchh man kee sidhaai aur apanee ichchha se diya haai aur ab maain ne anand se dekha haai, ki teree praja ke log jo yahan upasthiat haai, vah apanee ichchha se tere liye bhentt dete haain.
+{29:18} he yahova! he hamare purakha ibraaheem, isahak aur israaael ke parameshvar! apanee praja ke man ke vicharon men yah bat banaae rakh aur unake man apanee or lagaae rakh.
+{29:19} aur mere putra sulaaiman ka man aeesa khra kar de ki vah teree agyaaon chitauaniyon aur vidhaiyon ko manata rahe aur yah sab kuchh kare, aur us bhvan ko banaa, jisakee taaiyaree maain ne kee haai.
+{29:20} tab daud ne saree sabha se kaha, tum apane parameshvar yahova ka dhanyavad karo. tab sabha ke sab logon ne apane pitaron ke parameshvar yahova ka dhanyavad kiya, aur apana apana sir jhukakar yahova ko aur raja ko dandvat kiya.
+{29:21} aur doosare din unhon ne yahova ke liye baalidan kia, arthata adhan samet aek hajar baail, aek hajar meddhe aur aek hajar bhed ke bachche homabaali karake chaddhaa, aur sab israaael ke liye bahut se melabali chaddhaae. usee din yahova ke samhane unhon ne bade anand se khaya aur piya.
+{29:22} fir unhon ne daud ke putra sulaaiman ko doosaree bar raja ttharakar yahova kee or se pradhaan hone ke liye usaka aur yajak hone ke liye sadok ka abhaishok kiya.
+{29:23} tab sulaaiman apane pita daud ke sthan par raja hokar yahova ke sinhasan par virajane laga aur bhagyavan hua, aur israaael usake adhaeen hua.
+{29:24} aur sab haakimon aur shooraveeron aur raja daud ke sab putraen ne sulaaiman raja kee adhaeenata angeekar kee.
+{29:25} aur yahova ne sulaaiman ko sab israaael ke dekhte bahut baddhaya, aur use aeesa rajakeey aeeshvarya diya, jaaisa us se paahile israaael ke kisee raja ka n hua tha.
+{29:26} is prakar yihau ke putra daud ne sare israaael ke upar rajy kiya.
+{29:27} aur usake israaael par rajy karane ka samay chalees varsha ka tha us ne sat varsha to hebraen men aur taaintees varsha yarooshalem men rajy kiya.
+{29:28} aur vah poore booddhape kee avastha men deegharayu hokar aur dhan aur vibhv, manamana bhogakar mar gaya aur usaka putra sulaaiman usake sthan par raja hua.
+{29:29} aadi se ant tak raja daud ke sab kamon ka vrattant,
+{29:30} aur usake sab rajy aur parakram ka, aur us par aur israaael par, varan desh desh ke sab rajyon par jo kuchh beeta, isaka bhee vrattant shamooael dasha aur natan nabee aur gad dasha kee pustakon men likha hua haai.

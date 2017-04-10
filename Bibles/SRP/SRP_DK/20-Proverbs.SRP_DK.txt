@@ -1,0 +1,915 @@
+{1:1} Priče Solomuna sina Davidovog, cara Izrailjevog,
+{1:2} Da se poznaje mudrost i nastava, da se razumeju reči razumne,
+{1:3} Da se prima nastava u razumu, u pravdi, u sudu i u svemu što je pravo,
+{1:4} Da se daje ludima razboritost, mladićima znanje i pomnjivost.
+{1:5} Mudar će slušati i više će znati, i razuman će steći mudrost,
+{1:6} Da razume priče i značenje, reči mudrih ljudi i zagonetke njihove.
+{1:7} Početak je mudrosti strah Gospodnji; ludi preziru mudrost i nastavu.
+{1:8} Slušaj, sine, nastavu oca svog, i ne ostavljaj nauke matere svoje.
+{1:9} Jer će biti venac od milina oko glave tvoje, i grivna na grlu tvom.
+{1:10} Sine moj, ako bi te mamili grešnici, ne pristaj;
+{1:11} Ako bi rekli: Hodi s nama da vrebamo krv, da zasedamo pravome nizašta;
+{1:12} Proždrećemo ih kao grob žive, i svekolike kao one koji silaze u jamu;
+{1:13} Svakojakog blaga dobićemo, napunićemo kuće svoje plena;
+{1:14} Bacaćeš žreb svoj s nama; jedan će nam tobolac biti svima;
+{1:15} Sine moj, ne idi na put s njima, čuvaj nogu svoju od staze njihove.
+{1:16} Jer nogama svojim trče na zlo i hite da prolivaju krv.
+{1:17} Jer se uzalud razapinje mreža na oči svakoj ptici;
+{1:18} A oni vrebaju svoju krv i zasedaju svojoj duši.
+{1:19} Takvi su putevi svih lakomih na dobitak, koji uzima dušu svojim gospodarima.
+{1:20} Premudrost viče na polju, na ulicama pušta glas svoj;
+{1:21} U najvećoj vrevi viče, na vratima, u gradu govori svoje besede;
+{1:22} Ludi, dokle ćete ljubiti ludost? I podsmevačima dokle će biti mio podsmeh? I bezumni, dokle će mrzeti na znanje?
+{1:23} Obratite se na karanje moje; evo, izasuću vam duh svoj, kazaću vam reči svoje.
+{1:24} Što zvah, ali ne hteste, pružah ruku svoju, ali niko ne mari,
+{1:25} Nego odbaciste svaki savet moj, i karanje moje ne hteste primiti;
+{1:26} Zato ću se i ja smejati vašoj nevolji, rugaću se kad dodje čega se bojite;
+{1:27} Kad kao pustoš dodje čega se bojite, i pogibao vaša kao oluja kad dodje, kad navali na vas nevolja i muka.
+{1:28} Tada će me zvati, ali se neću odazvati; rano će tražiti, ali me neće naći.
+{1:29} Jer mrziše na znanje, i strah Gospodnji ne izabraše;
+{1:30} Ne pristaše na moj savet, i preziraše sva karanja moja.
+{1:31} Zato će jesti plod od puteva svojih, i nasitiće se saveta svojih.
+{1:32} Jer će lude ubiti mir njihov, i bezumne će pogubiti sreća njihova.
+{1:33} Ali ko me sluša boraviće bezbrižno, i biće na miru ne bojeći se zla.
+{2:1} Sine moj, ako primiš reči moje, i zapovesti moje sahraniš kod sebe,
+{2:2} Da pazi uho tvoje na mudrost, i prigneš srce svoje k razumu,
+{2:3} Ako prizoveš mudrost, i k razumu podigneš glas svoj,
+{2:4} Ako ga ustražiš kao srebro, i kao sakriveno blago ako dobro ustražiš;
+{2:5} Tada ćeš razumeti strah Gospodnji, i poznanje Božije naći ćeš.
+{2:6} Jer Gospod daje mudrost, iz Njegovih usta dolazi znanje i razum.
+{2:7} Čuva pravima šta doista jeste, štit je onima koji hode u bezazlenosti,
+{2:8} Da bi se držali staza pravih, a On čuva put svetaca svojih.
+{2:9} Tada ćeš razumeti pravdu i sud i šta je pravo, i svaki dobri put.
+{2:10} Kad dodje mudrost u srce tvoje, i znanje omili duši tvojoj,
+{2:11} Pomnjivost će paziti na te, razum će te čuvati,
+{2:12} Izbavljajući te od zla puta, od ljudi koji govore opake stvari,
+{2:13} Koji ostavljaju prave pute da idu putevima mračnim,
+{2:14} Koji se raduju zlo čineći, i igraju u zlim opačinama;
+{2:15} Kojih su putevi krivi, i sami su opaki na stazama svojim;
+{2:16} Izbavljajući te od žene tudje, od tudjinke, koja laska svojim rečima,
+{2:17} Koja ostavlja vodju mladosti svoje, i zaboravlja zavet Boga svog.
+{2:18} Jer k smrti vodi dom njen, i k mrtvima staze njene.
+{2:19} Ko god udje k njoj ne vraća se, niti izlazi na put životni.
+{2:20} Zato hodi putem dobrih, i drži se staza pravedničkih.
+{2:21} Jer će pravednici nastavati na zemlji, i bezazleni će ostati na njoj.
+{2:22} A bezbožni će se istrebiti sa zemlje, i bezakonici će se iščupati iz nje.
+{3:1} Sine moj, ne zaboravljaj nauke moje, i zapovesti moje neka hrane srce tvoje.
+{3:2} Jer će ti doneti dug život, dobre godine i mir.
+{3:3} Milost i istina neka te ne ostavlja; priveži ih sebi na grlo, upiši ih na ploči srca svog.
+{3:4} Te ćeš naći milost i dobru misao pred Bogom i pred ljudima.
+{3:5} Uzdaj se u Gospoda svim srcem svojim, a na svoj razum ne oslanjaj se.
+{3:6} Na svim putevima svojim imaj Ga na umu, i On će upravljati staze tvoje.
+{3:7} Ne misli sam o sebi da si mudar; boj se Gospoda i uklanjaj se oda zla.
+{3:8} To će biti zdravlje pupku tvom i zalivanje kostima tvojim.
+{3:9} Poštuj Gospoda imanjem svojim i prvinama od svega dohotka svog;
+{3:10} I biće pune žitnice tvoje obilja, i presipaće se vino iz kaca tvojih.
+{3:11} Sine moj, ne odbacuj nastave Gospodnje, i nemoj da ti dosadi karanje Njegovo.
+{3:12} Jer koga ljubi Gospod onog kara, i kao otac sina koji mu je mio.
+{3:13} Blago čoveku koji nadje mudrost, i čoveku koji dobije razum.
+{3:14} Jer je bolje njom trgovati nego trgovati srebrom, i dobitak na njoj bolji je od zlata.
+{3:15} Skuplja je od dragog kamenja, i šta je god najmilijih stvari tvojih ne mogu se izjednačiti s njom.
+{3:16} Dug život u desnici joj je, a u levici bogatstvo i slava.
+{3:17} Putevi su njeni mili putevi i sve staze njene mirne.
+{3:18} Drvo je životno onima koji se hvataju za nju, i ko je god drži srećan je.
+{3:19} Gospod je mudrošću osnovao zemlju, utvrdio nebesa razumom.
+{3:20} Njegovom mudrošću razvališe se bezdane i oblaci kaplju rosom.
+{3:21} Sine moj, da ti to ne odlazi iz očiju; čuvaj pravu mudrost i razboritost;
+{3:22} I biće život duši tvojoj i nakit grlu tvom.
+{3:23} Tada ćeš ići bez brige putem svojim, i noga tvoja neće se spotaći.
+{3:24} Kad ležeš, nećeš se plašiti, i kad počivaš, sladak će ti biti san.
+{3:25} Nećeš se plašiti od nagle strahote ni od pogibli bezbožničke kad dodje.
+{3:26} Jer će ti Gospod biti uzdanica i čuvaće ti nogu da se ne uhvati.
+{3:27} Ne odreci dobra onima kojima treba, kad možeš učiniti.
+{3:28} Ne govori bližnjemu svom: Idi, i dodji drugi put, i sutra ću ti dati, kad imaš.
+{3:29} Ne kuj zlo bližnjemu svom koji živi s tobom bez brige.
+{3:30} Ne svadjaj se ni s kim bez uzroka, ako ti nije učinio zlo.
+{3:31} Nemoj zavideti nasilniku, ni izabrati koji put njegov.
+{3:32} Jer je mrzak Gospodu zlikovac, a u pravednih je tajna njegova.
+{3:33} Prokletstvo je Gospodnje u kući bezbožnikovoj, a stan pravednički blagosilja.
+{3:34} Jer podsmevačima On se podsmeva, a krotkima daje milost.
+{3:35} Mudri će naslediti slavu, a bezumnike će odneti sramota.
+{4:1} Slušajte, deco, nastavu očevu, i pazite da biste poznali mudrost.
+{4:2} Jer vam dobru nauku dajem, ne ostavljajte zakon moj.
+{4:3} Kad bejah sin u oca svog mlad, i jedinac u matere svoje,
+{4:4} On me učaše i govoraše mi: Neka primi srce tvoje reči moje, drži zapovesti moje i bićeš živ.
+{4:5} Pribavi mudrost, pribavi razum; ne zaboravljaj i ne odstupaj od reči usta mojih.
+{4:6} Nemoj je ostaviti, i čuvaće te, ljubi je, i hraniće te.
+{4:7} Mudrost je glavno; pribavi mudrost, i za sve imanje svoje pribavi razum.
+{4:8} Podiži je i ona će te uzvisiti, proslaviće te kad je zagrliš.
+{4:9} Metnuće ti na glavu venac od milina, krasnu krunu daće ti.
+{4:10} Slušaj, sine moj, i primi reči moje, i umnožiće ti se godine životu.
+{4:11} Učim te putu mudrosti, vodim te stazama pravim.
+{4:12} Kad ushodiš, neće se stezati koraci tvoji, i ako potrčiš nećeš se spotaknuti.
+{4:13} Drži se nastave i ne puštaj, čuvaj je, jer ti je život.
+{4:14} Ne idi na stazu bezbožničku i putem nevaljalih ljudi ne stupaj.
+{4:15} Ostavi ga, ne hodi po njemu, ukloni se od njega i mini ga.
+{4:16} Jer ne spavaju ako ne učine zla, i ne dolazi im san ako koga ne obore.
+{4:17} Jer jedu hleb bezbožnosti i piju vino nasilja.
+{4:18} A put je pravednički kao svetlo videlo, koje sve većma svetli dok ne bude pravi dan.
+{4:19} A put je bezbožnički kao mrak, ne znaju na šta će se spotaknuti.
+{4:20} Sine moj, slušaj reči moje, prigni uho svoje besedi mojoj.
+{4:21} Da ti ne odlaze iz očiju; čuvaj ih usred srca svog.
+{4:22} Jer su život onima koji ih nalaze i zdravlje svemu telu njihovom.
+{4:23} Svrh svega što se čuva čuvaj srce svoje, jer iz njega izlazi život.
+{4:24} Ukloni od usta svojih opačinu i od usana svojih nevaljalstvo udalji.
+{4:25} Oči tvoje neka gledaju upravo i vedje tvoje neka se upravljaju pravo pred tobom.
+{4:26} Meri stazu nogama svojim, i svi putevi tvoji neka su poravnjeni.
+{4:27} Ne svrći ni nadesno ni nalevo, odvraćaj nogu svoju oda zla.
+{5:1} Sine moj, slušaj mudrost moju, k razumu mom prigni uho svoje,
+{5:2} Da se držiš razboritosti, i usne tvoje da hrane znanje.
+{5:3} Jer s usana tudje žene kaplje med, i grlo joj je mekše od ulja;
+{5:4} Ali joj je posledak gorak kao pelen, oštar kao mač s obe strane oštar.
+{5:5} Noge joj silaze k smrti, do pakla dopiru koraci njeni.
+{5:6} Da ne bi merio put životni, savijaju se staze njene da ne znaš.
+{5:7} Zato, deco, poslušajte mene, i ne odstupajte od reči usta mojih.
+{5:8} Neka je daleko od nje put tvoj, i ne približuj se k vratima kuće njene,
+{5:9} Da ne bi dao drugima slave svoje i godina svojih nemilostivome,
+{5:10} Da se ne bi tudjinci nasitili tvog blaga i trud tvoj da ne bi bio u tudjoj kući,
+{5:11} I da ne ridaš na posletku, kad se stroši meso tvoje i telo tvoje,
+{5:12} I kažeš: Kako mrzih na nastavu, i kako srce moje prezira karanje!
+{5:13} I ne poslušah glas učitelja svojih, i ne prignuh uha svog k onima koji me učahu!
+{5:14} Umalo ne zapadoh u svako zlo usred zbora i skupštine.
+{5:15} Pij vodu iz svog studenca i što teče iz tvog izvora.
+{5:16} Neka se razlivaju tvoji izvori na polje, i potoci po ulicama.
+{5:17} Imaj ih sam za se, a ne tudjin s tobom.
+{5:18} Blagosloven da je izvor tvoj, i veseli se ženom mladosti svoje;
+{5:19} Neka ti je kao košuta mila i kao srna ljupka; dojke njene neka te opijaju u svako doba, u ljubavi njenoj posrći jednako.
+{5:20} A zašto bi, sine, posrtao za tudjinkom i golio nedra tudjoj,
+{5:21} Kad su pred očima Gospodu putevi svačiji, i meri sve staze njegove?
+{5:22} Bezbožnika će uhvatiti njegova bezakonja, i u uža greha svojih zaplešće se;
+{5:23} Umreće bez nastave, i od mnoštva ludosti svoje lutaće.
+{6:1} Sine moj, kad se podjemčiš za prijatelja svog, i daš ruku svoju tudjincu,
+{6:2} Vezao si se rečima usta svojih, uhvatio si se rečima usta svojih.
+{6:3} Zato učini tako, sine moj, i oprosti se, jer si dopao u ruke bližnjemu svom; idi, pripadni, i navali na bližnjeg svog.
+{6:4} Ne daj sna očima svojim, ni vedjama svojim drema.
+{6:5} Otmi se kao srna iz ruke lovcu, i kao ptica iz ruke ptičaru.
+{6:6} Idi k mravu, lenjivče, gledaj puteve njegove, i omudraj.
+{6:7} Nema vodju ni upravitelja ni gospodara;
+{6:8} I opet pripravlja leti sebi hranu, zbira uz žetvu piću svoju.
+{6:9} Dokle ćeš, lenjivče, ležati? Kad ćeš ustati od sna svog?
+{6:10} Dok malo prospavaš, dok malo prodremlješ, dok malo sklopiš ruke da prilegneš,
+{6:11} U tom će doći siromaštvo tvoje kao putnik i oskudica tvoja kao oružan čovek.
+{6:12} Čovek nevaljao i nitkov hodi sa zlim ustima;
+{6:13} Namiguje očima, govori nogama, pokazuje prstima;
+{6:14} Svaka mu je opačina u srcu, kuje zlo svagda, zameće svadju.
+{6:15} Zato će ujedanput doći pogibao njegova, časom će se satrti i neće biti leka.
+{6:16} Na ovo šestoro mrzi Gospod, i sedmo je gad duši njegovoj:
+{6:17} Oči ponosite, jezik lažljiv i ruke koje prolivaju krv pravu,
+{6:18} Srce koje kuje zle misli, noge koje brzo trče na zlo,
+{6:19} Lažan svedok koji govori laž, i ko zameće svadju medju braćom.
+{6:20} Čuvaj, sine moj, zapovest oca svog, i ne ostavljaj nauke matere svoje.
+{6:21} Priveži ih sebi na srce zasvagda, i sveži ih sebi oko grla.
+{6:22} Kuda god podješ, vodiće te; kad zaspiš, čuvaće te; kad se probudiš, razgovaraće te;
+{6:23} Jer je zapovest žižak, i nauka je videlo, i put je životni karanje koje poučava;
+{6:24} Da te čuvaju od zle žene, od jezika kojim laska žena tudja.
+{6:25} Ne zaželi u srcu svom lepotu njenu, i nemoj da te uhvati vedjama svojim.
+{6:26} Jer sa žene kurve spada čovek na komad hleba, i žena pusta lovi dragocenu dušu.
+{6:27} Hoće li ko uzeti ognja u nedra, a haljine da mu se ne upale?
+{6:28} Hoće li ko hoditi po živom ugljevlju, a nogu da ne ožeže?
+{6:29} Tako biva onome koji ide k ženi bližnjeg svog; neće biti bez krivice ko je se god dotakne.
+{6:30} Ne sramote lupeža koji ukrade da nasiti dušu svoju, budući gladan;
+{6:31} Nego kad ga uhvate plati samosedmo, da sve imanje doma svog.
+{6:32} Ali ko učini preljubu sa ženom, bezuman je, dušu svoju gubi ko tako čini;
+{6:33} Muke i ruga dopada, i sramota se njegova ne može izbrisati.
+{6:34} Jer je ljubavna sumnja žestoka u muža i ne štedi na dan osvete;
+{6:35} Ne mari ni za kakav otkup, i ne prima ako ćeš i mnogo darova davati.
+{7:1} Sine, čuvaj reči moje, i zapovesti moje sahrani kod sebe.
+{7:2} Čuvaj zapovesti moje i bićeš živ, i nauku moju kao zenicu očiju svojih.
+{7:3} Priveži ih sebi na prste, napiši ih na ploči srca svog.
+{7:4} Reci mudrosti: Sestra si mi; i prijateljicom zovi razboritost,
+{7:5} Da bi te čuvala od žene tudje, od tudjinke, koja laska rečima.
+{7:6} Jer s prozora doma svog kroz rešetku gledah,
+{7:7} I videh medju ludima, opazih medju decom bezumnog mladića,
+{7:8} Koji idjaše ulicom pokraj ugla njenog, i koračaše putem ka kući njenoj,
+{7:9} U sumrak, uveče, kad se unoća i smrče;
+{7:10} A gle, srete ga žena u odelu kurvinskom i lukavog srca,
+{7:11} Plaha i pusta, kojoj noge ne mogu stajati kod kuće,
+{7:12} Sad na polju, sad na ulici, kod svakog ugla vrebaše.
+{7:13} I uhvati ga, i poljubi ga, i bezobrazno reče mu:
+{7:14} Imam žrtve zahvalne, danas izvrših zavete svoje;
+{7:15} Zato ti izidjoh na susret da te tražim, i nadjoh te.
+{7:16} Nastrla sam odar svoj pokrivačem vezenim i prostirkama misirskim.
+{7:17} Okadila sam postelju svoju smirnom, alojom i cimetom.
+{7:18} Hajde da se opijamo ljubavlju do zore, da se veselimo milovanjem.
+{7:19} Jer mi muž nije kod kuće, otišao je na put daleki,
+{7:20} Uzeo je sa sobom tobolac novčani, vratiće se kući u odredjeni dan.
+{7:21} Navrati ga mnogim rečima, glatkim usnama odvuče ga.
+{7:22} Otide za njom odmah kao što vo ide na klanje i kao bezumnik u puto da bude karan,
+{7:23} Dokle mu strela ne probije jetru, kao što ptica leti u zamku ne znajući da joj je o život.
+{7:24} Zato dakle, deco, poslušajte me, i pazite na reči usta mojih.
+{7:25} Nemoj da zastranjuje srce tvoje ne puteve njene, nemoj lutati po stazama njenim.
+{7:26} Jer je mnoge ranila i oborila, i mnogo je onih koje je sve pobila.
+{7:27} Kuća je njena put pakleni koji vodi u kleti smrtne.
+{8:1} Ne viče li mudrost? I razum ne pušta li glas svoj?
+{8:2} Navrh visina, na putu, na rasputicama stoji,
+{8:3} Kod vrata, na ulasku u grad, gde se otvaraju vrata, viče:
+{8:4} Vas vičem, o ljudi, i glas svoj obraćam k sinovima ljudskim.
+{8:5} Naučite se ludi mudrosti, i bezumni orazumite se.
+{8:6} Slušajte, jer ću govoriti velike stvari, i usne moje otvarajući se kazivaće šta je pravo.
+{8:7} Jer usta moja govore istinu, i mrska je usnama mojim bezbožnost.
+{8:8} Prave su sve reči usta mojih, ništa nema u njima krivo ni izopačeno.
+{8:9} Sve su obične razumnom i prave su onima koji nalaze znanje.
+{8:10} Primite nastavu moju, a ne srebro, i znanje radije nego najbolje zlato.
+{8:11} Jer je bolja mudrost od dragog kamenja, i šta je god najmilijih stvari ne mogu se izjednačiti s njom.
+{8:12} Ja mudrost boravim s razboritošću, i razumno znanje nalazim.
+{8:13} Strah je Gospodnji mržnja na zlo; ja mrzim na ponositost i na oholost i na zli put i na usta opaka.
+{8:14} Moj je savet i šta god jeste; ja sam razum i moja je sila.
+{8:15} Mnom carevi caruju, i vladaoci postavljaju pravdu.
+{8:16} Mnom vladaju knezovi i poglavari i sve sudije zemaljske.
+{8:17} Ja ljubim one koji mene ljube, i koji me dobro traže nalaze me.
+{8:18} U mene je bogatstvo i slava, postojano dobro i pravda.
+{8:19} Plod je moj bolji od zlata i od najboljeg zlata, i dobitak je moj bolji i od najboljeg srebra.
+{8:20} Putem pravednim hodim, posred staza pravice,
+{8:21} Da onima koji me ljube dam ono što jeste, i riznice njihove da napunim.
+{8:22} Gospod me je imao u početku puta svog, pre dela svojih, pre svakog vremena.
+{8:23} Pre vekova postavljena sam, pre početka, pre postanja zemlje.
+{8:24} Kad još ne beše bezdana, rodila sam se, kad još ne beše izvora obilatih vodom.
+{8:25} Pre nego se gore osnovaše, pre humova ja sam se rodila;
+{8:26} Još ne beše načinio zemlje ni polja ni početka prahu vasiljenskom;
+{8:27} Kad je uredjivao nebesa, onde bejah; kad je razmeravao krug nad bezdanom.
+{8:28} Kad je utvrdjivao oblake gore i krepio izvore bezdanu;
+{8:29} Kad je postavljao moru medju i vodama da ne prestupaju zapovesti Njegove, kad je postavljao temelje zemlji;
+{8:30} Tada bejah kod Njega hranjenica, bejah Mu milina svaki dan, i veseljah se pred Njim svagda;
+{8:31} Veseljah se na vasiljeni Njegovoj, i milina mi je sa sinovima ljudskim.
+{8:32} Tako, dakle, sinovi, poslušajte me, jer blago onima koji se drže puteva mojih.
+{8:33} Slušajte nastavu, i budite mudri, i nemojte je odbaciti.
+{8:34} Blago čoveku koji me sluša stražeći na vratima mojim svaki dan i čuvajući pragove vrata mojih.
+{8:35} Jer ko mene nalazi, nalazi život i dobija ljubav od Gospoda.
+{8:36} A ko o mene greši, čini krivo duši svojoj; svi koji mrze na me, ljube smrt.
+{9:1} Premudrost sazida sebi kuću, i otesa sedam stupova;
+{9:2} Pokla stoku svoju, rastvori vino svoje, i postavi sto svoj.
+{9:3} Posla devojke svoje, te zove svrh visina gradskih:
+{9:4} Ko je lud, neka se uvrati ovamo. I bezumnima veli:
+{9:5} Hodite, jedite hleba mog, i pijte vino koje sam rastvorila.
+{9:6} Ostavite ludost i bićete živi, i idite putem razuma.
+{9:7} Ko uči podsmevača, prima sramotu; i ko kori bezbožnika, prima rug.
+{9:8} Ne karaj podsmevača da ne omrzne na te; karaj mudra, i ljubiće te.
+{9:9} Kaži mudrome, i biće još mudriji; pouči pravednog, i znaće više.
+{9:10} Početak je mudrosti strah Gospodnji, i znanje je svetih stvari razum.
+{9:11} Jer će se mnom umnožiti dani tvoji i dodaće ti se godine životu.
+{9:12} Ako budeš mudar, sebi ćeš biti mudar; ako li budeš podsmevač, sam ćeš tegliti.
+{9:13} Žena bezumna plaha je, luda i ništa ne zna;
+{9:14} I sedi na vratima od kuće svoje na stolici, na visinama gradskim,
+{9:15} Te viče one koji prolaze, koji idu pravo svojim putem:
+{9:16} Ko je lud? Neka se uvrati ovamo. I bezumnom govori:
+{9:17} Voda je kradena slatka, i hleb je sakriven ugodan.
+{9:18} A on ne zna da su onde mrtvaci i u dubokom grobu da su zvanice njene.
+{10:1} Mudar je sin radost ocu svom, a lud je sin žalost materi svojoj.
+{10:2} Ne pomaže nepravedno blago, nego pravda izbavlja od smrti.
+{10:3} Ne da Gospod da gladuje duša pravednikova, a imanje bezbožničko razmeće.
+{10:4} Nemarna ruka osiromašava, a vredna ruka obogaćava.
+{10:5} Ko zbira u leto, sin je razuman; ko spava o žetvi, sin je sramotan.
+{10:6} Blagoslovi su nad glavom pravedniku, a usta bezbožnička pokriva nasilje.
+{10:7} Spomen pravednikov ostaje blagosloven, a ime bezbožničko trune.
+{10:8} Ko je mudra srca, prima zapovesti; a ko je ludih usana, pašće.
+{10:9} Ko hodi bezazleno, hodi pouzdano; a ko je opak na putevima svojim, poznaće se.
+{10:10} Ko namiguje okom, daje muku; i ko je ludih usana, pašće.
+{10:11} Usta su pravednikova izvor životu, a usta bezbožnička pokriva nasilje.
+{10:12} Mrzost zameće svadje, a ljubav prikriva sve prestupe.
+{10:13} Na usnama razumnog nalazi se mudrost, a za ledja je bezumnog batina.
+{10:14} Mudri sklanjaju znanje, a usta ludoga blizu su pogibli.
+{10:15} Bogatstvo je bogatima tvrd grad, siromaštvo je siromasima pogibao.
+{10:16} Rad je pravednikov na život, dobitak bezbožnikov na greh.
+{10:17} Ko prima nastavu, na putu je k životu; a ko odbacuje kar, luta.
+{10:18} Ko pokriva mržnju, lažljivih je usana; i ko iznosi sramotu bezuman je.
+{10:19} U mnogim rečima ne biva bez greha; ali ko zadržava usne svoje, razuman je.
+{10:20} Jezik je pravednikov srebro odabrano; srce bezbožničko ne vredi ništa.
+{10:21} Usne pravednikove pasu mnoge, a bezumni umiru s bezumlja.
+{10:22} Blagoslov Gospodnji obogaćava a bez muke.
+{10:23} Bezumniku je šala činiti zlo, a razuman čovek drži se mudrosti.
+{10:24} Čega se boji bezbožnik, ono će ga snaći; a šta pravednici žele Bog će im dati.
+{10:25} Kao što prolazi oluja, tako bezbožnika nestaje; a pravednik je na večitom temelju.
+{10:26} Kakav je ocat zubima i dim očima, takav je lenjivac onima koji ga šalju.
+{10:27} Strah Gospodnji dodaje dane, a bezbožnicima se godine prekraćuju.
+{10:28} Čekanje pravednih radost je, a nadanje bezbožnih propada.
+{10:29} Put je Gospodnji krepost bezazlenom, a strah onima koji čine bezakonje.
+{10:30} Pravednik se neće nikada pokolebati, a bezbožnici neće nastavati na zemlji.
+{10:31} Usta pravednikova iznose mudrost, a jezik opaki istrebiće se.
+{10:32} Usne pravednikove znaju šta je milo, a bezbožnička su usta opačina.
+{11:1} Lažna su merila mrska Gospodu, a prava mera ugodna Mu je.
+{11:2} Kad dodje oholost, dodje i sramota; a u smernih je mudrost
+{11:3} Pravedne vodi bezazlenost njihova, a bezakonike satire zloća njihova.
+{11:4} Neće pomoći bogatstvo u dan gneva, a pravda izbavlja od smrti.
+{11:5} Pravda bezazlenoga upravlja put njegov, a bezbožnik pada od svoje bezbožnosti.
+{11:6} Pravedne izbavlja pravda njihova, a bezakonici hvataju se u svojoj zloći.
+{11:7} Kad umire bezbožnik, propada nadanje, i najjače uzdanje propada.
+{11:8} Pravednik se izbavlja iz nevolje, a bezbožnik dolazi na njegovo mesto.
+{11:9} Licemer kvari ustima bližnjeg svog; ali se pravednici izbavljaju znanjem.
+{11:10} Dobru pravednih raduje se grad; a kad propadaju bezbožnici, biva pevanje.
+{11:11} Blagoslovima pravednih ljudi podiže se grad, a s usta bezbožničkih raskopava se.
+{11:12} Bezumnik se ruga bližnjemu svom, a razuman čovek ćuti.
+{11:13} Opadač tumarajući izdaje tajnu; a ko je verna srca, taji stvar.
+{11:14} Gde nema saveta, propada narod, a pomoć je u mnoštvu savetnika.
+{11:15} Zlo prolazi ko se jamči za tudjina; a ko mrzi na jamstvo, bez brige je.
+{11:16} Žena mila dobija čast, a silni dobijaju bogatstvo.
+{11:17} Milostiv čovek čini dobro duši svojoj, a nemilostiv udi svom telu.
+{11:18} Bezbožni radi posao prevaran; a ko seje pravdu, pouzdana mu je plata.
+{11:19} Ko se drži pravde, na život mu je; a ko ide za zlom, na smrt mu je.
+{11:20} Mrski su Gospodu koji su opakog srca; a mili su Mu koji su bezazleni na svom putu.
+{11:21} Zao čovek neće ostati bez kara ako i druge uzme u pomoć; a seme pravednih izbaviće se.
+{11:22} Žena lepa a bez razuma zlatna je brnjica u gubici svinji.
+{11:23} Želja je pravednih samo dobro, a očekivanje bezbožnih gnev.
+{11:24} Jedan prosipa, i sve više ima; a drugi tvrduje suviše, i sve je siromašniji.
+{11:25} Podašna ruka biva bogatija, i ko napaja, sam će biti napojen.
+{11:26} Ko ne da žita, proklinje ga narod, a ko prodaje, blagoslov mu je nad glavom.
+{11:27} Ko traži dobro, dobija ljubav; a ko traži zlo, zadesiće ga.
+{11:28} Ko se uzda u bogatstvo svoje, propašće; a pravednici će se kao grana zeleneti.
+{11:29} Ko zatire kuću svoju, naslediće vetar; i bezumnik će služiti mudrom.
+{11:30} Plod je pravednikov drvo životno, i mudri obučava duše.
+{11:31} Gle, pravedniku se na zemlji plaća, a kamoli bezbožniku i grešniku?
+{12:1} Ko ljubi nastavu, ljubi znanje; a ko mrzi na ukor, ostaje lud.
+{12:2} Dobar čovek dobija ljubav od Gospoda, a čoveka zlikovca osudjuje.
+{12:3} Neće se čovek utvrditi bezbožnošću, a koren pravednih neće se pomaći.
+{12:4} Vredna je žena venac mužu svom; a koja ga sramoti, ona mu je kao trulež u kostima.
+{12:5} Misli su pravednih prave, a saveti bezbožnih prevara.
+{12:6} Reči bezbožnih vrebaju krv, a pravedne izbavljaju usta njihova.
+{12:7} Obaraju se bezbožni da ih nema, a dom pravednih ostaje.
+{12:8} Prema razumu svom hvali se čovek; a ko je opaka srca, prezreće se.
+{12:9} Ko se snebiva, a ima slugu, bolji je od onog koji se veliča a hleba nema.
+{12:10} Pravednik se brine za život svog živinčeta, a u bezbožnika je srce nemilostivo.
+{12:11} Ko radi svoju zemlju, biće sit hleba; a ko ide za besposlicama, bezuman je.
+{12:12} Bezbožnik želi obranu oda zla, ali koren pravednih daje je.
+{12:13} Zlome je zamka u grehu usana njegovih, a pravednik izlazi iz teskobe.
+{12:14} Od ploda usta svojih siti se čovek dobra, i platu za dela svoja prima čovek.
+{12:15} Bezumniku se čini prav put njegov; ali ko sluša savet, mudar je.
+{12:16} Gnev bezumnikov odmah se pozna, ali pametni pokriva sramotu.
+{12:17} Ko govori istinu, javlja šta je pravo, a lažni svedok prevaru.
+{12:18} Ima ko govori kao da mač probada, a jezik je mudrih lek.
+{12:19} Istinita usta stoje tvrdo doveka, a jezik lažljivi za čas.
+{12:20} Koji zlo misle, prevara im je u srcu, a radost je onima koji savetuju na mir.
+{12:21} Nikakva nesreća neće zadesiti pravednika, a bezbožnici će se napuniti zla.
+{12:22} Mrske su Gospodu lažljive usne; a koji rade verno, mili su Mu.
+{12:23} Pametan čovek pokriva znanje, a srce bezumnih razglašuje bezumlje.
+{12:24} Ruka radljiva gospodariće, a lena će davati danak.
+{12:25} Briga u srcu čovečijem obara; a dobra reč razveseljava.
+{12:26} Pravedniku je bolje nego bližnjemu njegovom; a bezbožnike zavodi put njihov.
+{12:27} Lenjivac neće peći lov svoj, a u vrednog je čoveka dobro dragoceno.
+{12:28} Na putu pravde život je, i kuda ide staza njena nema smrti.
+{13:1} Mudar sin sluša nastavu oca svog; a podsmevač ne sluša ukore.
+{13:2} Od ploda usta svojih svaki će jesti dobro, a duša nevaljalih ljudi nasilje.
+{13:3} Ko čuva usta svoja, čuva svoju dušu; ko razvaljuje usne, propada.
+{13:4} Željna je duša lenjivčeva, ali nema ništa; a duša vrednih ljudi obogatiće se.
+{13:5} Na lažnu reč mrzi pravednik; a bezbožnik se mrazi i sramoti.
+{13:6} Pravda čuva onog koji hodi bezazleno; a bezbožnost obara grešnika.
+{13:7} Ima ko se gradi bogat a nema ništa, i ko se gradi siromah a ima veliko blago.
+{13:8} Otkup je za život čoveku bogatstvo njegovo, a siromah ne sluša pretnje.
+{13:9} Videlo pravedničko svetli se, a žižak bezbožnički ugasiće se.
+{13:10} Od oholosti biva samo svadja, a koji primaju savet, u njih je mudrost.
+{13:11} Blago koje se taštinom teče umanjuje se, a ko sabira rukom, umnožava.
+{13:12} Dugo nadanje mori srce, i želja je ispunjena drvo životno.
+{13:13} Ko prezire reč sam sebi udi; a ko se boji zapovesti, platiće mu se.
+{13:14} Nauka je mudroga izvor životni da se sačuva prugala smrtnih.
+{13:15} Dobar razum daje ljubav, a put je bezakonički hrapav.
+{13:16} Svaki pametan čovek radi s razumom, a bezuman raznosi bezumlje.
+{13:17} Glasnik bezbožan pada u zlo, a veran je poslanik lek.
+{13:18} Siromaštvo i sramota doći će na onog koji odbacuje nastavu; a ko čuva karanje, proslaviće se.
+{13:19} Ispunjena je želja slast duši, a bezumnima je mrsko odstupiti oda zla.
+{13:20} Ko hodi s mudrima postaje mudar, a ko se drži s bezumnicima postaje gori.
+{13:21} Grešnike goni zlo, a pravednicima se vraća dobro.
+{13:22} Dobar čovek ostavlja nasledstvo sinovima sinova svojih, a grešnikovo imanje čuva se pravedniku.
+{13:23} Izobila hrane ima na njivi siromaškoj, a ima ko propada sa zle uprave.
+{13:24} Ko žali prut, mrzi na sina svog; a ko ga ljubi, kara ga za vremena.
+{13:25} Pravednik jede, i sita mu je duša; a trbuh bezbožnicima nema dosta.
+{14:1} Mudra žena zida kuću svoju, a luda svojim rukama raskopava.
+{14:2} Ko hodi pravo, boji se Gospoda; a ko je opak na svojim putevima, prezire Ga.
+{14:3} U ustima je bezbožnikovim prut oholosti, a mudre čuvaju usta njihova.
+{14:4} Gde nema volova, čiste su jasle; a obilata je letina od sile volovske.
+{14:5} Istinit svedok ne laže, a lažan svedok govori laž.
+{14:6} Podsmevač traži mudrost, i ne nahodi je; a razumnom je znanje lako naći.
+{14:7} Idi od čoveka bezumnog, jer nećeš čuti pametne reči.
+{14:8} Mudrost je pametnog da pazi na put svoj, a bezumlje je bezumnih prevara.
+{14:9} Bezumnima je šala greh, a medju pravednima je dobra volja.
+{14:10} Srce svačije zna jad duše svoje; i u veselje njegovo ne meša se drugi.
+{14:11} Dom bezbožnički raskopaće se, a koliba pravednih cvetaće.
+{14:12} Neki se put čini čoveku prav, a kraj mu je put k smrti.
+{14:13} I od smeha boli srce, i veselju kraj biva žalost.
+{14:14} Puteva svojih nasitiće se ko je izopačenog srca, ali ga se kloni čovek dobar.
+{14:15} Lud veruje svašta, a pametan pazi na svoje korake.
+{14:16} Mudar se boji i uklanja se od zla, a bezuman navire i slobodan je.
+{14:17} Nagao čovek čini bezumlje, a pakostan je čovek mrzak.
+{14:18} Ludi nasledjuje bezumlje, a razboriti venčava se znanjem.
+{14:19} Klanjaju se zli pred dobrima i bezbožni na vratima pravednog.
+{14:20} Ubogi je mrzak i prijatelju svom, a bogati imaju mnogo prijatelja.
+{14:21} Ko prezire bližnjeg svog greši; a ko je milostiv ubogima, blago njemu.
+{14:22} Koji smišljaju zlo, ne lutaju li? A milost i vera biće onima koji smišljaju dobro.
+{14:23} U svakom trudu ima dobitka, a govor usnama samo je siromaštvo.
+{14:24} Mudrima je venac bogatstvo njihovo, a bezumlje bezumnih ostaje bezumlje.
+{14:25} Istinit svedok izbavlja duše, a lažan govori prevaru.
+{14:26} U strahu je Gospodnjem jako pouzdanje, i sinovima je utočište.
+{14:27} Strah je Gospodnji izvor životu da se čovek sačuva od prugala smrtnih.
+{14:28} U mnoštvu je naroda slava caru; a kad nestaje naroda, propast je vladaocu.
+{14:29} Ko je spor na gnev, velika je razuma; a ko je nagao pokazuje ludost.
+{14:30} Život je telu srce zdravo, a zavist je trulež u kostima.
+{14:31} Ko čini krivo ubogome, sramoti Stvoritelja njegovog; a poštuje Ga ko je milostiv siromahu.
+{14:32} Za zlo svoje povrgnuće se bezbožnik, a pravednik nada se i na samrti.
+{14:33} Mudrost počiva u srcu razumnog čoveka, a šta je u bezumnima poznaje se.
+{14:34} Pravda podiže narod, a greh je sramota narodima.
+{14:35} Mio je caru razuman sluga, ali na sramotnog gnevi se.
+{15:1} Odgovor blag utišava gnev, a reč preka podiže srdnju.
+{15:2} Jezik mudrih ljudi ukrašava znanje, a usta bezumnih prosipaju bezumlje.
+{15:3} Oči su Gospodnje na svakom mestu gledajući zle i dobre.
+{15:4} Zdrav je jezik drvo životno, a opačina s njega kršenje od vetra.
+{15:5} Lud se ruga nastavom oca svog; a ko prima ukor biva pametan.
+{15:6} U kući pravednikovoj ima mnogo blaga; a u dohotku je bezbožnikovom rasap.
+{15:7} Usne mudrih ljudi seju znanje, a srce bezumničko ne čini tako.
+{15:8} Žrtva je bezbožnička gad Gospodu, a molitva pravednih ugodna Mu je.
+{15:9} Gad je Gospodu put bezbožnikov; a ko ide za pravdom, njega ljubi.
+{15:10} Karanje je zlo onome ko ostavlja put; koji mrzi na ukor, umreće.
+{15:11} Pakao je i pogibao pred Gospodom, a kamoli srca sinova čovečijih.
+{15:12} Podsmevač ne ljubi onog ko ga kori, niti ide k mudrima.
+{15:13} Veselo srce veseli lice, a žalost u srcu obara duh.
+{15:14} Srce razumno traži znanje, a usta bezumnih ljudi nasladjuju se bezumljem.
+{15:15} Svi su dani nevoljnikovi zli; a ko je veselog srca, na gozbi je jednako.
+{15:16} Bolje je malo sa strahom Gospodnjim nego veliko blago s nemirom.
+{15:17} Bolje je jelo od zelja gde je ljubav nego od vola ugojena gde je mržnja.
+{15:18} Čovek gnevljiv zameće raspru; a ko je spor na gnev, utišava svadju.
+{15:19} Put je lenjoga kao ograda od trnja, a staza je pravednih nasuta.
+{15:20} Mudar je sin radost ocu, a čovek bezuman prezire mater svoju.
+{15:21} Bezumlje je radost bezumniku, a razuman čovek hodi pravo.
+{15:22} Namere se rasipaju kad nema saveta, a tvrdo stoje gde je mnogo savetnika.
+{15:23} Raduje se čovek odgovorom usta svojih, i reč u vreme kako je dobra!
+{15:24} Put k životu ide gore razumnome da se sačuva od pakla odozdo.
+{15:25} Gospod raskopava kuću ponositima, a medju udovici utvrdjuje.
+{15:26} Mrske su Gospodu misli zle, a besede čistih mile su.
+{15:27} Lakomac zatire svoju kuću, a ko mrzi na poklone živ će biti.
+{15:28} Srce pravednikovo premišlja šta će govoriti, a usta bezbožnička rigaju zlo.
+{15:29} Daleko je Gospod od bezbožnih, a molitvu pravednih čuje.
+{15:30} Vid očni veseli srce, dobar glas goji kosti.
+{15:31} Uho koje sluša karanje životno nastavaće medju mudrima.
+{15:32} Ko odbacuje nastavu, ne mari za dušu svoju; a ko sluša karanje, biva razuman.
+{15:33} Strah je Gospodnji nastava k mudrosti, i pre slave ide smernost.
+{16:1} Čovek sprema srce, ali je od Gospoda šta će jezik govoriti.
+{16:2} Čoveku se svi putevi njegovi čine čisti, ali Gospod ispituje duhove.
+{16:3} Ostavi na Gospoda dela svoja, i biće tvrde namere tvoje.
+{16:4} Gospod je stvorio sve sam za se, i bezbožnika za zli dan.
+{16:5} Mrzak je Gospodu ko je god ponositog srca, i neće ostati bez kara ako će i druge uzeti u pomoć.
+{16:6} Milošću i istinom očišća se bezakonje, i strahom Gospodnjim uklanja se čovek oda zla.
+{16:7} Kad su čiji putevi mili Gospodu, miri s njim i neprijatelje njegove.
+{16:8} Bolje je malo s pravdom nego mnogo dohodaka s nepravdom.
+{16:9} Srce čovečije izmišlja sebi put, ali Gospod upravlja korake njegove.
+{16:10} Proroštvo je na usnama carevim, u sudu neće pogrešiti usta njegova.
+{16:11} Merila i potezi pravi od Gospoda su, i sve kamenje u tobocu njegovo je delo.
+{16:12} Gadno je carevima činiti nepravdu, jer se pravdom utvrdjuje presto.
+{16:13} Mile su carevima usne pravedne, i oni ljube onog koji govori pravo.
+{16:14} Gnev je carev glasnik, ali mudar čovek ublažiće ga.
+{16:15} U veselu je licu carevom život, i ljubav je njegova kao oblak s poznim daždem.
+{16:16} Koliko je bolje teći mudrost nego zlato! I teći razum koliko je lepše nego srebro!
+{16:17} Put je pravednih uklanjanje oda zla; čuva dušu svoju ko pazi na put svoj.
+{16:18} Oholost dolazi pred pogibao, i ponosit duh pred propast.
+{16:19} Bolje je biti poniznog duha s krotkima nego deliti plen s oholima.
+{16:20} Ko pazi na reč, nalazi dobro, i ko se uzda u Gospoda, blago njemu.
+{16:21} Ko je mudrog srca, zove se razuman, a slast na usnama umnožava nauku.
+{16:22} Izvor je životu razum onima koji ga imaju, a nauka bezumnih bezumlje je.
+{16:23} Srce mudroga razumno upravlja ustima njegovim, i dodaje nauku usnama njegovim.
+{16:24} Ljubazne su reči saće meda, slast duši i zdravlje kostima.
+{16:25} Neki se put čini čoveku prav, a kraj mu je put k smrti.
+{16:26} Ko se trudi sebi se trudi, jer ga nagone usta njegova.
+{16:27} Čovek nevaljao kopa zlo, i na usnama mu je kao oganj koji pali.
+{16:28} Opak čovek zameće svadju, i opadač rastavlja glavne prijatelje.
+{16:29} Nasilnik mami druga svog i zavodi ga na put koji nije dobar;
+{16:30} Namiguje očima, kad misli naopako; kad miče usnama, čini zlo.
+{16:31} Seda je kosa slavna kruna, nalazi se na putu pravednom.
+{16:32} Bolji je spor na gnev nego junak, i gospodar od svog srca bolji je nego onaj koji uzme grad.
+{16:33} Ždreb se baca u krilo, ali je od Gospoda sve što izlazi.
+{17:1} Bolji je zalogaj suvog hleba s mirom nego kuća puna poklane stoke sa svadjom.
+{17:2} Razuman sluga biće gospodar nad sinom sramotnim i s braćom će deliti nasledstvo.
+{17:3} Topionica je za srebro i peć za zlato, a srca iskušava Gospod.
+{17:4} Zao čovek pazi na usne zle, a lažljivac sluša jezik pakostan.
+{17:5} Ko se ruga siromahu, sramoti Stvoritelja njegovog; ko se raduje nesreći, neće ostati bez kara.
+{17:6} Venac su starcima unuci, a slava sinovima oci njihovi.
+{17:7} Ne priliči bezumnom visoka beseda, a kamoli knezu lažljiva beseda.
+{17:8} Poklon je dragi kamen onome koji ga prima, kuda se god okrene napreduje.
+{17:9} Ko pokriva prestup, traži ljubav; a ko ponavlja stvar, rastavlja glavne prijatelje.
+{17:10} Ukor tišti razumnog većma nego ludog sto udaraca.
+{17:11} Zao čovek traži samo odmet, ali će se ljut glasnik poslati na nj.
+{17:12} Bolje je da čoveka srete medvedica kojoj su oteti medvedići, nego bezumnik u svom bezumlju.
+{17:13} Ko vraća zlo za dobro, neće se zlo odmaći od kuće njegove.
+{17:14} Ko počne svadju, otvori ustavu vodi; zato pre nego se zametne, prodji se raspre.
+{17:15} Ko opravda krivoga i ko osudi pravoga, obojica su gad Gospodu.
+{17:16} Na šta je blago bezumnom u ruci kad nema razuma da pribavi mudrost?
+{17:17} U svako doba ljubi prijatelj, i brat postaje u nevolji.
+{17:18} Čovek bezuman daje ruku i jamči se za prijatelja svog.
+{17:19} Ko miluje svadju, miluje greh; ko podiže uvis vrata svoja, traži pogibao.
+{17:20} Ko je opakog srca, neće naći dobra; i ko dvoliči jezikom, pašće u zlo.
+{17:21} Ko rodi bezumna, na žalost mu je, niti će se radovati otac ludoga.
+{17:22} Srce veselo pomaže kao lek, a duh žalostan suši kosti.
+{17:23} Bezbožnik prima poklon iz nedara da prevrati puteve pravdi.
+{17:24} Razumnom je na licu mudrost, a oči bezumniku vrljaju nakraj zemlje.
+{17:25} Žalost je ocu svom sin bezuman, i jad roditeljci svojoj.
+{17:26} Nije dobro globiti pravednika, ni da knezovi biju koga što je radio pravo.
+{17:27} Usteže reči svoje čovek koji zna, i tiha je duha čovek razuman.
+{17:28} I bezuman kad ćuti, misli se da je mudar, i razuman, kad stiskuje usne svoje.
+{18:1} Čovek samovoljan traži šta je njemu milo i meša se u svašta.
+{18:2} Bezumniku nije mio razum nego da se javlja srce njegovo.
+{18:3} Kad dodje bezbožnik, dodje i rug, i prekor sa sramotom.
+{18:4} Reči su iz usta čovečijih duboka voda, izvor je mudrosti potok koji se razliva.
+{18:5} Nije dobro gledati bezbožniku ko je, da se učini krivo pravom na sudu.
+{18:6} Usne bezumnikove pristaju u svadju, i usta njegova dozivaju boj.
+{18:7} Bezumniku su usta njegova pogibao, i usne njegove pruglo duši njegovoj.
+{18:8} Reči su opadačeve kao izbijenih, ali silaze unutra u trbuh.
+{18:9} I ko je nemaran u poslu svom brat je raspikući.
+{18:10} Tvrda je kula ime Gospodnje. K Njemu će pobeći pravednik, i biće u visokom zaklonu.
+{18:11} Bogatstvo je bogatom jak grad i kao visok zid u njegovoj misli.
+{18:12} Pred propast podiže se srce čoveka, a pre slave ide smernost.
+{18:13} Ko odgovara pre nego čuje, tome je ludost i sramota.
+{18:14} Duh čovečiji snosi bol svoj; a duh oboren ko će podignuti?
+{18:15} Srce razumnog čoveka dobavlja znanje, i uho mudrih traži znanje.
+{18:16} Dar čoveku širi mesto i vodi ga pred vlastelje.
+{18:17} Pravedan se čini ko je prvi u svojoj raspri, ali kad dodje bližnji njegov, ispituje se.
+{18:18} Raspre prekida žreb, i izmedju silnih rasudjuje.
+{18:19} Uvredjen je brat kao tvrd grad, i svadja je kao prevornica na dvoru.
+{18:20} Svakom se trbuh siti plodom usta njegovih, dohotkom od usna svojih siti se.
+{18:21} Smrt je i život u vlasti jeziku, i ko ga miluje, ješće plod njegov.
+{18:22} Ko je našao ženu, našao je dobro i dobio ljubav od Gospoda.
+{18:23} Siromah govori moleći, a bogat odgovara oštro.
+{18:24} Ko ima prijatelja, valja da postupa prijateljski, jer ima prijatelja vernijih od brata.
+{19:1} Siromah koji hodi u bezazlenosti svojoj bolji je nego opaki usnama svojim, koji je bezuman.
+{19:2} Kad je duša bez znanja, nije dobro; i ko je brzih nogu, spotiče se.
+{19:3} Ludost čovečija prevraća put njegov, a srce se njegovo gnevi na Gospoda.
+{19:4} Bogatstvo pribavlja mnogo prijatelja, a siromaha ostavlja prijatelj njegov.
+{19:5} Lažan svedok neće ostati bez kara, i ko govori laž, neće pobeći.
+{19:6} Mnogi ugadjaju knezu, i svak je prijatelj čoveku podatljivom.
+{19:7} Na siromaha mrze sva braća njegova, još više se prijatelji njegovi udaljuju od njega; viče za njima, ali ih nema.
+{19:8} Ko pribavlja razum, ljubi dušu svoju; i ko pazi na mudrost, naći će dobro.
+{19:9} Svedok lažan neće ostati bez kara, i ko govori laž, poginuće.
+{19:10} Ne dolikuju bezumnom miline, ni sluzi da vlada knezovima.
+{19:11} Razum zadržava čoveka od gneva, i čast mu je mimoići krivicu.
+{19:12} Careva je srdnja kao rika mladog lava, i ljubav je njegova kao rosa travi.
+{19:13} Bezuman je sin muka ocu svom, i svadljivost ženina neprestano prokisivanje.
+{19:14} Kuća i imanje nasledjuje se od otaca; a od Gospoda je razumna žena.
+{19:15} Lenost navodi tvrd san, i nemarljiva duša gladovaće.
+{19:16} Ko drži zapovesti, čuva dušu svoju; a ko ne mari za puteve svoje, poginuće.
+{19:17} Gospodu pozaima ko poklanja siromahu, i platiće mu za dobro njegovo.
+{19:18} Karaj sina svog dokle ima nadanja i na pogibao njegovu da ne prašta duša tvoja.
+{19:19} Velik gnev pokazuj kad praštaš kar, i kad oprostiš, posle većma pokaraj.
+{19:20} Slušaj savet i primaj nastavu, da posle budeš mudar.
+{19:21} Mnogo ima misli u srcu čovečijem, ali šta Gospod naumi ono će ostati.
+{19:22} Želja čoveku treba da je da čini milost, a bolji je siromah nego laža.
+{19:23} Strah je Gospodnji na život; u koga je on, boravi sit, niti ga pohodi zlo.
+{19:24} Lenjivac krije ruku svoju u nedra, ni k ustima svojim ne prinosi je.
+{19:25} Udri podsmevača da ludi omudra, i razumnog nakaraj da razume nauku.
+{19:26} Sin sramotan i prekoran upropašćuje oca i odgoni mater.
+{19:27} Nemoj, sine, slušati nauke koja odvodi od reči razumnih.
+{19:28} Nevaljao svedok podsmeva se pravdi, i usta bezbožnika proždiru na nepravdu.
+{19:29} Gotovi su podsmevačima sudovi i bezumnicima boj na ledja.
+{20:1} Vino je podsmevač i silovito piće nemirnik, i ko god za njim luta neće biti mudar.
+{20:2} Strah je carev kao rika mladog lava; ko ga draži, greši svojoj duši.
+{20:3} Slava je čoveku da se okani svadje; a ko je god bezuman, upleće se.
+{20:4} Radi zime lenivac ne ore; prosi o žetvi, i ništa ne dobija.
+{20:5} Savet je u srcu čovečijem duboka voda, ali čovek razuman crpe ga.
+{20:6} Najviše ljudi hvali se svojom dobrotom; ali ko će naći čoveka istinitog?
+{20:7} Pravednik jednako hodi u bezazlenosti svojoj; blago sinovima njegovim posle njega!
+{20:8} Car sedeći na prestolu sudskom rasipa očima svojim svako zlo.
+{20:9} Ko može reći: Očistio sam srce svoje, čist sam od greha svog?
+{20:10} Dvojak poteg i dvojaka mera, oboje je mrsko Gospodu.
+{20:11} Po delima svojim poznaje se i dete hoće li biti čisto i hoće li biti pravo delo njegovo.
+{20:12} Uho koje čuje, i oko koje vidi, oboje je Gospod načinio.
+{20:13} Ne ljubi sna, da ne osiromašiš; otvaraj oči svoje, i bićeš sit hleba.
+{20:14} Ne valja, ne valja, govori ko kupuje, a kad otide onda se hvali.
+{20:15} Ima zlata i mnogo bisera, ali su mudre usne najdragoceniji nakit.
+{20:16} Uzmi haljinu onome koji se podjemči za tudjina, uzmi zalog od njega za tudjinku.
+{20:17} Sladak je čoveku hleb od prevare, ali mu se posle napune usta peska.
+{20:18} Misli se utvrdjuju savetom; zato razumno ratuj.
+{20:19} Ko otkriva tajnu, postupa neverno; zato se ne mešaj s onim koji razvaljuje usta.
+{20:20} Ko psuje oca svog ili mater svoju, njegov će se žižak ugasiti u crnom mraku.
+{20:21} Nasledstvo koje se iz početka brzo dobija, ne biva na posletku blagosloveno.
+{20:22} Ne govori: Vratiću zlo. Čekaj Gospoda, i sačuvaće te.
+{20:23} Mrzak je Gospodu dvojak poteg, merila lažna nisu dobra.
+{20:24} Od Gospoda su koraci čovečji, a čovek kako će razumeti put njegov?
+{20:25} Zamka je čoveku da proždre svetinju, i posle zaveta opet da traži.
+{20:26} Mudar car rasipa bezbožnike i pušta na njih kolo.
+{20:27} Videlo je Gospodnje duša čovečija, istražuje sve što je u srcu.
+{20:28} Milost i istina čuvaju cara, i milošću podupire svoj presto.
+{20:29} Slava je mladićima sila njihova, a starcima čast seda kosa.
+{20:30} Modrice od boja i udarci koji prodiru do srca jesu lek zlome.
+{21:1} Srce je carevo u ruci Gospodu kao potoci vodeni; kuda god hoće, savija ga.
+{21:2} Svaki se put čoveku čini prav, ali Gospod ispituje srca.
+{21:3} Da se čini pravda i sud, milije je Gospodu nego žrtva.
+{21:4} Ponosite oči i naduto srce i oranje bezbožničko greh je.
+{21:5} Misli vrednog čoveka donose obilje, a svakog nagla siromaštvo.
+{21:6} Blago sabrano jezikom lažljivim taština je koja prolazi medju one koji traže smrt.
+{21:7} Grabež bezbožnih odneće ih, jer ne hteše činiti što je pravo.
+{21:8} Čiji je put kriv, on je tudj; a ko je čist, njegovo je delo pravo.
+{21:9} Bolje je sedeti u uglu od krova nego sa ženom svadljivom u kući zajedničkoj.
+{21:10} Duša bezbožnikova želi zlo, ni prijatelj njegov ne nalazi milosti u njega.
+{21:11} Kad podsmevač biva karan, ludi mudra; i kad se mudri poučava, prima znanje.
+{21:12} Uči se pravednik od kuće bezbožnikove, kad se bezbožnici obaraju u zlo.
+{21:13} Ko zatiskuje uho svoje od vike ubogog, vikaće i sam, ali neće biti uslišen.
+{21:14} Dar u tajnosti utišava gnev i poklon u nedrima žestoku srdnju.
+{21:15} Radost je pravedniku činiti što je pravo, a strah onima koji čine bezakonje.
+{21:16} Čovek koji zadje s puta mudrosti počinuće u zboru mrtvih.
+{21:17} Ko ljubi veselje, biće siromah; ko ljubi vino i ulje, neće se obogatiti.
+{21:18} Otkup za pravednike biće bezbožnik i za dobre bezakonik.
+{21:19} Bolje je živeti u zemlji pustoj nego sa ženom svadljivom i gnevljivom.
+{21:20} Dragoceno je blago i ulje u stanu mudroga, a čovek bezuman proždire ga.
+{21:21} Ko ide za pravdom i milošću, naći će život, pravdu i slavu.
+{21:22} U grad jakih ulazi mudri, i obara silu u koju se uzdaju.
+{21:23} Ko čuva usta svoja i jezik svoj, čuva dušu svoju od nevolja.
+{21:24} Ponositom i obesnom ime je podsmevač, koji sve radi besno i oholo.
+{21:25} Lenjivca ubija želja, jer ruke njegove neće da rade;
+{21:26} Svaki dan želi; a pravednik daje i ne štedi.
+{21:27} Žrtva je bezbožnička gad, a kamoli kad je prinose u grehu?
+{21:28} Lažni svedok poginuće, a čovek koji sluša govoriće svagda.
+{21:29} Bezbožnik je bezobrazan, a pravednik udešava svoje pute.
+{21:30} Nema mudrosti ni razuma ni saveta nasuprot Bogu.
+{21:31} Konj se oprema za dan boja, ali je u Gospoda spasenje.
+{22:1} Bolje je ime nego veliko bogatstvo, i milost je bolja nego srebro i zlato.
+{22:2} Bogat i siromah sretaju se; obojicu je Gospod stvorio.
+{22:3} Pametan čovek vidi zlo i skloni se, a ludi idu dalje i plaćaju.
+{22:4} Smernosti i strahu Gospodnjem plata je bogatstvo i slava i život.
+{22:5} Trnje i zamke su na putu opakoga; ko čuva dušu svoju, biće daleko od toga.
+{22:6} Uči dete prema putu kojim će ići, pa neće odstupiti od njega ni kad ostari.
+{22:7} Bogat gospodari nad siromasima, i ko uzima u zajam biva sluga onome koji daje.
+{22:8} Ko seje bezakonje žeće muku, i prut gneva njegovog nestaće.
+{22:9} Blago oko biće blagosloveno, jer daje hleba svog ubogom.
+{22:10} Oteraj podsmevača, i otići će raspra i prestaće svadja i sramota.
+{22:11} Ko ljubi čisto srce, i čije su usne ljubazne, njemu je car prijatelj.
+{22:12} Oči Gospodnje čuvaju znanje, a poslove bezakonikove obara.
+{22:13} Lenivac govori: Lav je napolju; nasred ulice poginuo bih.
+{22:14} Usta su tudjih žena jama duboka; na koga se gnevi Gospod onamo će pasti.
+{22:15} Bezumlje je privezano detetu na srce; prut kojim se kara ukloniće ga od njega.
+{22:16} Ko čini krivo siromahu da umnoži svoje, i ko daje bogatome, zacelo će osiromašiti.
+{22:17} Prigni uho svoje i slušaj reči mudrih ljudi, i srce svoje privij k nauci mojoj.
+{22:18} Jer će ti biti milina ako ih složiš u srce svoje, ako sve budu poredjane na usnama tvojim.
+{22:19} Da bi ti uzdanje bilo u Gospoda, kazujem ti ovo danas, a ti tako čini.
+{22:20} Nisam li ti napisao znamenite stvari za savete i znanje,
+{22:21} Da bih ti pokazao tvrdju istinitih reči da bi mogao istinitim rečima odgovarati onima koji pošalju k tebi?
+{22:22} Ne otimaj siromahu zato što je siromah, i ne zatiri nevoljnoga na vratima.
+{22:23} Jer će Gospod braniti njihovu stvar, i oteće dušu onima koji njima otimaju.
+{22:24} Ne druži se s čovekom gnevljivim i ne idi sa žestokim,
+{22:25} Da se ne bi navikao na puteve njegove i metnuo zamke na dušu svoju.
+{22:26} Ne budi od onih koji ruku daju, koji se jamče za dugove.
+{22:27} Ako nemaš čim platiti, zašto da se odnese postelja ispod tebe?
+{22:28} Ne pomiči stare medje, koju su postavili oci tvoji.
+{22:29} Jesi li video čoveka ustaoca na poslu? Takvi će pred carevima stajati, a neće stajati pred prostacima.
+{23:1} Kad sedneš da jedeš s gospodinom, pazi dobro šta je pred tobom.
+{23:2} Inače bi saterao sebi nož u grlo, ako bi bio lakom.
+{23:3} Ne želi preslačke njegove, jer su lažna hrana.
+{23:4} Ne muči se da se obogatiš, i prodji se svoje mudrosti.
+{23:5} Hoćeš li baciti oči svoje na ono čega brzo nestaje? Jer načini sebi krila i kao orao odleti u nebo.
+{23:6} Ne jedi hleba u zavidljivca, i ne želi preslačaka njegovih.
+{23:7} Jer kako on tebe ceni u duši svojoj tako ti jelo njegovo. Govoriće ti: Jedi i pij; ali srce njegovo nije s tobom.
+{23:8} Zalogaj što pojedeš izbljuvaćeš, i izgubićeš ljubazne reči svoje.
+{23:9} Pred bezumnim ne govori, jer neće mariti za mudrost besede tvoje.
+{23:10} Ne pomiči stare medje, i ne stupaj na njivu siročadi.
+{23:11} Jer je jak osvetnik njihov; braniće stvar njihovu od tebe.
+{23:12} Obrati k nauci srce svoje i uši svoje k rečima mudrim.
+{23:13} Ne uskraćuj kar detetu; kad ga biješ prutom, neće umreti.
+{23:14} Ti ga bij prutom, i dušu ćeš mu izbaviti iz pakla.
+{23:15} Sine moj, ako bude mudro srce tvoje, veseliće se srce moje u meni;
+{23:16} I igraće bubrezi moji kad usne tvoje stanu govoriti što je pravo.
+{23:17} Srce tvoje neka ne zavidi grešnicima, nego budi u strahu Gospodnjem uvek.
+{23:18} Jer ima plata, i nadanje tvoje neće se zatrti.
+{23:19} Slušaj, sine moj, i budi mudar i upravi putem srce svoje.
+{23:20} Ne budi medju pijanicama ni medju izjelicama.
+{23:21} Jer pijanica i izjelica osiromašiće, i spavač hodiće u ritama.
+{23:22} Slušaj oca svog koji te je rodio, i ne preziri matere svoje kad ostari.
+{23:23} Kupuj istinu i ne prodaji je; kupuj mudrost, znanje i razum.
+{23:24} Veoma se raduje otac pravednikov, i roditelj mudroga veseli se s njega.
+{23:25} Neka se, dakle, veseli otac tvoj i mati tvoja, i neka se raduje roditeljka tvoja.
+{23:26} Sine moj, daj mi srce svoje, i oči tvoje neka paze na moje pute.
+{23:27} Jer je kurva duboka jama, a tesan studenac tudja žena.
+{23:28} Ona i zaseda kao lupež i umnožava zločince medju ljudima.
+{23:29} Kome: Jaoh? Kome: Kuku? Kome svadja? Kome vika? Kome rane nizašta? Kome crven u očima?
+{23:30} Koji sede kod vina, koji idu te traže rastvoreno vino.
+{23:31} Ne gledaj na vino kad se rumeni, kad u čaši pokazuje lice svoje i upravo iskače.
+{23:32} Na posledak će kao zmija ujesti i kao aspida upeći.
+{23:33} Oči će tvoje gledati na tudje žene, i srce će tvoje govoriti opačine.
+{23:34} I bićeš kao onaj koji leži usred mora i kao onaj koji spava povrh jedra.
+{23:35} Reći ćeš: Izbiše me, ali me ne zabole; tukoše me, ali ne osetih; kad se probudim, ići ću opet da tražim to.
+{24:1} Ne zavidi zlim ljudima niti želi da si s njima.
+{24:2} Jer o pogibli misli srce njihovo i usne njihove govore o muci.
+{24:3} Mudrošću se zida kuća i razumom utvrdjuje se.
+{24:4} I znanjem se pune kleti svakog blaga i dragocena i mila.
+{24:5} Mudar je čovek jak, i razuman je čovek silan snagom.
+{24:6} Jer mudrim savetom ratovaćeš, i izbavljenje je u mnoštvu savetnika.
+{24:7} Visoke su bezumnome mudrosti; neće otvoriti usta svojih na vratima.
+{24:8} Ko misli zlo činiti zvaće se zlikovac.
+{24:9} Misao bezumnikova greh je, i podsmevač je gad ljudski.
+{24:10} Ako kloneš u nevolji, skratiće ti se sila.
+{24:11} Izbavljaj pohvatane na smrt; i koje hoće da pogube, nemoj se ustegnuti od njih.
+{24:12} Ako li kažeš: Gle, nismo znali za to; neće li razumeti Onaj koji ispituje srca, i koji čuva dušu tvoju neće li doznati i platiti svakome po delima njegovim?
+{24:13} Sine moj, jedi med, jer je dobar, i saće, jer je slatko grlu tvom.
+{24:14} Tako će biti poznanje mudrosti duši tvojoj, kad je nadješ; i biće plata, i nadanje tvoje neće se zatrti.
+{24:15} Bezbožniče, ne vrebaj oko stana pravednikovog, i ne kvari mu počivanje.
+{24:16} Jer ako i sedam puta padne pravednik, opet ustane, a bezbožnici propadaju u zlu.
+{24:17} Kad padne neprijatelj tvoj, nemoj se radovati, i kad propadne, neka ne igra srce tvoje.
+{24:18} Jer bi video Gospod i ne bi Mu bilo milo, i obratio bi gnev svoj od njega na tebe.
+{24:19} Nemoj se žestiti radi nevaljalaca, nemoj zavideti bezbožnicima.
+{24:20} Jer nema plate nevaljalcu, žižak će se bezbožnicima ugasiti.
+{24:21} Boj se Gospoda, sine moj, i cara, i ne mešaj se s nemirnicima.
+{24:22} Jer će se ujedanput podignuti pogibao njihova, a ko zna propast koja ide od obojice?
+{24:23} I ovo je za mudrace: Gledati ko je ko na sudu nije dobro.
+{24:24} Ko govori bezbožniku: Pravedan si, njega će proklinjati ljudi i mrziće na nj narodi.
+{24:25} A koji ga karaju, oni će biti mili, i doći će na njih blagoslov dobrih.
+{24:26} Ko govori reči istinite, u usta ljubi.
+{24:27} Uredi svoj posao na polju, i svrši svoje na njivi, potom i kuću svoju zidaj.
+{24:28} Ne budi svedok na bližnjeg svog bez razloga, i ne varaj usnama svojim.
+{24:29} Ne govori: Kako je on meni učinio tako ću ja njemu učiniti; platiću ovom čoveku po delu njegovom.
+{24:30} Idjah mimo njive čoveka lenjog i mimo vinograda čoveka bezumnog;
+{24:31} I gle, beše sve zaraslo u trnje i sve pokrio čkalj, i ograda im kamena razvaljena.
+{24:32} I videvši uzeh na um, i gledah i poučih se.
+{24:33} Dok malo prospavaš, dok malo prodremlješ, dok malo sklopiš ruke da počineš,
+{24:34} U tom će doći siromaštvo tvoje kao putnik, i oskudica tvoja kao oružan čovek.
+{25:1} I ovo su priče Solomunove koje sabraše ljudi Jezekije cara Judinog.
+{25:2} Slava je Božija skrivati stvar, a slava je carska istraživati stvar.
+{25:3} Visina nebu i dubina zemlji i srce carevima ne može se dosegnuti.
+{25:4} Uzmi od srebra trosku, i izaći će livcu zaklad.
+{25:5} Uzmi bezbožnika ispred cara, i utvrdiće se pravdom presto njegov.
+{25:6} Ne veličaj se pred carem i ne staj na mesto gde stoje vlastelji.
+{25:7} Jer je bolje da ti se kaže: Hodi gore, nego da te ponize pred knezom da vidiš svojim očima.
+{25:8} Ne idi odmah da se preš, gledaj šta bi činio naposletku ako bi te osramotio bližnji tvoj.
+{25:9} Raspravi stvar svoju s bližnjim svojim, ali tudje tajne ne otkrivaj,
+{25:10} Da te ne bi psovao ko čuje, i sramota tvoja da ne bi ostala na tebi.
+{25:11} Zlatne jabuke u srebrnim sudima jesu zgodne reči.
+{25:12} Zlatna je grivna i nakit od najboljeg zlata mudri karač onome koji sluša.
+{25:13} Veran je poslanik kao studen snežna o žetvi onima koji ga pošalju, i rashladjuje dušu svojim gospodarima.
+{25:14} Ko se hvali darom lažnim, on je kao oblaci i vetar bez dažda.
+{25:15} Strpljenjem se ublažava knez, i mek jezik lomi kosti.
+{25:16} Kad nadješ med, jedi koliko ti je dosta, da ne bi najedavši ga se izbljuvao ga.
+{25:17} Retko neka ti noga stupa u kuću bližnjeg tvog, da ne bi nasitivši se tebe omrzao na te.
+{25:18} Ko god govori lažno svedočanstvo na bližnjeg svog, on je kao malj i mač i oštra strela.
+{25:19} Uzdanje je u nevernika u nevolji zub slomljen i noga uganuta.
+{25:20} Ko peva pesme žalosnom srcu, on je kao onaj koji svlači haljinu na zimi, i kao ocat na salitru.
+{25:21} Ako je gladan nenavidnik tvoj, nahrani ga hleba, i ako je žedan napoj ga vode.
+{25:22} Jer ćeš živo ugljevlje zgrnuti na glavu njegovu, i Gospod će ti platiti.
+{25:23} Severni vetar nosi dažd, a potajni jezik lice srdito.
+{25:24} Bolje je sedeti u uglu od krova nego sa ženom svadljivom u kući zajedničkoj.
+{25:25} Dobar je glas iz daleke zemlje kao studena voda žednoj duši.
+{25:26} Pravednik koji pada pred bezbožnikom jeste kao izvor nogama zamućen i kao studenac pokvaren.
+{25:27} Jesti mnogo meda nije dobro, i istraživati slavu nije slavno.
+{25:28} Ko nema vlasti nad duhom svojim, on je grad razvaljen bez zidova.
+{26:1} Kao sneg u leto i dažd o žetvi, tako ne dolikuje bezumnome čast.
+{26:2} Kao vrabac kad prhne i lasta kad odleti, tako kletva nezaslužena neće doći.
+{26:3} Bič konju, uzda magarcu, a batina bezumnicima na ledja.
+{26:4} Ne odgovaraj bezumniku po bezumlju njegovom, da ne budeš i ti kao on.
+{26:5} Odgovori bezumniku prema bezumlju njegovom, da ne misli da je mudar.
+{26:6} Ko šalje bezumnika da mu šta svrši, on odseca sebi noge i pije nepravdu.
+{26:7} Kako hromi hramlje nogama svojim, takva je beseda u ustima bezumnih.
+{26:8} Kao da baca dragi kamen u gomilu kamenja, tako radi ko čini čast bezumnome.
+{26:9} Kao trn kad dodje u ruku pijanome, takva je beseda u ustima bezumnih.
+{26:10} Mnogo muke zadaje svima ko plaća bezumniku i ko plaća prestupnicima.
+{26:11} Kao što se pas povraća na svoju bljuvotinu, tako bezumnik ponavlja svoje bezumlje.
+{26:12} Jesi li video čoveka koji misli da je mudar? Više ima nadanja od bezumnoga nego od njega.
+{26:13} Lenjivac govori: Ljuti je lav na putu, lav je na ulicama.
+{26:14} Kao što se vrata obrću na čepovima svojim, tako lenivac na postelji svojoj.
+{26:15} Lenivac krije ruku svoju u nedra, teško mu je prineti je k ustima.
+{26:16} Lenivac misli da je mudriji od sedmorice koji odgovaraju razumno.
+{26:17} Psa za uši hvata ko se prolazeći žesti za tudju raspru.
+{26:18} Kakav je bezumnik koji baca iskre i strele smrtne,
+{26:19} Takav je svaki koji prevari bližnjeg svog pa onda veli: Šalio sam se.
+{26:20} Kad nestane drva, ugasi se oganj; tako kad nema opadača, prestaje raspra.
+{26:21} Ugalj je za žeravicu, drva za oganj, a čovek svadljivac da raspaljuje svadju.
+{26:22} Reči su opadačeve kao reči izbijenih, ali silaze unutra u trbuh.
+{26:23} Kao srebrna pena kojom se obloži crep, takve su usne neprijateljske i zlo srce.
+{26:24} Nenavidnik se pretvara ustima svojim, a u srcu slaže prevaru.
+{26:25} Kad govori umiljatim glasom, ne veruj mu, jer mu je u srcu sedam gadova.
+{26:26} Mržnja se pokriva lukavstvom, ali se zloća njena otkriva na zboru.
+{26:27} Ko jamu kopa, u nju će pasti; i ko kamen valja, na njega će se prevaliti.
+{26:28} Jezik lažan mrzi na one koje satire, i usta koja laskaju grade pogibao.
+{27:1} Ne hvali se sutrašnjim danom, jer ne znaš šta će dan doneti.
+{27:2} Neka te hvali drugi, a ne tvoja usta, tudjin, a ne tvoje usne.
+{27:3} Težak je kamen, i pesak je težak; ali je gnev bezumnikov teži od oboga.
+{27:4} Jarost je nemilostiva, i gnev je plah; ali ko će odoleti zavisti?
+{27:5} Bolji je javni ukor nego tajna ljubav.
+{27:6} Udarci od prijatelja istiniti su, a celivi nenavidnikovi lažni.
+{27:7} Duša sita gazi saće, a gladnoj duši slatko je sve što je gorko.
+{27:8} Kakva je ptica koja odleti iz svog gnezda, takav je čovek koji otide iz svog mesta.
+{27:9} Ulje i kad veseli srce, tako je prijatelj sladak savetom srdačnim.
+{27:10} Ne ostavljaj prijatelja svog ni prijatelja oca svog, i u kuću brata svog ne ulazi u nesreći svojoj: bolji je sused blizu nego brat daleko.
+{27:11} Sine moj, budi mudar i obraduj srce moje, da imam šta odgovoriti onome ko me ruži.
+{27:12} Pametan čovek vidi zlo i skloni se, a ludi idu dalje i plaćaju.
+{27:13} Uzmi haljinu onome koji se podjemči za tudjina, i uzmi zalog od njega za tudjinku.
+{27:14} Ko blagosilja prijatelja svog na glas rano ustajući, primiće mu se za kletvu.
+{27:15} Neprestano kapanje kad je velik dažd, i žena svadljiva, jedno su;
+{27:16} Ko je ustavlja, ustavlja vetar, i ona se odaje kao mirisavo ulje u desnici.
+{27:17} Gvoždje se gvoždjem oštri, tako čovek oštri lice prijatelja svog.
+{27:18} Ko čuva smokvu, ješće rod njen; tako ko čuva gospodara svog, biće poštovan.
+{27:19} Kako je u vodi lice prema licu, tako je srce čovečije prema čoveku.
+{27:20} Grob i propast nikada se ne mogu zasititi, tako oči čovečije nikada nisu site.
+{27:21} Srebro u topionici i zlato u peći a čovek u ustima onog koji ga hvali poznaje se.
+{27:22} Da bezumnoga tucaš u stupi s tučkom s prekrupom, ne bi otišlo od njega bezumlje njegovo.
+{27:23} Dobro gledaj stoku svoju i staraj se za stada svoja.
+{27:24} Jer bogatstvo ne traje doveka niti kruna od kolena do kolena.
+{27:25} Kad trava naraste i pokaže se zelen, kupi se trava po planinama.
+{27:26} Jaganjci su ti za odelo, i jarići cena za njivu.
+{27:27} I dosta ima mleka kozjeg tebi za jelo, i za jelo tvom domu i za hranu tvojim devojkama.
+{28:1} Beže bezbožnici kad ih niko ne goni, a pravednici su kao lavići bez straha.
+{28:2} Kad se u zemlji zla čine, nastaju joj mnogi knezovi; ali kad se nadje čovek razuman i vešt, ostaje dugo.
+{28:3} Čovek siromah koji čini krivo ubogima jeste kao silan dažd iza kog nestaje hleba.
+{28:4} Koji ostavljaju zakon, hvale bezbožnike; a koji drže zakon, protive im se.
+{28:5} Zli ljudi ne razumeju šta je pravo; a koji traže Gospoda, razumeju sve.
+{28:6} Bolji je siromah koji hodi u bezazlenosti svojoj nego ko ide krivim putevima ako je i bogat.
+{28:7} Ko čuva zakon, sin je razuman; a ko se druži s izjelicama, sramoti oca svog.
+{28:8} Ko umnožava dobro svoje ujmom i pridavkom, sabira onome koji će razdavati siromasima.
+{28:9} Ko odvraća uho svoje da ne čuje zakon, i molitva je njegova mrska.
+{28:10} Ko zavodi prave na zao put, pašće u jamu svoju, a bezazleni naslediće dobro.
+{28:11} Bogat čovek misli da je mudar, ali razuman siromah ispituje ga.
+{28:12} Kad se raduju pravedni, velika je slava; a kad se podižu bezbožnici, traži se čovek.
+{28:13} Ko krije prestupe svoje, neće biti srećan; a ko priznaje i ostavlja, dobiće milost.
+{28:14} Blago čoveku koji se svagda boji; a ko je tvrdoglav, upada u zlo.
+{28:15} Bezbožnik koji vlada narodom siromašnim, lav je koji riče i medved gladan.
+{28:16} Knez bez razuma čini mnogo nepravde, a koji mrzi na lakomstvo, živeće dugo.
+{28:17} Čovek koji čini nasilje krvi ljudskoj, bežaće do groba, a niko ga neće zadržati.
+{28:18} Ko hodi u bezazlenosti, spašće se; a ko je opak na putevima, pašće u jedan mah.
+{28:19} Ko radi svoju zemlju, biće sit hleba; a ko ide za besposlicama, nasitiće se sirotinje.
+{28:20} Čovek veran obiluje blagoslovima; a ko nagli da se obogati, neće biti bez krivice.
+{28:21} Nije dobro gledati ko je ko, jer za zalogaj hleba čovek će učiniti zlo.
+{28:22} Nagli da se obogati čovek zavidljiv, a ne zna da će mu doći siromaštvo.
+{28:23} Ko ukorava čoveka naći će posle veću milost nego koji laska jezikom.
+{28:24} Ko krade oca svog i mater svoju, i govori: Nije greh, on je drug krvniku.
+{28:25} Oholi zameće svadju; a ko se uzda u Gospoda, izobilovaće.
+{28:26} Ko se uzda u svoje srce, bezuman je; a ko hodi mudro, izbaviće se.
+{28:27} Ko daje siromahu, neće mu nedostajati; a ko odvraća oči svoje, biće mu mnogo kletava.
+{28:28} Kad se podižu bezbožnici, sakriva se čovek; a kad ginu, umnožavaju se pravedni.
+{29:1} Čovek koji po karanju ostaje tvrdoglav, ujedanput će propasti, da neće biti leka.
+{29:2} Kad se umnožavaju pravednici, veseli se narod; a kad vlada bezbožnik, uzdiše narod.
+{29:3} Ko ljubi mudrost, veseli oca svog; a ko se druži s kurvama, rasipa svoje dobro.
+{29:4} Car pravdom podiže zemlju; a ko uzima mito, satire je.
+{29:5} Ko laska prijatelju svom, razapinje mrežu nogama njegovim.
+{29:6} U grehu je zlog čoveka zamka, a pravednik peva i veseli se.
+{29:7} Pravednik razume parbu nevoljnih, a bezbožnik ne mari da zna.
+{29:8} Podsmevači raspaljuju grad, a mudri utišavaju gnev.
+{29:9} Mudar čovek kad se pre s ludim, ili se srdio ili smejao, nema mira.
+{29:10} Krvopije mrze na bezazlenoga, a pravi se brinu za dušu njegovu.
+{29:11} Sav gnev svoj izliva bezumnik, a mudri ustavlja ga natrag.
+{29:12} Koji knez sluša lažne reči, sve su mu sluge bezbožne.
+{29:13} Siromah i koji daje na dobit sretaju se; obojici Gospod prosvetljuje oči.
+{29:14} Koji car pravo sudi siromasima, njegov će presto stajati doveka.
+{29:15} Prut i kar daju mudrost, a dete pusto sramoti mater svoju.
+{29:16} Kad se umnožavaju bezbožnici, umnožavaju se gresi, a pravednici će videti propast njihovu.
+{29:17} Karaj sina svog, i smiriće te, i učiniće milinu duši tvojoj.
+{29:18} Kad nema utvare, rasipa se narod; a ko drži zakon, blago njemu!
+{29:19} Rečima se ne popravlja sluga, jer ako i razume, opet ne sluša.
+{29:20} Jesi li video čoveka naglog u besedi svojoj? Više ima nadanja od bezumnog nego od njega.
+{29:21} Ako ko mazi slugu od malena, on će najposle biti sin.
+{29:22} Gnevljiv čovek zameće svadju, i ko je naprasit, mnogo greši.
+{29:23} Oholost ponižuje čoveka, a ko je smeran duhom, dobija slavu.
+{29:24} Ko deli s lupežem, mrzi na svoju dušu, čuje prokletstvo i ne prokazuje.
+{29:25} Strašljiv čovek meće sebi zamku; a ko se u Gospoda uzda, biće u visokom zaklonu.
+{29:26} Mnogi traže lice vladaočevo, ali je od Gospoda sud svakome.
+{29:27} Pravednima je mrzak nepravednik, a bezbožniku je mrzak ko pravo hodi.
+{30:1} Reči Agura sina Jakejevog; sabrane reči tog čoveka Itilu, Itilu i Ukalu.
+{30:2} Ja sam ludji od svakog, i razuma čovečijeg nema u mene.
+{30:3} Niti sam učio mudrost niti znam svete stvari.
+{30:4} Ko je izašao na nebo i opet sišao? Ko je skupio vetar u pregršti svoje? Ko je svezao vode u plašt svoj? Ko je utvrdio sve krajeve zemlji? Kako Mu je ime? I kako je ime Sinu Njegovom? Znaš li?
+{30:5} Sve su reči Božije čiste; On je štit onima koji se uzdaju u Nj.
+{30:6} Ništa ne dodaj k rečima Njegovim, da te ne ukori i ne nadješ se laža.
+{30:7} Za dvoje molim Te; nemoj me se oglušiti dok sam živ:
+{30:8} Taštinu i reč lažnu udalji od mene; siromaštva ni bogatstva ne daj mi, hrani me hlebom po obroku mom,
+{30:9} Da ne bih najedavši se odrekao se Tebe i rekao: Ko je Gospod? Ili osiromašivši da ne bih krao i uzalud uzimao ime Boga svog.
+{30:10} Ne opadaj sluge gospodaru njegovom, da te ne bi kleo i ti bio kriv.
+{30:11} Ima rod koji psuje oca svog i ne blagosilja matere svoje.
+{30:12} Ima rod koji misli da je čist, a od svog kala nije opran.
+{30:13} Ima rod koji drži visoko oči svoje, i vedje mu se dižu uvis.
+{30:14} Ima rod kome su zubi mačevi i kutnjaci noževi, da proždire siromahe sa zemlje i uboge izmedju ljudi.
+{30:15} Pijavica ima dve kćeri, koje govore: Daj, daj. Ima troje nesito, i četvrto nikad ne kaže: Dosta:
+{30:16} Grob, materica jalova, zemlja koja ne biva sita vode, i oganj, koji ne govori: Dosta.
+{30:17} Oko koje se ruga ocu i neće da sluša matere, kljuvaće ga gavrani s potoka i jesti orlići.
+{30:18} Troje mi je čudesno, i četvrtog ne razumem:
+{30:19} Put orlov u nebo, put zmijin po steni, put ladjin posred mora, i put čovečiji k devojci.
+{30:20} Takav je put kurvin: jede, i ubriše usta, pa veli: Nisam učinila zla.
+{30:21} Od troga se potresa zemlja, i četvrtog ne može podneti:
+{30:22} Od sluge, kad postane car, od bezumnika, kad se najede hleba.
+{30:23} Od puštenice, kad se uda, od sluškinje kad nasledi gospodju svoju.
+{30:24} Četvoro ima maleno na zemlji, ali mudrije od mudraca:
+{30:25} Mravi, koji su slab narod, ali opet pripravljaju u leto sebi hranu;
+{30:26} Pitomi zečevi, koji su nejak narod, ali opet u kamenu grade sebi kuću;
+{30:27} Skakavci, koji nemaju cara, ali opet idu svi jatom;
+{30:28} Pauk, koji rukama radi i u carskim je dvorima.
+{30:29} Troje lepo korača, i četvrto lepo hodi:
+{30:30} Lav, najjači izmedju zverova, koji ne uzmiče ni pred kim,
+{30:31} Konj opasan po bedrima ili jarac, i car na koga niko ne ustaje.
+{30:32} Ako si ludovao ponesavši se ili si zlo mislio, metni ruku na usta.
+{30:33} Kad se razbija mleko, izlazi maslo; i ko jako nos utire, izgoni krv; tako ko draži na gnev, zameće svadju.
+{31:1} Reči cara Lemuila; sabrane reči, kojima ga je učila mati njegova.
+{31:2} Šta, sine moj, šta, sine utrobe moje, i šta, sine zaveta mojih?
+{31:3} Ne daj krepost svoju ženama, ni puteve svoje onima što satiru careve.
+{31:4} Nije za careve, Lemuilo, nije za careve da piju vino, ni za knezove da piju silovito piće,
+{31:5} Da ne bi pijući zaboravio uredbe, i izmenio pravicu kome nevoljniku.
+{31:6} Podajte silovito piće onome koji hoće da propadne, i vino onima koji su tužnog srca;
+{31:7} Neka se napije i zaboravi svoje siromaštvo, i da se više ne seća svoje muke.
+{31:8} Otvaraj usta svoja za nemoga, za stvar svih namenjenih smrti.
+{31:9} Otvaraj usta svoja, sudi pravo, daj pravicu nevoljnome i ubogome.
+{31:10} Ko će naći vrsnu ženu? Jer vredi više nego biser.
+{31:11} Oslanja se na nju srce muža njenog, i dobitka neće nedostajati.
+{31:12} Čini mu dobro, a ne zlo, svega veka svog.
+{31:13} Traži vune i lana, i radi po volji rukama svojim.
+{31:14} Ona je kao ladja trgovačka, iz daleka donosi hranu svoju.
+{31:15} Ustaje dok je još noć, daje hranu čeljadi svojoj i posao devojkama svojim.
+{31:16} Misli o njivi, i uzme je, od rada ruku svojih sadi vinograd.
+{31:17} Opasuje snagom bedra svoja i krepi mišice svoje.
+{31:18} Vidi kako joj je dobra radnja, ne gasi joj se noću žižak.
+{31:19} Rukama svojim maša se preslice, i prstima svojim drži vreteno.
+{31:20} Ruku svoju otvara siromahu, i pruža ruke ubogome.
+{31:21} Ne boji se snega za svoju čeljad, jer sva čeljad njena ima po dvoje haljine.
+{31:22} Pokrivače sama sebi gradi, tako platno i skerlet odelo joj je
+{31:23} Zna se muž njen na vratima kad sedi sa starešinama zemaljskim.
+{31:24} Košulje gradi i prodaje, i pojase daje trgovcu.
+{31:25} Odelo joj je krepost i lepota, i osmeva se na vreme koje ide.
+{31:26} Usta svoja otvara mudro i na jeziku joj je nauka blaga.
+{31:27} Pazi na vladanje čeljadi svoje, i hleba u lenjosti ne jede.
+{31:28} Sinovi njeni podižu se i blagosiljaju je; muž njen takodje hvali je;
+{31:29} Mnoge su žene bile vrsne, ali ti ih nadvišuješ sve.
+{31:30} Ljupkost je prevarna i lepota tašta; žena koja se boji Gospoda, ona zaslužuje pohvalu.
+{31:31} Podajte joj od ploda ruku njenih, i neka je hvale na vratima dela njena.

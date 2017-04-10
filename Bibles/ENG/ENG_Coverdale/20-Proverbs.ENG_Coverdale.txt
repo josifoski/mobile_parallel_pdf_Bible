@@ -1,0 +1,915 @@
+{1:1} These are the prouerbes of Salomon the sonne of Dauid kynge of Israel:
+{1:2} to lerne wysdome nurtoure, vnderstondinge, prudence,
+{1:3} rightuousnesse, iudgment and equite.
+{1:4} That the very babes might haue wyt, and that yonge men might haue knowlege and vnderstondinge.
+{1:5} By hearinge, the wyse ma shal come by more wysdome: and by experience,
+{1:6} he shal be more apte to vnderstonde a parable, and the interpretacion therof: the wordes of the wyse, and the darcke speaches of the same.
+{1:7} The feare of the LORDE is the begynnynge of wysdome. But fooles despyse wysdome and nurtoure.
+{1:8} My sonne, heare thy fathers doctryne, and forsake not the lawe of yi mother:
+{1:9} for that shal brynge grace vnto thy heade, & shalbe a cheyne aboute thy necke.
+{1:10} My sonne, cosente not vnto synners,
+{1:11} yf they entyse the, and saye: come wyth us, let us laye wayte for bloude, & lurke preuely for the innocet wythout a cause:
+{1:12} let us swalowe the vp like ye hell, let us deuoure the quycke and whole, as those that go downe in to the pytt.
+{1:13} So shal we fynde all maner of costly riches, and fyll oure houses wyth spoyles.
+{1:14} Cast in thy lott amonge us, we shal haue all one purse.
+{1:15} My sonne, walke not thou wt them, refrayne yi fote fro their wayes.
+{1:16} For their fete rune to euell, & are haistie to shed bloude.
+{1:17} But in vayne is ye net layed forth before the byrdes eyes.
+{1:18} Yee they the selues laye wayte one for anothers bloude, and one of the wolde slaye another.
+{1:19} These are the wayes of all soch as be couetous, that one wolde rauysh anothers life.
+{1:20} wysdome crieth without, & putteth forth hir voyce in the stretes.
+{1:21} She calleth before ye congregacion in ye open gates, and sheweth hir wordes thorow ye cite, sayenge:
+{1:22} O ye childre, how loge wil ye loue childyshnesse? how longe wil ye scorners delyte in scornynge, & ye vnwyse be enemies vnto knowlege?
+{1:23} O turne you vnto my correccion: lo, I wil expresse my mynde vnto you, and make you vnderstode my wordes.
+{1:24} Seinge then that I haue called, and ye refused it: I haue stretched out my honde, and no ma regarded it,
+{1:25} but all my coucels haue ye despysed, and set my correccios at naught.
+{1:26} Therfore shal I also laugh in yor destruccion, and mocke you, when ye thinge that ye feare cometh vpon you:
+{1:27} euen whe ye thinge that ye be afrayed of, falleth in sodenly like a storme, and yor misery like a tempest: yee wha trouble and heuynesse cometh vpon you.
+{1:28} Then shal they call vpo me, but I wil not heare: they shal seke me early, but they shal not fynde me:
+{1:29} And yt because they hated knowlege, and receaued not ye feare of ye LORDE,
+{1:30} but abhorred my councell, and despysed my correccion.
+{1:31} Therfore shal they eate ye frutes of their owne waye, and be fylled wt their owne councels:
+{1:32} for ye turnynge awaye of ye vnwyse shal slaye the, & ye prosperi of fooles shalbe their owne destruccio.
+{1:33} But who so harkeneth vnto me, shal dwell safely, and haue ynough without eny feare of euell.
+{2:1} My sonne, yf thou wilt receaue my wordes, and kepe my comaundemetes by the,
+{2:2} that thine eare maye herken vnto wysdome, applie thine herte then to vnderstodinge.
+{2:3} For yf thou criest after wysdome, & callest for knowlege:
+{2:4} yf thou sekest after her as after money, and dyggest for her as for treasure:
+{2:5} The shalt thou vnderstonde ye feare of the LORDE, and fynde ye knowlege of God.
+{2:6} For it is the LORDE that geueth wysdome, out of his mouth commeth knowlege and vnderstondinge.
+{2:7} He preserueth ye welfare of the rightuous, and defendeth them yt walke innocently:
+{2:8} he kepeth them in ye right path, and preserueth ye waye of his sayntes.
+{2:9} Then shalt thou vnderstonde rightuousnesse, iudgment and equite, yee and euery good path.
+{2:10} Yf wysdome entre in to thine herte, and yi soule delyte in knowlege:
+{2:11} then shal councell preserue the, and vnderstondinge shal kepe the.
+{2:12} That thou mayest be delyuered fro ye euell waye, and from the man yt speaketh frowarde thinges.
+{2:13} From soch as leaue the hye strete, and walke i ye wayes of darcknesse:
+{2:14} which reioyse in doynge euell, and delyte i wicked thinges:
+{2:15} whose wayes are croked, and their pathes slaunderous.
+{2:16} That thou mayest be delyuered also from the straunge woman, and from her that is not thine owne: which geueth swete wordes,
+{2:17} forsaketh the husbande of hir youth, and forgetteth the couenaunt of hir God.
+{2:18} For hir house is enclyned vnto death, and hir pathes vnto hell.
+{2:19} All they that go in vnto her, come not agayne, nether take they holde of the waye of life.
+{2:20} That thou mayest walke in ye good waye, and kepe the pathes of the rightuous.
+{2:21} For the iust shal dwell in the londe, and the innocentes shal remayne in it:
+{2:22} but the vngodly shalbe roted out of ye londe, and the wicked doers shalbe taken out of it.
+{3:1} My sonne, forget not my lawe, but se yt thine hert kepe my comaundemetes.
+{3:2} For they shal prologe ye dayes & yeares of yi lyfe, & brynge ye peace.
+{3:3} Let mercy & faithfulnes neuer go from ye: bynde the about yi necke, & wryte them in the tables of thine herte.
+{3:4} So shalt thou fynde fauor and good vnderstondinge in ye sight of God and men.
+{3:5} Put thy trust in ye LORDE with all thine herte, and leane not vnto thine owne vnderstondinge.
+{3:6} In all thy wayes haue respecte vnto him, and he shal ordre thy goinges.
+{3:7} Be not wyse in thine owne conceate, but feare ye LORDE and departe from euell:
+{3:8} so shal thy nauel be whole, and thy bones stronge.
+{3:9} Honoure the LORDE wt yi substaunce, & wt ye firstlinges of all thine encrease:
+{3:10} so shal thy barnes be fylled with plenteousnesse, and thy presses shal flowe ouer with swete wyne.
+{3:11} My sonne, despyse not the chastenynge of ye LORDE, nether faynte when thou art rebuked of him.
+{3:12} For who the LORDE loueth, him he chasteneth: and yet delyteth in him euen as a father in his owne sonne.
+{3:13} Well is him that fyndeth wysdome, & opteyneth vnderstondinge,
+{3:14} for the gettinge of it is better then eny marchaundise of syluer, & the profit of it is better then golde.
+{3:15} wysdome is more worth the precious stones, & all ye thinges yt thou canst desyre, are not to be compared vnto her.
+{3:16} Vpon hir right hande is longe life, & vpon hir left hande is riches & honor.
+{3:17} Hir wayes are pleasaunt wayes, and all hir pathes are peaceable.
+{3:18} She is a tre of life to them that laye holde vpon her, and blessed are they that kepe her fast.
+{3:19} With wysdome hath ye LORDE layed the foudacion of ye earth, & thorow vnderstondinge hath he stablished ye heaues.
+{3:20} Thorow his wisdome ye depthes breake vp, & ye cloudes droppe downe the dew.
+{3:21} My sonne, let not these thinges departe from thyne eyes, but kepe my lawe and my councell:
+{3:22} so shal it be life vnto thy soule, & grace vnto yi mouth.
+{3:23} Then shalt thou walke safely in yi waye, & thy fote shal not stomble.
+{3:24} Yf thou slepest, thou shalt not be afrayed, but shalt take thy rest & slepe swetely.
+{3:25} Thou neddest not to be afrayed of eny sodane feare, nether for the violent russhinge in of the vngodly, when it commeth.
+{3:26} For the LORDE shal be besyde the, & kepe thy fote yt thou be not taken.
+{3:27} Refuse not to do good vnto him that shulde haue it, so longe as thine hande is able to do it.
+{3:28} Saye not vnto thy neghboure: go thy waye & come agayne, tomorow wil I geue the:
+{3:29} where as thou hast now to geue him. Intende no hurte vnto thy neghboure, seynge he hopeth to dwell in rest by the.
+{3:30} Stryue not lightly wt eny man, where as he hath done ye no harme.
+{3:31} Folowe not a wicked man, and chose none of his wayes:
+{3:32} for the LORDE abhorreth the frowarde, but his secrete is amonge the righteous.
+{3:33} The curse of the LORDE is in the house of the vngodly, but he blesseth the dwellinges of the righteous.
+{3:34} As for the scornefull, he shal laugh the to scorne, but he shal geue grace vnto the lowly.
+{3:35} The wyse shal haue honor in possession, but shame is the promocio that fooles shal haue.
+{4:1} Heare (O ye children) the fatherly exortacio, & take good hede, that ye maye lerne wysdome.
+{4:2} Yee I shal geue you a good rewarde, yf ye wil not forsake my lawe.
+{4:3} For when I myself was my fathers deare sonne, and tenderly beloued of my mother,
+{4:4} he taught me also, sayenge: let thine herte receaue my wordes, kepe my commaundementes, and thou shalt lyue.
+{4:5} Get the wysdome, get the vnderstondinge, forget not ye wordes of my mouth, & shreke not from them.
+{4:6} Forsake her not, and she shal preserue the: loue her, and she shal kepe the.
+{4:7} The chefe poynte of wysdome is, that thou be wyllynge to opteyne wysdome, and before all thy goodes to get the vnderstondynge.
+{4:8} Make moch of her, and she shal promote the: Yee yf thou embracest her, she shal brynge the vnto honoure.
+{4:9} She shal make the a gracious heade, and garnish the with ye crowne of glory.
+{4:10} Heare my sonne, and receaue my wordes, that the yeares of thy life maye be many.
+{4:11} I wil shewe the ye waye of wysdome, and lede the in the right pathes.
+{4:12} So that yf thou goest therin, there shal no straytnesse hynder the: and when thou runnest, thou shalt not fall.
+{4:13} Take fast holde of doctryne, let her not go: kepe her, for she is thy life.
+{4:14} Come not in the path of the vngodly, and walke not in the waye of the wicked.
+{4:15} Eschue it, & go not therin: departe asyde, & passe ouer by it.
+{4:16} For they can not slepe, excepte they haue first done some myschefe: nether take they eny rest, excepte they haue first done some harme.
+{4:17} For they eate the bred of wickednesse, and drike the wyne of robbery.
+{4:18} The path of the rightuous shyneth as the light, and is euer brighter & brighter vnto the parfecte daye.
+{4:19} But ye waye of the vngodly is as the darcknesse, wherin me fall, or they be awarre.
+{4:20} My sonne, marcke my wordes, and enclyne thine eare vnto my saynges.
+{4:21} Let them not departe from thine eyes, kepe them euen in the myddest of thine herte.
+{4:22} For they are life vnto all those that finde the, and health vnto all their bodies.
+{4:23} Kepe thine hert with all diligence, for there vpon hangeth life.
+{4:24} Put awaye from the a frowarde mouth, and let the lippes of slaunder be farre from the.
+{4:25} Let thine eyes beholde the thinge yt is right, & let thine eye lyddes loke straight before the.
+{4:26} Podre the path of thy fete, so shal all yi wayes be sure.
+{4:27} Turne not asyde, nether to the right hande ner to the lefte, but witholde thy fote from euell.
+{5:1} My sonne, geue hede vnto my wysdome, & bowe thine eare vnto my prudece:
+{5:2} yt thou mayest regarde good councell, and that thy lippes maye kepe nurtoure.
+{5:3} For the lippes of an harlot are a droppinge hony combe, and hir throte is softer then oyle.
+{5:4} But at ye last she is as bitter as wormwod, and as sharpe as a two edged swerde.
+{5:5} Hir fete go downe vnto death, and hir steppes pearse thorow vnto hell.
+{5:6} She regardeth not the path of life, so vnstedfast are hir wayes, that thou canst not knowe them.
+{5:7} Heare me therfore (o my sonne) and departe not fro the wordes of my mouth.
+{5:8} Kepe thy waye farre from her, and come not nye ye dores of hir house.
+{5:9} That thou geue not thine honor vnto another, and thy yeares to the cruell.
+{5:10} That other men be not fylled with thy goodes, & that thy labours come not in a straunge house.
+{5:11} Yee that thou mourne not at the last (when thou hast spent thy body and goodes)
+{5:12} and then saye: Alas, why hated I nurtoure? why dyd my hert despyse correccion?
+{5:13} Wherfore was not I obedient vnto the voyce of my teachers, & herkened not vnto them that infourmed me?
+{5:14} I am come almost in to all mysfortune, in the myddest of the multitude and congregacion.
+{5:15} Drinke of the water of thine owne well, and of the ryuers that runne out of thine owne spriges.
+{5:16} Let yi welles flowe out a brode, that there maye be ryuers of water in the stretes.
+{5:17} But let them be only thine owne, & not straungers with the.
+{5:18} Let thy well be blessed, and be glad with the wife of thy youth.
+{5:19} Louynge is the hynde, and frendly is the Roo: let her brestes alwaye satisfie the, and holde the euer content with hir loue.
+{5:20} My sonne, why wilt thou haue pleasure in an harlot, and embrace the bosome of another woma?
+{5:21} For euery mas wayes are open in the sight of the LORDE, and he podereth all their goinges.
+{5:22} The wickednesses of the vngodly shal catch himself, and with the snares of his owne synnes shal he be trapped.
+{5:23} Because he wolde not be refourmed, he shal dye: and for his greate foolishnesse he shal be destroyed.
+{6:1} My sone, yf thou be suertie for yi neghboure, thou hast fastened thine hode wt another ma:
+{6:2} yee thou art boude with thine owne wordes, and taken wt thine owne speach.
+{6:3} Therfore (my sonne) do this, discharge thy self, for thou art come i to yi neghbours daunger. Go thy waye then soone, & intreate thy neghboure:
+{6:4} let not thyne eyes slepe, ner thine eye lyddes slomber.
+{6:5} Saue thy self as a doo fro ye honde, & as a byrde fro the hode of the fouler.
+{6:6} Go to the Emmet (thou slogarde) cosidre hir wayes, & lerne to be wyse.
+{6:7} She hath no gyde, no teacher, no leder:
+{6:8} yet in the sommer she prouideth hir meate, & gathereth hir foode together i ye haruest.
+{6:9} How loge wilt thou slepe, thou slogish ma? Wha wilt thou aryse out of thy slepe?
+{6:10} Yee slepe on still a litle, slober a litle, folde thine handes together yet a litle, that thou mayest slepe:
+{6:11} so shal pouerte come vnto the as one yt trauayleth by the waye, & necessite like a wapened man.
+{6:12} A dissemblynge person, a wicked man goeth with a frowarde mouth:
+{6:13} he wyncketh with his eyes, he tokeneth wt his fete, he poynteth wt his fyngers,
+{6:14} he is euer ymageninge myschefe & frowardnesse in his hert, & causeth discorde.
+{6:15} Therfore shal his destruccion come hastely vpo him, sodenly shal he be all tobroken, and not be healed.
+{6:16} There be sixe thinges, which the LORDE hateth, & the seuenth he vtterly abhorreth:
+{6:17} A proude loke, a dyssemblynge tonge, hades that shed innocent bloude,
+{6:18} an herte yt goeth aboute wt wicked ymaginacios, fete that be swift in rennynge to do myschefe,
+{6:19} a false wytnesse yt bringeth vp lyes, & soch one as soweth discorde amonge brethren.
+{6:20} My sonne, kepe thy fathers comaundemetes, & forsake not ye lawe of thy mother.
+{6:21} Put the vp together in thine herte, and bynde the aboute thy necke.
+{6:22} That they maye lede the where thou goest, preserue the when thou art aslepe, & yt when thou awakest, thou mayest talke of the
+{6:23} (For the commaundement is a lanterne, and the lawe a light: yee chastenynge & nurtoure is ye waye of life)
+{6:24} that they maye kepe the fro the euell woman, & from the flaterynge tonge of the harlott:
+{6:25} yt thou lust not after her beuty in thine herte, & lest thou be take wt hir fayre lokes.
+{6:26} An harlot wil make a ma to begg his bred, but a maried woman wil hunt for ye precious life.
+{6:27} Maye a man take fyre in his bosome, and his clothes not be brent?
+{6:28} Or can one go vpon hote coales, and his fete not be hurte?
+{6:29} Euen so, who so euer goeth in to his neghbours wife, and toucheth her, can not be vngiltie.
+{6:30} Men do not vtterly despyse a thefe, that stealeth to satisfie his soule, when he is hongerie:
+{6:31} but yf he maye be gotten, he restoreth agayne seuen tymes asmoch, or els he maketh recompence with all the good of his house.
+{6:32} But who so comitteth aduoutrie with a woma, he is a foole, and bryngeth his life to destruccion.
+{6:33} He getteth him self also shame & dishonor, soch as shal neuer be put out.
+{6:34} For the gelousy & wrath of the ma will not be itreated,
+{6:35} no though thou woldest ofre him greate giftes to make amendes, he will not receaue them.
+{7:1} My sonne, kepe my wordes, & laye vp my comaundemetes by the.
+{7:2} Kepe my comaundemetes & my lawe, eue as the aple of thine eye, & thou shalt lyue.
+{7:3} Bynde them vpon thy fyngers, & wryte the in the table of thine hert.
+{7:4} Saye vnto wysdome: thou art my sister, and call vnderstondinge thy kynswoman:
+{7:5} that she maye kepe ye fro ye strauge woma, & fro ye harlot which geueth swete wordes.
+{7:6} For out of the wyndowe of my house I loked thorow the trelies,
+{7:7} & behelde the simple people: & amonge other yonge folkes I spyed one yonge foole
+{7:8} goinge ouer the stretes, by the corner in the waye towarde the harlottes house
+{7:9} in the twylight of of the euenynge, when it begane now to be night and darcke.
+{7:10} And beholde, there mett him a woma in an harlottes apparell
+{7:11} (a disceatfull, waton & an vnstedfast woma: whose fete coude not abyde in ye house,
+{7:12} now is she without, now i ye stretes, & lurketh i euery corner)
+{7:13} she caught ye yoge ma, kyssed him & was not ashamed, sayege:
+{7:14} I had a vowe to paye, & this daye I perfourme it.
+{7:15} Therfore came I forth to mete the, that I might seke thy face, and so I haue founde the.
+{7:16} I haue deckte my bed with coueringes & clothes of Egipte.
+{7:17} My bed haue I made to smell of Myrre, Aloes and Cynamom.
+{7:18} Come, let vs lye together, & take oure pleasure till it be daye light.
+{7:19} For the good man is not at home, he is gone farre of.
+{7:20} He hath taken the bagg of moneye with him, who can tell whe he cometh home?
+{7:21} Thus with many swete wordes she ouercame him, and with hir flateringe lippes she wanne him.
+{7:22} Immediatly he foloweth her, as it were an oxeled to the slaughter (and like as it were to the stockes, where fooles are punyshed)
+{7:23} so longe till she hath wounded his lyuer with hir darte: like as yf a byrde haisted to the snare, not knowinge that the parell of his life lyeth there vpo.
+{7:24} Heare me now therfore (o my sonne) and marcke the wordes of my mouth.
+{7:25} Let not thine herte wandre in hir wayes, & be not thou disceaued in hir pathes.
+{7:26} For many one hath she wouded and cast downe, yee many a stronge ma hath she slayne.
+{7:27} Hir house is the waye vnto hell, where men go downe to the chambers of death.
+{8:1} Doth not wysdome crie? doth not vnderstondinge put forth hir voyce?
+{8:2} Stondeth she not in the hye places in the stretes & wayes?
+{8:3} doth she not crie before the whole cite, & in the gates where men go out & in?
+{8:4} It is you, o ye men (sayeth she) whom I call. Unto you (o ye childre of me) lift I vp my voyce.
+{8:5} Take hede vnto knowlege o ye ignoraut, be wyse in herte o ye fooles.
+{8:6} Geue eare, for I wil speake of greate matters, & open my lippes to tell thinges that be right.
+{8:7} For my throte shal be talkynge of ye trueth, & my lippes abhorre vngodlynesse.
+{8:8} All the wordes of my mouth are rightuous, there is no frowardnesse ner falsede therin.
+{8:9} They are all playne to soch as wil vnderstode, & right to the that fynde knowlege.
+{8:10} Receaue my doctryne therfore and not syluer, & knowlege more then fyne golde.
+{8:11} For wysdome is more worth then precious stones, yee all the thinges that thou cast desyre, are not to be compared vnto it.
+{8:12} I wysdome haue my dwellynge wt knowlege, and prudent councell is myne owne.
+{8:13} With me is the feare of the LORDE, and ye eschuynge of euell. As for pryde, disdayne, an euell waye, & a mouth that speaketh wicked thiges, I vtterly abhorre the.
+{8:14} I can geue councell, and be a gyde: I haue vnderstondinge, I haue strength.
+{8:15} Thorow me, kynges reigne: thorow me, prices make iust lawes.
+{8:16} Thorow me, lordes beare rule, and all iudges of ye earth execute iudgmet.
+{8:17} I am louynge vnto those that loue me, and they that seke me early, shal fynde me.
+{8:18} Riches & honoure are wt me, yee excellent goodes & rightuousnes.
+{8:19} My frute is better the golde & precious stone, & myne encrease more worth then fyne syluer.
+{8:20} I walke in ye waye of rightuousnes, & in the strete of iudgment.
+{8:21} That I maye sende prosperite to those that loue me, & to encrease their treasure.
+{8:22} The LORDE himself had me in possessio in the begynnynge of his wayes, or euer he begame his workes aforetyme.
+{8:23} I haue bene ordened fro euerlastige, & fro ye beginnynge or euer the earth was made.
+{8:24} When I was borne, there were nether depthes ner springes of water.
+{8:25} Before the foundacions of ye mountaynes were layed, yee before all hilles was I borne.
+{8:26} The earth and all that is vpon the earth was not yet made, no not the grounde it self.
+{8:27} For when he made the heauens, I was present: wha he set the depthes in ordre:
+{8:28} whan he hanged the cloudes aboue: whan he fastened the sprynges of the depe:
+{8:29} Whan he shutt the see within certayne bowndes, that ye waters shulde not go ouer their marckes. When he layed the foundacions of the earth,
+{8:30} I was with him, ordringe all thinges, delytinge daylie & reioysynge allwaye before him.
+{8:31} As for the roude copase of his worlde, I make it ioyfull, for my delyte is to be amoge the children of men.
+{8:32} Therfore harken vnto me (o ye children) for blessed are they that kepe my wayes.
+{8:33} O geue eare vnto nurtoure, be wyse, and refuse it not.
+{8:34} Blessed is ye man that heareth me, watchinge daylie at my gates, & geuynge attendaunce at the postes of my dores.
+{8:35} For who so fyndeth me, fyndeth life, and shal optayne fauoure of the LORDE.
+{8:36} But who so offendeth agaynst me, hurteth his owne soule. All they that hate me, are the louers of death.
+{9:1} Wysdome hath buylded herself an house, and hewen out seuen pilers:
+{9:2} she hath slaughted, poured out hir wyne, and prepared hir table.
+{9:3} She hath sent forth hir maydens to crie vpo the hyest place of the cite:
+{9:4} Who so is ignoraut, let him come hither. And to the vn wise she sayde:
+{9:5} O come on youre waye, eate my bred, and drynke my wyne, which I haue poured out for you.
+{9:6} Forsake ignorauce, and ye shal lyue: and se that ye go in the waye of vnderstondinge.
+{9:7} Who so reproueth a scornefull personne, getteth him self dishonoure: and he that rebuketh the vngodly, stayneth himself.
+{9:8} Reproue not a scorner, lest he owe the euell wil: but rebuke a wyse man, and he wil loue the.
+{9:9} Geue a discrete man but an occasion, & he wilbe the wyser: teach a rightuous man, and he wil increase.
+{9:10} The feare of the LORDE is the begynnynge of wysdome, & the knowlege of holy thinges is vnderstondinge.
+{9:11} For thorow me yi dayes shalbe prolonged, and the yeares of thy life shal be many.
+{9:12} Yf thou be wyse, yi wysdome shal do yi selfe good: but yf thou thynkest scorne therof, it shalbe thine owne harme.
+{9:13} A foolish restlesse woman, full of wordes, and soch one as hath no knowlege,
+{9:14} sytteth in the dores of hir house vpo a stole aboue in the cite,
+{9:15} to call soch as go by and walke straight in their wayes.
+{9:16} Who so is ignoraunt (sayeth she) let him come hither, and to the vnwyse she sayeth:
+{9:17} stollen waters are swete, & the bred that is preuely eaten, hath a good taist.
+{9:18} But they cosider not that death is there, and that hir gestes go downe to hell.
+{10:1} These are prouerbes of Salomon. A wyse sonne maketh a glad father, but an vndiscrete sonne is the heuynesse of his mother.
+{10:2} Treasures that are wickedly gotten, profit nothinge, but rightuousnesse delyuereth from death.
+{10:3} The LORDE wil not let the soule of the rightuous suffre hoger, but he putteth ye vngodly fro his desyre.
+{10:4} An ydle hande maketh poore, but a quycke laboringe hande maketh riche.
+{10:5} Who so gathereth in Sommer, is wyse: but he that is slogish in haruest, bringeth himself to confucion.
+{10:6} Louynge and fauorable is the face of the rightuous, but ye fore heade of the vngodly is past shame, and presumptuous.
+{10:7} The memoriall of the iust shall haue a good reporte, but the name of the vngodly shal stynke.
+{10:8} A wyse man wil receaue warnynge, but a foole wil sooner be smytten in the face.
+{10:9} He that leadeth an innocent life, walketh surely: but who so goeth a wroge waye, shalbe knowne.
+{10:10} He yt wynketh with his eye, wil do some harme: but he that hath a foolish mouth, shalbe beaten.
+{10:11} The mouth of a rightuous man is a well of life, but ye mouth of the vngodly is past shame, & presumptuous.
+{10:12} Euell will stereth vp strife, but loue couereth ye multitude of synnes.
+{10:13} In ye lippes of him yt hath vnderstodinge a ma shal fynde wysdome, but ye rodde belogeth to ye backe of ye foolish.
+{10:14} Wyse me laye vp knowlege, but ye mouth of ye foolish is nye destruccio.
+{10:15} The rich mas goodes are his stroge holde, but pouerte oppresseth the poore.
+{10:16} The rightuous laboureth to do good, but the vngodly vseth his increase vnto synne.
+{10:17} To take hede vnto ye chastenynge of nurtoure, is ye waye of life: but he that refuseth to be refourmed, goeth wroge.
+{10:18} Dissemblynge lippes kepe hatred secretly, and he that speaketh eny slaunder, is a foole.
+{10:19} Where moch bablinge is, there must nedes be offence: he that refrayneth his lippes, is wysest of all.
+{10:20} An innocent tonge is a noble treasure, but the herte of the vngodly is nothinge worth.
+{10:21} The lippes of the rightuous fede a whole multitude, but fooles shal dye in their owne foly.
+{10:22} The blessynge of the LORDE maketh rich me, as for carefull trauayle, it doth nothinge therto.
+{10:23} A foole doth wickedly & maketh but a sporte of it: neuertheles it is wysdome for a man to bewarre of soch.
+{10:24} The thinge that the vngodly are afrayed of, shal come vpon them, but the rightuous shal haue their desyre.
+{10:25} The vngodly is like a tempest that passeth ouer & is nomore sene, but the rightuous remayneth sure for euer.
+{10:26} As vyneger is to the teth, and as smoke is vnto ye eyes, eue so is a slogish personne to them that sende him forth.
+{10:27} The feare of ye LORDE maketh a loge life, but ye yeares of ye vngodly shal be shortened.
+{10:28} The pacient abydinge of the rightuous shalbe turned to gladnesse, but the hope of the vngodly shal perish.
+{10:29} The waye of the LORDE geueth a corage vnto ye godly, but it is a feare for wicked doers.
+{10:30} The rightuous shal neuer be ouerthrowne, but ye vngodly shal not remayne in the londe.
+{10:31} The mouth of the iust wilbe talkynge of wysdome, but the tonge of the frowarde shal perish.
+{10:32} The lippes of the rightuous are occupied in acceptable thinges, but the mouth of the vngodly taketh them to the worst.
+{11:1} A false balaunce is an abhominacion vnto the LORDE, but a true weight pleaseth him.
+{11:2} Where pryde is, there is shame also and confucion: but where as is lowlynes, there is wysdome.
+{11:3} The innocent dealynge of the iust shal lede them, but the vnfaithfulnesse of the despysers shalbe their owne destruccion.
+{11:4} Riches helpe not in the daye of vengeaunce, but rightuousnesse delyuereth fro death.
+{11:5} The rightuousnes of ye innocent ordreth his waye, but the vngodly shal fall in his owne wickednesse.
+{11:6} The rightuousnesse of the iust shal delyuer them, but the despysers shalbe taken in their owne vngodlynesse.
+{11:7} When an vngodly man dyeth, his hope is gone, the confydence of riches shal perish.
+{11:8} The rightuous shalbe delyuered out of trouble, & the vngodly shal come in his steade.
+{11:9} Thorow ye mouth of ye dyssembler is his neghboure destroyed, but thorow knowlege shal the iust be delyuered.
+{11:10} When it goeth well with the rightuous, the cite is mery: and when the vngodly perish, there is gladnesse.
+{11:11} When the iust are in wealth, the cite prospereth: but whan the vngodly haue the rule, it decayeth.
+{11:12} A foole bryngeth vp a slaunder of his neghboure, but a wyse man wil kepe it secrete.
+{11:13} A dyssemblynge person wil discouer preuy thinges, but he that is of a faithfull hert, will kepe councel.
+{11:14} Where no good councel is there the people decaye: but where as are many that can geue councell, there is wealth.
+{11:15} He that is suertye for a straunger, hurteth himself: but he that medleth not with suerteshippe, is sure.
+{11:16} A gracious woma manteyneth honestie, as for the mightie, they manteyne ryches.
+{11:17} He yt hath a gentle liberall stomacke, is mercifull: but who so hurteth his neghbor, is a tyraut.
+{11:18} The laboure of the vngodly prospereth not, but he that soweth rightuosnes, shal receaue a sure rewarde.
+{11:19} Like as rightuousnes bryngeth life, eue so to cleue vnto euell, bryngeth death.
+{11:20} The LORDE abhorreth a fayned hert, but he hath pleasure in them that are vndefyled.
+{11:21} It shal not helpe ye wicked, though they laye all their hondes together, but the sede of the rightuous shalbe preserued.
+{11:22} A fayre woman without discrete maners, is like a rynge of golde in a swynes snoute.
+{11:23} The iust laboure for peace and traquylite, but the vngodly for disquyetnesse.
+{11:24} Some man geueth out his goodes, and is the richer, but ye nygarde (hauynge ynough) wil departe from nothinge, and yet is euer in pouerte.
+{11:25} He that is lyberall in geuynge, shal haue plenty: and he that watereth, shalbe watered also himself.
+{11:26} Who so hoordeth vp his corne, shalbe cursed amonge the people: but blessynge shal light vpon his heade that selleth it.
+{11:27} He that laboureth for honesty fyndeth his desyre: but who so seketh after myschefe, it shal happe vnto him.
+{11:28} He that trusteth in his riches, shal haue a fall, but ye rightuous shal florish as the grene leaf.
+{11:29} Who so maketh disquyetnesse in his owne house, he shal haue wynde for his heretage, and the foole shal be seruaunt to the wyse.
+{11:30} The frute of the rightuous is as the tre of life, a wyse man also wynneth mens soules.
+{11:31} Yf ye rightuous be recopesed vpo earth how moch more the the vngodly & ye synner?
+{12:1} Who so loueth wysdome, wil be content to be refourmed: but he that hateth to be reproued, is a foole.
+{12:2} A good man is acceptable vnto the LORDE, but ye wicked wyl he condempne.
+{12:3} A man ca not endure in vngodlynesse, but ye rote of ye righteous shal not be moued.
+{12:4} A stedfast woman is a crowne vnto hir husbonde: but she that behaueth herself vnhonestly, is a corrupcion in his bones.
+{12:5} The thoughtes of ye righteous are right, but the ymaginacion of the vngodly are disceatfull.
+{12:6} The talkynge of the vngodly is, how they maye laye wayte for bloude, but the mouth of ye righteous wil delyuer them.
+{12:7} Or euer thou canst turne the aboute, the vngodly shal be ouerthrowne, but the house of the righteous shal stode.
+{12:8} A man shalbe commended for his wysdome, but a foole shal be despysed.
+{12:9} A simple man which laboureth and worketh, is better the one that is gorgious and wanteth bred.
+{12:10} A righteous man regardeth the life of his catell, but the vngodly haue cruell hertes.
+{12:11} He that tilleth his lode, shal haue plenteousnesse of bred: but he yt foloweth ydylnes, is a very foole.
+{12:12} The desyre of ye vngodly hunteth after myschefe, but the rote of the righteous bryngeth forth frute.
+{12:13} The wicked falleth in to the snare thorow ye malyce of his owne mouth, but the iust shal escape out of parell.
+{12:14} Euery man shal enioye good acordinge to the innocency of his mouth, and after the workes of his hades shal he be rewarded.
+{12:15} Loke what a foole taketh in honde, he thinketh it well done: but he that is wyse, wyl be couceled.
+{12:16} A foole vttereth his wrath in all the haist, but a discrete man forgeueth wronge.
+{12:17} A iust man will tell the trueth, & shewethe thinge yt is right: but a false wytnesse disceaueth.
+{12:18} A slaunderous personne pricketh like a swerde, but a wyse mans tonge is wholsome.
+{12:19} A true mouth is euer constat, but a dyssemblinge toge is soone chaunged.
+{12:20} They that ymagin euell in their mynde, wil disceaue: but the councelers of peace shal heaue ioye folowinge the.
+{12:21} There shal no mysfortune happen vnto the iust, but the vngodly shal be fylled with misery.
+{12:22} The LORDE abhorreth disceatfull lippes, but they that laboure for treuth, please him.
+{12:23} He that hath vnderstodinge, can hyde his wysdome: but an vndiscrete herte telleth out his foolishnesse.
+{12:24} A diliget hande shal beare rule, but the ydle shal be vnder tribute.
+{12:25} Heuynesse discorageth ye herte of man, but a good worde maketh it glad agayne.
+{12:26} The righteous is liberall vnto his neghboure, but the waye of the vngodly wil disceaue them selues.
+{12:27} A disceatfull man shal fynde no vautage, but he that is content wt that he hath, is more worth the golde.
+{12:28} In the waye of righteousnesse there is life, as for eny other waye, it is the path vnto death.
+{13:1} A wyse sonne wyll receaue his fathers warnynge, but he yt is scornefull, wyll not heare when he is reproued.
+{13:2} A good ma shal enioye the frute of his mouth, but he that hath a frowarde mynde, shalbe spoyled.
+{13:3} He that kepeth his mouth, kepeth his life: but who so speaketh vnaduysed, fyndeth harme.
+{13:4} The slogarde wolde fayne haue, and can not get his desyre: but the soule of the diligent shal haue plenty.
+{13:5} A righteous man abhorreth lyes, but the vngodly shameth both other and himself.
+{13:6} Righteousnesse kepeth the innocet in the waye, but vngodlynesse shal ouerthrowe the synner.
+{13:7} Some men are riche, though they haue nothinge: agayne, some me are poore hauynge greate riches.
+{13:8} With goodes euery man delyuereth his life, and the poore wyl not be reproued.
+{13:9} The light of the righteous maketh ioyfull, but the candle of the vngodly shal be put out.
+{13:10} Amonge the proude there is euer strife, but amonge those that do all thinges with aduysement, there is wysdome.
+{13:11} Hastely gotte goodes are soone spent, but they that be gathered together with the hande, shal increase.
+{13:12} Longe tarienge for a thinge that is dyfferred, greueth ye herte: but when the desyre commeth, it is a tre of life.
+{13:13} Who so despyseth the worde, destroyeth himself: but he that feareth the comaundement, shal haue peace.
+{13:14} The lawe is a wel of life vnto the wyse, that it maye kepe him from the snares of death.
+{13:15} Good vnderstondinge geueth fauoure, but harde is the waye of the despysers.
+{13:16} A wyse man doth all thinges with discrecion, but a foole wil declare his foly.
+{13:17} An vngodly messauger bryngeth myschefe, but a faithfull embassitoure is wholsome.
+{13:18} He that thinketh scorne to be refourmed, commeth to pouerte and shame: but who so receaueth correccion, shal come to honoure.
+{13:19} When a desyre is brought to passe, it delyteth the soule: but fooles abhorre him that eschueth euell.
+{13:20} He that goeth in the company of wyse men, shal be wyse: but who so is a copanyo of fooles, shal be hurte.
+{13:21} Myschefe foloweth vpon synners, but the rightuous shal haue a good rewarde.
+{13:22} Which their childers childre shal haue in possessio, for the riches of the synner is layed vp for ye iust.
+{13:23} There is plenteousnesse of fode in the feldes of the poore, & shalbe increased out of measure.
+{13:24} He that spareth the rodde, hateth his sonne: but who so loueth him, holdeth him euer in nurtoure.
+{13:25} The rightuous eateth, and is satisfied, but ye bely of the vngodly hath neuer ynough.
+{14:1} A wyse woma vpholdeth hir house, but a foolish wife plucketh it downe.
+{14:2} Who so feareth the LORDE, walketh in the right path: & regardeth not him that abhorreth the wayes of the LORDE.
+{14:3} In the mouth of the foolish is the boostinge of lordshipe, but ye lippes of ye wyse wilbe warre of soch.
+{14:4} Where no oxen are, there the crybb is emptie: but where the oxen laboure, there is moch frute.
+{14:5} A faithfull wytnesse wyl not dyssemble, but a false recorde wil make a lye.
+{14:6} A scornefull body seketh wysdome, & fyndeth it not: but knowlege is easy to come by, vnto him that wil vnderstonde.
+{14:7} Se yt thou medle not with a foole, & do as though thou haddest no knowlege.
+{14:8} The wysdome of him that hath vnderstondinge is, to take hede vnto his waye, but the foolishnesse of the vnwyse disceaueth.
+{14:9} Fooles make but a sporte of synne, but there is fauourable loue amoge the rightuous.
+{14:10} The herte of him that hath vnderstondinge wil nether dispare for eny sorow, ner be to presumptuous for eny sodane ioye.
+{14:11} The houses of the vngodly shalbe ouerthrowne, but the tabernacles of ye righteus shal florishe.
+{14:12} There is a waye, which some men thinke to be right, but the ende therof ledeth vnto death.
+{14:13} The herte is soroufull euen in laughter, and the ende of myrth is heuynesse.
+{14:14} An vnfaithfull personne shal be fylled with his owne wayes, but a good ma wyl bewarre of soch.
+{14:15} An ignoraut body beleueth all thinges, but who so hath vnderstondinge, loketh well to his goinges.
+{14:16} A wyse man, feareth, and departeth from euell, but a foole goeth on presumptuously.
+{14:17} An vnpacient man handeleth foolishly, but he that is well aduysed, doth other wayes.
+{14:18} The ignoraut haue foolishnes in possessio, but the wyse are crowned with knowlege.
+{14:19} The euell shal bowe them selues before ye good, and the vngodly shal wayte at the dores of the rightuous.
+{14:20} The poore is hated euen of his owne neghbours, but the riche hath many frendes.
+{14:21} Who so despyseth his neghbor, doth amysse: but blessed is he that hath pyte of the poore.
+{14:22} They that ymagin wickednes, shalbe disapoynted: but they that muse vpo good thinges, vnto soch shal happen mercy and faithfulnesse.
+{14:23} Diliget labor bryngeth riches, but where many vayne wordes are, truly there is scarcenesse.
+{14:24} Riches are an ornament vnto the wyse, but the ignoraunce of fooles is very foolishnesse.
+{14:25} A faithfull wytnesse delyuereth soules, but a lyar dysceaueth them.
+{14:26} The feare of the LORDE is a stroge holde, for vnto his he wyl be a sure defence.
+{14:27} The feare of the LORDE is a well of life, to auoyde the snares of death.
+{14:28} The increase and prosperite of the comons is the kynges honoure, but the decaye of the people is the confucio of the prynce.
+{14:29} Pacience is a token of wisdome, but wrath and haistie displeasure is a token of foolishnesse.
+{14:30} A mery herte is the life of the body, but rancoure consumeth awaye the bones.
+{14:31} He that doth a poore man wroge, blasphemeth his maker: but who so hath pitie of the poore, doth honoure vnto God.
+{14:32} The vngodly is afrayed of euery parell, but the rightuous hath a good hope eue in death.
+{14:33} wysdome resteth in the herte of him that hath vnderstondinge, and he wyll teach them that are vnlerned.
+{14:34} Rightuousnes setteth vp the people, but wyckednesse bryngeth folke to destruccion.
+{14:35} A discrete seruaunt is a pleasure vnto ye kynge, but one yt is not honest, prouoketh him vnto wrath.
+{15:1} A softe aswere putteth downe displeasure, but frowarde wordes prouoke vnto anger.
+{15:2} A wyse tonge commendeth knowlege, a foolish mouth blabbeth out nothinge but foolishnesse.
+{15:3} The eyes of the LORDE loke in euery place, both vpon ye good and badd.
+{15:4} A wholsome tonge is a tre of life, but he that abuseth it, hath a broken mynde.
+{15:5} A foole despyseth his fathers correccion, but he yt taketh hede whan he is reproued, shal haue ye more vnderstodinge.
+{15:6} In the house of the rightuous are greate riches, but in the increase of the vngodly there is mysordre.
+{15:7} A wyse mouth poureth out knowlege, but ye herte of the foolish doth not so.
+{15:8} The LORDE abhorreth ye sacrifice of the vngodly, but the prayer of the rightuous is acceptable vnto him.
+{15:9} The waye of the vngodly is an abhominacio vnto ye LORDE, but who so foloweth righteousnes, him he loueth.
+{15:10} He that forsaketh ye right strete, shalbe sore punyshed: & who so hateth correccion, falleth in to death.
+{15:11} The hell wt hir payne is knowne vnto the LORDE, how moch more then the hertes of men?
+{15:12} A scornefull body loueth not one yt rebuketh him, nether wil he come amonge ye wyse.
+{15:13} A mery herte maketh a chearfull countenaunce, but an vnquyet mynde maketh it heuy.
+{15:14} A wyse herte wil seke after knowlege, but ye mouth of fooles medleth with foolishnesse.
+{15:15} All the dayes of the poore are miserable, but a quyete herte is as a cotynuall feast.
+{15:16} Better is a litle with the feare of the LORDE then greate treasure, for they are not without sorowe.
+{15:17} Better is a meace of potage with loue, then a fat oxe wt euell will.
+{15:18} An angrie man stereth vp strife, but he yt is pacient stilleth discorde.
+{15:19} The waye of ye slouthfull is full of thornes, but ye strete of the rightuous is well clensed.
+{15:20} A wyse sonne maketh a glad father, but an vndiscrete body shameth his mother.
+{15:21} A foole reioyseth in foolish thinges, but a wyse man loketh well to his owne goinges.
+{15:22} Vnaduysed thoughtes shal come to naught, but where as are men yt can geue councell, there is stedfastnesse.
+{15:23} O how ioyfull a thinge is it, a man to geue a conuenient answere? O how pleasaunt is a worde spoken in due season?
+{15:24} The waye of life ledeth vnto heaue, yt a man shulde bewarre of hell beneth.
+{15:25} The LORDE wyl breake downe ye house of ye proude, but he shal make fast ye borders of ye wyddowe.
+{15:26} The LORDE abhoreth ye ymaginacions of ye wicked, but pure wordes are pleasaunt vnto him.
+{15:27} The couetous man wrutteth vp his owne house, but who so hateth rewardes, shal lyue.
+{15:28} A rightuous ma museth in his mynde how to do good, but ye mynde of the vngodly ymagineth, how he maye do harme.
+{15:29} The LORDE is farre from the vngodly, but he heareth ye prayer of the rightuous.
+{15:30} Like as ye clearnesse of ye eyes reioyseth ye herte, so doth a good name fede ye bones.
+{15:31} The eare yt harkeneth vnto wholsome warnynge, and enclyneth therto, shall dwell amonge ye wyse.
+{15:32} He that refuseth to be refourmed, despyseth his owne soule: but he that submytteth himself to correccion, is wyse.
+{15:33} The feare of ye LORDE is ye right scyece of wysdome, and lowlynes goeth before honor.
+{16:1} A man maye well purpose a thinge in his harte, but ye answere of ye tonge cometh of ye LORDE.
+{16:2} A ma thinketh all his waies to be clene, but it is ye LORDE yt fashioneth ye myndes.
+{16:3} Commytte thy workes vnto ye LORDE, and loke what thou deuysest, it shal prospere.
+{16:4} The LORDE doth all thinges for his owne sake, yee & when he kepeth ye vngodly for ye daye of wrath.
+{16:5} The LORDE abhorreth all presumptuous & proude hertes, there maye nether strength ner power escape.
+{16:6} With louynge mercy & faithfulnesse synnes be forgeuen, and who so feareth ye LORDE eschueth euell.
+{16:7} When a mans wayes please ye LORDE, he maketh his very enemies to be his frendes.
+{16:8} Better is it to haue a litle thinge wt rightuousnes, the greate rentes wrongeously gotten.
+{16:9} A ma deuyseth a waye in his herte, but it is ye LORDE yt ordreth his goinges.
+{16:10} When ye prophecy is in ye lippes of ye kynge, his mouth shal not go wroge in iudgment.
+{16:11} A true measure & a true balauce are ye LORDES, he maketh all weightes.
+{16:12} It is a greate abhominacio when kynges are wycked, for a kynges seate shulde be holden vp wt righteousnesse.
+{16:13} Righteous lippes are pleasaut vnto kynges, and they loue him yt speaketh ye trueth.
+{16:14} The kynges displeasure is a messaunger of death, but a wyse man wyl pacifie him.
+{16:15} The cherefull countenauce of ye kynge is life, and his louynge fauor is as the euenynge dewe.
+{16:16} To haue wysdome in possession is better then golde, and to get vnderstondynge, is more worth then syluer.
+{16:17} The path of ye righteous eschueth euell, & who so loketh well to his wayes, kepeth his owne soule.
+{16:18} Presumptuousnes goeth before destruccion, and after a proude stomake there foloweth a fall.
+{16:19} Better it is to be of humble mynde wt the lowly, then to deuyde ye spoyles wt ye proude.
+{16:20} He yt handleth a matter wysely, opteyneth good: & blessed is he, yt putteth his trust in ye LORDE.
+{16:21} Who so hath a wyse vnderstondinge, is called to councell: but he yt can speake fayre, getteth more riches.
+{16:22} Vnderstondinge is a well of life vnto him yt hath it, as for ye chastenynge of fooles, it is but foolishnesse.
+{16:23} The herte of the wyse enfourmeth his mouth, and amendeth ye doctryne in his lyppes.
+{16:24} Fayre wordes are an hony combe, a refreshinge of ye mynde, & health of ye bones.
+{16:25} There is a waye yt men thinke to be right, but the ende therof leadeth vnto death.
+{16:26} A troublous soule disquyeteth hir selfe, for hir owne mouth hath brought her therto.
+{16:27} An vngodly personne stereth vp euell, and in his lippes he is as an whote burnynge fyre.
+{16:28} A frowarde body causeth strife, and he yt is a blabbe of his tonge, maketh deuysion amonge prynces.
+{16:29} A wicked ma begyleth his neghbor, & ledeth him ye waye yt is not good.
+{16:30} He that wyncketh wt his eyes, ymagineth myschefe: and he yt byteth his lippes, wyl do some harme.
+{16:31} Age is a crowne of worshipe, yf it be founde in the waye of righteousnes.
+{16:32} A pacient man is better then one that is stroge: and he that can rule him selfe, is more worth then he yt wynneth a cite.
+{16:33} The lottes are cast in to the lappe, but their fall stodeth in the LORDE.
+{17:1} Better is a drye morsell wt quyetnesse, the a full house and many fatt catell wt stryfe.
+{17:2} A discrete seruaut shal haue more rule then the sonnes yt haue no wysdome, and shal haue like heretage wt the brethren.
+{17:3} Like as syluer is tried in the fyre and golde in the fornace, euen so doth the LORDE proue the hertes.
+{17:4} A wicked body holdeth moch of false lippes, & a dyssemblynge persone geueth eare to a disceatfull toge.
+{17:5} Who so laugheth ye poore to scorne, blasphemeth his maker: and he yt is glad of another mans hurte, shal not be vnpunyshed.
+{17:6} Childers children are a worshipe vnto the elders, and the fathers are the honor of the children.
+{17:7} An eloquent speach becometh not a foole, a dyssemblinge mouth also besemeth not a prynce.
+{17:8} Liberalite is a precious stone vnto him that hath it, for where so euer he becometh, he prospereth.
+{17:9} Who so couereth another mans offence, seketh loue: but he yt discloseth the faute, setteth frendes at variaunce.
+{17:10} One reprofe only doth more good to him yt hath vnderstodinge, then an C. stripes vnto a foole.
+{17:11} A sedicious personne seketh myschefe, but a cruell messaunger shal be sent agaynst him.
+{17:12} It were better to come agaynst a she Bere robbed of hir whelpes, then agaynst a foole in his foolishnes.
+{17:13} Who so rewardeth euell for good, the plage shal not departe fro his house.
+{17:14} He yt soweth discorde & strife, is like one yt dyggeth vp a water broke: but an open enemie is like the water yt breaketh out & reneth abrode.
+{17:15} The LORDE hateth as well him yt iustifieth ye vngodly, as him yt condempneth the innocet.
+{17:16} What helpeth it to geue a foole money in his hode, where as he hath no mynde to bye wysdome?
+{17:17} He is a frende that allwaye loueth, and in aduersite a man shal knowe who is his brother.
+{17:18} Who so promiseth by the hande, & is suertie for another, he is a foole.
+{17:19} He yt loueth strife, delyteth in synne: & who so setteth his dore to hye, seketh after a fall.
+{17:20} Who so hath a frowarde herte, opteyneth no good: and he yt hath an ouerthwarte tonge, shal fall into myschefe.
+{17:21} An vnwyse body bryngeth himselfe in to sorowe, and ye father of a foole can haue no ioye.
+{17:22} A mery herte maketh a lusty age, but a sorowfull mide dryeth vp ye bones.
+{17:23} The vngodly taketh giftes out of the bosome, to wraist the wayes of iudgment.
+{17:24} wysdome shyneth in ye face of him yt hath vnderstondinge, but ye eyes of fooles wandre thorow out all lodes.
+{17:25} An vndiscrete sonne is a grefe vnto his father, and heuynesse vnto his mother yt bare him.
+{17:26} To punysh ye innocent, and to smyte ye prynces yt geue true iudgmet, are both euell.
+{17:27} He is wyse and discrete, yt tempereth his wordes: and he is a ma of vnderstodinge, yt maketh moch of his sprete.
+{17:28} Yee a very foole (when he holdeth his tonge) is counted wyse, and to haue vnderstodinge, when he shutteth his lippes.
+{18:1} Who so hath pleasure to sowe discorde, piketh a quarell in euery thinge.
+{18:2} A foole hath no delyte in vnderstodinge, but only in those thinges wherin his herte reioyseth.
+{18:3} Where vngodlynes is, there is also disdayne: & so there foloweth shame & dishonor.
+{18:4} The wordes of a mas mouth are like depe waters, and the well of wysdome is like a full streame.
+{18:5} It is not good to regarde ye personne of the vngodly, or to put backe ye righteous in iudgmet.
+{18:6} A fooles lippes are euer brawlinge, and his mouth prouoketh vnto batayll.
+{18:7} A fooles mouth is his owne destruccion, and his lippes are ye snare for his owne soule.
+{18:8} The wordes of a slaunderer are very woudes, and go thorow vnto the ynmost partes of the body.
+{18:9} Who so is slouthfull and slacke in his labor, is ye brother of him ye is a waister.
+{18:10} The name of ye LORDE is a stronge castell, ye righteous flyeth vnto it, and shalbe saued.
+{18:11} But ye rich mas goodes are his stronge holde, yee he taketh them for an hye wall roude aboute him.
+{18:12} After pryde cometh destruccio, and honor after lowlynes.
+{18:13} He that geueth sentece in a matter before he heare it, is a foole, and worthy to be confounded.
+{18:14} A good stomacke dryueth awaye a mas disease, but wha ye sprete is vexed, who maye abyde it?
+{18:15} A wyse herte laboureth for knowlege, and a prudent eare seketh vnderstondinge.
+{18:16} Liberalite bryngeth a man to honor and worshipe, & setteth him amonge greate men.
+{18:17} The righteous accuseth hi self first of all, yf his neghbor come, he shal fynde him.
+{18:18} The lot pacifieth ye variauce, & parteth ye mightie asunder.
+{18:19} The vnite of brethren is stronger then a castell, and they that holde together are like the barre of a palace.
+{18:20} A mans bely shalbe satisfied with the frute of his owne mouth, and with the increase of his lippes shal he be fylled.
+{18:21} Death and life stonde in the power of the tonge, he that loueth it, shal enioye the frute therof.
+{18:22} Who so fyndeth a wife fyndeth a good thynge, & receaueth an wholsome benefite of the LORDE.
+{18:23} The poore maketh supplicacion and prayeth mekely, but the riche geueth a rough answere.
+{18:24} A frende that delyteth in loue, doth a man more fredshipe, and sticketh faster vnto him then a brother.
+{19:1} Better is the poore that lyueth godly, the the blasphemer that is but a foole.
+{19:2} Where no discrecion is, there the soule is not well: and who so is swifte on fote, stombleth hastely.
+{19:3} Foolishnesse maketh a man to go out of his waye, & then is his herte vnpacient agaynst the LORDE.
+{19:4} Riches make many frendes, but the poore is forsake of his owne frendes.
+{19:5} A false wytnesse shal not remayne vnpunyshed, and he that speaketh lyes shal not escape.
+{19:6} The multitude hageth vpo greate men, & euery man fauoureth him that geueth rewardes.
+{19:7} As for the poore, he is hated amonge all his brethren: yee his owne frendes forsake him, & he that geueth credece vnto wordes, getteth nothinge.
+{19:8} He that is wyse, loueth his owne soule: and who so hath vnderstondinge, shal prospere.
+{19:9} A false wytnesse shal not remayne vnpunyshed, & he yt speaketh lyes shal perishe.
+{19:10} Delicate ease becometh not a foole, moch more vnsemely is it, a bonde man to haue ye rule of prynces.
+{19:11} A wyse man putteth of displeasure, & it is his honor to let some fautes passe.
+{19:12} The kynges disfauor is like ye roaringe of a Lyo, but his fredshpe is like the dewe vpo ye grasse.
+{19:13} An vndiscrete sonne is ye heuynes of his father, & a braulynge wife is like the topp of an house, where thorow it is euer droppynge.
+{19:14} House & riches maye a ma haue by ye heretage of his elders, but a discrete woma is the gifte of the LORDE.
+{19:15} Slouthfulnes bryngeth slepe, & an ydell soule shal suffer hoger.
+{19:16} Who so kepeth the comaundemet, kepeth his owne soule: but he yt regardeth not his waye, shal dye.
+{19:17} He yt hath pitie vpon the poore, ledeth vnto ye LORDE: & loke what he layeth out, it shalbe payed him agayne.
+{19:18} Chaste yi sonne whyle there is hope, but let not yi soule be moued to slaye hi.
+{19:19} For greate wrath bryngeth harme, therfore let him go, and so mayest thou teach him more nurtoure.
+{19:20} O geue eare vnto good councell, & be content to be refourmed, that thou mayest bewyse here after.
+{19:21} There are many deuices in a mas herte, neuertheles the coucell of ye LORDE shal stode.
+{19:22} It is a mans worshipe to do good, & better it is to be a poore ma, then a dyssembler.
+{19:23} The feare of the LORDE preserueth the life, yee it geueth pleteousnes, without the visitacio of any plage.
+{19:24} A slouthfull body shuteth his honde in to his bosome, so yt he can not put it to his mouth.
+{19:25} Yf thou smytest a scorneful personne, the ignoraut shal take better hede: & yf thou reprouest one yt hath vnderstondinge, he wil be ye wyser.
+{19:26} He yt hurteth his father or shuteth out his mother, is a shamefull & an vnworthy sonne.
+{19:27} My sonne, heare nomore the doctrine yt leadeth the awaye from the wordes of vnderstondinge.
+{19:28} A false wytnes laugheth iudgmet to scorne, & the mouth of the vngodly eateth vp wickednes.
+{19:29} Punyshmentes are ordened for the scornefull, and stripes for fooles backes.
+{20:1} Wyne is a voluptuous thinge, & drockennes causeth sedicion: who so delyteth therin, shal neuer be wyse.
+{20:2} The kynge ought to be feared as the roaringe of a lyon, who so prouoketh him vnto anger, offendeth agaynst his owne soule.
+{20:3} It is a mans honoure to kepe himself from strife, but they yt haue pleasure in braulinge, are fooles eueryone.
+{20:4} A slouthfull body wyl not go to plowe for colde, therfore shal he go abegginge in Sommer, and haue nothinge.
+{20:5} Wyse councell in the herte of man is like a water in the depe of the earth, but he that hath vnderstondinge, bryngeth it forth.
+{20:6} Many there be that are called good doers, but where shal one fynde a true faithful ma?
+{20:7} Who so ledeth a godly and an innocent life, happie shal his children be, whom he leaueth behynde him.
+{20:8} A kynge that sytteth in iudgment, and loketh well aboute him, dryueth awaye all euell.
+{20:9} Who can saye: my hert is cleane, I am innocent from synne?
+{20:10} To vse two maner of weightes, or two maner of measures, both these are abhominable vnto the LORDE.
+{20:11} A childe is knowne by his conuersacion, whether his workes be pure and right.
+{20:12} As for the hearinge of the eare & the sight of ye eye, ye LORDE hath made the both.
+{20:13} Delyte not thou in slepe, lest thou come vnto pouerte: but ope thine eyes, & thou shalt haue bred ynough.
+{20:14} It is naught, It is naught (saye men) whan they haue it, but whan it is gone, they geue it a good worde.
+{20:15} A mouth of vnderstodinge is more worth then golde, many precious stones, and costly Iewels.
+{20:16} Take his garment that is suertie for a straunger, & take a pledge of him for ye vnknowne mans sake.
+{20:17} Euery ma liketh the bred that is gotten with disceate, but at the last is mouth shalbe fylled with grauell.
+{20:18} Thorow councell the thinges that men deuyse go forwarde: & with discrecion ought warres to be taken in honde.
+{20:19} Medle not with him that bewrayeth secretes, and is a slaunderer, and disceaueth with his lippes.
+{20:20} Who so curseth his father and mother, his light shalbe put out in the myddest of darcknesse.
+{20:21} The heretage that commeth to haistely at the first, shal not be praysed at the ende.
+{20:22} Saye not thou: I will recompence euell, but put yi trust in the LORDE, & he shal defende ye.
+{20:23} The LORDE abhorreth two maner of weightes, and a false balauce is an euell thinge.
+{20:24} The LORDE ordreth euery mas goinges, for what is he, that vnderstondeth his owne wayes?
+{20:25} It is a snare for a man to blaspheme that which is holy, & then to go aboute wt vowes.
+{20:26} A wyse kynge destroyeth ye vngodly, & bryngeth the whele ouer them.
+{20:27} The lanterne of ye LORDE is ye breth of man, & goeth thorow all the inwarde partes of the body.
+{20:28} Mercy & faithfulnes preserue the kynge, & with louynge kyndnes his seate is holden vp.
+{20:29} The strength of yonge men is their worshipe, & a gray heade, is an honor vnto ye aged.
+{20:30} Woundes dryue awaye euell, and so do stripes the inwarde partes of the body.
+{21:1} The kynges hert is in the hande of the LORDE, like as are the ryuers of water: he maye turne it whyther so euer he wyll.
+{21:2} Euery man thinketh his owne waye to be right, but the LORDE iudgeth ye hertes.
+{21:3} To do rightuousnesse and iudgmet is more acceptable to the LORDE the sacrifice.
+{21:4} A presumptuous loke, a proude stomacke, & the lanterne of the vngodly is synne.
+{21:5} The deuyses of one that is diligent, brynge plenteousnes: but he yt is vnaduysed, commeth vnto pouerte.
+{21:6} Who so hoordeth vp riches wt ye disceatfulnes of his tonge, he is a foole, & like vnto them that seke their owne death.
+{21:7} The robberies of the vngodly shalbe their owne destruccion, for they wolde not do the thynge that was right.
+{21:8} The wayes of the frowarde are straunge, but ye workes of him yt is cleane, are right.
+{21:9} It is better to dwell in a corner vnder ye house toppe, then with a braulinge woman in a wyde house.
+{21:10} The soule of the vngodly wysheth euell, and hath no pitie vpon his neghboure.
+{21:11} When the scornefull is punyshed, the ignoraunt take ye better hede: & when a wyse man is warned, he wil receaue the more vnderstondinge.
+{21:12} The rightuous enfourmeth the house of the vngodly, but ye vngodly go on still after their owne wickednesse.
+{21:13} Who so stoppeth his eare at the criege of the poore, he shal crie himself and not be herde.
+{21:14} A preuy rewarde pacifieth displeasure, and a gifte in the bosome stilleth furiousnesse.
+{21:15} The iust delyteth in doynge the thynge that is right, but the workers of wickednesse abhorre the same.
+{21:16} The man that wandreth out of the waye of wysdome, shal remayne in the cogregacion of ye deed.
+{21:17} He yt hath pleasure in banckettes, shal be a poore man: Who so delyteth in wyne and delicates, shal not be riche.
+{21:18} The vngodly shalbe geuen for the rightuous, & the wicked for the iust.
+{21:19} It is better to dwell in a wyldernesse, the with a chydinge and an angrie woman.
+{21:20} In a wyse mans house there is greate treasure and plenteousnesse, but a foolish body spendeth vp all.
+{21:21} Who so foloweth rightuousnesse and mercy, fyndeth both life, rightuousnesse and honor.
+{21:22} A wyse man wynneth the cite of the mightie, and as for the strength yt they trust in, he bryngeth it downe.
+{21:23} Who so kepeth his mouth and his tonge, the same kepeth his soule from troubles.
+{21:24} He yt is proude & presumptuous, is called a scornefull ma, which in wrath darre worke maliciously.
+{21:25} The voluptuousnesse of the slouthfull is his owne death, for his hades wyll not labor.
+{21:26} He coueteth and desyreth all the daye longe, but the rightuous is allwaye geuynge & kepeth nothinge backe.
+{21:27} The sacrifice of the vngodly is abhominacion, for they offre the thinge yt is gotten wt wickednes.
+{21:28} A false wytnesse shal perishe, but he yt wilbe content to heare, shal allwaye haue power to speake himself.
+{21:29} An vngodly man goeth forth rashly, but the iust refourmeth his owne waye.
+{21:30} There is no wysdome, there is no vnderstondinge, there is no councell agaynst the LORDE.
+{21:31} The horse is prepared agaynst ye daye of battayll, but the LORDE geueth the victory.
+{22:1} A good name is more worth then greate riches, and louynge fauor is better then syluer and golde.
+{22:2} Whether riches or pouerte do mete vs, it commeth all of God.
+{22:3} A wyse man seyth the plage and hydeth himself, but the foolish go on still and are punyshed.
+{22:4} The ende of lowlynes & the feare of God, is riches, honor, prosperite and health.
+{22:5} Speares and snares are in ye waye of the frowarde, but he yt wil kepe his soule, let him fle fro soch.
+{22:6} Yf thou teachest a childe in his youth what waye he shulde go, he shall not leaue it when he is olde.
+{22:7} The rich ruleth the poore, and ye borower is seruaunt to ye lender.
+{22:8} He yt soweth wickednesse, shal reape sorowe, & the rodde of his plage shal destroye him.
+{22:9} A louynge eye shalbe blessed, for he geueth of his bred vnto ye poore.
+{22:10} Cast out ye scornefull man, and so shal strife go out wt him, yee variaunce and slaunder shal cease.
+{22:11} Who so delyteth to be of a clene herte and of gracious lyppes, ye kynge shal be his frende.
+{22:12} The eyes of ye LORDE preserue knowlege, but as for ye wordes of ye despyteful, he bryngeth them to naught.
+{22:13} The slouthfull body sayeth: there is a lyo wt out, I might be slayne in ye strete.
+{22:14} The mouth of an harlot is a depe pytt, wherin he falleth that ye LORDE is angrie withall.
+{22:15} Foolishnes sticketh in the herte of ye lad, but ye rod of correccion driueth it awaye.
+{22:16} Who so doth a poore man wronge to increase his owne riches, geueth (comoly) vnto the rich, and at the last commeth to pouerte himself.
+{22:17} My sonne, bowe downe thine eare, and herken vnto the wordes of wysdome, applye yi mynde vnto my doctryne:
+{22:18} for it is a pleasaunt thinge yf thou kepe it in thine herte, and practise it in thy mouth:
+{22:19} that thou mayest allwaye put yi trust in the LORDE.
+{22:20} Haue not I warned ye very oft with councell and lerninge?
+{22:21} yt I might shewe ye the treuth and that thou wt the verite mightest answere them yt laye eny thinge against ye?
+{22:22} Se yt thou robbe not ye poore because he is weake, and oppresse not ye simple in iudgment:
+{22:23} for ye LORDE himself wyl defende their cause, and do violence vnto them yt haue vsed violence.
+{22:24} Make no fredshipe with an angrie wylfull man, and kepe no company wt ye furious:
+{22:25} lest thou lerne his wayes, and receaue hurte vnto thy soule.
+{22:26} Be not thou one of them yt bynde ther hande vpo promyse, and are suertie for dett:
+{22:27} for yf thou hast nothinge to paye, they shal take awaye thy bed from vnder the.
+{22:28} Thou shalt not remoue the lande marcke, which thy fore elders haue sett.
+{22:29} Seist thou not, yt they which be diligent in their busines stonde before kynges, and not amonge the symple people?
+{23:1} When thou syttest at the table to eate wt a lorde, ordre thy self manerly wt ye thinges
+{23:2} that are set before ye Measure thine appetite:
+{23:3} and yf thou wilt rule thine owne self, be not ouer gredy of his meate, for meate begyleth and disceaueth.
+{23:4} Take not ouer greate trauayle and labor to be riche, bewarre of soch a purpose.
+{23:5} Why wilt thou set thine eye vpon ye thinge, which sodenly vanisheth awaye? For riches make them selues wynges, and take their flight like an Aegle in to ye ayre.
+{23:6} Eate not thou wt ye envyous, and desyre no his meate,
+{23:7} for he hath a maruelous herte. He sayeth vnto ye: eate and drynke, where as his herte is not wt ye.
+{23:8} Yee ye morsels that thou hast eaten shalt thou perbreake, and lese those swete wordes.
+{23:9} Tel nothinge in to ye eares of a foole, for he wyl despyse the wysdome of thy wordes.
+{23:10} Remoue not ye olde lande marke, and come not within ye felde of the fatherlesse:
+{23:11} For he yt deliuereth them is mightie, euen he shal defende their cause agaynst the.
+{23:12} Applie thine herte vnto lernynge, and thine eare to the wordes of knowlege.
+{23:13} Witholde not correccion from ye childe, for yf thou beatest him wt the rodde, he shal not dye therof.
+{23:14} Thou smytest him wt the rodde, but thou delyuerest his soule from hell.
+{23:15} My sonne, yf yi herte receaue wysdome, my herte also shal reioyce:
+{23:16} yee my reynes shalbe very glad, yf yi lyppes speake the thinge yt is right.
+{23:17} Let not thine herte be gelous to folowe synners, but kepe ye still in the feare of the LORDE all the daye loge:
+{23:18} for the ende is not yet come, and thy pacient abydinge shal not be in vayne.
+{23:19} My sonne, ue eare & be wyse, so shal thine hert prospere in the waye.
+{23:20} Kepe no company wt wyne bebbers and ryotous eaters of flesh:
+{23:21} for soch as be dronckardes and ryotous, shal come to pouerte, & he that is geuen to moch slepe, shal go wt a ragged cote.
+{23:22} Geue eare vnto thy father that begat the, and despyse not thy mother whan she is olde.
+{23:23} Labor for to get ye treuth: sell not awaye wysdome, nourtor & vnderstodinge
+{23:24} (for a righteous father is maruelous glad of a wyse sonne, & delyteth in hi)
+{23:25} so shal thy father be glad, and thy mother that bare the, shal reioyse.
+{23:26} My sonne, geue me thyne herte, and let thine eyes haue pleasure in my wayes.
+{23:27} For an whore is a depe graue, and an harlot is a narow pytt.
+{23:28} She lurketh like a thefe, and those that be not awarre she brigeth vnto her.
+{23:29} Where is wo? where is sorow? where is strife? where is braulynge? where are woundes without cause? where be reed eyes?
+{23:30} Euen amonge those that be euer at the wyne, and seke out where the best is.
+{23:31} Loke not thou vpon the wyne, how reed it is, and what a color it geueth in the glasse.
+{23:32} It goeth downe softly, but at the last it byteth like a serpet, and styngeth as an Adder.
+{23:33} So shal thine eyes loke vnto straunge women, & thine herte shal muse vpon frowarde thinges.
+{23:34} Yee thou shalt be as though thou slepte, in ye myddest of ye see, or vpo ye toppe of the mast.
+{23:35} They wounded me (shalt thou saie) but it hath not hurte me, they smote me, but I felt it not. Whe I am wel wakened, I wil go to ye drynke agayne.
+{24:1} Be not thou gelous ouer wicked me, & desyre not thou to be amonge them.
+{24:2} For their herte ymagineth to do hurte, & their lippes talke of myschefe.
+{24:3} Thorow wysdome an house shalbe buylded, & wt vnderstondinge it shalbe set vp.
+{24:4} Thorow discrecion shal ye chabers be fylled wt all costly & pleasaunt riches.
+{24:5} A wyse ma is stroge, yee a ma of vnderstodinge is better, the he yt is mightie of stregth.
+{24:6} For with discrecion must warres be take in honde, and where as are many yt can geue councell, there is ye victory.
+{24:7} wysdome is an hie thinge, yee eue to ye foole, for he darre not ope his mouth in ye gate.
+{24:8} He yt ymagineth myschefe, maye wel be called an vngracious personne.
+{24:9} The thoughte of ye foolish is synne, & ye scornefull is an abhominacion vnto me.
+{24:10} Yf thou be ouersene & necliget in tyme of nede, the is thy stregth but small.
+{24:11} Delyuer the yt go vnto death, & are led awaie to be slaine, & be not necliget therin.
+{24:12} Yf thou wilt saye: I knewe not of it. Thynkest thou yt he which made ye hertes, doth not cosidre it? & yt he which regardeth yi soule, seith it not? Shal not he recopence euery man acordinge to his workes?
+{24:13} My sonne, thou eatest hony & ye swete hony cobe, because it is good & swete in thy mouth.
+{24:14} Euen so shall ye knowlege of wysdome be vnto yi soule, as soone as thou hast gotte it. And there is good hope, yee yi hope shal not be in vayne.
+{24:15} Laye no preuy waite wickedly vpon ye house of ye rightuous, & disquiete not his restinge place.
+{24:16} For a iust ma falleth seuen tymes, & ryseth vp agayne, but ye vngodly fall in to wickednes.
+{24:17} Reioyce not thou at ye fall of thine enemie, and let not thine herte be glad whan he stombleth.
+{24:18} Lest ye LORDE (when he seyth it) be angrie, & turne his wrath from him vnto the.
+{24:19} Let not yi wrath & gelousy moue ye, to foolow ye wicked and vngodly.
+{24:20} And why? ye wicked hath nothinge to hope for, & ye cadle of the vngodly shall be put out.
+{24:21} My sonne, feare thou ye LORDE & ye kinge, & kepe no copany wt ye slaunderous:
+{24:22} for their destruccion shal come sodenly, & who knoweth ye fall of the both?
+{24:23} These are also ye saieges of ye wyse. It is not good, to haue respecte of any personne in iudgmet.
+{24:24} He yt saieth to ye vngodly: thou art rightuous, him shall the people curse, yee ye comotie shal abhorre him.
+{24:25} But they yt rebuke ye vngodly shalbe comended, & a riche blessinge shal come vpo the.
+{24:26} He maketh him self to be well loued, that geueth a good answere.
+{24:27} First make vp yi worke yt is wt out, & loke well vnto yt which thou hast in ye felde, & the buylde thine house.
+{24:28} Be no false wytnesse agaynst yi neghbor, & hurte him not wt yi lyppes.
+{24:29} Saye not: I wil hadle him, eue as he hath dealte wt me, & wil rewarde euery ma acordinge to his dedes.
+{24:30} I wente by ye felde of ye slouthfull, & by ye vynyarde of the foolish ma.
+{24:31} And lo, it was all couered wt nettels, & stode full of thistles, & ye stone wall was broke downe.
+{24:32} This I sawe, & cosidered it wel: I loked vpo it, & toke it for a warnynge.
+{24:33} Yee slepe on still a litle, slobre a litle, folde thine hodes together yet a litle:
+{24:34} so shall pouerte come vnto the as one yt trauayleth by ye waye, & necessite like a wapened man.
+{25:1} These also are Salomons prouerbes, which the men of Ezechias kinge of Iuda gathered together.
+{25:2} It is the honor of God to kepe a thinge secrete, but ye kinges honor is to search out a thinge.
+{25:3} The heauen is hie, ye earth is depe, and ye kinges hert is vnsearcheable.
+{25:4} Take ye drosse from ye syluer, & there shalbe a cleane vessell therof.
+{25:5} Take awaye vngodlinesse fro ye kynge, & his seate shal be stablished wt rightuousnes.
+{25:6} Put not forth yi self in ye presence of ye kynge, & prease not in to ye place of greate men.
+{25:7} Better it is yt it be sayde vnto ye: come vp hither, then thou to be set downe in ye presence of ye prynce, whom thou seyst with thine eyes.
+{25:8} Be not haistie to go to the lawe, lest happlie thou ordre yi self so at ye last, yt thy neghbor put ye to shame.
+{25:9} Handle thy matter wt yi neghbor himself, & discouer not another mans secrete:
+{25:10} lest whan men heare therof, it turne to yi dishonor, & lest thine euell name do not ceasse.
+{25:11} A worde spoken in due season, is like apples of golde in a syluer dyshe.
+{25:12} The correccion of the wyse is to an obedient eare, a golden cheyne and a Iewel of golde.
+{25:13} Like as the wynter coole in the haruest, so is a faithfull messaunger to him that sent him, & refressheth his masters mynde.
+{25:14} Who so maketh greate boastes & geueth nothinge, is like cloudes & wynde without rayne.
+{25:15} With pacience maye a prynce be pacified, & wt a soft tonge maye rigorousnes be broke.
+{25:16} Yf thou findest hony, eate so moch as is sufficiet for ye: lest thou be ouer full, & perbreake it out againe.
+{25:17} Withdrawe yi foote fro thy neghbours house, lest he be weery of the, and so abhorre the.
+{25:18} Who so beareth false wytnesse agaynst his neghboure, he is a very speare, a swearde & a sharpe arowe.
+{25:19} The hope of the vngodly in tyme of nede, is like a rotten toth and a slippery foote.
+{25:20} Who so syngeth a songe to a wicked herte, clotheth hi with ragges in the colde, and poureth vyneger vpon chalke.
+{25:21} Yf thine enemie honger, fede him: yf he thyrst, geue him drynke:
+{25:22} for so shalt thou heape coales offyre vpo his heade, and the LORDE shal rewarde the.
+{25:23} The north wynde dryueth awaye the rayne, euen so doth an earnest sober countenauce a backbyters tonge.
+{25:24} It is better to syt in a corner vnder the rofe, then wt a braulynge woman in a wyde house.
+{25:25} A good reporte out of a farre countre, is like colde water to a thyrstie soule.
+{25:26} A righteous man fallynge downe before the vngodly, is like a troubled well and a sprynge yt is destroyed.
+{25:27} Like as it is not good to eate to moch hony, euen so he that wyll search out hye thynges, it shal be to heuy for him.
+{25:28} He that can not rule himself, is like a cite, which is broken downe, and hath no walles.
+{26:1} Like as snowe is not mete in sommer, ner rayne in haruest: euen so is worshipe vnsemely for a foole.
+{26:2} Like as ye byrde and the swalowe take their flight and fle here and there, so the curse that is geuen in vayne, shal not light vpon a man.
+{26:3} Vnto the horse belongeth a whyppe, to the Asse a brydle, and a rodde to the fooles backe.
+{26:4} Geue not the foole an answere after his foolishnesse, lest thou become like vnto him:
+{26:5} but make ye foole an answere to his foolishnesse, lest he be wyse in his owne coceate.
+{26:6} He is lame of his fete, yee droncken is he in vanite, that comitteth eny thinge to a foole.
+{26:7} Like as it is an vnsemely thige to haue legges & yet to halte, eue so is a parable in ye fooles mouth.
+{26:8} He yt setteth a foole in hye dignite, yt is eue as yf a man dyd cast a precious stone vpo ye galous.
+{26:9} A parable in a fooles mouth, is like a thorne yt pricketh a droncken man in ye hande.
+{26:10} A man of experience discerneth all thinges well, but whoso hyreth a foole, hyreth soch one as wyl take no hede.
+{26:11} Like as the dogg turneth agayne to his vomite, euen so a foole begynneth his foolishnesse agayne afresh.
+{26:12} Yf thou seyest a man yt is wyse in his owne conceate, there is more hope in a foole then in hi.
+{26:13} The slouthfull sayeth: there is a leoparde in ye waye, and a lyon in ye myddest of the stretes.
+{26:14} Like as the dore turneth aboute vpon the tresholde, euen so doth the slouthfull welter himself in his bedd.
+{26:15} The slouthfull body thrusteth his hode in to his bosome, and it greueth him to put it agayne to his mouth.
+{26:16} The slogarde thinketh him self wyser, then vij. men that sytt and teach.
+{26:17} Who so goeth by and medleth with other mens strife, he is like one yt taketh a dogg by ye eares.
+{26:18} Like as one shuteth deadly arowes and dartes out of a preuy place, euen so doth a dyssembler with his neghboure,
+{26:19} And then sayeth he: I dyd it but in sporte.
+{26:20} Where no wodd is, there the fyre goeth out: and where the bacbyter is taken awaye, there the strife ceaseth.
+{26:21} Coles kyndle heate, and wodd ye fyre: euen so doth a braulinge felowe stere vp variaunce.
+{26:22} A slaunderers wordes are like flatery, but they pearse ye inwarde partes of ye body.
+{26:23} Venymous lippes & a wicked herte, are like a potsherde couered wt syluer drosse.
+{26:24} An enemie dyssembleth with his lippes, and in the meane season he ymagineth myschefe:
+{26:25} but wha he speaketh fayre, beleue him not, for there are seuen abhominacios in his herte.
+{26:26} Who so kepeth euell will secretly to do hurte, his malyce shalbe shewed before the whole congregacion.
+{26:27} Who so dyggeth vp a pytt, shal fal therin: and he yt weltreth a stone, shal stomble vpon it hymselfe.
+{26:28} A dyssemblynge tonge hateth one that rebuketh him, and a flaterige mouth worketh myschefe.
+{27:1} Make not thy boost of tomorow, for thou knowest not what maye happen todaye.
+{27:2} Let another ma prayse the, & not thine owne mouth: yee other folkes lippes, and not thyne.
+{27:3} The stone is heuy, and the sonde weightie: but a fooles wrath is heuyer then they both.
+{27:4} Wrath is a cruell thige, and furiousnesse is a very tempest: yee who is able to abyde envye?
+{27:5} An open rebuke is better, then a secrete loue.
+{27:6} Faithfull are the woundes of a louer, but ye kysses of an enemie are disceatfull.
+{27:7} He that is full, abhorreth an hony combe: but vnto him that is hogrie, euery sower thinge is swete.
+{27:8} He that oft tymes flytteth, is like a byrde yt forsaketh hir nest.
+{27:9} The herte is glad of a swete oyntment and sauoure, but a stomacke that ca geue good councell, reioyseth a mans neghboure.
+{27:10} Thyne owne frende and thy fathers frende se thou forsake not, but go not in to thy brothers house in tyme of thy trouble. Better is a frende at hode, then a brother farre of.
+{27:11} My sonne, be wyse, and thou shalt make me a glad herte: so that I shal make answere vnto my rebukers.
+{27:12} A wyse man seynge the plage wyl hyde him self, as for fooles they go on still, and suffer harme.
+{27:13} Take his garment that is suertie for a straunger, & take a pledge of him for the vnknowne mans sake.
+{27:14} He that is to hastie to praise his neghboure aboue measure, shalbe taken as one yt geueth him an euell reporte.
+{27:15} A brawlynge woman and the rofe of the house droppynge in a raynie daye, maye well be compared together.
+{27:16} He that refrayneth her, refrayneth the wynde, and holdeth oyle fast in his hode.
+{27:17} Like as one yro whetteth another, so doth one man comforte another.
+{27:18} Who so kepeth his fyge tre, shal enioye the frutes therof: he that wayteth vpon his master, shal come to honoure.
+{27:19} Like as in one water there apeare dyuerse faces, eue so dyuerse men haue dyuerse hertes.
+{27:20} Like as hell & destruccion are neuer full, euen so the eyes of me can neuer be satisfied.
+{27:21} Syluer is tryed in the moulde, & golde in the fornace, & so is a man, whan he is openly praysed to his face.
+{27:22} Though thou shuldest bray a foole wt a pestell in a morter like otemeell, yet wil not his foolishnesse go from him.
+{27:23} Se yt thou knowe the nombre of thy catell thy self, and loke well to thy flockes.
+{27:24} For riches abyde not allwaye, & the crowne endureth not for euer.
+{27:25} The hay groweth, ye grasse cometh vp, & herbes are gathered in ye mountaines.
+{27:26} The lambes shal clothe the, & for the goates thou shalt haue money to yi husbondry.
+{27:27} Thou shalt haue goates mylck ynough to fede the, to vpholde thy husholde, & to susteyne thy maydens.
+{28:1} The vngodly flyeth no man chasynge him, but the rightuous stondeth stiff as a lyon.
+{28:2} Because of synne ye londe doth oft chaunge hir prynce: but thorow men of vnderstondinge & wysdome a realme endureth longe.
+{28:3} One poore man oppressinge another by violence, is like a contynuall rayne that destroyeth ye frute.
+{28:4} They that forsake the lawe, prayse ye vngodly; but soch as kepe the lawe, abhorre them.
+{28:5} Wicked men discerne not the thinge yt is right, but they that seke after the LORDE, discusse all thinges.
+{28:6} A poore man ledynge a godly life, is better then the riche that goeth in frowarde wayes.
+{28:7} Whoso kepeth the lawe, is a childe of vnderstondinge: but he yt fedeth ryotous men, shameth his father.
+{28:8} Who so increaseth his riches by vautage & wynnynge, let him gather them to helpe the poore withall.
+{28:9} He that turneth awaye his eare from hearinge ye lawe, his prayer shalbe abhorred.
+{28:10} Who so ledeth ye rightuous in to an euell waye, shal fall in to his owne pytt, but ye iust shal haue the good in possession.
+{28:11} The rich man thynketh him self to be wyse, but the poore that hath vnderstondinge, ca perceaue him wel ynough.
+{28:12} When rightuous men are in prosperite, the doth honoure florish: but when the vngodly come vp, ye state of men chaungeth.
+{28:13} He that hydeth his synnes, shall not prospere: but who so knowlegeth them and forsaketh them, shall haue mercy.
+{28:14} Well is him that stodeth allwaye in awe: as for him that hardeneth his herte, he shal fall in to mischefe.
+{28:15} Like as a roaringe lyon and an hongrie beer, euen so is an vngodly prynce ouer the poore people.
+{28:16} Where the prynce is without vnderstondinge, there is greate oppression & wronge: but yf he be soch one as hateth couetousnesse, he shal longe raigne.
+{28:17} He that by violece sheddeth eny mans bloude, shal be a rennagate vnto his graue, and no man shal be able to sucor him.
+{28:18} Who so leadeth a godly and an innocet life, shalbe safe: but he that goeth frowarde wayes, shall once haue a fall.
+{28:19} He yt tylleth his londe, shal haue plenteousnesse of bred: but he that foloweth ydilnesse, shal haue pouerte ynough.
+{28:20} A faithfull man is greatly to be commeded, but he that maketh to moch haist for to be riche, shal not be vngiltie.
+{28:21} To haue respecte of personnes in iudgment is not good: And why? he will do wronge, yee euen for a pece of bred.
+{28:22} He that will be rich all to soone, hath an euell eye, and considereth not, that pouerte shall come vpon him.
+{28:23} He that rebuketh a man, shall fynde more fauoure at ye last, the he that flatreth him.
+{28:24} Who so robbeth his father and mother, and sayeth it is no synne: the same is like vnto a mortherer.
+{28:25} He that is of a proude stomacke, stereth vp strife: but he that putteth his trust in ye LORDE, shalbe well fedd.
+{28:26} He that trusteth in his owne hert, is a foole: but he that dealeth wisely, shalbe safe.
+{28:27} He that geueth vnto the poore, shal not wante: but he that turneth awaye his eyes from soch as be in necessite, shall suffre greate pouerte himself.
+{28:28} Whan the vngodly are come vp, men are fayne to hyde them selues: but whe they perish, the rightuous increase.
+{29:1} He that is stiffnecked & wyll not be refourmed, shal sodenly be destroyed wt out eny helpe.
+{29:2} Where ye rightuous haue the ouer hande, ye people are in prosperite: but where the vngodly beareth rule, there ye people mourne.
+{29:3} Who so loueth wysdome, maketh his father a glad man: but he yt kepeth harlottes, spedeth awaye yt he hath.
+{29:4} With true iudgment ye kynge setteth vp the londe, but yf he be a man yt taketh giftes, he turneth it vpsyde downe.
+{29:5} Who so flatreth his neghbor, layeth a nette for his fete.
+{29:6} The synne of ye wicked is his owne snare, but ye righteous shal be glad and reioyse.
+{29:7} The righteous considreth the cause of the poore, but the vngodly regardeth no vnderstondynge.
+{29:8} Wicked people brynge a cite in decaye, but wyse men set it vp agayne.
+{29:9} Yf a wyse man go to lawe with a foole (whether he deale with him frendly or roughly) he getteth no rest.
+{29:10} The bloudethyrstie hate the rightuous, but the iust seke his soule.
+{29:11} A foole poureth out his sprete alltogether, but a wyse man kepeth it in till afterwarde.
+{29:12} If a prynce delyte in lyes, all his seruauntes are vngodly.
+{29:13} The poore and the lender mete together, the LORDE lighteneth both their eyes.
+{29:14} The seate of the kinge yt faithfully iudgeth the poore, shal continue sure for euermore.
+{29:15} The rodde and correccion mynistre wysdome, but yf a childe be not loked vnto, he bryngeth his mother to shame.
+{29:16} When the vngodly come vp, wickednesse increaseth: but the rightuous shall se their fall.
+{29:17} Nurtoure thy sonne with correccion, and he shal comforte the, yee he shal do the good at thine hert.
+{29:18} Where no prophet is, there the people perishe: but well is him that kepeth the lawe.
+{29:19} A seruaut wil not be the better for wordes, for though he vnderstonde, yet wil he not regarde them.
+{29:20} Yf thou seyst a man that is haistie to speake vnaduysed, thou mayest trust a foole more then him.
+{29:21} He that delicately bryngeth vp his seruaunt from a childe, shal make him his master at length.
+{29:22} An angrie man stereth vp strife, and he that beareth euell wyll in his mynde, doth moch euell.
+{29:23} After pryde commeth a fall, but a lowly sprete bryngeth greate worshipe.
+{29:24} Who so kepeth company wt a thefe, hateth his owne soule: he heareth blasphemies, & telleth it not forth.
+{29:25} He that feareth men, shal haue a fall: but who so putteth his trust in the LORDE, shal come to honor.
+{29:26} Many there be that seke ye prynces fauoure, but euery mans iudgment commeth from the LORDE.
+{29:27} The rightuous abhorre the vngodly: but as for those that be in ye right waye, ye wicked hate them.
+{30:1} The wordes of Agur the sonne of Iake. The prophecie of a true faithfull man, who God hath helped, whom God hath coforted & norished.
+{30:2} For though I am ye leest of all, & haue no mas vnderstodige
+{30:3} (for I neuerlerned wisdome) yet haue I vnderstodinge & am wel enfourmed in godly thinges.
+{30:4} Who hath clymmed vp i to heauen? Who hath come downe from thence? Who hath holden ye wynde fast in his hade? Who hath coprehended ye waters in a garment? Who hath set all the endes of ye worlde? What is his name, or his sonnes name? Canst thou tell?
+{30:5} All the wordes of God are pure & cleane, for he is a shylde vnto all them, that put their trust in him.
+{30:6} Put thou nothinge therfore vnto his wordes, lest he reproue the, and thou be founde as a lyar.
+{30:7} Two thinges I requyre of the, that thou wilt not denye me before I dye.
+{30:8} Remoue fro me vanite and lyes: geue me nether pouerte ner riches, only graunte me a necessary lyuynge.
+{30:9} Lest yf I be to full, I denye ye, & saye: what felowe is ye LORDE? And lest I beinge constrayned thorow pouerte, fall vnto stealinge, and forsweare the name of my God.
+{30:10} Accuse not a seruaunt vnto his master, lest he speake euell of the also, and thou be hurte.
+{30:11} He that bryngeth vp an euell reporte vpo the generacion of his father and mother, is not worthy to be commended.
+{30:12} The generacion that thynke them selues cleane, shal not be clensed from their fylthynesse.
+{30:13} There are people yt haue a proude loke, and cast vp their eye lyddes.
+{30:14} This peoples tethe are swerdes, and with their chaft bones they consume and deuoure the symple of the earth, and the poore from amonge me.
+{30:15} This generacion (which is like an horsleche) hath two doughters: ye one is called, fetch hither: the other, brynge hither.
+{30:16} There be thre thinges that are neuer satisfied, and the fourth saieth neuer hoo. The hell, a womans wombe, and the earth hath neuer water ynough. As for fyre, it sayeth neuer: hoo.
+{30:17} Who so laugheth his father to scorne, and setteth his mothers commaudement at naught: the rauens pycke out his eyes in the valley, and deuoured be he of the yongle Aegles.
+{30:18} There be thre thinges to hye for me, and as for the fourth, it passeth my knowlege.
+{30:19} The waye of an Aegle in ye ayre, ye waye of a serpent ouer ye stone, ye waye of a shippe in ye see, & ye waye of a ma wt a yonge woma.
+{30:20} Soch is the waye also of a wyfe yt breaketh wedlocke, which wypeth hir mouth like as wha she hath eate, & sayeth: As for me, I haue done no harme.
+{30:21} Thorow thre thinges the earth is disquieted, & the fourth maye it not beare:
+{30:22} Thorow a seruaut yt beareth rule, thorow a foole yt hath greate riches,
+{30:23} thorow an ydle houswife, & thorow an handmayden yt is heyre to hir mastres.
+{30:24} There be foure thinges in the earth, the which are very litle: but in wysdome they exceade the wyse.
+{30:25} The Emmettes are but a weake people, yet gather they their meate together in ye haruest.
+{30:26} The conyes are but a feble folke, yet make they their couches amonge the rockes.
+{30:27} The greshoppers haue not a gyde, yet go they forth together by heapes.
+{30:28} The spyder laboureth wt hir hades, & yt in ye kynges palace.
+{30:29} There be thre thinges yt go stiffly, but the goinge of the fourth is the goodliest of all.
+{30:30} A Lyon which is kynge of beastes, & geueth place to no man:
+{30:31} A cock ready to fight: A rame: And a kynge yt goeth forth wt his people.
+{30:32} Yf thou be so foolish to magnifie yi self, or medlest wt eny soch thinge, the laye thine hade vpon yi mouth.
+{30:33} Who so chyrneth mylck, maketh butter: he that rubbeth his nose, maketh it blede, and he that causeth wrath, bryngeth forth strife.
+{31:1} These are the wordes of Kynge Lamuel, & ye lesson yt his mother taught him.
+{31:2} My sonne, thou sonne of my body: O my deare beloued sonne,
+{31:3} geue not ouer thy substaunce & mynde vnto women, which are the destruccio eue of kynges.
+{31:4} O Lamuel, geue kinges no wyne, geue kynges & prynces no stronge drynke:
+{31:5} lest they beinge dronken forget the lawe, & regarde not ye cause of the poore, & of all soch as be in aduersite.
+{31:6} Geue stronge drynke vnto soch as are condempned to death, & wyne vnto those yt mourne:
+{31:7} that they maye drynke it, & forget their misery & aduersite.
+{31:8} Be thou an aduocate & stonde in iudgment thyself, to speake for all soch as be dome & sucourles.
+{31:9} With yi mouth defende ye thinge yt is laufull and right, and ye cause of ye poore and helplesse.
+{31:10} Who so fyndeth an honest faithful woma, she is moch more worth the perles.
+{31:11} The herte of hir husbande maye safely trust in her, so that he shal haue no nede of spoyles.
+{31:12} She wil do him good & not euel all ye dayes of hir life.
+{31:13} She occupieth woll & flax, & laboureth gladly wt hir handes.
+{31:14} She is like a marchauntes shippe, that bryngeth hir vytayles from farre.
+{31:15} She is vp in ye night season, to prouyde meate for hir housholde, & foode for hir maydens.
+{31:16} She considreth lode, & byeth it, and wt the frute of hir handes she planteth a vynyarde.
+{31:17} She gyrdeth hir loynes with strength, and courageth hir armes.
+{31:18} And yf she perceaue that hir houswifrie doth good, hir candle goeth not out by night.
+{31:19} She layeth hir fyngers to the spyndle, & hir hande taketh holde of ye rocke.
+{31:20} She openeth hir hande to ye poore, yee she stretcheth forth hir hades to soch as haue nede.
+{31:21} She feareth not yt the colde of wynter shal hurte hir house, for all hir housholde folkes are duble clothed.
+{31:22} She maketh hir self fayre ornametes, hir clothige is whyte sylke & purple.
+{31:23} Hir husbade is moch set by in ye gates, whe he sytteth amonge ye rulers of ye londe.
+{31:24} She maketh cloth of sylke & selleth it, and delyuereth a gyrdle vnto ye marchaut.
+{31:25} Stregth and honoure is hir clothinge, & in the latter daye she shal reioyse.
+{31:26} She openeth hir mouth with wysdome, & in hir toge is the lawe of grace.
+{31:27} She loketh wel to the wayes of hir housholde, & eateth not hir bred with ydilnes.
+{31:28} Hir children arise & call hir blessed, & hir husbande maketh moch of her.
+{31:29} Many daughters there be yt gather riches together, but thou goest aboue the all.
+{31:30} As for fauor, it is disceatfull, and beutie is a vayne thinge: but a woman that feareth the LORDE, she is worthy to be praysed.
+{31:31} Geue her of the frute of hir handes, and let hir owne workes prayse her in the gates.

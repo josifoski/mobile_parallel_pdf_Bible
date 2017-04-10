@@ -1,0 +1,915 @@
+{1:1} Ordsprog av Salomo, Davids sønn, Israels konge.
+{1:2} Av dem kan en lære visdom og tukt og å skjønne forstandige ord;
+{1:3} av dem kan en motta tukt til klokskap og lære rettferdighet og rett og rettvishet;
+{1:4} de kan gi de enfoldige klokskap, de unge kunnskap og tenksomhet.
+{1:5} Den vise skal høre på dem og gå frem i lærdom, og den forstandige vinne evne til å leve rett.
+{1:6} Av dem kan en lære å forstå ordsprog og billedtale, vismenns ord og deres gåter.
+{1:7} frykte Herren er begynnelsen til kunnskap; visdom og tukt foraktes av dårer.
+{1:8} Hør, min sønn, på din fars tilrettevisning og forlat ikke din mors lære!
+{1:9} For de er en fager krans for ditt hode og kjeder om din hals.
+{1:10} Min sønn! Når syndere lokker dig, da samtykk ikke!
+{1:11} Når de sier: Kom med oss! Vi vil lure efter blod, sette feller for de uskyldige uten grunn;
+{1:12} vi vil sluke dem levende som dødsriket, med hud og hår, likesom det sluker dem som farer ned i graven;
+{1:13} vi vil finne alle slags kostelig gods, fylle våre hus med rov;
+{1:14} du skal få kaste lodd om det med oss, vi skal alle ha samme pung(-)
+{1:15} slå da ikke følge med dem, min sønn, hold din fot borte fra deres sti!
+{1:16} For deres føtter haster til det onde, og de er snare til å utøse blod;
+{1:17} til ingen nytte blir garnet utspent så alle fuglene ser det;
+{1:18} de lurer efter sitt eget blod, de setter feller for sig selv.
+{1:19} Så går det hver den som søker urettferdig vinning; den tar livet av sine egne herrer.
+{1:20} Visdommen roper høit på gaten, den lar sin røst høre på torvene;
+{1:21} på hjørnet av larmfylte gater roper den, ved portinngangene, rundt omkring i byen taler den og sier:
+{1:22} Hvor lenge vil I uforstandige elske uforstand og spotterne ha lyst til spott og dårene hate kunnskap?
+{1:23} Vend om og gi akt på min tilrettevisning! Da vil jeg la min ånd velle frem for eder, jeg vil kunngjøre eder mine ord.
+{1:24} Fordi jeg ropte, og I ikke vilde høre, fordi jeg rakte ut min hånd, og ingen gav akt,
+{1:25} fordi I forsmådde alle mine råd og ikke vilde vite av min tilrettevisning,
+{1:26} så vil også jeg le når ulykken rammer eder, jeg vil spotte når det kommer som I reddes for,
+{1:27} når det I reddes for, kommer som et uvær, og eders ulykke farer frem som en stormvind, når trengsel og nød kommer over eder.
+{1:28} Da skal de kalle på mig, men jeg svarer ikke; de skal søke mig, men ikke finne mig.
+{1:29} Fordi de hatet kunnskap og ikke vilde frykte Herren,
+{1:30} fordi de ikke vilde vite av mitt råd og foraktet all min tilrettevisning,
+{1:31} derfor skal de ete frukten av sine gjerninger, og av sine onde råd skal de mettes.
+{1:32} For de uforstandiges selvrådighet dreper dem, og dårenes trygghet ødelegger dem;
+{1:33} men den som hører på mig, skal bo trygt og leve i ro uten frykt for ulykke.
+{2:1} Min sønn! Dersom du tar imot mine ord og gjemmer mine bud hos dig,
+{2:2} så du vender ditt øre til visdommen og bøier ditt hjerte til klokskapen,
+{2:3} ja, dersom du roper efter innsikten og løfter din røst for å kalle på forstanden,
+{2:4} dersom du leter efter den som efter sølv og graver efter den som efter skjulte skatter,
+{2:5} da skal du forstå Herrens frykt og finne kunnskap om Gud.
+{2:6} For Herren er den som gir visdom, fra hans munn kommer kunnskap og forstand,
+{2:7} og han gjemmer frelse for de opriktige, et skjold for dem som lever ustraffelig,
+{2:8} han vokter rettens stier og bevarer sine frommes vei.
+{2:9} Da skal du forstå rettferdighet og rett og rettvishet, ja enhver god vei.
+{2:10} For visdom skal komme i ditt hjerte, og kunnskap skal glede din sjel;
+{2:11} eftertanke skal holde vakt over dig, forstand skal verne dig,
+{2:12} for å fri dig fra onde veier, fra menn som fører forvendt tale,
+{2:13} fra dem som forlater rettvishets stier for å vandre på mørkets veier,
+{2:14} som gleder sig ved å gjøre ondt og jubler over onde, forvendte gjerninger,
+{2:15} som går på krokete stier og følger vrange veier.
+{2:16} Visdommen skal fri dig fra annen manns hustru, fra fremmed kvinne, som taler glatte ord,
+{2:17} som har forlatt sin ungdoms venn og glemt sin Guds pakt;
+{2:18} for hennes hus synker ned i døden, og hennes veier bærer ned til dødningene;
+{2:19} de som går inn til henne, kommer aldri tilbake og når aldri livets stier.
+{2:20} Visdommen skal hjelpe dig til å vandre på de godes vei og holde dig på de rettferdiges stier;
+{2:21} for de opriktige skal bo i landet, og de ustraffelige skal bli tilbake i det,
+{2:22} men de ugudelige skal utryddes av landet, og de troløse skal rykkes bort fra det.
+{3:1} Min sønn! Glem ikke min lære og la ditt hjerte bevare mine bud!
+{3:2} For langt liv og mange leveår og fred skal de gi dig i rikt mål.
+{3:3} La ikke kjærlighet og trofasthet vike fra dig, bind dem om din hals, skriv dem på ditt hjertes tavle!
+{3:4} Så skal du finne nåde og få god forstand i Guds og menneskers øine.
+{3:5} Sett din lit til Herren av hele ditt hjerte, og stol ikke på din forstand!
+{3:6} Tenk på ham på alle dine veier! Så skal han gjøre dine stier rette.
+{3:7} Vær ikke vis i egne øine, frykt Herren og vik fra det onde!
+{3:8} Det skal være lægedom for din kropp og gi ny styrke til dine ben.
+{3:9} Ær Herren med gaver av ditt gods og med førstegrøden av all din avling!
+{3:10} Så skal dine lader fylles med overflod og dine persekar flyte over av most.
+{3:11} Min sønn! Forakt ikke Herrens tukt og vær ikke utålmodig når han refser dig!
+{3:12} For den Herren elsker, ham refser han, som en far refser den sønn han har kjær.
+{3:13} Salig er det menneske som har funnet visdom, det menneske som vinner forstand;
+{3:14} for det er bedre å vinne den enn å vinne sølv, og det utbytte den gir, er bedre enn gull.
+{3:15} Den er kosteligere enn perler, og alle dine skatter kan ikke lignes med den.
+{3:16} Langt liv har den i sin høire hånd, rikdom og ære i sin venstre.
+{3:17} Dens veier er fagre veier, og alle dens stier fører til lykke.
+{3:18} Den er et livsens tre for dem som griper den, og hver den som holder fast på den, må prises lykkelig.
+{3:19} Herren grunnfestet jorden med visdom; han bygget himmelen med forstand.
+{3:20} Ved hans kunnskap vellet de dype vann frem, og ved den lar skyene dugg dryppe ned.
+{3:21} Min sønn! La dem (visdom og klokskap.) ikke vike fra dine øine, bevar visdom og klokskap!
+{3:22} Så skal de være liv for din sjel og pryd for din hals.
+{3:23} Da skal du vandre din vei trygt og ikke støte din fot.
+{3:24} Når du legger dig, skal du ikke frykte, og når du har lagt dig, skal din søvn være søt.
+{3:25} Da trenger du ikke å være redd for uventet skrekk, eller for uværet når det kommer over de ugudelige!
+{3:26} For Herren skal være din tillit, og han skal bevare din fot fra å fanges.
+{3:27} Nekt ikke de trengende din hjelp, når det står i din makt å gi den!
+{3:28} Si ikke til din næste: Gå bort og kom igjen, jeg skal gi dig imorgen(-)når du kan gjøre det straks!
+{3:29} Legg ikke op onde råd mot din næste, når han kjenner sig trygg hos dig!
+{3:30} Trett ikke med et menneske uten årsak, når han ikke har gjort dig noget ondt!
+{3:31} Misunn ikke en voldsmann, og velg ikke nogen av alle hans veier!
+{3:32} For en falsk mann er en vederstyggelighet for Herren, men med de opriktige har han fortrolig samfund.
+{3:33} Herrens forbannelse er over den ugudeliges hus, men de rettferdiges bolig velsigner han.
+{3:34} Spotterne spotter han, men de ydmyke gir han nåde.
+{3:35} De vise arver ære, men dårene får skam til lønn.
+{4:1} Hør, mine barn, på en fars tilrettevisning og gi akt, så I kan lære klokskap!
+{4:2} For en god lærdom gir jeg eder; mine bud må I ikke forlate.
+{4:3} For da jeg var sønn hjemme hos min far, da jeg var liten og min mors eneste barn,
+{4:4} da lærte han mig og sa til mig: La ditt hjerte holde fast ved mine ord, bevar mine bud, så skal du leve.
+{4:5} Kjøp visdom, kjøp forstand, glem ikke og vik ikke fra min munns ord!
+{4:6} Forlat den ikke, så skal den vokte dig; elsk den, så skal den være ditt vern.
+{4:7} Begynnelsen til visdom er: Kjøp visdom, ja, kjøp forstand for alt ditt gods!
+{4:8} Ophøi den, så skal den ophøie dig; den skal gjøre dig ære, når du favner den.
+{4:9} Den skal sette en fager krans på ditt hode; den skal rekke dig en herlig krone.
+{4:10} Hør, min sønn, og ta imot mine ord, så skal dine leveår bli mange.
+{4:11} Om visdoms vei lærer jeg dig, jeg leder dig på rettvishets stier.
+{4:12} Når du går, skal intet hindre dine skritt, og når du løper, skal du ikke snuble.
+{4:13} Hold fast ved min tilrettevisning, slipp den ikke! Bevar den, for den er ditt liv.
+{4:14} På de ugudeliges sti må du ikke komme og ikke følge de ondes vei.
+{4:15} Sky den, følg den ikke, vik fra den og gå forbi!
+{4:16} For de får ikke sove uten de har gjort noget ondt, og søvnen tas fra dem om de ikke har ført nogen til fall.
+{4:17} For de eter ugudelighets brød og drikker voldsgjernings vin.
+{4:18} Men de rettferdiges sti er lik et strålende lys, som blir klarere og klarere til det er høilys dag.
+{4:19} De ugudeliges vei er som det dype mørke; de vet ikke hvad de snubler over.
+{4:20} Min sønn! Akt på mine ord, bøi ditt øre til min tale!
+{4:21} La dem ikke vike fra dine øine, bevar dem dypt i ditt hjerte!
+{4:22} For de er liv for hver den som finner dem, og lægedom for hele hans legeme.
+{4:23} Bevar ditt hjerte fremfor alt det som bevares; for livet utgår fra det.
+{4:24} Hold dig fra svikefulle ord, og la falske leber være langt fra dig!
+{4:25} La dine øine se bent frem og dine øielokk vende rett frem for dig!
+{4:26} Gjør din fots sti jevn, og la alle dine veier være rette!
+{4:27} Bøi ikke av til høire eller til venstre, vend din fot fra det onde!
+{5:1} Min sønn! Akt på min visdom, bøi ditt øre til min forstand,
+{5:2} så du kan gjemme kloke råd og dine leber bevare kunnskap!
+{5:3} For en fremmed kvinnes leber drypper av honning, og glattere enn olje er hennes tunge;
+{5:4} men til sist er hun besk som malurt, hvass som et tveegget sverd.
+{5:5} Hennes føtter går nedover til døden; hennes skritt fører like til dødsriket.
+{5:6} På livets sti vil hun ikke vandre; hennes veier går hit og dit, uten at hun vet det.
+{5:7} Så hør nu på mig, mine barn, og vik ikke fra min munns ord!
+{5:8} La din vei være langt fra henne, og kom ikke nær til døren på hennes hus,
+{5:9} forat du ikke skal gi andre din pryd og en grusom herre dine år,
+{5:10} forat ikke fremmede skal mettes av din eiendom, og frukten av din møie komme i en annen manns hus,
+{5:11} så du må stønne i din siste stund, når din kropp og ditt kjøtt tæres bort,
+{5:12} Og du må si: Hvorledes har jeg kunnet hate tukt, og hvorledes har mitt hjerte kunnet forakte tilrettevisning,
+{5:13} så jeg ikke hørte på dem som lærte mig, og ikke bøide mitt øre til dem som veiledet mig!
+{5:14} Nær var jeg kommet i den største ulykke midt i forsamlingen og menigheten.
+{5:15} Drikk av din egen brønn, drikk rinnende vann av din egen kilde!
+{5:16} Skulde vel dine kilder strømme ut på gaten, dine bekker på torvene?
+{5:17} La dem være for dig alene og ikke for fremmede sammen med dig!
+{5:18} Din kilde være velsignet, gled dig i din ungdoms hustru!
+{5:19} Den elskelige hind og den yndefulle stengjet! Hennes barm kvege dig til enhver tid, av hennes kjærlighet være du alltid drukken!
+{5:20} Hvorfor, min sønn, skulde du da være drukken av attrå efter en annen manns hustru og favne en fremmed kvinnes barm?
+{5:21} For en manns veier ligger åpne for Herrens øine, og Herren jevner alle hans stier.
+{5:22} Den ugudelige fanges i sine egne misgjerninger, og han holdes fast i sin egen synds snarer.
+{5:23} Han må dø, fordi han ikke lot sig tukte, og for sin store dårskaps skyld tumler han og faller.
+{6:1} Min sønn! Har du gått i borgen for din næste, har du gitt en fremmed ditt håndslag,
+{6:2} har du latt dig binde ved din munns ord, har du latt dig fange i din munns ord,
+{6:3} så gjør således, min sønn, og frels dig, siden du er kommet i din næstes hånd: Gå og kast dig ned for din næste og storm inn på ham,
+{6:4} unn ikke dine øine søvn og dine øielokk blund,
+{6:5} frels dig som et rådyr av jegerens hånd og som en fugl av fuglefangerens hånd!
+{6:6} Gå til mauren, du late, se dens ferd og bli vis!
+{6:7} Enda den ikke har nogen fyrste, foged eller herre,
+{6:8} sørger den dog om sommeren for sitt livsophold og sanker om høsten sin føde.
+{6:9} Hvor lenge vil du ligge, du late? Når vil du stå op av din søvn?
+{6:10} Du sier: La mig ennu få sove litt, blunde litt, folde mine hender litt og hvile!
+{6:11} Da kommer armoden over dig som en landstryker og nøden som en mann med skjold.
+{6:12} En niding, en ugjerningsmann er den som går omkring med en falsk munn,
+{6:13} som blunker med øinene, skraper med føttene, gjør tegn med fingrene,
+{6:14} som har svik i sitt hjerte, som tenker ut onde ting til enhver tid og volder tretter.
+{6:15} Derfor skal ulykken komme brått over ham; i et øieblikk skal han knuses, og det er ingen lægedom for ham.
+{6:16} Seks ting er det Herren hater, og syv er vederstyggeligheter for hans sjel:
+{6:17} Stolte øine, falsk tunge og hender som utøser uskyldig blod,
+{6:18} et hjerte som legger op onde råd, føtter som haster til det onde,
+{6:19} den som taler løgn og vidner falsk, og den som volder tretter mellem brødre.
+{6:20} Bevar, min sønn, din fars bud og forlat ikke din mors lære!
+{6:21} Bind dem alltid til ditt hjerte, knytt dem fast om din hals!
+{6:22} Når du går, skal de lede dig; når du ligger, skal de verne dig, og når du våkner, skal de tale til dig.
+{6:23} For budet er en lykte og læren et lys, og tilrettevisninger til tukt er en vei til livet,
+{6:24} så de bevarer dig fra en ond kvinne, fra en fremmed kvinnes glatte tunge.
+{6:25} Attrå ikke hennes skjønnhet i ditt hjerte? og la henne ikke fange dig med sine øiekast!
+{6:26} For en skjøge armer en mann ut like til siste brødleiv, og annen manns hustru fanger en dyr sjel.
+{6:27} Kan nogen hente ild i sitt fang uten hans klær brennes op?
+{6:28} Eller kan nogen gå på glør uten hans føtter blir svidd?
+{6:29} Slik blir det med den som går inn til sin næstes hustru; ingen blir ustraffet som rører henne.
+{6:30} Blir ikke tyven foraktet, når han stjeler for å stille sin sult?
+{6:31} Og hvis han blir grepet, må han betale syvfold; alt det han eier i sitt hus, må han gi.
+{6:32} Den som driver hor med en kvinne, er uten forstand; den som vil ødelegge sin sjel, han gjør slikt.
+{6:33} Hugg og skam får han, og hans vanære slettes aldri ut.
+{6:34} For nidkjær er mannens vrede, og han sparer ikke på hevnens dag;
+{6:35} han tar ikke imot bøter og lar sig ikke formilde, om du gir ham store gaver.
+{7:1} Min sønn, bevar mine ord og gjem mine bud hos dig!
+{7:2} Bevar mine bud, så skal du leve, bevar min lære som din øiesten!
+{7:3} Bind dem på dine fingrer, skriv dem på ditt hjertes tavle!
+{7:4} Si til visdommen: Du er min søster, og kall forstanden din kjenning,
+{7:5} forat den må bevare dig fra annen manns hustru, fra fremmede kvinner, som taler glatte ord.
+{7:6} For jeg så engang ut av vinduet på mitt hus, gjennem mitt gitter,
+{7:7} og da så jeg blandt de uerfarne, jeg blev var blandt de unge en uforstandig gutt,
+{7:8} som gikk forbi på gaten ved hennes hjørne og gikk frem på veien til hennes hus,
+{7:9} i skumringen, da dagen var til ende, i dyp natt og mørke.
+{7:10} Da kom en kvinne ham i møte i en skjøges klær og med svikefullt hjerte.
+{7:11} Vill er hun og kåt; hennes føtter er ikke i ro i hennes hus.
+{7:12} Snart er hun på gater, snart på torver, og ved hvert hjørne lurer hun.
+{7:13} Og hun tok fatt på ham og kysset ham, og med frekt åsyn sa hun til ham:
+{7:14} Takkoffer skulde jeg bære frem, og idag har jeg innfridd mine løfter;
+{7:15} derfor gikk jeg ut for å møte dig, for å søke dig op, og jeg fant dig.
+{7:16} Jeg har bredt tepper over min seng, brokete tepper av egyptisk garn.
+{7:17} Jeg har strødd mitt leie med myrra, aloè og kanel.
+{7:18} Kom, la oss beruse oss i kjærlighet inntil morgenen, fryde oss i elskov!
+{7:19} For min mann er ikke hjemme, han er reist langt bort;
+{7:20} pengepungen tok han med sig, først ved fullmåne kommer han hjem.
+{7:21} Hun fikk lokket ham ved sin sterke overtalelse, ved sine glatte leber forførte hun ham.
+{7:22} Han følger henne straks, lik en okse som går til slakterbenken, som i fotjern, hvormed dåren tuktes,
+{7:23} inntil pilen kløver hans lever(-)likesom fuglen haster til snaren og ikke vet at det gjelder dens liv.
+{7:24} Så hør nu på mig, barn, og akt på min munns ord!
+{7:25} La ikke ditt hjerte vende sig til hennes veier, forvill dig ikke inn på hennes stier!
+{7:26} For mange som har fått ulivssår, har hun fellet, og mangfoldige er de hun har slått ihjel;
+{7:27} fra hennes hus går veier til dødsriket, de fører ned til dødens kammere.
+{8:1} Hør, visdommen roper, og forstanden lar sin røst høre.
+{8:2} Oppe på hauger ved veien står hun, der hvor stiene møtes;
+{8:3} ved siden av portene, ved byens utgang, i inngangen til portene roper hun høit:
+{8:4} Til eder, I menn, roper jeg, og min røst lyder til menneskenes barn.
+{8:5} Lær klokskap, I enfoldige, og lær forstand, I uforstandige!
+{8:6} Hør! Om store ting taler jeg, og jeg oplater mine leber med rettvishet;
+{8:7} min tunge taler sannhet, og ugudelighet er en vederstyggelighet for mine leber.
+{8:8} Alle min munns ord er rette, det er intet falskt eller vrangt i dem.
+{8:9} De er alle sammen likefremme for den forstandige og rette for dem som har funnet kunnskap.
+{8:10} Ta imot min tilrettevisning istedenfor sølv, og ta imot kunnskap fremfor utsøkt gull!
+{8:11} For visdom er bedre enn perler, og ingen skatt kan lignes med den.
+{8:12} Jeg, visdommen, har klokskap i eie, og jeg forstår å finne kloke råd.
+{8:13} frykte Herren er å hate ondt; stolthet og overmot, ond ferd og en falsk munn hater jeg.
+{8:14} Mig tilhører råd og sann innsikt, jeg er forstand, mig hører styrke til.
+{8:15} Ved mig regjerer kongene, og ved mig fastsetter fyrstene hvad rett er.
+{8:16} Ved mig styrer herskerne og høvdingene, alle dommere på jorden.
+{8:17} Jeg elsker dem som elsker mig, og de som søker mig, skal finne mig.
+{8:18} Hos mig er rikdom og ære, gammelt arvegods og rettferdighet.
+{8:19} Min frukt er bedre enn gull, ja det fineste gull, og den vinning jeg gir, er bedre enn utsøkt sølv.
+{8:20} På rettferds vei vandrer jeg, midt på rettens stier;
+{8:21} derfor gir jeg dem som elsker mig, sann rikdom til arv og fyller deres forrådskammere.
+{8:22} Herren skapte mig som sitt første verk, før sine andre gjerninger, i fordums tid.
+{8:23} Fra evighet er jeg blitt til, fra først av, før jorden var.
+{8:24} Da avgrunnene ennu ikke var til, blev jeg født, da der ennu ikke fantes kilder fylt med vann.
+{8:25} Før fjellene blev senket ned, før haugene blev til, blev jeg født,
+{8:26} før han hadde skapt jord og mark og jorderikes første muldklump.
+{8:27} Da han bygget himmelen, var jeg der, da han slo hvelving over avgrunnen.
+{8:28} Da han festet skyene oventil, da han bandt avgrunnens kilder,
+{8:29} da han satte grense for havet, så vannene ikke går lenger enn han byder, da han la jordens grunnvoller(-)
+{8:30} da var jeg verksmester hos ham, og jeg var hans lyst dag efter dag, jeg lekte alltid for hans åsyn;
+{8:31} jeg lekte på hele hans vide jord, og min lyst hadde jeg i menneskenes barn.
+{8:32} Og nu, barn, hør på mig! Salige er de som følger mine veier.
+{8:33} Hør på min tilrettevisning og bli vise og forakt den ikke!
+{8:34} Salig er det menneske som hører på mig, så han våker ved mine dører dag efter dag og vokter mine dørstolper.
+{8:35} For den som finner mig, finner livet og får nåde hos Herren.
+{8:36} Men den som ikke finner mig, skader sig selv; alle de som hater mig, elsker døden.
+{9:1} Visdommen har bygget sitt hus, hun har hugget til sine syv stolper.
+{9:2} Hun har slaktet sitt slaktefe, blandet sin vin og dekket sitt bord;
+{9:3} hun har sendt ut sine piker, hun roper oppe fra byens høider:
+{9:4} Den som er enfoldig, han vende sig hit! Til den som er uten forstand, sier hun:
+{9:5} Kom, et av mitt brød og drikk av den vin jeg har blandet!
+{9:6} Opgi eders uforstand, så skal I leve, og gå bent frem på forstandens vei!
+{9:7} Den som refser en spotter, henter sig selv vanære, og den som viser en ugudelig til rette, får skam av det.
+{9:8} Vis ikke spotteren til rette, forat han ikke skal hate dig! Vis den vise til rette, så skal han elske dig.
+{9:9} Lær den vise, så blir han ennu visere, lær den rettferdige, så går han frem i lærdom.
+{9:10} frykte Herren er begynnelsen til visdom, og å kjenne den Hellige er forstand.
+{9:11} For ved mig skal dine dager bli mange, og leveår skal gis dig i rikt mål.
+{9:12} Er du vis, så er du vis til ditt eget gagn, og er du en spotter, skal du alene lide for det.
+{9:13} Dårskapen er en kåt kvinne, bare uforstand og uvitenhet.
+{9:14} Hun sitter foran døren til sitt hus på en trone på en høide i byen
+{9:15} for å rope til dem som går forbi på veien, som vandrer bent frem på sine stier:
+{9:16} Den som er enfoldig, han vende sig hit! Til den som er uten forstand, sier hun:
+{9:17} Stjålet vann er søtt, og brød som etes i lønndom, smaker herlig.
+{9:18} Men han vet ikke at der bor dødningene, at hennes gjester er i dødsrikets dyp.
+{10:1} Salomos ordsprog. En vis sønn gleder sin far, men en uforstandig sønn er sin mors sorg.
+{10:2} Ugudelighets skatter gagner ikke, men rettferdighet frir fra døden.
+{10:3} Herren lar ikke den rettferdige sulte, men de ugudeliges attrå støter han bort.
+{10:4} Den som arbeider med lat hånd, blir fattig, men den flittiges hånd gjør rik.
+{10:5} En klok sønn samler om sommeren; en dårlig sønn sover i høsttiden.
+{10:6} Velsignelser kommer over den rettferdiges hode, men de ugudeliges munn skal deres vold skjule.
+{10:7} Den rettferdiges minne lever i velsignelse, men de ugudeliges navn råtner bort.
+{10:8} Den som har visdom i hjertet, tar imot Guds bud; men den som har dårens leber, går til grunne.
+{10:9} Den som vandrer i ustraffelighet, vandrer trygt, og den som går krokveier, blir opdaget.
+{10:10} Den som blunker med øiet, volder smerte, og den som har dårens leber, går til grunne.
+{10:11} Den rettferdiges munn er en livsens kilde, men de ugudeliges munn skal deres vold skjule.
+{10:12} Hat vekker trette, men kjærlighet dekker over alle overtredelser.
+{10:13} På den forstandiges leber finnes visdom, men stokken er for den uforstandiges rygg.
+{10:14} De vise gjemmer på kunnskap, men dårens munn truer med ødeleggelse.
+{10:15} Rikmanns gods er hans faste stad; de fattiges armod er deres ødeleggelse.
+{10:16} Det som den rettferdige vinner, blir ham til liv; den ugudeliges inntekt blir ham til synd.
+{10:17} En vei til liv (de. en veileder til lykke og velsignelse.) er den som akter på tukt; men den som forakter tilrettevisning, fører vill.
+{10:18} Den som skjuler hat, har falske leber, og den som fører ut ondt rykte, han er en dåre.
+{10:19} Hvor det er mange ord, mangler det ikke på synd; men den som holder sine leber i tømme, er klok.
+{10:20} Den rettferdiges tunge er som utsøkt sølv; de ugudeliges hjerte er intet verdt.
+{10:21} Den rettferdiges leber nærer mange, men dårer dør, fordi de er uten forstand.
+{10:22} Det er Herrens velsignelse som gjør rik, og eget strev legger ikke noget til.
+{10:23} For dåren er det en lyst å gjøre skamløse gjerninger, men visdom er en lyst for den forstandige mann.
+{10:24} Det som den ugudelige gruer for, det skal komme over ham; men de rettferdiges ønsker skal Gud opfylle.
+{10:25} Når en storm farer forbi, så er den ugudelige ikke mere; men den rettferdige har en evig grunnvoll.
+{10:26} Som eddik for tennene og røk for øinene, slik er den late for den som sender ham.
+{10:27} Herrens frykt forlenger livet, men de ugudeliges år forkortes.
+{10:28} De rettferdige har glede i vente, men de ugudeliges håp blir til intet.
+{10:29} Herrens vei er en fast borg for den ustraffelige, men den er ødeleggelse for dem som gjør urett.
+{10:30} De rettferdige skal aldri rokkes, men de ugudelige skal ikke få bo landet.
+{10:31} Den rettferdiges munn bærer visdoms frukt, men den falske tunge skal skjæres av.
+{10:32} Den rettferdiges leber forstår hvad der er til behag, men de ugudeliges munn er bare falskhet.
+{11:1} Falsk vekt er en vederstyggelighet for Herren, men fullvektige lodder er ham til velbehag.
+{11:2} Med overmot følger skam, men de ydmyke har visdom.
+{11:3} De opriktiges rettsinn leder dem, men de troløses forvendte sinn ødelegger dem.
+{11:4} Gods hjelper ikke på vredens dag, men rettferdighet frir fra døden.
+{11:5} Den ustraffeliges rettferdighet gjør hans vei jevn, men den ugudelige faller ved sin ugudelighet.
+{11:6} De opriktiges rettferdighet frelser, men de troløse fanges i sin egen ondskap.
+{11:7} Når et ugudelig menneske dør, blir hans håp til intet, og med det som de onde stunder efter, er det forbi.
+{11:8} Den rettferdige utfries av trengsel, og den ugudelige kommer i hans sted.
+{11:9} Med munnen ødelegger den gudløse sin næste, men ved sin kunnskap utfries de rettferdige.
+{11:10} Når det går de rettferdige godt, jubler byen, og når de ugudelige omkommer, lyder fryderop.
+{11:11} Ved de opriktiges velsignelse blir en by ophøiet, men de ugudeliges munn bryter den ned.
+{11:12} Den som taler foraktelig om sin næste, er uten forstand; men en forstandig mann tier.
+{11:13} Den som går omkring som baktaler, åpenbarer hemmeligheter; men den som er trofast i ånden, skjuler saken.
+{11:14} Hvor det intet styre er, faller folket; men hvor det er mange rådgivere, der er frelse.
+{11:15} Ille går det den som går i borgen for en fremmed; men den som skyr å gi håndslag, er sikker.
+{11:16} En yndig kvinne vinner ære, og voldsmenn vinner rikdom.
+{11:17} En godgjørende mann gjør vel mot sig selv, men en hårdhjertet mann ødelegger sig.
+{11:18} Den ugudelige vinner en lønn som svikter, men den som sår rettferdighet, får en lønn som varer.
+{11:19} Den som står fast i rettferdighet, ham blir det til liv; men den som jager efter ondt, volder sin egen død.
+{11:20} En vederstyggelighet for Herren er de hvis hjerte er forvendt; men til velbehag for ham er de hvis vei er ustraffelig.
+{11:21} Visselig, den onde blir ikke ustraffet, men de rettferdiges ætt slipper unda.
+{11:22} Som en gullring i et svinetryne er en fager kvinne som er uten forstand.
+{11:23} De rettferdiges attrå er bare det som godt er; de ugudelige har vrede i vente.
+{11:24} Den ene strør ut og får ennu mere; den andre holder tilbake mere enn rett er, og det blir dog bare fattigdom.
+{11:25} Den som velsigner, skal trives, og den som lesker andre, han blir selv lesket.
+{11:26} Den som holder korn tilbake, ham banner folket; men velsignelse kommer over dens hode som selger korn.
+{11:27} Den som søker hvad godt er, søker det som er til behag; men den som higer efter ondt, over ham kommer det onde.
+{11:28} Den som setter sin lit til sin rikdom, han skal falle; men de rettferdige skal grønnes som løvet.
+{11:29} Den som setter sitt hus i ulag, skal arve vind, og dåren blir en tjener for den vise.
+{11:30} Den rettferdiges frukt er et livsens tre, og den vise fanger sjeler.
+{11:31} Se, den rettferdige får sin lønn på jorden, hvor meget mere da den ugudelige og synderen!
+{12:1} Den som elsker tukt, elsker kunnskap; men den som hater refselse, er dum.
+{12:2} Den gode får nåde hos Herren, men den svikefulle mann fordømmer han.
+{12:3} Ugudelighet hjelper intet menneske til å stå støtt, men de rettferdiges rot rokkes ikke.
+{12:4} En god hustru er sin manns krone, men en dårlig er som råttenhet i hans ben.
+{12:5} De rettferdige tenker bare på det som rett er; de ugudeliges råd er svik.
+{12:6} De ugudelige taler alltid om å lure efter blod, men de opriktiges munn frelser dem.
+{12:7} De ugudelige kastes over ende, og så er de ikke mere; men de rettferdiges hus står fast.
+{12:8} En mann roses alt efter som han har forstand, men den hvis hjerte er forvendt, blir til forakt.
+{12:9} Bedre er en småkårsmann som har en tjener, enn en som vil være storkar, men ikke har brød.
+{12:10} Den rettferdige har omsorg for sin buskap, men den ugudeliges hjerte er hårdt.
+{12:11} Den som dyrker sin jord, mettes med brød; men den som jager efter tomme ting, er uten forstand.
+{12:12} Den ugudelige attrår det som er en snare for de onde; men de rettferdige gir Gud fast rot.
+{12:13} I lebenes synd ligger en ond snare, men den rettferdige kommer ut av trengsel.
+{12:14} Av sin munns frukt mettes en mann med godt, og hvad et menneskes hender har gjort, det gjengjeldes ham.
+{12:15} Dårens vei er rett i hans egne øine, men den som hører på råd, er vis.
+{12:16} Dårens vrede blir kjent samme dag, men den som skjuler krenkelser, er klok.
+{12:17} Den som er ærlig i sine ord, taler sannhet, men et falskt vidne taler svik.
+{12:18} Mange taler tankeløse ord, som stikker likesom sverd; men de vises tunge er lægedom.
+{12:19} Sannhets lebe blir fast for all tid, men falskhets tunge bare et øieblikk.
+{12:20} Det er svik i deres hjerte som smir ondt; men de som råder til fred, får glede.
+{12:21} Det rammer ikke den rettferdige noget ondt, men de ugudelige får ulykke i fullt mål.
+{12:22} Falske leber er en vederstyggelighet for Herren, men de som går frem med ærlighet, er ham til velbehag.
+{12:23} Et klokt menneske skjuler det han vet, men dårers hjerte roper ut sin dårskap.
+{12:24} Den flittiges hånd kommer til å styre, men lathet blir træl.
+{12:25} Sorg i en manns hjerte trykker det ned, men et godt ord gleder det.
+{12:26} Den rettferdige veileder sin næste, men de ugudeliges vei fører dem vill.
+{12:27} Lathet steker ikke sin fangst, men flid er en kostelig skatt for et menneske.
+{12:28} På rettferds sti er liv, og en ryddet vei fører ikke til døden.
+{13:1} En vis sønn hører på sin fars tilrettevisning, men en spotter hører ikke på irettesettelse.
+{13:2} Av sin munns frukt nyter en mann godt, men de troløses hu står til vold.
+{13:3} Den som vokter sin munn, bevarer sitt liv; den som lukker sine leber vidt op, ham blir det til ulykke.
+{13:4} Den late attrår og får intet, men de flittige næres rikelig.
+{13:5} Den rettferdige hater løgnaktige ord, men den ugudelige gjør det som ondt og skammelig er.
+{13:6} Rettferdighet verner den som lever ustraffelig, men ugudelighet feller den som gjør synd.
+{13:7} Den ene ter sig som en rik mann og har dog slett ingen ting, og den andre ter sig som en fattig mann og har dog meget gods.
+{13:8} En manns rikdom er løsepenger for hans liv, men den fattige er det ingen som truer.
+{13:9} De rettferdiges lys skinner lystig, men de ugudeliges lampe slukner.
+{13:10} Ved overmot voldes bare trette, men hos dem som lar sig råde, er visdom.
+{13:11} Lett vunnet rikdom minker, men den som samler litt efter litt, øker sitt gods.
+{13:12} Langvarig venting gjør hjertet sykt, men et opfylt ønske er et livsens tre.
+{13:13} Den som forakter ordet, ødelegger sig selv; men den som frykter budet, han får lønn.
+{13:14} Den vises lære er en livsens kilde, ved den slipper en fra dødens snarer.
+{13:15} Ved god forstand vinner en menneskenes yndest, men de troløses vei er hård.
+{13:16} Hver den som er klok, går frem med forstand, men en dåre utbreder dårskap.
+{13:17} Et ugudelig sendebud faller i ulykke, men et trofast bud er lægedom.
+{13:18} Armod og skam får den som ikke vil vite av tukt; men den som akter på refselse, blir æret.
+{13:19} Opfylt ønske er søtt for sjelen, men å holde sig fra det onde er en vederstyggelighet for dårer.
+{13:20} Søk omgang med de vise, og du skal bli vis; men dårers venn går det ille.
+{13:21} Ulykke forfølger syndere, men rettferdige lønnes med godt.
+{13:22} Den gode efterlater arv til barnebarn, men synderens gods er gjemt til den rettferdige.
+{13:23} De fattiges nyland gir meget føde; men mangen rykkes bort fordi han ikke gjør det som rett er.
+{13:24} Den som sparer sitt ris, hater sin sønn; men den som elsker ham, tukter ham tidlig.
+{13:25} Den rettferdige eter så han blir mett, men de ugudeliges buk blir tom.
+{14:1} Kvinners visdom bygger sitt hus, men dårskap river det ned med sine hender.
+{14:2} Den som vandrer i opriktighet, frykter Herren; men den som går krokveier, forakter ham.
+{14:3} I dårens munn er et ris for hans overmot, men de vises leber er deres vern.
+{14:4} Hvor det ingen okser er, der er krybben tom; men rikelig vinning kommer ved oksens kraft.
+{14:5} Trofast vidne lyver ikke, men den som taler løgn, er et falskt vidne.
+{14:6} Spotteren søker visdom, men finner den ikke; men for den forstandige er kunnskap lett å vinne.
+{14:7} Når du går fra en dåre, har du ikke funnet forstand på hans leber.
+{14:8} Den klokes visdom er at han forstår sin vei, men dårers dårskap er at de bedrar sig selv.
+{14:9} Dårer spottes av sitt eget skyldoffer, men blandt de opriktige råder Guds velbehag.
+{14:10} Hjertet kjenner sin egen bitre smerte, og i dets glede blander ingen fremmed sig.
+{14:11} De ugudeliges hus skal ødelegges, men de opriktiges telt skal blomstre.
+{14:12} Mangen vei tykkes en mann rett, men enden på det er dødens veier.
+{14:13} Endog under latter har hjertet smerte, og enden på gleden er sorg.
+{14:14} Av sin ferd skal den frafalne mettes, og en god mann holder sig borte fra ham.
+{14:15} Den enfoldige tror hvert ord, men den kloke akter på sine skritt.
+{14:16} Den vise frykter og holder sig fra det onde, men dåren er overmodig og trygg.
+{14:17} Den bråsinte gjør dårskap, og en svikefull mann blir hatet.
+{14:18} De enfoldige har fått dårskap i arv, men de kloke krones med kunnskap.
+{14:19} De onde må bøie sig for de gode, og de ugudelige ved den rettferdiges porter.
+{14:20} Endog av sin venn blir den fattige hatet; men de som elsker en rik, er mange.
+{14:21} Den som forakter sin næste, synder; men salig er den som ynkes over arminger.
+{14:22} Skal ikke de fare vill som tenker ut det som ondt er? Men miskunnhet og trofasthet times dem som optenker godt.
+{14:23} Ethvert møiefullt arbeid gir vinning, men tomt snakk fører bare til tap.
+{14:24} De vises rikdom er deres krone, men dårenes dårskap er og blir dårskap.
+{14:25} Et sanndru vidne frelser liv, men den som taler løgn, er full av svik.
+{14:26} Den som frykter Herren, har et sterkt vern, og for hans barn skal Herren være en tilflukt.
+{14:27} frykte Herren er en livsens kilde, så en slipper fra dødens snarer.
+{14:28} Meget folk er kongens ære, men mangel på folk er fyrstens fall.
+{14:29} Den langmodige har stor forstand, men den bråsinte viser stor dårskap.
+{14:30} Et saktmodig hjerte er legemets liv, men hissighet er råttenhet i benene.
+{14:31} Den som trykker en arming, håner hans skaper, men den som har medynk med den fattige, ærer skaperen.
+{14:32} Når ulykken rammer den ugudelige, kastes han over ende; men den rettferdige er frimodig i døden.
+{14:33} I den forstandiges hjerte holder visdommen sig stille, men i dårers indre gir den (den visdom de har, de. deres dårskap.) sig til kjenne.
+{14:34} Rettferdighet ophøier et folk, men synden er folkenes vanære.
+{14:35} En klok tjener vinner kongens yndest, men over en dårlig tjener kommer hans vrede.
+{15:1} Mildt svar stiller harme, men et sårende ord vekker vrede.
+{15:2} De vises tunge gir god kunnskap, men dårenes munn lar dårskap strømme ut.
+{15:3} Herrens øine er allesteds, de ser både efter onde og efter gode.
+{15:4} En saktmodig tunge er et livsens tre, men en falsk tunge sårer hjertet.
+{15:5} Dåren forakter sin fars tukt, men den som akter på tilrettevisning, er klok.
+{15:6} I den rettferdiges hus er det meget gods, men den ugudeliges inntekt blir til ødeleggelse for ham.
+{15:7} De vises leber strør ut kunnskap, men dårenes sinn er ikke rett.
+{15:8} De ugudeliges offer er en vederstyggelighet for Herren, men de opriktiges bønn er ham til velbehag.
+{15:9} Den ugudeliges vei er en vederstyggelighet for Herren, men den som jager efter rettferdighet, elsker han.
+{15:10} Hård straff rammer den som forlater den rette sti; den som hater tilrettevisning, skal dø.
+{15:11} Dødsriket og avgrunnen ligger åpne for Herren, hvor meget mere da menneskenes hjerter!
+{15:12} En spotter liker ikke å bli irettesatt; til de vise går han ikke.
+{15:13} Et glad hjerte gjør åsynet lyst, men hjertesorg bryter motet ned.
+{15:14} Den forstandiges hjerte søker kunnskap, men dårers munn farer bare med dårskap.
+{15:15} Alle den ulykkeliges dager er onde, men et glad hjerte er et stadig gjestebud.
+{15:16} Bedre er lite med Herrens frykt enn en stor skatt med uro.
+{15:17} Bedre er en rett grønt med kjærlighet enn en fet okse med hat.
+{15:18} En hissig mann vekker trette men den langmodige stiller kiv.
+{15:19} Den lates vei er som en tornehekk, men de opriktiges vei er ryddet.
+{15:20} En vis sønn gleder sin far, men et uforstandig menneske forakter sin mor.
+{15:21} Dårskap er en glede for den som er uten forstand; men en forstandig mann går rett frem.
+{15:22} Planer blir til intet uten rådslagning; men hvor det er mange rådgivere, har de fremgang.
+{15:23} En mann gleder sig når hans munn kan gi svar, og hvor godt er ikke et ord i rette tid!
+{15:24} Den forstandige går livets vei opover for å undgå dødsriket der nede.
+{15:25} Herren river ned de overmodiges hus, men enkens markskjell lar han stå fast.
+{15:26} Den ondes råd er en vederstyggelighet for Herren, men milde ord er rene for ham.
+{15:27} Den som jager efter vinning, setter sitt hus i ulag, men den som hater gaver, (de. bestikkelse) skal leve.
+{15:28} Den rettferdige tenker i sitt hjerte på hvorledes han skal svare, men de ugudeliges munn lar onde ting strømme ut.
+{15:29} Herren er langt borte fra de ugudelige, men de rettferdiges bønn hører han.
+{15:30} ¥inenes lys (de. et vennlig blikk.) gleder hjertet; godt budskap gir benene marg.
+{15:31} Den hvis øre hører på tilrettevisning til livet, dveler gjerne blandt vise.
+{15:32} Den som ikke vil vite av tukt, forakter sitt liv, men den som hører på tilrettevisning, vinner forstand.
+{15:33} Herrens frykt er tukt til visdom, og ydmykhet går forut for ære.
+{16:1} Hjertets råd hører mennesket til, men fra Herren får tungen sitt svar.
+{16:2} Alle en manns veier er rene i hans egne øine, men Herren veier åndene.
+{16:3} Legg dine gjerninger på Herren, så skal dine råd ha fremgang.
+{16:4} Herren har gjort hver ting til dens øiemed, også den ugudelige til straffens dag.
+{16:5} Enhver overmodig er en vederstyggelighet for Herren; visselig, en slik mann blir ikke ustraffet.
+{16:6} Ved kjærlighet og trofasthet utsones misgjerning, og den som frykter Herren, holder sig fra det onde.
+{16:7} Når Herren har behag i en manns ferd, da gjør han at endog hans fiender holder fred med ham.
+{16:8} Bedre er lite med rettferdighet enn stor vinning med urett.
+{16:9} Menneskets hjerte tenker ut sin vei, men Herren styrer hans gang.
+{16:10} Guddoms-ord er på kongens leber; hans munn skal ikke forsynde sig når han dømmer.
+{16:11} Rett vekt og rette vektskåler hører Herren til; alle vektstener i pungen er hans verk.
+{16:12} Ugudelige gjerninger er en vederstyggelighet for konger; for ved rettferdighet blir tronen trygget.
+{16:13} Rettferdige leber er til velbehag for konger, og den som taler det som rett er, elsker de.
+{16:14} En konges vrede er dødens bud, men en vis mann stiller vreden.
+{16:15} I lyset fra kongens åsyn er det liv, og hans nåde er som en sky med vårregn.
+{16:16} vinne visdom(-)hvor meget bedre er det ikke enn gull! Og å vinne forstand er mere verdt enn sølv.
+{16:17} De opriktiges vei er å holde sig fra det onde; den som akter på sin vei, bevarer sitt liv.
+{16:18} Forut for undergang går overmot, og forut for fall stolt mot.
+{16:19} Det er bedre å være ydmyk sammen med dem som er i nød, enn å dele bytte med de overmodige.
+{16:20} Den som akter på ordet, skal finne lykke, og den som setter sin lit til Herren, er salig.
+{16:21} Den som er vis i hjertet, blir kalt forstandig, og lebers sødme fremmer lærdom.
+{16:22} Klokskap er en livsens kilde for dem som eier den, men dårers straff er deres egen dårskap.
+{16:23} Den vises hjerte gjør hans munn forstandig og legger mere og mere lærdom på hans leber.
+{16:24} Milde ord er kostelig honning, søt for sjelen og en lægedom for kroppen.
+{16:25} Mangen vei tykkes en mann rett, men enden på det er dødens veier.
+{16:26} Arbeiderens sult arbeider for ham; for hans munn driver ham frem.
+{16:27} En niding graver en ulykkesgrav, og på hans leber er det likesom en fortærende ild.
+{16:28} En falsk mann volder trette, og en øretuter skiller venn fra venn.
+{16:29} En voldsmann forlokker sin næste og fører ham inn på en vei som ikke er god.
+{16:30} Den som lukker sine øine for å tenke på svik, og den som kniper sine leber sammen, han har allerede fullført det onde.
+{16:31} Grå hår er en fager krone; den finnes på rettferdighets vei.
+{16:32} Den langmodige er bedre enn en veldig helt, og den som styrer sitt sinn, er bedre enn den som inntar en by.
+{16:33} I kappens fold rystes loddet, men avgjørelsen kommer alltid fra Herren.
+{17:1} Bedre et stykke tørt brød med ro og fred enn et hus fullt av slakt med trette.
+{17:2} En klok tjener får råde over en dårlig sønn, og iblandt brødrene får han del i arven.
+{17:3} Der er digel for sølv og ovn for gull; men den som prøver hjertene, er Herren.
+{17:4} Den onde akter på ondskaps lebe; løgneren lytter til ødeleggelses tunge.
+{17:5} Den som spotter den fattige, håner hans skaper; den som gleder sig over ulykke, skal ikke bli ustraffet.
+{17:6} De gamles krone er barnebarn, og barns pryd er deres fedre.
+{17:7} Det sømmer sig ikke for dåren å tale store ord, enn mindre for den høibårne å tale løgn.
+{17:8} Gave er en edelsten i dens øine som får den; hvor den kommer, gjør den lykke.
+{17:9} Den som dekker over overtredelse, søker kjærlighet; men den som ripper op en sak, skiller venn fra venn.
+{17:10} Skjenn virker bedre på den forstandige enn hundre slag på dåren.
+{17:11} En ond manns hu står bare til gjenstridighet, og en ubarmhjertig engel sendes imot ham.
+{17:12} Bedre for en mann å møte en bjørn som ungene er tatt fra, enn en dåre i hans dårskap.
+{17:13} Den som gjengjelder godt med ondt, fra hans hus skal ulykken ikke vike.
+{17:14} begynne trette er som å åpne for vann; la da tretten fare, før den blir for voldsom!
+{17:15} Den som frikjenner en ugudelig, og den som domfeller en rettferdig, de er begge to en vederstyggelighet for Herren.
+{17:16} Hvad hjelper penger i dårens hånd til å kjøpe visdom, siden han er uten forstand?
+{17:17} En venn elsker alltid, og en bror fødes til hjelp i nød.
+{17:18} Et menneske som ikke har forstand, gir håndslag og går i borgen hos sin næste.
+{17:19} Den som elsker trette, elsker synd; den som gjør sin dør høi, søker sin egen undergang.
+{17:20} Den som er falsk i hjertet, finner intet godt, og den som er vrang i sin tale, faller i ulykke.
+{17:21} Den som har en narr til sønn, får sorg av ham; en dåres far har ingen glede.
+{17:22} Et glad hjerte gir god lægedom, men et nedslått mot tar margen fra benene.
+{17:23} Den ugudelige tar gaver ut av barmen for å bøie rettens gang.
+{17:24} Den forstandige har visdommen for øie, men dårens øine er ved jordens ende.
+{17:25} En uforstandig sønn er en gremmelse for sin far og en bitter sorg for henne som fødte ham.
+{17:26} straffe også den rettferdige er ikke godt; å slå edle menn er tvert imot all rett.
+{17:27} Den som er sparsom med sine ord, er klok, og den koldsindige er en forstandig mann.
+{17:28} Også dåren aktes for klok når han tier, for vis når han holder sine leber lukket.
+{18:1} Den egensindige følger bare sin egen lyst; mot alle kloke råd viser han tenner.
+{18:2} Dåren bryr sig ikke om å være forstandig, men vil bare vise hvad han tenker i sitt hjerte.
+{18:3} Når den ugudelige kommer, kommer også forakt, og med skammen følger spott.
+{18:4} Ordene i en manns munn er dype vann, visdoms kilde er en fremvellende bekk.
+{18:5} Det er ille å gi den skyldige medhold, å bøie retten for den rettferdige.
+{18:6} Dårens leber volder trette, og hans munn roper efter pryl.
+{18:7} Dårens munn er til ulykke for ham selv, og hans leber er en snare for hans liv.
+{18:8} En øretuters ord er som velsmakende retter, og de trenger ned i hjertets indre.
+{18:9} Den som er lat i sin gjerning, er også en bror til ødeleggeren.
+{18:10} Herrens navn er et fast tårn; til det løper den rettferdige og blir berget.
+{18:11} Den rikes gods er hans festning og som en høi mur i hans egen tanke.
+{18:12} Forut for fall ophøier en manns hjerte sig, men ydmykhet går forut for ære.
+{18:13} Når en svarer før han hører, da blir det til dårskap og skam for ham.
+{18:14} En manns mot kan holde ham oppe i hans sykdom; men et nedslått mot(-)hvem kan bære det?
+{18:15} Den forstandiges hjerte kjøper kunnskap, og de vises øre søker kunnskap.
+{18:16} Et menneskes gave gir ham rum og fører ham frem for store herrer.
+{18:17} Den som taler først i en rettsstrid, synes å ha rett; men så kommer motparten og gransker hans ord.
+{18:18} Loddet gjør ende på tretter og skiller mellem de mektige.
+{18:19} En bror som en har gjort urett mot, er vanskeligere å vinne enn en festning, og trette med ham er som en bom for en borg.
+{18:20} Ved frukten av en manns munn mettes hans buk; med sine lebers grøde blir han mettet.
+{18:21} Død og liv er i tungens vold, og hver den som gjerne bruker den, skal ete dens frukt.
+{18:22} Den som har funnet en hustru, har funnet lykke og fått en nådegave av Herren.
+{18:23} I ydmyke bønner taler den fattige, men den rike svarer med hårde ord.
+{18:24} En mann med mange venner går det ille; men der er venner som henger fastere ved en enn en bror.
+{19:1} Bedre er en fattig som vandrer i ustraffelighet, enn en mann med falske leber, som tillike er en dåre.
+{19:2} Også den som ikke bruker omtanke, går det ille, og den som er for snar på foten, treder feil.
+{19:3} Menneskets egen dårskap ødelegger hans vei, men i sitt hjerte vredes han på Herren.
+{19:4} Rikdom skaper mange venner, den fattige blir skilt fra sin venn.
+{19:5} Et falskt vidne skal ikke bli ustraffet, og den som taler løgn, skal ikke komme unda.
+{19:6} Mange smigrer for den gavmilde, og enhver er venn med den som er rundhåndet.
+{19:7} Den fattiges frender hater ham alle; enda mere holder hans venner sig borte fra ham. Han jager efter ord som ikke er å finne.
+{19:8} Den som vinner forstand, elsker sitt liv; den som holder fast ved visdom, finner lykke.
+{19:9} Et falskt vidne skal ikke bli ustraffet, og den som taler løgn, skal omkomme.
+{19:10} Vellevnet høver ikke for en dåre, enda mindre høver det for en træl å herske over fyrster.
+{19:11} Et menneskes klokskap gjør ham langmodig, og det er hans ære at han overser krenkelser.
+{19:12} En konges vrede er som løvens brøl, men hans yndest som dugg på urter.
+{19:13} En uforstandig sønn er bare til ulykke for sin far, og en kvinnes tretter er et stadig takdrypp.
+{19:14} Hus og gods er en arv fra foreldre, men en forstandig kvinne er en gave fra Herren.
+{19:15} Dovenskap senker i dyp søvn, og den late skal hungre.
+{19:16} Den som holder budet, holder sig selv i live; den som ikke akter på sin ferd, skal miste sitt liv.
+{19:17} Den som forbarmer sig over den fattige, låner til Herren, og Herren skal gjengjelde ham hans velgjerning.
+{19:18} Tukt din sønn, for det er ennu håp; men la dig ikke drive til å drepe ham!
+{19:19} Den hvis vrede er stor, bør bøte; for dersom du hjelper ham, får du gjøre det atter og atter.
+{19:20} Hør på råd og ta imot tukt, så du kan bli vis til slutt!
+{19:21} Det er mange tanker i en manns hjerte, men Herrens råd skal få fremgang.
+{19:22} Et menneskes miskunnhet er hans glede, og en fattig er lykkeligere enn en stormann som lyver.
+{19:23} Herrens frykt fører til liv, og mett får en gå til hvile uten å bli hjemsøkt med ulykke.
+{19:24} Den late stikker sin hånd i fatet, men fører den ikke engang tilbake til sin munn.
+{19:25} Slå spotteren, så vil den uforstandige bli klok; vis den forstandige til rette, så vil han komme til innsikt og kunnskap.
+{19:26} Den som bruker vold mot sin far og jager sin mor bort, er en dårlig, en skamløs sønn.
+{19:27} Hold op, min sønn, med å høre på formaning, når du allikevel bare forviller dig bort fra kunnskaps ord!
+{19:28} Et ugudelig vidne spotter det som rett er, og de gudløses munn sluker urett.
+{19:29} Straffedommer er fastsatt for spotterne og pryl for dårers rygg.
+{20:1} Vinen er en spotter, sterk drikk volder støi, og hver den som raver av den, blir ikke vis.
+{20:2} Den redsel en konge vekker, er som løvens brøl; den som gjør ham vred, spiller sitt liv.
+{20:3} Det er en ære for en mann at han holder sig borte fra trette, men enhver dåre viser tenner.
+{20:4} Om vinteren vil den late ikke pløie, derfor søker han forgjeves efter grøde om høsten.
+{20:5} Tankene i en manns hjerte er et dypt vann, men en forstandig mann drar det op.
+{20:6} Mange mennesker roper høit, hver om sin kjærlighet; men hvem finner vel en trofast mann?
+{20:7} Den rettferdige vandrer i ustraffelighet; lykkelige er hans barn efter ham.
+{20:8} En konge som sitter på sitt dommersete, sikter og skiller ut alt ondt med sine øine.
+{20:9} Hvem kan si: Jeg har renset mitt hjerte, jeg er fri for min synd?
+{20:10} To slags vektstener og to slags mål(-)begge deler er en vederstyggelighet for Herren.
+{20:11} Allerede den unge gutt viser ved sine gjerninger om hans ferd vil bli ren og rett.
+{20:12} ¥ret som hører, og øiet som ser(-)Herren har skapt dem begge to.
+{20:13} Elsk ikke søvn, forat du ikke skal bli fattig! Lukk dine øine op, så får du brød nok å ete.
+{20:14} Dårlig, dårlig! sier kjøperen; men når han går bort, roser han sig.
+{20:15} Det er nok gull og perler i mengde, men kyndige leber er en kostelig ting.
+{20:16} Ta hans klær, han har gått i borgen for en annen, og ta pant av ham for fremmedes skyld!
+{20:17} Brød vunnet ved svik smaker mannen søtt, men siden blir hans munn full av småsten.
+{20:18} Planer får fremgang ved rådslagning; søk veiledning også når du fører krig!
+{20:19} Den som går omkring som baktaler, åpenbarer hemmeligheter, og med den som er åpenmunnet, skal du ikke ha noget å gjøre.
+{20:20} Den som banner sin far og sin mor, hans lampe skal slukne i belgmørke.
+{20:21} En arv som en fra først av har revet til sig, blir til sist uten velsignelse.
+{20:22} Si ikke: Jeg vil gjengjelde med ondt! Bi på Herren, og han skal frelse dig!
+{20:23} To slags vektstener er en vederstyggelighet for Herren, og falsk vekt er noget ondt.
+{20:24} Herren styrer mannens skritt; hvorledes skulde et menneske skjønne sin vei?
+{20:25} Det er farlig for et menneske at han i tankeløshet vier noget til Gud og først bakefter overveier sine løfter.
+{20:26} En vis konge skiller ut de ugudelige og lar hjulet gå over dem.
+{20:27} Menneskets ånd er en Herrens lampe; den ransaker alle lønnkammerne i hans indre.
+{20:28} Miskunnhet og sanndruhet er en vakt om kongen, og han støtter sin trone ved miskunnhet.
+{20:29} De unges pryd er deres kraft, og de gamles ære er de grå hår.
+{20:30} Et tuktemiddel for de onde er buler og sår og slag, som trenger inn i hjertets indre.
+{21:1} Kongens hjerte er som bekker i Herrens hånd, han bøier det dit han vil.
+{21:2} Alle en manns veier er rette i hans egne øine, men Herren veier hjertene.
+{21:3} gjøre rett og skjel er mere verdt for Herren enn offer.
+{21:4} Stolte øine og overmodig hjerte(-)de ugudeliges lampe (deres lykke) blir dem til synd.
+{21:5} Den flittiges tanker fører bare til vinning, men hastverk bare til tap.
+{21:6} Rikdom som vinnes ved svikefull tunge, er et pust som blir borte i luften, og den fører til døden.
+{21:7} De ugudeliges vold skal rykke dem selv bort, fordi de ikke vilde gjøre det som rett er.
+{21:8} Skyldtynget manns vei er kroket, men den renes ferd er ærlig.
+{21:9} Bedre å bo i et hjørne på taket enn med trettekjær kvinne i felles hus.
+{21:10} Den ugudeliges sjel har lyst til det onde; hans næste finner ikke barmhjertighet hos ham.
+{21:11} Når du straffer en spotter, blir den uforstandige vis, og når du lærer en vis, tar han imot kunnskap.
+{21:12} Den Rettferdige (Gud.) gir akt på den ugudeliges hus; han styrter de ugudelige i ulykke.
+{21:13} Den som lukker sitt øre for den fattiges skrik, han skal selv rope, men ikke få svar.
+{21:14} En gave i lønndom stiller vrede, og en hemmelig foræring stiller stor harme.
+{21:15} Det er en glede for den rettferdige å gjøre rett, men en redsel for dem som gjør urett.
+{21:16} Det menneske som forviller sig fra klokskaps vei, skal havne blandt dødningene.
+{21:17} Fattig blir den som elsker glade dager; den som elsker vin og olje, blir ikke rik.
+{21:18} Den ugudelige blir løsepenge for den rettferdige, og den troløse kommer i de opriktiges sted.
+{21:19} Bedre å bo i et øde land enn hos en arg og trettekjær kvinne.
+{21:20} Kostelige skatter og olje er det i den vises hus, men dåren gjør ende på det.
+{21:21} Den som jager efter rettferdighet og miskunnhet, han skal finne liv, rettferdighet og ære.
+{21:22} Den vise inntar de veldiges by og river ned det vern som den satte sin lit til.
+{21:23} Den som varer sin munn og sin tunge, frir sitt liv fra trengsler.
+{21:24} Den som er overmodig og opblåst, kalles en spotter; han farer frem i ustyrlig overmot.
+{21:25} Den lates attrå dreper ham, fordi hans hender nekter å arbeide.
+{21:26} Hele dagen attrår og attrår han, men den rettferdige gir og sparer ikke.
+{21:27} De ugudeliges offer er en vederstyggelighet, og enda mere når de bærer det frem og har ondt i sinne!
+{21:28} Et løgnaktig vidne skal omkomme, men en mann som hører efter, skal alltid få tale.
+{21:29} En ugudelig mann ter sig frekt, men den opriktige går sin vei rett frem.
+{21:30} Det finnes ingen visdom og ingen forstand og intet råd mot Herren.
+{21:31} Hesten gjøres ferdig for stridens dag, men seieren hører Herren til.
+{22:1} Et godt navn er mere verdt enn stor rikdom; å være godt likt er bedre enn sølv og gull.
+{22:2} Rik og fattig møtes; Herren har skapt dem begge.
+{22:3} Den kloke ser ulykken og skjuler sig, men de uerfarne går videre og må bøte.
+{22:4} Lønn for saktmodighet og gudsfrykt er rikdom og ære og liv.
+{22:5} Torner og snarer er der på den falskes vei; den som varer sitt liv, holder sig borte fra dem.
+{22:6} Lær den unge den vei han skal gå! Så viker han ikke fra den, selv når han blir gammel.
+{22:7} Den rike hersker over de fattige, og låntageren blir långiverens træl.
+{22:8} Den som sår urett, skal høste ondt, og med hans vredes ris skal det være forbi.
+{22:9} Den som har et godt hjerte, blir velsignet fordi han gav den fattige av sitt brød.
+{22:10} Jag spotteren bort! Så går tretten med, og kiv og skam hører op.
+{22:11} Den som elsker hjertets renhet, og hvis tale er tekkelig, han har kongen til venn.
+{22:12} Herrens øine verner den forstandige, men han gjør den troløses ord til intet.
+{22:13} Den late sier: Det er en løve der ute, jeg kunde bli drept midt på gaten.
+{22:14} Fremmed kvinnes munn er en dyp grav; den Herren er vred på, faller i den.
+{22:15} Dårskap er bundet fast til den unges hjerte; tuktens ris driver den bort.
+{22:16} undertrykke den fattige tjener bare til å øke hans gods; å gi til den rike volder ham bare tap.
+{22:17} Bøi ditt øre til og hør på vismenns ord og vend ditt hjerte til min kunnskap!
+{22:18} For det er godt at du bevarer dem i ditt indre, og at de alle henger fast ved dine leber.
+{22:19} Forat du skal sette din lit til Herren, lærer jeg dig idag, nettop dig.
+{22:20} Har jeg ikke skrevet for dig kjernesprog med råd og kunnskap
+{22:21} for å kunngjøre dig det som rett er, sannhets ord, så du kan svare dem som sender dig, med sanne ord?
+{22:22} Røv ikke fra en fattig, fordi han er fattig, og tred ikke armingen ned i byporten! (de. i retten)
+{22:23} For Herren skal føre deres sak, og han skal ta deres liv som tar noget fra dem.
+{22:24} Hold dig ikke til venns med en som er snar til vrede, og gi dig ikke i lag med en hastig mann,
+{22:25} forat du ikke skal lære dig til å gå på hans veier og få satt en snare for ditt liv!
+{22:26} Vær ikke blandt dem som gir håndslag, dem som borger for gjeld!
+{22:27} Når du intet har å betale med, hvorfor skal de da ta din seng bort under dig?
+{22:28} Flytt ikke det gamle grenseskjell som dine fedre har satt!
+{22:29} Ser du en mann som er duelig i sin gjerning(-)han kan komme til å tjene konger; han kommer ikke til å tjene småfolk.
+{23:1} Når du sitter til bords med en fyrste, da skal du nøie akte på hvem du har for dig,
+{23:2} og sette en kniv på din strupe, hvis du er grådig.
+{23:3} Vær ikke lysten efter hans fine retter, for det er mat som kan svike!
+{23:4} Gjør dig ikke møie for å bli rik, la sådan klokskap fare!
+{23:5} Når du vender dine øine mot rikdommen, så er den borte. For den gjør sig visselig vinger, lik en ørn som flyver mot himmelen.
+{23:6} Et ikke den misunneliges brød, og vær ikke lysten efter hans fine mat!
+{23:7} For som han tenker i sin sjel, så er han; et og drikk, sier han til dig, men hans hjerte er ikke med dig.
+{23:8} Den matbit som du har ett, den vil du spy ut, og du har spilt dine vakre ord.
+{23:9} Tal ikke for dårens ører, for han forakter dine forstandige ord!
+{23:10} Flytt ikke det gamle grenseskjell, og kom ikke inn på farløses marker!
+{23:11} For deres løser er sterk, han skal føre deres sak mot dig.
+{23:12} Bøi ditt hjerte til tukt og dine ører til kunnskaps ord!
+{23:13} La ikke den unge være uten tukt! Når du slår ham med riset, skal han ikke dø.
+{23:14} Du slår ham med riset, men du frelser hans sjel fra dødsriket.
+{23:15} Min sønn! Er ditt hjerte vist, så skal også mitt hjerte glede sig,
+{23:16} og jeg skal juble i mitt indre når dine leber taler det som rett er.
+{23:17} La ikke ditt hjerte være nidkjært mot syndere, men alltid nidkjært for Herrens frykt!
+{23:18} Sannelig, det er en fremtid for dig, og ditt håp skal ikke bli til intet.
+{23:19} Hør, min sønn, og bli vis og la ditt hjerte gå bent frem på veien!
+{23:20} Vær ikke blandt vindrikkere, blandt dem som fråtser i kjøtt!
+{23:21} For drankeren og fråtseren blir fattig, og søvn klær mannen i filler.
+{23:22} Hør på din far, som gav dig livet, og forakt ikke din mor når hun er blitt gammel!
+{23:23} Kjøp sannhet og selg den ikke, kjøp visdom og tukt og forstand!
+{23:24} Den rettferdiges far skal juble; den som får en vis sønn, skal glede sig over ham.
+{23:25} La din far og din mor glede sig, og la henne som fødte dig, juble!
+{23:26} Min sønn! Gi mig ditt hjerte, og la dine øine ha lyst til mine veier!
+{23:27} For skjøgen er en dyp grav, og den fremmede kvinne en trang brønn;
+{23:28} ja, hun ligger på lur som en røver, og hun øker tallet på de troløse blandt menneskene.
+{23:29} Hvem roper: Akk? Hvem roper: Ve? Hvem har trette? Hvem har klage? Hvem har sår for ingen ting? Hvem har røde øine?
+{23:30} De som sitter lenge oppe ved vinen, de som kommer for å prøve den krydrede drikk.
+{23:31} Se ikke til vinen, hvor rød den er, hvorledes den perler i begeret, hvor lett den går ned!
+{23:32} Til sist biter den som en slange og hugger som en huggorm;
+{23:33} dine øine vil se efter fremmede kvinner, og ditt hjerte tale forvendte ting,
+{23:34} og du blir lik en som sover midt ute på havet, lik en som sover i toppen av en mast.
+{23:35} Du vil si: De banket mig, det gjorde ikke ondt; de støtte mig, jeg kjente det ikke. Når skal jeg våkne? Jeg vil se å få tak i enda mere.
+{24:1} Vær ikke misunnelig på onde mennesker, og ha ikke lyst til å være med dem!
+{24:2} For deres hjerte tenker bare på å ødelegge, og deres leber taler ulykke.
+{24:3} Ved visdom bygges et hus, og ved forstand blir det trygget,
+{24:4} og ved kunnskap fylles kammerne med all slags kostelig og herlig gods.
+{24:5} En vis mann er sterk, og en kyndig mann øker sin kraft.
+{24:6} Du skal søke veiledning når du fører krig; hvor det er mange rådgivere, er det frelse.
+{24:7} Visdom er for høi for dåren; i byporten lukker han ikke sin munn op.
+{24:8} Den som tenker ut onde råd, blir kalt en renkesmed.
+{24:9} Dårskaps råd er synd, og en spotter er en vederstyggelighet blandt folk.
+{24:10} Viser du dig motløs på trengselens dag, så er din kraft ringe.
+{24:11} Frels dem som hentes til døden, og hold tilbake dem som føres skjelvende bort til retterstedet!
+{24:12} Når du sier: Se, vi visste ikke noget om det, mon da ikke han skjønner det, han som veier hjertene, og han som gir akt på din sjel, mon ikke han vet det og gjengjelder enhver efter hans gjerninger?
+{24:13} Et honning, min sønn, for den er god, og fin honning er søt for din gane!
+{24:14} Akt visdommen like så gagnlig for din sjel! Har du funnet den, så er det en fremtid for dig, og ditt håp skal ikke bli til intet.
+{24:15} Lur ikke som en ugudelig på den rettferdiges bolig, ødelegg ikke hans hjem!
+{24:16} For syv ganger faller den rettferdige og står op igjen, men de ugudelige kastes over ende når ulykken kommer.
+{24:17} Når din fiende faller, må du ikke glede dig, og når han snubler, må ikke ditt hjerte fryde sig,
+{24:18} forat ikke Herren skal se det og mislike det, så han vender sin vrede fra ham. (og til dig)
+{24:19} La ikke din vrede optendes over de onde, bli ikke harm over de ugudelige!
+{24:20} For de onde har ingen fremtid, de ugudeliges lampe slukner.
+{24:21} Frykt Herren, min sønn, og kongen! Med folk som setter sig op mot dem, må du ikke ha noget å gjøre;
+{24:22} for ulykken kommer brått over dem, og ødeleggelsen fra dem begge (Gud og kongen.) (-)hvem kjenner den?
+{24:23} Også disse ordsprog er av vismenn: Dommeren bør ikke gjøre forskjell på folk.
+{24:24} Den som sier til den skyldige: Du er uskyldig, ham vil folkeslagene forbanne, ham vil folkene ønske ondt over;
+{24:25} men dem som straffer ham, skal det gå vel, og lykke og velsignelse skal komme over dem.
+{24:26} Kyss på leber gir den som svarer med rette ord.
+{24:27} Fullfør din gjerning der ute og gjør den ferdig på marken! Siden kan du bygge ditt hus.
+{24:28} Vær ikke vidne mot din næste uten årsak! Eller skulde du gjøre svik med dine leber?
+{24:29} Si ikke: Som han har gjort mot mig, således vil jeg gjøre mot ham; jeg vil gjengjelde enhver efter hans gjerninger.
+{24:30} Jeg kom gående forbi en lat manns mark, et uforstandig menneskes vingård,
+{24:31} og se, den var helt overgrodd med tistler; nesler skjulte dens bunn, og stengjerdet om den var revet ned.
+{24:32} Og jeg, jeg blev det var, jeg gav akt på det; jeg så det og tok lærdom av det:
+{24:33} Sier du: La mig ennu sove litt, blunde litt, folde mine hender litt og hvile(-)
+{24:34} så kommer armoden over dig som en landstryker, og nøden som en mann med skjold.
+{25:1} Også dette er Salomos ordsprog, som Judas konge Esekias'menn har samlet:
+{25:2} Det er Guds ære å skjule en sak, men kongers ære å granske en sak.
+{25:3} Himmelens høide, jordens dybde og kongers hjerter er uransakelige.
+{25:4} Skill slagget fra sølvet, så får gullsmeden et kar ut av det.
+{25:5} Før den ugudelige bort fra kongens åsyn, så blir hans trone trygget ved rettferdighet.
+{25:6} Bryst dig ikke for kongens åsyn og still dig ikke på de stores plass!
+{25:7} For det er bedre de sier til dig: Kom her op, enn at du blir flyttet ned for en stormann, som du hadde sett.
+{25:8} Gi dig ikke for hastig i strid med nogen, forat det ikke skal sies: Hvad vil du gjøre til slutt når motparten vinner saken til din skam?
+{25:9} Før din sak mot din motpart, men åpenbar ikke annen manns hemmelighet,
+{25:10} forat ikke den som hører det, skal skjelle dig ut, og ditt dårlige rykte vare ved!
+{25:11} Som epler av gull i skåler av sølv er et ord talt i rette tid.
+{25:12} Som en ring av gull, som et smykke av fint gull er en vismann som taler refsende ord for et hørende øre.
+{25:13} Som kjølende sne (de. en ved sne avkjølt drikk.) i høstens tid er et pålitelig sendebud for den som sender ham; han vederkveger sin herres sjel.
+{25:14} Som skyer og vind uten regn er den mann som skryter av at han vil gi, men ikke holder ord.
+{25:15} Ved saktmodighet blir en fyrste overtalt, og en mild tunge knuser ben.
+{25:16} Har du funnet honning, så et av den det du trenger, forat du ikke skal bli lei av den og spy den ut!
+{25:17} Sett sjelden din fot i din venns hus, forat han ikke skal bli lei av dig og hate dig!
+{25:18} Som en hammer, et sverd, en hvass pil er en mann som fører falskt vidnesbyrd mot sin næste.
+{25:19} Som en skjør tann og en vaklende fot er tillit til den troløse på nødens dag.
+{25:20} Lik den som legger av sine klær på en vinterdag, lik eddik på pottaske er den som synger viser for et sorgfullt hjerte.
+{25:21} Hungrer din fiende, så gi ham brød å ete, og tørster han, så gi ham vann å drikke!
+{25:22} For da sanker du gloende kull på hans hode, og Herren skal gjengjelde dig det.
+{25:23} Nordenvind føder regn, og en tunge som hvisker i lønndom, volder sure miner.
+{25:24} Bedre å bo i et hjørne på taket enn med trettekjær kvinne i felles hus.
+{25:25} Som friskt vann for den trette er en god tidende fra et fjernt land.
+{25:26} Som en grumset kilde og en utskjemt brønn er en rettferdig som gir efter for en ugudelig.
+{25:27} ete for meget honning er ikke godt, og grubleres ære er tung.
+{25:28} Som en by hvis murer er brutt ned og borte, er en mann som ikke kan styre sitt sinn.
+{26:1} Som sne om sommeren og som regn i høsttiden, slik høver ære for en dåre.
+{26:2} Som spurven i fart, som svalen i flukt, slik er det med en uforskyldt forbannelse(-)den rammer ikke.
+{26:3} Svepe for hesten, tømme for asenet, og kjepp for dårers rygg!
+{26:4} Svar ikke dåren efter hans dårskap, forat du ikke selv skal bli ham lik!
+{26:5} Svar dåren efter hans dårskap, forat han ikke skal bli vis i egne øine!
+{26:6} Den som sender bud med en dåre, han hugger føttene av sig, han må tåle slem medfart.
+{26:7} Visne henger benene på den lamme og likeså ordsprog i munnen på dårer.
+{26:8} Lik den som legger sten i slyngen, er den som gir en dåre ære.
+{26:9} Som en torn i en drukken manns hånd, slik er et ordsprog i dårers munn.
+{26:10} En mester får alt i stand, men den som leier en dåre, er lik den som leier en som går forbi. (de. den første den beste)
+{26:11} Lik hunden som vender tilbake til sitt eget spy, er en dåre som kommer igjen med sin dårskap.
+{26:12} Ser du en mann som er vis i egne øine(-)det er mere håp for dåren enn for ham.
+{26:13} Den late sier: Det er en løve på veien, en løve i gatene.
+{26:14} Døren dreier sig på sitt hengsel, og den late snur sig på sitt leie.
+{26:15} Den late stikker sin hånd fatet; han gider ikke føre den tilbake til sin munn.
+{26:16} Den late er visere i egne øine enn syv som svarer med forstand.
+{26:17} Lik den som tar fatt i øret på en hund som løper forbi, er den som lar sig egge til vrede over en trette som ikke kommer ham ved.
+{26:18} Lik en gal mann som kaster ut brandpiler og skyter og dreper,
+{26:19} er en mann som har sveket sin venn og så sier: Jeg spøker jo bare!
+{26:20} Når det er forbi med veden, slukner ilden, og når det ingen øretuter er, stilles trette.
+{26:21} Som kull blir til glør, og som ved nærer ild, slik voldes kiv av en trettekjær mann.
+{26:22} En øretuters ord er som velsmakende retter, og de trenger ned i hjertets indre.
+{26:23} Lik et lerkar som er overdratt med bly-glette, er brennende leber sammen med et ondt hjerte.
+{26:24} Med sine leber skaper den hatefulle sig til, men i sitt indre gjemmer han svik.
+{26:25} Når han gjør sin røst blid, så tro ham ikke! For der er syv vederstyggeligheter i hans hjerte.
+{26:26} Den hatefulle skjuler sig i svik, men hans ondskap blir åpenbar i forsamlingen.
+{26:27} Den som graver en grav, skal falle i den, og den som velter en sten op, på ham skal den rulle tilbake.
+{26:28} En løgnaktig tunge hater dem som den har knust, og en falsk munn volder fall.
+{27:1} Ros dig ikke av den dag imorgen, for du vet ikke hvad dagen vil føde!
+{27:2} La en annen rose dig og ikke din egen munn, en fremmed og ikke dine egne leber!
+{27:3} Stenen er tung, og sanden veier meget, men dårens harme er tyngre enn begge.
+{27:4} Vrede er fryktelig, og harme er som en flom; men hvem kan stå sig mot avind?
+{27:5} penlys irettesettelse er bedre enn kjærlighet som skjules.
+{27:6} Trofaste er vennens slag, men troløse er fiendens kyss.
+{27:7} Den mette vraker honning, men for den sultne er alt bittert søtt.
+{27:8} Lik en spurv som flyver omkring borte fra sitt rede, er en mann som vanker om borte fra sitt hjem.
+{27:9} Olje og røkelse gleder hjertet, og likeså en venns ømhet og opriktige råd.
+{27:10} Forlat ikke din venn og din fars venn, og kom ikke i din brors hus den dag du er i nød! En granne nær ved er bedre enn en bror langt borte.
+{27:11} Vær vis, min sønn, og gled mitt hjerte, så jeg kan svare den som håner mig!
+{27:12} Den kloke ser ulykken og skjuler sig; de uerfarne går videre og må bøte.
+{27:13} Ta hans klær, han har gått i borgen for en annen, og ta pant av ham for en fremmed kvinnes skyld!
+{27:14} Den som velsigner sin venn med høi røst (på en hyklersk måte.) tidlig om morgenen, ham skal det regnes som en forbannelse.
+{27:15} Et stadig takdrypp på en regndag og en trettekjær kvinne ligner hverandre.
+{27:16} Den som holder på henne, holder på vind, og hans høire hånd griper i olje.
+{27:17} Jern skjerpes ved jern, og en mann slipes ved å omgås andre.
+{27:18} Den som passer sitt fikentre, får ete dets frukt, og den som tar vare på sin herre, blir æret.
+{27:19} Likesom ansikt speiler sig mot ansikt i vannet, så finner det ene menneske sitt hjerte igjen hos det andre.
+{27:20} Dødsriket og avgrunnen blir ikke mette, og menneskenes øine blir heller ikke mette.
+{27:21} Digel er for sølv og ovn for gull, og en mann prøves efter det han roser.
+{27:22} Om du støter dåren i morteren med støteren midt iblandt grynene, så viker hans dårskap allikevel ikke fra ham.
+{27:23} Du bør nøie kjenne dine fårs utseende; ha omsorg for din buskap!
+{27:24} For gods varer ikke til evig tid, og en krone ikke gjennem alle slekter.
+{27:25} Når høiet er borte, og det unge gress kommer til syne, og fjellgresset samles inn,
+{27:26} så har du lam til klær og bukker til å kjøpe aker for,
+{27:27} og du har gjetemelk nok til føde for dig og ditt hus og til livsophold for dine piker.
+{28:1} De ugudelige flyr uten at nogen forfølger dem; men de rettferdige er trygge som ungløven.
+{28:2} For et lands frafalls skyld blir dets fyrster mange; men når menneskene er kloke og førstandige, så lever fyrsten lenge.
+{28:3} En fattig mann som undertrykker småfolk, er et regn som skyller bort kornet, så der ikke blir brød.
+{28:4} De som ikke følger loven, priser de ugudelige, men de som holder loven, strider mot dem.
+{28:5} Onde mennesker skjønner ikke hvad rett er, men de som søker Herren, skjønner alt.
+{28:6} Bedre er en fattig som vandrer i ustraffelighet, enn en falsk som vandrer på to veier, selv om han er rik.
+{28:7} Den som følger loven, er en forstandig sønn; men den som holder vennskap med svirebrødre, gjør sin far skam.
+{28:8} Den som øker sitt gods ved rente og ved overmål, han samler for den som forbarmer sig over de fattige.
+{28:9} Om en vender sitt øre bort og ikke vil høre loven, er endog hans bønn en vederstyggelighet.
+{28:10} Den som fører de opriktige vill på en ond vei, skal falle i sin egen grav; men de ustraffelige skal arve det som godt er.
+{28:11} En rik mann er vis i sine egne øine; men en fattig som er forstandig, gjennemskuer ham.
+{28:12} Når de rettferdige jubler, er alt herlighet og glede; men når de ugudelige kommer sig op, må en lete efter folk.
+{28:13} Den som skjuler sine misgjerninger, har ingen lykke, men den som bekjenner dem og vender sig fra dem, finner miskunnhet.
+{28:14} Salig er det menneske som alltid frykter; men den som forherder sitt hjerte, faller i ulykke.
+{28:15} En brølende løve, en omfarende bjørn, slik er en ugudelig hersker over et fattig folk.
+{28:16} Du fyrste som er fattig på forstand og rik på vold! De som hater urettferdig vinning, skal leve lenge.
+{28:17} Et menneske som trykkes av blodskyld, er på flukt like til sin grav; ingen må holde på ham. (nemlig for å redde ham)
+{28:18} Den som lever ustraffelig, skal frelses; men den falske, som vandrer på to veier, skal falle på den ene.
+{28:19} Den som dyrker sin jord, mettes med brød; men den som jager efter tomme ting, mettes med armod.
+{28:20} En trofast mann får rik velsignelse; men den som haster efter å bli rik, han blir ikke ustraffet.
+{28:21} gjøre forskjell på folk er ikke rett, men mangen mann forsynder sig for et stykke brøds skyld.
+{28:22} Den misunnelige haster engstelig efter gods og vet ikke at mangel skal komme over ham.
+{28:23} Den som irettesetter et menneske, skal siden finne mere yndest enn den som gjør sin tunge glatt.
+{28:24} Den som plyndrer sin far og sin mor og sier: Det er ingen synd, han er en stallbror til ødeleggeren.
+{28:25} Den havesyke vekker trette; men den som setter sin lit til Herren, skal trives.
+{28:26} Den som setter sin lit til sin forstand, han er en dåre; men den som vandrer i visdom, han blir frelst.
+{28:27} Den som gir til den fattige, skal ikke lide mangel; men den som lukker sine øine, (nemlig for den fattiges nød) får mange forbannelser.
+{28:28} Når de ugudelige kommer sig op, skjuler folk sig; men når de omkommer, blir der mange rettferdige.
+{29:1} En mann som er ofte straffet og allikevel gjør sin nakke stiv, vil i et øieblikk bli sønderbrutt, og der er ingen lægedom.
+{29:2} Når de rettferdige kommer til makten, gleder folket sig; men når en ugudelig mann hersker, sukker folket.
+{29:3} En mann som elsker visdom, gleder sin far; men den som holder vennskap med skjøger, øder sitt gods.
+{29:4} En konge trygger sitt land ved rett; men en mann som tar imot gaver, bryter det ned.
+{29:5} En mann som smigrer for sin næste, setter op et garn for hans fot.
+{29:6} En ond manns misgjerning er en snare for ham, men den rettferdige skal juble og glede sig.
+{29:7} Den rettferdige tar sig av småfolks sak; den ugudelige skjønner sig ikke på noget.
+{29:8} Spottere egger op byen, men vismenn stiller vreden.
+{29:9} Når en vismann går i rette med en dåre, så blir dåren vred og ler, og der blir ingen ro.
+{29:10} De blodtørstige hater den ustraffelige, men de rettsindige søker å redde hans liv.
+{29:11} All sin vrede lar dåren strømme ut, men den vise holder vreden tilbake og stiller den.
+{29:12} Når en hersker akter på løgnens ord, blir alle hans tjenere ugudelige.
+{29:13} Den fattige og den som undertrykker ham, møtes; Herren gir begges øine deres lys.
+{29:14} En konge som dømmer småfolk rettferdig, hans trone står fast for alle tider.
+{29:15} Ris og tukt gir visdom; men en gutt som er overlatt til sig selv, gjør sin mor skam.
+{29:16} Når de ugudelige får makt, får synden makt; men de rettferdige skal se deres fall med glede.
+{29:17} Tukt din sønn, så skal han bli dig til glede og vederkvege din sjel!
+{29:18} Uten åpenbaring blir folket tøilesløst; men lykkelig er den som holder loven.
+{29:19} Ved ord lar en træl sig ikke tukte; for han skjønner dem nok, men adlyder dem ikke.
+{29:20} Har du sett en mann som forhaster sig i sine ord(-)det er mere håp for dåren enn for ham.
+{29:21} Forkjæler en sin træl fra ungdommen av, så vil han til sist være sønn i huset.
+{29:22} Den som er snar til vrede, vekker trette, og en hastig mann gjør ofte det som er ondt.
+{29:23} Et menneskes stolthet fører ham til fall, men den ydmyke vinner ære.
+{29:24} Den som deler med en tyv, hater sitt liv; han hører opropet til ed og gir allikevel ingen oplysning.
+{29:25} Menneskefrykt fører i snare, men den som setter sin lit til Herren, han blir berget.
+{29:26} Mange søker en herskers yndest, men fra Herren kommer en manns rett.
+{29:27} En urettferdig mann er en vederstyggelighet for de rettferdige, og en vederstyggelighet for den ugudelige er den som lever rett.
+{30:1} Agurs, Jakes sønns ord og utsagn. Så talte mannen til Itiel, til Itiel og Ukkal:
+{30:2} Jeg er for ufornuftig til å kalles menneske; manns forstand har jeg ikke.
+{30:3} Jeg har ikke lært visdom og har ikke kunnskap om den Hellige.
+{30:4} Hvem fór op til himmelen og fór ned? Hvem samlet været i sine never? Hvem bandt vannet i et klæde? Hvem satte alle jordens grenser? Hvad er hans navn, og hvad er hans sønns navn? Du vet det jo.
+{30:5} Alt Guds ord er rent; han er et skjold for dem som tar sin tilflukt til ham.
+{30:6} Legg ikke noget til hans ord, forat han ikke skal straffe dig, og du stå som en løgner!
+{30:7} To ting beder jeg dig om, nekt mig dem ikke, før jeg dør:
+{30:8} La falskhet og løgnens ord være langt borte fra mig! Gi mig ikke armod og heller ikke rikdom! La mig ete mitt tilmålte brød,
+{30:9} forat jeg ikke når jeg blir mett, skal fornekte dig og si: Hvem er Herren? og ikke når jeg blir fattig, stjele og forbanne min Guds navn!
+{30:10} Baktal ikke en tjener for hans herre, forat han ikke skal banne dig, og du dra skyld over dig!
+{30:11} Der er en ætt som banner sin far og ikke velsigner sin mor,
+{30:12} en ætt som er ren i sine egne øine og dog ikke har tvettet sig for sitt eget skarn,
+{30:13} en ætt(-)hvor stolte er ikke dens øine, og dens øielokk, hvor hever de sig ikke! (-)
+{30:14} en ætt hvis tenner er sverd, og hvis jeksler er kniver, som eter arminger ut av landet og fattige ut av menneskenes tall.
+{30:15} Blodiglen har to døtre: Gi hit! Gi hit! Der er tre som aldri blir mette, fire som aldri sier: Nok!
+{30:16} Det er dødsriket og det ufruktbare morsliv, jorden, som aldri blir mett av vann, og ilden, som aldri sier: Nok!
+{30:17} Et øie som spotter far og forakter lydighet mot mor, det skal ravnene ved bekken hakke ut, og ørneunger skal ete det.
+{30:18} Det er tre ting som er mig for underlige, og fire som jeg ikke skjønner:
+{30:19} ¥rnens vei på himmelen, ormens vei over stenen, skibets vei på havet og en manns vei til en jomfru.
+{30:20} Slik bærer en horkvinne sig at: Hun eter og tørker sin munn og sier: Jeg har ikke gjort noget ondt.
+{30:21} Under tre skjelver jorden, og under fire kan den ikke holde ut:
+{30:22} under en træl når han blir konge, og en dåre når han blir mett av brød,
+{30:23} under en forsmådd kvinne når hun blir gift, og en tjenestepike når hun arver sin frue.
+{30:24} Det er fire som er små på jorden og allikevel overvettes vise:
+{30:25} Maurene er ikke noget sterkt folk, og enda lager de sin føde om sommeren;
+{30:26} fjellgrevlingene er ikke noget kraftig folk, og enda bygger de sitt hus i berget;
+{30:27} gresshoppene har ingen konge, og enda drar de alle ut, skare efter skare;
+{30:28} firfislen kan du gripe med hendene, og allikevel finnes den i kongelige palasser.
+{30:29} Det er tre som skrider vakkert frem, og fire som har en vakker gang:
+{30:30} Løven, som er en helt blandt dyrene, og som ikke vender om for nogen,
+{30:31} hesten med gjord om lendene, bukken, og en konge i spissen for sitt folk.
+{30:32} Har du vært så uforstandig at du har ophøiet dig, eller har du tenkt på ondt, da legg hånden på din munn!
+{30:33} For trykk på melk gir smør, og trykk på nese gir blod, og trykk på vrede (enn mere å egge den vrede.) gir trette.
+{31:1} Kong Lemuels ord, den lærdom som hans mor innprentet ham:
+{31:2} Hvad skal jeg si til dig, min sønn, du mitt livs sønn, du mine løfters sønn?
+{31:3} Gi ikke kvinner din kraft, og gå ikke på veier som fører til ødeleggelse for konger!
+{31:4} Det sømmer sig ikke for konger, Lemuel, det sømmer sig ikke for konger å drikke vin, heller ikke for fyrster å drikke sterk drikk,
+{31:5} forat de ikke skal drikke og glemme hvad der er lov, og forvende retten for alle arminger.
+{31:6} Gi sterk drikk til den som er sin undergang nær, og vin til den som er bedrøvet i sjelen!
+{31:7} La ham få drikke, så han glemmer sin fattigdom og ikke mere kommer sin møie i hu!
+{31:8} Oplat din munn for den stumme, for alle deres sak som er nær ved å forgå!
+{31:9} Oplat din munn, døm rettferdig og hjelp armingen og den fattige til hans rett!
+{31:10} En god hustru(-)hvem finner henne? Langt mere enn perler er hun verd.
+{31:11} Hennes manns hjerte liter på henne, og på vinning skorter det ikke.
+{31:12} Hun gjør ham godt og intet ondt alle sitt livs dager.
+{31:13} Hun sørger for ull og lin, og hennes hender arbeider med lyst.
+{31:14} Hun er som en kjøbmanns skib; hun henter sitt brød langveisfra.
+{31:15} Hun står op mens det ennu er natt, og gir sine husfolk brød og sine piker deres arbeid for dagen.
+{31:16} Hun tenker på en mark og får den; for det hun tjener med sine hender, planter hun en vingård.
+{31:17} Hun omgjorder sine lender med kraft og gjør sine armer sterke.
+{31:18} Hun merker at det går godt med hennes arbeid; hennes lampe slukkes ikke om natten.
+{31:19} Hun legger sine hender på rokken, og hennes fingrer tar fatt på tenen.
+{31:20} Hun åpner sin hånd for den trengende og rekker ut sine hender til den fattige.
+{31:21} Hun frykter ikke sneen for sitt hus; for hele hennes hus er klædd i skarlagenfarvet ull.
+{31:22} Hun gjør sig tepper; fint lin og purpur er hennes klædning.
+{31:23} Hennes mann er kjent i byens porter, der han sitter sammen med landets eldste.
+{31:24} Hun gjør skjorter og selger dem, og belter leverer hun til kjøbmannen.
+{31:25} Kraft og verdighet er hennes klædebon, og hun ler av den kommende tid.
+{31:26} Hun oplater sin munn med visdom, og kjærlig formaning er på hennes tunge.
+{31:27} Hun holder øie med hvorledes det går til i hennes hus, og dovenskaps brød eter hun ikke.
+{31:28} Hennes sønner står op og priser henne lykkelig; hennes mann står op og roser henne:
+{31:29} Det finnes mange dyktige kvinner, men du overgår dem alle.
+{31:30} Ynde sviker, og skjønnhet forgår; en kvinne som frykter Herren, hun skal prises.
+{31:31} Gi henne av hennes arbeids frukt, og hennes gjerninger skal prise henne i byens porter.

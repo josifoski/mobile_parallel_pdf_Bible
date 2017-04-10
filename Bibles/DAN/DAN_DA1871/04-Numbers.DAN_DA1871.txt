@@ -1,0 +1,1288 @@
+{1:1} Og Herren talede til Mose i Sinai Ørk i Forsamlingens Paulun paa den første Dag i den anden Maaned i det andet Aar, efter at de vare udgangne af Ægyptens Land, og sagde:
+{1:2} Tager Hovedsum paa hele Israels Børns Menighed, efter deres Slægter, efter deres Fædrenehus, ved Navnes Tal, alt Mandkøn Hoved for Hoved af dem,
+{1:3} fra tyve Aar gamle og derover, hver som uddrage i Krig udi Israel; I skulle tælle dem efter deres Hær, du og Aron.
+{1:4} Og med eder skal være en Mand for hver Stamme, en, som er Øverste for sit Fædrenehus.
+{1:5} Og disse ere Navnene paa Mændene, som skulle staa eder bi: Ruben: Elizur, Sedeurs Søn;
+{1:6} for Simeon: Selumiel, Zurisaddai Søn;
+{1:7} for Juda: Nahesson, Amminadabs Søn;
+{1:8} for Isaskar: Nethaneel, Zuars Søn;
+{1:9} for Sebulon: Eliab, Helons Søn;
+{1:10} for Josefs Børn, for Efraim: Elisama, Amihuds Søn; for Manasse: Gamliel, Pedazurs Søn;
+{1:11} for Benjamin: Abidan, Gideoni Søn;
+{1:12} for Dan: Ahieser, Ammisaddai Søn;
+{1:13} for Aser: Pagiel, Okrans Søn;
+{1:14} for Gad: Eliasaf, Deuels Søn;
+{1:15} for Nafthali: Ahira, Enans Søn.
+{1:16} Disse vare de kaldte af Menigheden, Fyrster for deres Fædres Stammer; de vare Øverster for Israels Tusinder.
+{1:17} Og Mose og Aron toge disse Mænd, som ere udtrykkelig nævnede ved Navne.
+{1:18} Og de lode hele Menigheden samle sig paa den første Dag i den anden Maaned, og de opgave deres Herkomst, efter deres Slægter, efter deres Fædrenehus, efter Navnes Tal, fra tyve Aar gamle og derover, Hoved for Hoved.
+{1:19} Som Herren havde befalet Mose, saa talte han dem i Sinai Ørk.
+{1:20} Og Rubens, Israels førstefødtes, Børns Afkom efter deres Slægter, efter deres Fædrenehus, efter Navnes Tal, Hoved for Hoved, alt Mandkøn fra tyve Aar gamle og derover, hver som kunde uddrage i Strid:
+{1:21} De talte af dem til Rubens Stamme vare seks og fyrretyve Tusinde og fem Hundrede.
+{1:22} Simeons Børns Afkom efter deres Slægter, efter deres Fædrenehus; de talte af dem efter Navnes Tal, Hoved for Hoved, alt Mandkøn fra tyve Aar gamle og derover, hver som kunde uddrage i Strid:
+{1:23} De talte af dem til Simeons Stamme vare ni og halvtredsindstyve Tusinde og tre Hundrede.
+{1:24} Gads Børns Afkom, efter deres Slægter, efter deres Fædrenehus, efter Navnes Tal, fra tyve Aar gamle og derover, hver som kunde uddrage i Strid:
+{1:25} De talte af dem til Gads Stamme vare fem og fyrretyve Tusinde og seks Hundrede og halvtredsindstyve.
+{1:26} Judas Børns Afkom efter deres Slægter, efter deres Fædrenehus, efter Navnes Tal, fra tyve Aar og derover, hver som kunde uddrage i Strid:
+{1:27} De talte af dem til Judas Stamme vare fire og halvfjerdsindstyve Tusinde og seks Hundrede.
+{1:28} Isaskars Børns Afkom, efter deres Slægter, efter deres Fædrenehus, efter Navnes Tal, fra tyve Aar gamle og derover, hver som kunde uddrage i Strid:
+{1:29} De talte af dem til Isaskars Stamme vare fire og halvtredsindstyve Tusinde og fire Hundrede.
+{1:30} Sebulons Børns Afkom, efter deres Slægter, efter deres Fædrenehus, efter Navnes Tal, fra tyve Aar gamle og derover, hver som kunde uddrage i Strid:
+{1:31} De talte af dem til Sebulons Stamme vare syv og halvtredsindstyve Tusinde og fire Hundrede.
+{1:32} Josefs Børn, nemlig Efraims Børns Afkom, efter deres Slægter, efter deres Fædrenehus, efter Navnes Tal, fra tyve Aar gamle og derover, hver som kunde uddrage i Strid:
+{1:33} De talte af dem til Efraims Stamme vare fyrretyve Tusinde og fem Hundrede.
+{1:34} Manasse Børns Afkom, efter deres slægter, efter deres Fædrenehus efter Navnes Tal, fra tyve Aar gamle og derover, hver som kunde uddrage i Strid:
+{1:35} De talte af dem til Manasse Stamme vare to og tredive Tusinde og to Hundrede.
+{1:36} Benjamins Børns Afkom, efter deres Slægter, efter deres Fædrenehus, efter Navnes Tal, fra tyve Aar gamle og derover, hver som kunde uddrage i Strid:
+{1:37} De talte af dem til Benjamins Stamme vare fem og tredive Tusinde og fire Hundrede.
+{1:38} Dan Børns Afkom, efter deres Slægter efter deres Fædrenehus, efter Navnes Tal, fra tyve Aar gamle og derover, hver som kunde uddrage i Strid:
+{1:39} De talte af dem til Dans Stamme vare to og tresindstyve Tusinde og syv Hundrede.
+{1:40} Asers Børns Afkom, efter deres Slægter efter deres Fædrenehus, efter Navnes Tal, fra tyve Aar gamle derover, hver som kunde uddrage i Strid:
+{1:41} De talte af dem til Asers Stamme vare eet og fyrretyve Tusinde og fem Hundrede.
+{1:42} Nafthali Børns Afkom, efter deres Slægter efter deres Fædrenehus, efter Navnes Tal, fra tyve Aar gamle og derover, hver som kunde uddrage i Strid:
+{1:43} De talte af dem til Nafthali Stamme vare tre og halvtredsindstyve Tusinde og fire Hundrede
+{1:44} Disse ere de talte, som Mose Aron talte, og hver af de tolv Israels Fyrster; hver Mand var for sit Fædrenehus.
+{1:45} Og alle de, som bleve talte af Israels Børn, efter deres Fædrenehus, fra tyve Aar gamle og derover, hver som kunde drage i Strid i Israel,
+{1:46} ja, I de talte vare seks Hundrede Tusinde og tre Tusinde og fem Hundrede og halvtredsindstyve.
+{1:47} Men Leviterne efter deres Fædres Stamme, de bleve ikke talte iblandt dem.
+{1:48} Thi Herren talede til Mose og sagde:
+{1:49} Dog skal du ikke tælle Levi Stamme og ej tage Hovedsum paa dem, midt iblandt Israels Børn;
+{1:50} men du skal beskikke Leviterne over Vidnesbyrdets Tabernakel og over alt Redskabet dertil og over alt det, som dertil hører, de skulle bære Tabernaklet og alt Redskabet dertil, og de skulle tjene ved det; og de skulle lejre sig trindt omkring Tabernaklet.
+{1:51} Og naar Tabernaklet skal rejse, skulle Leviterne tage det ned; men naar Tabernaklet skal lejre sig, skulle Leviterne rejse det op; og kommer nogen fremmed nær derved, skal han dødes.
+{1:52} Og Israels Børn skulle lejre sig, hver i sin Lejr og hver hos sit Banner efter deres Hære.
+{1:53} Men Leviterne skulle lejre sig omkring Vidnesbyrdets Tabernakel, at ikke en Vrede skal være over Israels Børns Menighed; derfor skulle Leviterne tage Vare paa, hvad der er at varetage ved Vidnesbyrdets Tabernakel.
+{1:54} Og Israels Børn gjorde det; efter alt det, som Herren havde befalet Mose, saa gjorde de.
+{2:1} Og Herren talede til Mose og Aron og sagde:
+{2:2} Israels Børn skulle lejre sig hver hos sit Banner, ved Fædrenehuses Tegn; lige overfor, trindt omkring Forsamlingen: Paulun skulle de lejre sig.
+{2:3} Og de som skulle lejre sig foran mod Østen ere: Judas Lejrs Banner efter deres; Hære, og Judas Børns Fyrste, Nahesson, Amminadabs Søn,
+{2:4} og hans Hær og de talte af dem, fire og halvfjerdsindstyve Tusinde og seks Hundrede.
+{2:5} Og de, som skulle lejre sig hos ham, ere Isaskars Stamme Isaskars Børns Fyrste, Nethaneel, Zuars Søn,
+{2:6} og hans Hær og de talte af dem, fire og halvtredsindstyve Tusinde og fire Hundrede.
+{2:7} Dernæst Sebulons Stamme og Sebulons Børns Fyrste, Eliab, Helons Søn,
+{2:8} og hans Hær og de talte af dem, syv og halvtredsindstyve Tusinde og fire Hundrede.
+{2:9} Alle de talte til Judas Lejr ere hundrede Tusinde og seks og firsindstyve Tusinde og fire Hundrede efter deres Hære; de skulle rejse i den første Afdeling.
+{2:10} Rubens Lejrs Banner skal være mod Sønden efter deres Hære, og Rubens Børns Fyrste, Elizur, Sedeurs Søn,
+{2:11} og hans Hær og de talte af dem, seks og fyrretyve Tusinde og fem Hundrede.
+{2:12} Og de, som skulle lejre sig hos ham, ere Simeons Stamme og Simeons Børns Fyrste, Skelumiel, Zurisaddai Søn,
+{2:13} og hans Hær og de talte af dem, ni og halvtredsindstyve Tusinde og tre Hundrede.
+{2:14} Og dernæst Gads Stamme og Gads Børns Fyrste, Eliasaf, Reuels Søn,
+{2:15} og hans Hær og de talte af dem, fem og fyrretyve Tusinde og seks Hundrede og halvtredsindstyve.
+{2:16} Alle de talte til Rubens Lejr ere hundrede Tusinde og eet og halvtredsindstyve Tusinde og fire Hundrede og halvtredsindstyve efter deres Hære; og de skulle rejse i den anden Afdeling.
+{2:17} Og dernæst skal Forsamlingens Paulun rejse, Leviternes Lejr midt imellem Lejrene; eftersom de lejre sig, saa skulle de rejse, hver paa sit Sted, efter deres Bannere.
+{2:18} Efraims Lejrs Banner efter deres Hære skal være mod Vesten og Efraims Børns Fyrste, Elisama, Ammihuds Søn.
+{2:19} og hans Hær og de talte af dem, fyrretyve Tusinde og fem Hundrede.
+{2:20} Og hos ham Manasse Stamme og Manasse Børns Fyrste, Gamliel, Pedazurs Søn,
+{2:21} og hans Hær og de talte af dem, to og tredive Tusinde og to Hundrede.
+{2:22} Og dernæst Benjamins Stamme og Benjamins Børns Fyrste, Abidan, Gideoni Søn,
+{2:23} og hans Hær og de talte af dem, fem og tredive Tusinde og fire Hundrede.
+{2:24} Alle de talte til Efraims Lejr ere hundrede Tusinde og otte Tusinde og Hundrede efter deres Hære; og de skulle rejse i den tredje Afdeling.
+{2:25} Dans Lejrs Banner skal være mod Norden, efter deres Hære og Dans Børns Fyrste, Ahieser, Ammisaddai Søn,
+{2:26} og hans Hær og de talte af dem, to og tresindstyve Tusinde og syv Hundrede.
+{2:27} Og de, som skulle lejre sig hos ham, ere Asers Stamme og Asers Børns Fyrste, Pagiel, Okrans Søn,
+{2:28} og hans Hær og de talte af dem, eet og fyrretyve Tusinde og fem Hundrede.
+{2:29} Og Nafthali Stamme og Nafthali Børns Fyrste, Ahira, Enans Søn
+{2:30} og hans Hær og de talte af dem, tre og halvtredsindstyve Tusinde og fire Hundrede.
+{2:31} Alle de talte til Dans Lejr ere hundrede Tusinde og syv og halvtredsindstyve Tusinde og seks Hundrede; de skulle rejse i den sidste Afdeling efter deres Bannere.
+{2:32} Disse ere de talte af Israels Børn efter deres Fædrenehus; alle de talte i Lejrene, efter deres Hære, vare seks Hundrede Tusinde og tre Tusinde og fem Hundrede og halvtredsindstyve.
+{2:33} Men Leviterne bleve ikke talte midt iblandt Israels Børn, som Herren havde befalet Mose.
+{2:34} Og Israels Børn gjorde det; ganske som Herren havde befalet Mose, saaledes lejrede de sig, efter deres Bannere, og saaledes rejste de, hver efter sine Slægter efter deres Fædrenehus.
+{3:1} Og disse ere Arons og Mose Slægter paa den Dag, Herren talede med Mose paa Sinai Bjerg.
+{3:2} Og disse ere Arons Sønners Navne: Nadab, den førstefødte, og Abihu, Eleasar og Ithamar.
+{3:3} Disse ere Arons Sønners Navne, de, som vare salvede Præster, hvis Hænder man havde fyldt til at gøre Præstetjeneste.
+{3:4} Men Nadab og Abihu døde for Herrens Ansigt, der de førte fremmed Ild frem for Herrens Ansigt i Sinai Ørk, og de havde ingen Sønner; men Eleasar og Ithamar gjorde Præstetjeneste for Arons, deres Faders, Ansigt.
+{3:5} Og Herren talede til Mose og sagde:
+{3:6} Lad Levi Stamme komme nær, og du skal stille dem for Præsten Arons Ansigt; og de skulle tjene ham.
+{3:7} Og de skulle tage Vare paa, hvad han skulde varetage, og paa hvad hele Menigheden skulde varetage, foran Forsamlingens Paulun, til at besørge Tjenesten i Tabernaklet.
+{3:8} Og de skulle tage Vare paa alle Forsamlingens Pauluns Redskaber, og paa hvad Israels Barn skulle varetage, til at besørge Tjenesten i Tahernaklet.
+{3:9} Og du skal give Leviterne til Aron og hans Sønner; de ere ham aldeles givne ud af Israels Børn.
+{3:10} Men Aron og hans Sønner skal du beskikke, at skulle tage Vare paa deres Præstetjeneste, men kommer nogen fremmed nær til, da skal han dødes.
+{3:11} Og Herren talede til Mose og sagde:
+{3:12} Og jeg, se, jeg har taget Leviterne midt ud af Israels Børn for hver førstefødt, som aabner Moders Liv af Israels Børn; og Leviterne skulle høre mig til.
+{3:13} Thi alt førstefødt hører mig til, paa den Dag jeg slog alt førstefødt i Ægyptens Land, helligede jeg mig alt førstefødt i Israel af Mennesker og Dyr; de skulle høre mig til, jeg er Herren.
+{3:14} Herren talede til Mose i Sinai Ørk og sagde:
+{3:15} Tæl Levi Børn efter deres Fædrenehus, efter deres Slægter; alt Mandkøn fra Maaned gamle og derover, dem skal du tælle.
+{3:16} Og Mose talte dem efter Herrens Ord, ligesom ham var befalet
+{3:17} Og disse vare Levi Børn efteres Navne: Gerson og Kahath og Merari.
+{3:18} Og disse vare Gersons Børns Navne efter deres Slægter: Libni og Simei.
+{3:19} Og Kahaths Børn efter deres Slægter: Amram og Jizehar, Hebron og Ussiel.
+{3:20} Og Merari Børn efter deres Slægter: Mahli og Musi. Disse ere Levi Slægter, efter deres Fædrenehus.
+{3:21} Til Gerson hører Libniternes Slægt og Simeiternes Slægt; disse ere Gersoniternes Slægter.
+{3:22} De talte af dem efter Mandtal, alt Mandkøn fra Maaned gamle og derover, de talte af dem vare syv Tusinde og fem Hundrede.
+{3:23} Gersoniternes Slægter, de skulle lejre sig bag Tabernaklet mod vesten.
+{3:24} Og Gersoniternes Fædrenehuses Fyrste var Eliasaf, Laels Søn.
+{3:25} Og hvad Gersons Børn havde at tage Vare paa ved Forsamlingens Paulun, var Tablernaklet og Paulunet, Dækket dertil og Dækket for Forsamlingens Pauluns Dør
+{3:26} og Omhængene til Forgaarden og Dækket for Forgaardens Dør, som er om Tabernaklet og om Alteret tr indt omkring, og Snorene dertil, al Tjenesten derved.
+{3:27} Og til Kahath hører Amramiternes Slægt og Jizehariternes Slægt og Hebroniternes Slægt og Ussieliternes Slægt: Disse ere Kahathiternes Slægter.
+{3:28} I Tal var alt Mandkøn fra Maaned gamle og derover otte Tusinde og seks Hundrede, som skulde tage Vare paa, hvad der var at tage Vare paa ved Helligdommen.
+{3:29} Kahaths Sønners Slægter skulle lejre sig ved Tabernaklets Side mod Sønden.
+{3:30} Og Kahathiternes Slægters Fædrenehuses Fyrste var Elizafan, Ussiels Søn.
+{3:31} Og hvad de havde at tage Vare paa, var Arken og Bordet og Lysestagen og Altrene og Helligdommens Redskaber, med hvilke Tjenesten udførtes, og Dækket og al Tjenesten derved.
+{3:32} Men Leviternes Fyrsters Fyrste skal være Eleazar, Præsten Arons Søn, som var beskikket over dem, som toge Vare paa, hvad der var at tage Vare paa ved Helligdommen.
+{3:33} Til Merari hører Maheliternes Slægt og Musiternes Slægt: Disse ere Merariternes Slægter.
+{3:34} Og de talte af dem efter Mandtal, alt Mandkøn fra Maaned gamle og derover, vare seks Tusinde og to Hundrede.
+{3:35} Og Merari Slægters Fædrenehuses Fyrste var Zuriel, Abihails Søn; de skulle lejre sig ved Tabernaklets Side, mod Norden.
+{3:36} Og hvad Merari Børn vare beskikkede til at tage Vare paa, var Tabernaklets Fjæle og dets Stænger og dets Støtter og dets Fødder og alt Redskabet dertil og al Tjenesten derved
+{3:37} og Støtterne til Forgaarden trindt omkring og deres Fødder og deres Nagler og deres Snore.
+{3:38} Men de, sorn skulle lejre sig lige for Tabernaklet foran, lige for Forsamlingens Paulun mod Østen, skulle være Mose og Aron og hans Sønner, som tage Vare paa, hvad der er at tage Vare paa ved Helligdommen, nemlig hvad Israels Børn havde at varetage; men gaar nogen fremmed nær til, da skal han dødes.
+{3:39} Alle de talte af Leviterne, som Mose og Aron talte efter Herrens Mund, efter deres Slægter, alt Mandkøn fra Maaned gamle og derover vare to og tyve Tusinde.
+{3:40} Og Herren sagde til Mose: Tæl alle førstefødte af Mandkøn blandt Israels Børn, fra Maaned gamle og derover, og tag Tal paa deres Navne.
+{3:41} Saa skal du tage mig, mig Herren, Leviterne i Stedet for alle førstefødte iblandt Israels Børn og Leviternes Kvæg i Stedet for alt det førstefødte iblandt Israels Børns Kvæg.
+{3:42} Og Mose talte, som Herren befalede ham, alle førstefødte blandt Israels Børn.
+{3:43} Og alle førstefødte af Mandkøn, efter Navnenes Tal, fra Maaned gamle og derover, efter deres Tal, vare to og tyve Tusinde, to Hundrede og tre og halv fjerdsindstyve.
+{3:44} Og Herren talede til Mose og sagde:
+{3:45} Tag Leviterne i Stedet for alle førstefødte blandt Israels Børn og Leviternes Kvæg i Stedet for deres Kvæg, og Leviterne skulle høre mig til, mig Herren.
+{3:46} Men hvad angaar de to Hundrede og tre og halvfjerdsindstyve af Israels Børns førstefødte, som skulle løses, og som ere flere end Leviterne,
+{3:47} da skal du tage fem Sekel for hvert Hoved; efter Helligdommens Sekel skal du tage dem; en Sekel er tyve Gera.
+{3:48} Og du skal give Aron og hans Sønner de Penge for dem, der blive løste som overtallige af dem.
+{3:49} Saa tog Mose Løsepenge af dem, som vare flere end de ved Leviterne løste.
+{3:50} Af Israels Børns førstefødte tog han de Penge: Tusinde og tre Hundrede og fem og tresindstyve Sekel efter Helligdommens Sekel.
+{3:51} Og Mose gav Aron og hans Sønner de Penge for de løste, efter Herrens Mund, som Herren havde befalet Mose.
+{4:1} Og Herren talede til Mose og Aron og sagde:
+{4:2} Tag Hovedsum af Kahaths Børn midt iblandt: Levi Børn, efter deres Slægter, efter deres Fædrenehus,
+{4:3} fra tredive Aar gamle og derover, og indtil halv tredsindstyve Aar gamle, hver som kan uddrage i Strid, til at gøre Arbejde ved Forsamlingens Paulun
+{4:4} Dette skal være Kahaths Børns Tjeneste ved Forsamlingens Paulun ved de højhellige Ting.
+{4:5} Naar Lejren rejser, da skulle Aron og hans Sønner komme og nedtage Dækkets Forhæng, og de skulle skjule Vidnesbyrdets Ark derudi.
+{4:6} Og de skulle lægge et Dække af Grævlingeskind derover og ubrede et helt Klæde af blaat uldent ovenover og lægge dens Stænger derved.
+{4:7} Og de skulle brede et Klæde af blaa uldent over Skuebordet og lægge derpaa Fadene og Skaalern Bægerne og Kanderne til Drikoffer og det bestandige Brød skal være derpaa.
+{4:8} Og de skulle brede et Skarlagens Klæde over dem og det med et Dække af Grævlingeskind, og de skulle lægge dets Stænger derved.
+{4:9} Saa skulle de tage et Klæde af blaat uldent og skjule Lysningens Lysestage og dens Lamper og dens Sakse og dens Tandekar og alle densOliekar, med hvilken skulle betjene den.
+{4:10} Og de skulle lægge den og alt dens Redskab et Dække af Grævlingeskind, og skulle lægge det paa Bærestænger
+{4:11} Og de skulle brede et Klæde af blaat uldent Klæde over Guldalteret og skjule det med et Dække af Grævlingeskind, og de skulle lægge dets Stænger derved.
+{4:12} Og de skulle tage al Tjenestens Redskaber, med hvilke de tjente i Helligdommen, og lægge dem i et Klæde af blaat uldent og skjule dem med et Dække af Grævlingeskind, og de skulle lægge dem paa Bærestænger.
+{4:13} De skulle og feje Asken af Alteret og brede et Purpurklæde derover.
+{4:14} Og de skulle lægge alle dets Redskaber, med hvilke de skulle betjene det, derpaa: Ildkarrene, Madkrogene og Skufferne og Skaalerne, alle Alterets Redskaber, og de skulle brede et Dække derover af Grævlingeskind og lægge dets Stænger derved.
+{4:15} Og naar og Aron og hans Sønner ere færdige med at tildække Helligdommen og Helligdommens Redskaber, naar Lejren rejser, saa skulle derefter Kathaths Børn komme at bære det, men ikke røre ved Helligdommen og dø. Dette er Kahaths Børns Byrde ved Forsamlingens Paulun.
+{4:16} Og Eleasars, Præsten Arons Søns, beskikkede Embede er med Olien til Lysningen og Røgelsen af de vellugtende Urter og det bestandige Madoffer og Salveolien, hans beskikkede Embede er ved det ganske Tablernakel og alt, hvad deri er, og som hører til Helligdommen og til dens Redskaber.
+{4:17} Og Herren talede til Aron og sagde:
+{4:18} Lader Kahahiternes Slægters Stamme ikke blive udryddet af Leviternes Midte
+{4:19} Og gører dette med dem, saa skulde de leve og ikke dø, naar de komme nær til det højhellige; og Aron og hans Sønner skulle komme og sætte dem, hver Mand til sin Tjeneste og til sin Byrde.
+{4:20} Men de skulde ikke gaa ind at se til, naar de hastelig skjule Helligdommen,
+{4:21} Og Herren talede til Mose og sagde:
+{4:22} Tag Hovedsum af Gersons Børn, ja af dem, efter deres Fædrenehus, efter deres Slægter.
+{4:23} Fra tredive Aar gamle og derover, indtil halvtredsindstyve Aar gamle, skal du tælle dem, hver den, som kan drage ud til at stride i Strid, til at besørge Tjenesten ved Forsamlingens Paulun.
+{4:24} Dette skal være Gersoniternes Slægters Tjeneste med at tjene og at bære.
+{4:25} Og de skulle bære Tabernaklets Tæpper og Forsamlingens Paulun, nemlig Dækket dertil og Dækket af Gr ævlingeskind, som er ovenover, og Dækket for Forsamlingens Pauluns Dør
+{4:26} og Forgaardens Omhæng og Dækket for Indgangen til Forgaardens Port, som er for Tabernaklet, og for Alteret trindt omkring, og Snorene dertil og alt Redskab, som hører til Tjenesten derved; og alt det, som skal gøres ved disse Ting, derved skulle de gøre Tjeneste;
+{4:27} al Gersons Børns Tjeneste, al deres Byrde og al deres Tjeneste, skal være efter Arons og hans Sønners Ord; og I skulle beskikke dem til at tage Vare paa alt, hvad de have at bære.
+{4:28} Dette skal være Gersons Børns Slægters Tjeneste ved Forsamlingens Paulun; og hvad de have at tage Vare paa, skal være under Ithamars, Præsten Arons Søns Tilsyn.
+{4:29} Merari Børn: Dem skal du tælle efter deres Slægter, efter deres Fædrenehus,
+{4:30} fra tredive Aar gamle og derover, og indtil halvtredsindstyve Aar gamle, skal du tælle dem, hver den, som kan drage i Strid, til at besørge Tjenesten ved Forsamlingens Paulun.
+{4:31} Og dette er, hvad de skulle varetage at bære efter al deres Tjeneste ved Forsamlingens Paulun: Tabernaklets Fjæle og dets Stænger og dets Støtter og dets Fødder
+{4:32} og Støtterne til Forgaarden trindt omkring og deres Fødder og deres Nagler og Snorene dertil, med alle deres Redskaber, og med alt det, som hører til deres Tjeneste; og I skulle ved Navn tiltælle dem Redskaberne, som de skulle varetage at bære.
+{4:33} Dette skal være Merari Børns Slægters Tjeneste efter al deres Tjeneste ved Forsamlingens Paulun, under Tilsyn af Ithamar, Præsten Arons Søn.
+{4:34} Og Mose og Aron og Menighedens Fyrster talte Kahathiternes Børn, efter deres Slægter og efter deres Fædrenehus,
+{4:35} fra tredive Aar gamle og derover, og indtil halvtredsindstyve Aar gamle, hver den, som kunde drage i Strid, til Tjenesten ved Forsamlingens Paulun,
+{4:36} og de talte af dem, efter deres Slægter, vare to Tusinde, syv Hundrede og halvtredsindstyve.
+{4:37} Disse vare de talte af Kahathiternes Slægter, hver som tjente ved Forsamlingens Paulun, hvilke Mose og Aron talte efter Herrens Mund ved Mose.
+{4:38} Og de talte af Gersons Børn efter deres slægter og efter deres Fædrenehus,
+{4:39} fra tredive Aar gamle og derover og indtil halvtredsindstyve Aar gamle, hver den som kunde drage i Strid, til Tjenesten ved Forsamlingens Paulun,
+{4:40} og de talte af dem, efter deres Slægter, efter deres Fædrenehus, vare to Tusinde og seks Hundrede og tredive.
+{4:41} Disse vare de talte af Gersons Børns Slægter, hver som tjente ved Forsamlingens Paulun, hvilke Mose og Aron talte efter Herrens Mund.
+{4:42} Og de talte af Merari Børns Slægter, efter deres Slægter, efter deres Fædrenehus,
+{4:43} fra tredive Aar gamle og derover, og indtil halvtredsindstyve Aar gamle, hver den som kunde drage i Strid, til Tjenesten ved Forsamlingens Paulun,
+{4:44} og de talte af dem, efter deres Slægter, vare tre Tusinde og to Hundrede.
+{4:45} Disse vare de talte af Merari Børns Slægter, hvilke Mose og Aron talte efter Herrens Mund ved Mose.
+{4:46} Alle de talte, som Mose og Aron og Israels Fyrster talte, nemlig Leviterne, efter deres Slægter, og efter deres Fædrenehus,
+{4:47} fra tredive Aar gamle og derover og indtil halvtredsindstyve Aar gamle, hver den som kunde komme at gøre Tjeneste med at tjene, og Tjeneste med at bære ved Forsamlingens Paulun,
+{4:48} og de talte af dem vare otte Tusinde og fem Hundrede og firsindstyve.
+{4:49} Og Han talte dem efter Herrens Mund ved Mose, hver Mand til sin Tjeneste og til sin Byrde; og de, han talte, vare de, som Herren havde befalet Mose,
+{5:1} Og Herren talede til Mose og sagde:
+{5:2} Befal Israels Børn, at de skulle skikke ud af Lejren alle spedalske og alle, som have Flod, og: alle dem, som ere urene ved Lig:
+{5:3} Baade Mand og Kvinde skulle I: udskikke, hen uden for Lejren skulle I skikke dem ud, at de ikke skulle gøre deres Lejre, hvor jeg bor midt iblandt dem, urene.
+{5:4} Og Israels Børn gjorde saaledes og skikkede dem ud, hen uden for Lejren; som Herren havde sagt til Mose, saa gjorde Israels Børn.
+{5:5} Og Herren talede til Mose; sagde:
+{5:6} Tal til Israels Børn: Naar Mand eller Kvinde gør nogen af de Synder, som et Menneske begaa ved at forgribe sig mod Herren, da er den Sjæl bleven skyldig.
+{5:7} Og de skulle bekende deres Synd som de have gjort, og hver skal tilbagegive, hvad han er skyldig, med det fulde Beløb, og den femte Del deraf skal han desuden lægge til; og han skal give det til den, hvem han er bleven skyldig.
+{5:8} Men dersom Manden ikke har nogen Løser, saa at han kan tilbagegive denne det skyldige, da skal den Skyld, som tilbagegives Herren, høre Præsten til, undtagen Forligelsens Væder, med hvilken han gør Forligelse for ham.
+{5:9} Og al Offergave af alt det som Israels Børn hellige, som de skulle bringe Præsten, skal høre ham til.
+{5:10} Og de Ting, enhver helliger, skulle høre ham til, hvad nogen giver Præsten, det skal høre ham til.
+{5:11} Og Herren talede til Mose og sagde:
+{5:12} Tal til Israels Børn og sig til dem: Om nogen Mands Hustru gaar bort fra ham og er troløs imod ham,
+{5:13} og en Mand har Samleje, med hende, og det bliver skjult for hendes Mands Øjne og bliver dulgt, at hun er bleven uren, og der er intet Vidne mod hende, og hun ikke er greben i Horeri;
+{5:14} og der kommer en Nidkærheds Aand over ham, I at han er nidkær mod sin Hustru, og hun er bleven uren, eller der kommer en Nidkærheds Aand over ham, og han er nidkær mod sin Hustru, enddog hun ikke er bleven uren:
+{5:15} Da skal Manden føre sin Hustru til Præsten og fremføre som hendes Offer for hende en Tiendepart af en Efa Bygmel; han skal ikke øse Olie derpaa, ej heller lægge Virak dertil, thi det er et Nidkærheds Madoffer, et Ihukommelses Madoffer, som gør, at Misgerning ihukommes.
+{5:16} Og Præsten skal føre hende nær til og stille hende for Herrens Ansigt.
+{5:17} Og Præsten skal tage helligt Vand i et Lerkar, og af Støvet, som er paa Tabernaklets Gulv, skal Præsten tage og kaste i Vandet
+{5:18} Og Præsten skal stille Kvinden for Herrens Ansigt og blotte Kvindens Hoved og lægge Ihukommelses Madofret paa hendes Hænder, det er et Nidkærheds Madoffer; og Præsten skal have det beske Vand, som gør Forbandelse, i sin Haand.
+{5:19} Og Præsten skal besværge hende og sige til Kvinden: Dersom ingen Mand har ligget hos dig, og dersom du ikke har unddraget dig fra at være under din Mand, saa du er bleven uren, da vær uskadt af dette beske Vand, som gør Forbandelse.
+{5:20} Men du, om du har unddraget dig fra at være under din Mand, og om du er bleven uren, og nogen Mand har ligget hos dig foruden din Mand,
+{5:21} saaledes skal Præsten besværge Kvinden ved Forbandelsens Ed, og Præsten skal sige til Kvinden -. Saa sætte Herren dig til en Forbandelse og til en Ed midt iblandt dit Folk, idet Herren lader dine Lænder svinde og din Bug svulme op!
+{5:22} Saa komme nu dette Vand, som gør Forbandelse, i dine Indvolde, at gøre, at din Bug svulmer op og dine Lænder svinde; og Kvinden skal sige: Amen! Amen!
+{5:23} Og Præsten skal skrive disse Forbandelser i en Bog og vaske dem ud i det beske Vand.
+{5:24} Og han skal give Kvinden at drikke af det beske Vand, som gør Forbandelse; og det Vand, som gør Forbandelse, skal komme i hende til Beskhed.
+{5:25} Og Præsten skal tage Nidkærhedens Madoffer af Kvindens Haand, og han skal røre Madofret for Herrens Ansigt og føre det frem til Alteret.
+{5:26} Og Præsten skal tage en Haandfuld af Madeofret hendes Ihukommelses Offer, og gøre et Røgoffer paa Alteret, og der efter skal han give Kvinden Vandet at drikke.
+{5:27} Naar han har givet hende Vandet at drikke, da skal det ske, om hun er bleven uren og har været troløs imod sin Mand, at det Vand, som gør Forbandelse, kommer i hende til Beskhed; saa at hendes Bug skal svulme op og hendes Lænder svinde; og den Kvinde skal være til en Forbandelse midt iblandt sit Folk.
+{5:28} Og dersom den Kvinde ikke er bleven uren, men hun er ren, da skal hun være fri og faa Afkom.
+{5:29} Dette er Nidkærheds Loven, naar en Kvinde unddrager sig fra at være under sin Mand, og hun bliver uren,
+{5:30} eller om en Nidkærheds Aand kommer over en Mand, og han er nidkær mod sin Hustru og stiller Kvinden for Herrens Ansigt, og Præsten gør ved hende efter hele denne Lov.
+{5:31} Saa skal Manden være fri fra Misgerning; men samme Kvinde, hun skal bære sin Misgerning.
+{6:1} Og Herren talede til Mose og sagde:
+{6:2} Tal til Israels Børn, og du skal sige til dem: Naar en Mand eller Kvinde lover et særligt Løfte om at blive Nasiræer, om at være afholdende for Herren,
+{6:3} da skal han holde sig fra Vin og stærk Drik; han skal ikke drikke Vineddike eller Eddike af stærk Drik, og han skal ingen Saft drikke af Druer, han skal hverken æde friske eller tørre Druer.
+{6:4} Alle hans Afholdenheds Dage skal han ikke æde noget, som beredes af Vinstokken, hverken Kerne eller Skal.
+{6:5} Alle de Dage, som hans Afholdenheds Løfte varer, skal der ikke komme Ragekniv over hans Hoved; indtil de Dage ere opfyldte, i hvilke han er afholdende for Herren, skal han være hellig og lade sit Hovedhaar vokse frit.
+{6:6} Alle de Dage, han har lovet at være afholdende for Herren, skal han ikke komme til noget Lig.
+{6:7} Han skal ikke gøre sig uren ved sin Fader eller ved sin Moder, ved sin Broder eller ved sin Søster, naar de dø; thi hans Afholdenhedsmærke for Gud er paa hans Hoved.
+{6:8} Alle hans Afholdenheds Dage skal han være Herren hellig.
+{6:9} Og dør nogen meget pludselig hos ham og gør hans Hoved med Afholdenhedsmærket urent, da skal han rage sit Hoved paa sin Renselsesdag, paa den syvende Dag skal han rage det.
+{6:10} Og paa den otten de Dag skal han bringe to Turtelduer eller to Dueunger til Præsten til Forsamlingens Pauluns Dør.
+{6:11} Og Præsten skal lave een til et Synd offer og een til et Brændoffer og gøre Forligelse for ham, fordi han har syndet ved Liget, og han skal hellige sit Hoved paa den samm Dag.
+{6:12} Og han skal paa ny være afholdende for Herren sine Afholdenheds Dage og fremføre et aargammelt Lam til Skyldoffer; og de først Dage skulle falde hen, fordi hans Afholdenhed blev uren.
+{6:13} Og dette er Nasiræerloven: Paa den Dag, hans Afholdenheds Dage udløbe, skal han fremføre dette for Forsamlingens Pauluns Dør,
+{6:14} og han skal ofre som sit Offer for Herren eet aargammelt Væderlam uden Lyde til et Brændoffer og eet aargammelt Gimmerlam uden Lyde til et Syndoffer og een Væder uden Lyde til et Takoffer
+{6:15} og en Kurv med usyrede Kager af Mel, blandet Olie, og usyrede tynde Kager overstrøgne med Olie, og Madofret og Drikofret dertil.
+{6:16} Og Præsten skal ofre det for Herrens Ansigt, han skal lave hans Syndoffer hans Brændoffer.
+{6:17} Og Væderen skal han lave for Herren til Takoffer lige med Kurven med de usyrede Brød, og Præsten skal lave Madoffer og hans Drikoffer.
+{6:18} Og Nasiræeren skal rage Afholdenhedens Mærke af sit Hoved for Forsamlingens Pauluns Dør, og han skal tage Hovedhaaret, som var Mærket paa hans Afholdenhed, og kaste det paa Ilden, som er under Takofret
+{6:19} Og Præsten skal tage den kogte Bov af Væderen og een usyret Kage af Kurven og een usyret tynd Kage, og han skal lægge dem paa Nasiræerens Hænder, efter at han har afraget sit Afholdenheds Mærke.
+{6:20} Og Præsten skal røre dem med en Rørelse for Herrens Ansigt, det er Præsten helliget, tillige med Rørelsesbrystet og tillige med Gaveboven; og derefter maa Nasiræeren drikke Vin.
+{6:21} Dette er Loven for Nasiræeren, som gør et Løfte, det er hans Offer til Herren for sin Af holdenhed. foruden det, som hans Haand ellers formaar; efter hans Løftes Beskaffenhed, som han har lovet, saaledes skal han gøre efter Loven om hans Afholdenhed.
+{6:22} Og Herren talede til Mose og sagde:
+{6:23} Tal til Aron og til hans Sønner og sig: Saaledes skulle I velsigne Israels Børn og sige til dem:
+{6:24} Herren velsigne dig og bevare dig!
+{6:25} Herren lade lyse sit Ansigt over dig og være dig naadig!
+{6:26} Herren opløfte sit Ansigt til dig og give dig Fred!
+{6:27} Og de skulle lægge mit Navn paa Israels Børn, og jeg, jeg vil velsigne dem.
+{7:1} Og det skete paa den Dag, der Mose var færdig med at oprejse Tabernaklet og salvede det og helligede det og alt Redskabet dertil og Alteret og alt Redskabet dertil og salvede dem og helligede dem,
+{7:2} da ofrede Israels Fyrster, som vare Øverster for deres Fædrenehuse, de, som vare Stammernes Fyrster, de, som forestode de talte.
+{7:3} Og de førte deres Offer frem for Herrens Ansigt: Seks bedækkede Vogne og tolv Øksne, en Vogn for to Fyrster og en Okse for hver en, og de førte dem frem foran Tabernaklet.
+{7:4} Og Herren talede til Mose og sagde:
+{7:5} Tag disse af dem, at de kunne være til at gøre Tjeneste ved Forsamlingens Paulun, og du skal give dem til Leviterne, hver efter sin Tjenestes Beskaffenhed.
+{7:6} Da tog Mose Vognene og Øksnene og gav dem til Leviterne.
+{7:7} Han gav Gersons Børn to Vogne og fire Øksne efter deres Tjenestes Beskaffenhed.
+{7:8} Og han gav Merari Børn fire Vogne og otte Øksne efter deres Tjenestes Beskaffenhed, under Tilsyn af Ithamar, Præsten Arons Søn.
+{7:9} Men Kahaths Børn gav han ingen, fordi Tjenesten med de hellige Ting, som skulde bæres paa Skuldrene, paalaa dem.
+{7:10} Og Fyrsterne ofrede til Alterets Indvielse, paa den Dag det blev salvet, ja, Fyrsterne ofrede deres Offer foran Alteret.
+{7:11} Og Herren sagde til Mose: Lad een Fyrste hver Dag, ja, een Fyrste hver Dag ofre sit Offer til Alterets Indvielse.
+{7:12} Og den, som ofrede sit Offer paa den første Dag, var Nahesson, Amminadabs Søn, Judas Stammes Fyrste.
+{7:13} Og hans Offer var eet Sølvfad, dets Vægt var hundrede og tredive Sekel, een Sølvskaal paa halvfjerdsindstyve Sekel efter Helligdommens Sekel; de vare begge fulde af Mel blandet med Olie, til et Madoffer;
+{7:14} een Røgelseskaal paa ti Sekel Guld, fuld af Røgelse;
+{7:15} een ung Okse, een Væder, eet Lam, aargammelt, til et Brændoffer;
+{7:16} een Gedebuk til et Syndoffer;
+{7:17} og to Øksne, fem Vædre, fem Bukke, fem Lam aargamle, til et Takoffer. Dette var Nahessons, Amminadsbs Søns, Offer.
+{7:18} Paa den anden Dag ofrede Nethaneel, Zuars Søn, Isaskars Fyrste.
+{7:19} Han ofrede sit Offer: Eet Sølvfad, dets Vægt var hundrede og tredive Sekel, een Sølvskaal paa halvfjerdsindstyve Sekel efter Helligdommens Sekel; de vare begge fulde af Mel, blandet med Olie, til et Madoffer;
+{7:20} en Røgelseskaal paa ti Sekel Guld, fuld af Røgelse;
+{7:21} een ung Okse, een Væder, eet Lam, aargammelt, til et Brændoffer;
+{7:22} een Gedebuk til et Syndoffer;
+{7:23} og to Øksne, fem Vædre, fem Bukke, fem Lam, aargamle, til et Takoffer. Dette var Nethaneels, Zuars Søns, Offer.
+{7:24} paa den tredje Dag ofrede Sebulons Børns Fyrste, Eliab, Helons Søn.
+{7:25} Hans Offer var eet Sølvfad, dets Vægt var hundrede og tredive Sekel, een Sølvskaal paa halvferdsindstyve Sekel efter Helligdommens Sekel; de vare begge fulde af Mel, blandet med Olie, til et Madoffer;
+{7:26} een Røgelseskaal paa ti Sekel Guld, fuld af Røgelse;
+{7:27} een ung Okse, een Væder, eet Iam, aargammelt, til et Brændoffer;
+{7:28} een Gedebuk til et Syndaffer;
+{7:29} og to Øksne, fem Vædre, fem Bukke, fem Lam, aargamle, til et Takoffer. Dette var Eliabs, Helons Søns, Offer.
+{7:30} Paa den fjerde Dag ofrede Rubens Børns Fyrste, Elizur, Sedeurs Søn.
+{7:31} Hans Offer var eet Sølvfad, dets Vægt var hundrede og tredive Sekel, een Sølvskaal paa halvfjerdsindstyve Sekel efter Helligdommens Sekel; de vare begge fulde af Mel, blandet med Olie, til et Madoffer;
+{7:32} een Røgelseskaal paa ti Sekel Guld, fuld af Røgelse;
+{7:33} een ung Okse, een Væder, eet Lam, aargammelt, til et Brændoffer;
+{7:34} een Gedebuk til et Syndoffer;
+{7:35} og to Øksne, fem Vædre, fem Bukke, fem Lam, aargamle, til et Takoffer. Dette var Elizurs, Sedeurs Søns, Offer.
+{7:36} Paa den femte Dag ofrede Simeons Børns Fyrste, Selumiel, Zurisaddai Søn.
+{7:37} Hans Offer var eet, Sølvfad, dets Vægt var hundrede og tredive Sekel, een Sølvskaal paa halvfjerdsindstyve Sekel efter Helligdommens Sekel; de vare begge fulde af Mel blandet med Olie, til et Madoffer
+{7:38} een Røgelseskaal paa ti Sekel Guld, fuld af Røgelse;
+{7:39} een ung Okse, een Væder, eet Lam, aargammelt, til et Brændoffer;
+{7:40} een Gedebuk til et Syndoffer;
+{7:41} og to Øksner fem Vædre, fem Bukke, fem Lam aargamle, til et Takoffer. Dette var Selumiels, Zurisaddai Søns, Offer
+{7:42} paa den sjette Dag ofrede Gads Børns Fyrste, Eliasaf, Deuels Søn
+{7:43} Hans Offer var eet Sølvfad, det Vægt var hundrede og tredive Sekel, een Sølvskaal paa halvfjerd sindstyve Sekel efter Helligdommens Sekel; de vare begge fulde af Mel blandet med Olie, til et Madoffer
+{7:44} een Røgelseskaal paa ti Sekel Guld, fuld af Røgelse;
+{7:45} een ung Okse, een Væder, eet Lam, aargammelt, til et Brændoffer;
+{7:46} een Gedebuk til et Syndoffer;
+{7:47} og to Øksne fem Vædre, fem Bukke, fem Lam aargamle, til et Takoffer. Dette var Eliasafs, Deuels Søns, Offer.
+{7:48} Pa den syvende Dag ofrede Efraims: Børns Fyrste, Elisama, Ammihud: Søn.
+{7:49} Hans Offer var eet Sølvfad dets Vægt var hundrede og tredive Sekel, een Sølvskaal paa halvfjerdsindstyve Sekel efter Helligdommens Sekel; de vare begge fulde af Mel, blandet med Olie, til et Madoffer;
+{7:50} een Røgelseskaal paa ti Sekel Guld, fuld af Røgelse;
+{7:51} een ung Okse, een Væder, eet Lam, aargammelt, til et Brændoffer;
+{7:52} een Gedebuk til et Syndoffer;
+{7:53} og to Øksne, fem Vædre, fem Bukke, fem Lam, aargamle, til et Takoffer. Dette var Elisamas, Ammihuds Søns, Offer.
+{7:54} paa den ottende Dag ofrede Manasse Børns Fyrste, Gamliel, Pedazurs Søn.
+{7:55} Hans Offer var eet Sølvfad, dets Vægt var hundreds og tredive Sekel, een Søvskaal paa halvfjerdsindstyve Sekel efter Helligdommens Sekel; de vare begge fulde af Mel, blandet med Olie, til et Madoffer;
+{7:56} een Røgelseskaal paa ti Sekel Guld, fuld af Røgelse;
+{7:57} een ung Okse, een Væder, eet Lam, aargammelt, til et Brændoffer;
+{7:58} een Gedehuk til et Syndoffer;
+{7:59} og. to Øksne, fem Vædre, fem Bukke, fem Lam, aargamle, til et Takoffer. Dette var Gamliels, Pedazurs Søns, Offer.
+{7:60} Paa den niende Dag ofrede Benjamins Børns Fyrste, Abidan, Gideoni Søn.
+{7:61} Hans Offer var eet Sølvfad, dets Vægt var hundrede og tredive Sekel, een Sølvskaal paa halvfjerdsindstyve Sekel efter Helligdommens Sekel; de vare begge fulde af Mel, blandet med Olie, til et Madoffer;
+{7:62} een Røgelseskaal paa ti Sekel Guld, fuld af Røgelse;
+{7:63} een ung Okse, een Væder, eet Lam, aargammelt, til et Brændoffer;
+{7:64} een Gedebuk til et Syndoffer;
+{7:65} og to Øksne, fem Vædre, fem Bukke, fem Lam, aargamle, til et Takoffer. Dette var Abidans, Gideoni Søns, Offer.
+{7:66} paa den tiende Dag ofrede Dans Børns Fyrste, Ahieser, Ammisaddai Søn.
+{7:67} Hans Offer var eet Sølvfad, dets Vægt var hundrede og tredive Sekel, een Sølvskaal paa halvfjerdsindstyve Sekel efter Helligdommens Sekel; de vare begge fulde af Mel, blandet med Olie, til et Madoffer;
+{7:68} een Røgelseskaal paa ti Sekel Guld, fuld af Røgelse;
+{7:69} een ung Okse, een Væder, eet Lam, aargammelt, til et Brændoffer;
+{7:70} een Gedebuk til et Syndoffer;
+{7:71} og to Øksne, fem Vædre, fem Bukke, fem Lam, aargamle, til et Takoffer. Dette var Ahiesers, Ammisaddai Søns, Offer.
+{7:72} Paa den ellevte Dag ofrede Asers Børns Fyrste, Pagiel, Okrans Søn,
+{7:73} Hans Offer var eet Sølvfad, dets Vægt var hundrede og tredive Sekel, een Sølvskaal paa halvfjerdsindstyve Sekel efter Helligdommens Sekel; de vare begge fulde af Mel, blandet med Olie, til et Madoffer;
+{7:74} een Røgelseskaal paa ti Sekel Guld, fuld af Røgelse;
+{7:75} een ung Okse, een Væder, eet Lam, aargammelt, til et Brændoffer;
+{7:76} een Gedebuk til et Syndoffer;
+{7:77} og to Øksne, fem Vædre, fem Bukke, fem Lam, aargamle, til et Takoffer. Dette var Pagiels, Okrans Søns, Offer.
+{7:78} Paa den tolvte Dag ofrede Nafthali Børns Fyrste, Ahira, Enans Søn.
+{7:79} Hans Offer var eet Sølvfad, dets Vægt var hundrede og tredive Sekel, een Sølvskaal paa halvfjerdsindstyve Sekel efter Helligdommens Sekel; de vare begge fulde af Mel, blandet med Olie, til et Madoffer;
+{7:80} een Røgelseskaal paa ti Sekel Guld, fuld af Røgelse;
+{7:81} een ung Okse, een Væder, eet Lam, aargammelt, til et Brændoffer;
+{7:82} een Gedebuk til et Syndoffer;
+{7:83} og to Øksne, fem Vædre, fem Bukke, fem Lam, aargamle, til et Takoffer. Dette var Ahiras, Enans Søns, Offer.
+{7:84} Dette er Alterets Indvielse af Israels Fyrster, paa den Dag det blev salvet: Tolv Sølvfade, tolv Sølvskaaler, tolv Guldrøgelseskaaler;
+{7:85} hvert Fad var paa hundrede og tredive Sekel Sølv, og hver Skaal paa halv fjerdsindstyve Sekel, alt Sølvet af Karrene beløb sig til to Tusinde og fire Hundrede Sekel efter Helligdommens Sekel.
+{7:86} Tolv Guldrøgelseskaaler, fulde af Røgelse, hver Røgelseskaal paa ti Sekel efter Helligdommens Sekel; alt Guldet af de Røgelseskaaler beløb sig til hundrede og tyve. Sekel.
+{7:87} Alt stort Kvæg til Brændofret var tolv Okser, tolv Vædre, tolv Lam, aargamle, og deres Madoffer, og tolv Gedebukke til Syndoffer.
+{7:88} Og alt stort Kvæg til Takofret var fire og tyve Okser, tresindstyve Vædre, tresindstyve Bukke, tresindstyve Lam, aargamle. Dette er Alterets Indvielse, efter at det var salvet.
+{7:89} Og naar Mose kom til Forsamlingens Paulun for at tale med, ham, da hørte han Røsten tale til sig ovenfra Naadestolen, som var paa Vidnesbyrdets Ark, midt ud fra de to Keruber; og han talede til ham.
+{8:1} Og Herren talede til Mose og sagde:
+{8:2} Tal til Aron, og du skal sige til ham: Naar du sætter Lamperne op, skulle de syv Lamper lyse lige imod Lysestagens modsatte Side,
+{8:3} Og Aron gjorde saaledes: Lige imod den modsatte Side af Lysestagen satte han dens Lamper op, som Herren havde befalet Mose.
+{8:4} Og Lysestagen var saaledes gjort: Den var af drevet Arbejde af Guld, endog dens Fod og dens Blomster vare af drevet Arbejde; efter det Syn, som Herren havde vist Mose, saaledes havde han gjort Lysestagen.
+{8:5} Og Herren talede til Mose og sagde:
+{8:6} Tag Leviterne midt ud af Israels Børn, og du skal rense dem.
+{8:7} Og saaledes skal du gøre ved dem, til at rense dem: Stænk Sonevand paa dem, og de skulle lade Ragekniven gaa over hele deres Legeme og to deres Klæder og rense sig.
+{8:8} Saa skulle de tage en ung Tyr og Madofret dertil, Mel, blandet med Olie, og du skal tage en anden ung Tyr til et Syndoffer.
+{8:9} Og du skal lade Leviterne komme nær til, foran Forsamlingens Paulun, og du skal lade hele Israels Børns Menighed samle sig.
+{8:10} Og du skal lade Leviterne komme frem for Herrens Ansigt, og Israels Børn skulle lægge deres Hænder paa Leviterne.
+{8:11} Og Aron skal røre Leviterne, udtagne af Israels Børn, med en Rørelse for Herrens Ansigt, og de skulle være til at besørge Herrens Tjeneste.
+{8:12} Og Leviterne skulle lægge deres Hænder paa Tyrenes Hoved; og gøre saa den ene til et Syndoffer og den anden til et Brændoffer for Herren, til at gøre Forligelse for Leviterne.
+{8:13} Og du skal stille Leviterne for Arons Ansigt og for hans Sønners Ansigt, og du skal røre dem med en Rørelse for Herren.
+{8:14} Og du skal udskille Leviterne midt ud af Israels Børn; thi Leviterne skulle være mine.
+{8:15} Og derefter skulle Leviterne komme til at tjene ved Forsamlingens Paulun, naar du har renset dem og ladet dem røre med en Rørelse.
+{8:16} Thi de ere mig givne, ja, givne midt ud af Israels Børn; jeg har taget mig dem i Stedet for hver, som aabner Moders Liv, for alle førstefødte af Israels Børn.
+{8:17} Thi alt det førstefødte blandt Israels Børn hører mig til, baade af Mennesker og af Dyr; paa den Dag jeg slog, alle førstefødte i Ægyptens Land, helligede jeg mig dem.
+{8:18} Og jeg tog Leviterne i Stedet for alle førstefødte iblandt Israels Børn.
+{8:19} Og jeg gav Aron og hans Sønner Leviterne til en Gave, midt ud af Israels Børn, til at besørge Israels Børns Tjeneste ved Forsamlingens Paulun og til at gøre Forligelse for Israels Børn, at der ikke skal komme Plage over Israels Børn, naar Israels Børn nærme sig til Helligdommen.
+{8:20} Og Mose og Aron og al Israels Børns Menighed gjorde saa ved Leviterne; efter alt det, som Herren havde befalet Mose om Leviterne, saa gjorde Israels Børn ved dem.
+{8:21} Og Leviterne rensede sig fra Synd og toede deres Klæder, og Aron rørte dem med en Rørelse for Herrens Ansigt; og Aron gjorde Forligelse for dem til at rense dem.
+{8:22} Og derefter kom Leviterne til at besørge deres Tjeneste ved Forsamlingens Paulun, for Arons Ansigt og for hans Sønners Ansigt; som Herren havde befalet Mose om Leviterne, saa gjorde de ved dem.
+{8:23} Og Herren talede til Mose og sagde:
+{8:24} Dette er det, som vedkommer Leviterne: Fra fem og tyve Aar gamle og derover skal hver af dem komme til at gøre Arbejdet i Forsamlingens Pauluns Tjeneste.
+{8:25} Men fra det halvtredsindstyvende Aar skal han vende tilbage fra Tjenestens Arbejde; og han skal ikke tjene ydermere.
+{8:26} Dog maa han tjene sine Brødre ved Forsamlingens Paulun, med at tage Vare paa, hvad der er at varetage, men Tjenesten skal han ikke besørge. Saaledes skal du gøre med Leviterne, i hvad de have at varetage.
+{9:1} Og Herren talede til Mose i Sinai, Ørk i det andet Aar, efter at de vare udgangne af Ægyptens Land, i den første Maaned, og sagde,
+{9:2} at Israels Børn skulle holde Paaske paa dens bestemte Tid.
+{9:3} Paa den fjortende Dag i denne Maaned, imellem de tvende Aftener skulle I holde den paa dens bestemte Tid; efter alle dens Skikke og efter alle dens Bestemmelser skulle I holde den.
+{9:4} Og Mose sagde til Israels Børn, at de skulde holde Paaske.
+{9:5} Og de holdt Paaske i den første Maaned, paa den fjortende Dag i Maaneden, imellem de tvende Aftener, i Sinai Ørk; efter alt det, som Herren havde befalet Mose, saalede gjorde Israels Børn.
+{9:6} Og det skete, at der var nogle Mænd, som vare blevne urene ved et Menneskes Lig, og de kunde ikke holde Paasken paa den samme Dag; og de gik frem for Mose Ansigt og for Arons Ansigt den samme Dag.
+{9:7} Og disse Mænd sagde til ham: Vi ere blevne urene ved et Menneskes Lig; hvi skulle vi derfor udelukkes, at vi ej maa ofre Herren Offer paa dets bestemte Tid, midt iblandt Israels Børn?
+{9:8} Og Mose sagde til dem: Venter lidt, og jeg vil høre, hvad Herren vil byde om eder.
+{9:9} Og Herren talede til Mose og sagde:
+{9:10} Tal til Israels Børn og sig: Naar nogen hos eder eller hos eders Efterkommere er bleven uren ved et Lig, eller er paa en lang Rejse, han skal alligevel holde Herren Paaske.
+{9:11} I den anden Maaned paa den fjortende Dag, imellem de tvende Aftener, skulle de holde den; de skulle æde det med usyrede Brød og beske Urter.
+{9:12} De skulle ikke lade blive tilovers deraf til om Morgenen og ikke bryde noget Ben paa det, efter al Paaskelammets Skik skulle de gøre med det.
+{9:13} Men den, som er ren og ikke er paa Rejse og efterlader at holde Paaske, den Sjæl skal udryddes fra sit Folk, fordi han ikke har ofret Herrens Offer paa dets bestemte Tid; denne Mand skal bære sin Synd.
+{9:14} Og naar en fremmed opholder sig hos eder og holder Herren Paaske, da skal han holde den saa, som Paaskens Skik og som dens Vis er; der skal være een Skik for eder, baade for den fremmede og for den indfødte i Landet.
+{9:15} Og paa den Dag, da Tabernaklet blev oprejst, skjulte Skyen Vidnesbyrdets Pauluns Tabernakel; og om Aftenen var over Tabernaklet som en Ild at se til, indtil om Morgene
+{9:16} Saaledes skete det stedse, at Skyen skjulte det; og om Natten var det som en Ild at se til.
+{9:17} Og eftersom Skyen hævede sig op fra Paulunet, rejste Israels Børn derefter; og paa det Sted, hvor Skyen blev, der lejrede Israels Børn sig.
+{9:18} Efter Herrens Mund rejste Israels Børn; og efter Herrens Mund lejrede de sig; alle de Dage, som Skyen boede over Tabernaklet, bleve de liggende.
+{9:19} Og naar Skyen blev over Tabernaklet mange Dage, da toge Israels Børn Vare paa, hvad Herren vilde have varetaget, og rejste ikke.
+{9:20} Og det var ligesaa, naar Skyen, var faa Dage over Tabernaklet; efter Herrens Mund lejrede de sig, og efter Herrens Mund rejste de.
+{9:21} Og det var ligesaa, naar Skyen var der fra Aftenen indtil Morgenen, og Skyen hævede sig om Morgenen, da rejste de; eller naar Skyen hævede sig om Dagen eller om Natten da rejste de.
+{9:22} Eller naar Skyen blev to Dage eller een Maaned eller eet Aar over Tabernaklet, saa den boede over det, da bleve Israels Børn liggende og rejste ikke; men naar den hævede sig, rejste de.
+{9:23} Efter Herrens Mund lejrede de sig, og efter Herrens Mund rejste de; de toge Vare paa, hvad Herren vilde have varetaget, efter Herrens Mund ved Mose.
+{10:1} Og Herren talede til Mose og sagde:
+{10:2} Gør dig to Basuner af Sølv, af drevet Arbejde skal du gøre dem; og du skal have dem til Menighedens Sammenkaldelse, og naar Lejrene skulle bryde op.
+{10:3} Og naar de blæse langsomt i dem, saa skal al Menigheden samles til dig, til Forsamlingens Pauluns Dør.
+{10:4} Og dersom de blæse langsomt i den ene, da skulle Fyrsterne samles til dig, Øversterne for Israels Tusinder.
+{10:5} Men naar I blæse stærkt, da skulle de Lejre bryde op, som have lejret sig mod Østen.
+{10:6} Og naar I blæse anden Gang stærkt, da skulle de Lejre bryde op, som have lejret sig mod Sønden; I skulle blæse stærkt, naar de skulle bryde op.
+{10:7} Men naar Forsamlingen skal samles, skulle I blæse langsomt og ikke blæse stærkt.
+{10:8} Og Præsterne, Arons Sønner, skulle blæse i Basunerne; og de skulle være eder til en evig Skik hos eders Efterkommere.
+{10:9} Og naar I komme i Krig i eders Land med Fjenden, som ængster eder, da skulle I blæse stærkt i Basunerne, at I maa ihukommes for Herren eders Guds Ansigt og frelses fra eders Fjender.
+{10:10} Og paa eders Glædes Dag, og paa eders bestemte Tider, og paa eders Maaneders første Dage, da skulle I blæse i Basunerne ved eders Brændofre og ved eders Takofre, at de maa blive eder til en Ihukommelse for eders Guds Ansigt; jeg er Herren eders Gud.
+{10:11} Og det skete i det andet Aar, i den anden Maaned, paa den tyvende Dag i Maaneden, da hævede Skyen sig op fra Vidnesbyrdets Tabernakel.
+{10:12} Og Israels Børn brøde op paa deres Vandringer fra Sinai Ørk; og Skyen blev i den Ørk Paran.
+{10:13} Saa rejste de første Gang efter Herrens Mund ved Mose.
+{10:14} Og det Banner for Judas Børns Lejr brød først op, efter deres Hære; og over hans Hær var Nahesson, Amminadabs Søn.
+{10:15} Og over Isaskars Børns Stammes Hær var Nethaneel, Zuars Søn.
+{10:16} Og over Sebulon Børns Stammes Hær var Eliab, Helons Søn.
+{10:17} Og Tabernaklet blev nedtaget; og Gersons Børn og Merari Børn, som bare Tabernaklet, brøde op.
+{10:18} Dernæst brød det Banner for Rubens Lejr op, efter deres Hære; og over hans Hær var Elizur, Sedeurs Søn.
+{10:19} Og over Simeons Børns Stammes Hær var Selumiel, Zurisaddai Søn.
+{10:20} Og over Gads Børns Stammes Hær var Eliasaf, Deuels Søn.
+{10:21} Saa rejste Kahathiterne, som bare Helligdommen; og de andre oprejste Tabernaklet, inden de kom.
+{10:22} Dernæst brød det Banner for Efraims Børns Lejr op, efter deres Hære; og over hans Hær var Elisama, Ammihuds Søn.
+{10:23} Og over Manasse Børns Stammes Hær var Gamliel, Pedazurs Søn.
+{10:24} Og over Benjamins Børns Stammes Hær var Abidan, Gideoni Søn.
+{10:25} Dernæst brød det Banner op for Dans Børns Lejr, som sluttede alle Lejrene, efter deres Hære, og over hans Hær var Ahieser, Ammisaddai Søn.
+{10:26} Og over Asers Børns Stammes Hær var Pagiel, Okrans Søn.
+{10:27} Og over Naf thali Børns Stammes Hær var Ahira, Enans Søn.
+{10:28} Dette var Israels Børns Rejseorden, efter deres Hære, naar de rejste.
+{10:29} Og Mose sagde til Hobab, Reuels den Midianiters Søn, Mose Svigerfader: Vi rejse til det Sted, om hvilket Herren sagde: Jeg vil give eder det; gaa med os, saa ville vi gøre vel imod dig, fordi Herren har talet godt over Israel.
+{10:30} Og denne sagde til ham: Jeg vil ikke gaa med, men jeg vil gaa til mit Land og til min Slægt.
+{10:31} Og han sagde: Kære, forlad os ikke; thi du ved, hvor vi kunne lejre os i Ørken, og du skal ære vort Øje.
+{10:32} Og det skal ske, du gaar med os, da skulle vi med det samme Gode, hvormed Herren gør vel imod os, gøre vel imod dig.
+{10:33} Saa rejste de fra Herrens Bjerg tre Dages Rejse; og Herrens Pagtes Ark rejste for deres Ansigt tre Dages Rejse for at opsøge et Hvilested for dem.
+{10:34} Og Herrens Sky var over dem om Dagen, naar de brøde op med Lejren.
+{10:35} Og det skete, naar Arken rejste, da sagde Mose: Herre! staa op, saa skulle dine Fjender adspredes, og de, som hade dig, skulle fly for dit Ansigt.
+{10:36} Og naar den hvilede, sagde han: Kom tilbage, Herre! til Israels ti Tusinde Gange tusinde.
+{11:1} Og Folket blev som de, der knurre syndig for Herrens Øren; og Herren hørte det, og hans Vrede optændtes, og Herrens ild brændte iblandt dem og fortærede nogle i det yderste af Lejren.
+{11:2} Da raabte Folket til Mose, og Mose bad til Herren, saa blev Ilden dæmpet.
+{11:3} Og han kaldte det samme Steds Navn Thabeera; thi Herrens Ild brændte iblandt dem.
+{11:4} Og det sammenløbne Folk, som var midt ihlandt dem, fik stor Begæerlighed; derfor gav ogsaa Israels Børn sig til at græde igen og sagde: Hvo vil give os Kød at æde?
+{11:5} Vi komme i Hu den Fisk, som vi aade for intet i Ægypten, Græskarrene og Melonerne og Rødløgene og Hvidløgene;
+{11:6} men nu forsmægter vor Sjæl; thi her er slet intet uden det Man for vore Øjne?
+{11:7} Men dette Man var som Korianderfrø, og dets Farve var ligesom Bedellions Farve.
+{11:8} Folket løb hid og did og sankede og malede det i Møllerne eller stødte det i Morteren og kogte det i Potten og gjorde deraf Kager; og dets Smag var som Oliesaftens Smag.
+{11:9} Og naar Duggen faldt over Lejren om Natten, da faldt Man ned derpaa.
+{11:10} Og Mose hørte Folket græde iblandt deres Slægter, hver i sit Telts Dør; og Herrens Vrede optændtes saare; ogsaa var det ondt for Mose Øjne.
+{11:11} Og Mose sagde til Herren: Hvi handlede du saa ilde med din Tjener? og hvi finder jeg ikke Naade for dine Øjne, og du lægger Byrden af hele dette Folk paa mig?
+{11:12} Mon jeg har undfanget alt dette Folk mon jeg har født det? at du skulde sige til mig: Bær det i din Favn, ligesom en Fosterfader bærer det diende Barn, ind i det Land, som du har tilsvoret dets Fædre.
+{11:13} Hvorfra skal jeg tage Kød at give alt dette Folk? thi de græde for mig og sige: Giv os Kød, at vi kunne æde.
+{11:14} Jeg kan ikke ene bære alt dette Folk; thi det er mig for svart.
+{11:15} Og vil du handle saaledes med mig, da slaa mig ihjel, dersom jeg har fundet Naade for dine Øjne, og lad mig ikke se paa min Ulykke.
+{11:16} Og Herren sagde til Mose: Forsamle mig halvfjerdsindstyve Mænd af Israels Ældste, om hvilke du ved, at de ere Folkets Ældste og dets Fogeder; og du skal tage dem hen til Forsamlingens Paulun, og der skulle de fremstille sig med dig.
+{11:17} Og jeg vil komme ned og tale med dig der, og jeg vil tage af den Aand, som er paa dig, og lægge paa dem, at de skulle bære paa Folkets Byrde med dig, og du skal ikke ene bære den.
+{11:18} Og til Folket skal du sige: Helliger eder til i Morgen, saa skulle I æde Kød; thi I have grædt for Herrens Øren og sagt: Hvo vil give os Kød at æde thi det gik os vel i Ægypten; derfor vil Herren give eder Kød, at I skulle æde.
+{11:19} I skulle ikke æde een Dag og ej to Dage og ej fem Dage og ej ti Dage og ej tyve Dage,
+{11:20} men en Maaneds Dage, indtil det gaar ud af eders Næse og er eder til en Afsky; fordi I have forkastet Herren, som er midt iblandt eder, og have grædt for hans Ansigt og sagt: Hvortil ere vi udgangne af Ægypten
+{11:21} Og Mose sagde: Seks Hundrede Tusinde Mænd til Fods er dette Folk, som jeg er midt iblandt, og du siger: Jeg vil give dem Kød, og de skulle æde en Maaneds Tid.
+{11:22} Mon der skal slagtes smaat Kvæg og stort Kvæg for dem, at der kan blive nok til dem? mon alle Fiskene i Havet skulle samles til dem, at der kan blive nok til dem?
+{11:23} Og Herren sagde til Mose: Monne da Herrens Haand være forkortet? nu skal du se, om mit Ord skal vederfares dig eller ej.
+{11:24} Og Mose gik ud og talede Herrens Ord til Folket; og han samlede halvfjerdsindstyve Mænd af Folkets Ældste og stillede dem rundt omkring Paulunet.
+{11:25} Da kom Herren ned i Skyen og talede til ham, og han tog af den Aand, som var paa ham, og lagde paa de halvfjerdsindstyve Ældste, og det skete, der Aanden hvilede paa dem, da profeterede de, og de gjorde det ikke siden.
+{11:26} Men der var to Mænd blevne tilbage i Lejren, den enes Navn var Eldad, og den andens Navn Medad, og Aanden hvilede over dem, thi de vare iblandt de opskrevne, men de vare dog ikke udgangne til Paulunet, og de profeterede i Lejren.
+{11:27} Da løb en Dreng og gav Mose tilkende sagde: Eldad og Medad profetere Lejren.
+{11:28} Da svarede Josva, Nuns Søn, Mose Tjener, en af hans udvalgte, og sagde: Min Herre, Mose forhindre dem.
+{11:29} Men Mose sagde til ham: Er du nidkær for mig? gid alt Herrens Folk var Profeter, og Herren vilde give sin Aand over dem!
+{11:30} Og Mose forføjede sig til Lejren, han og de Ældste af Israel.
+{11:31} Da for der et Vejr ud fra Herren og førte Vagtler fra Havet og strøede dem over Lejren, ved en Dags Rejse til den ene og ved en Dags Rejse til den anden Side, trindt omkring Lejren, og ved to Alen højt paa Jorden.
+{11:32} Da stod Folket op hele den Dag og hele den Nat og hele den anden Dag, og de sankede Vagtler; hvo der havde mindst, havde samlet ti Homer; og de bredte dem trindt omkring Lejren.
+{11:33} Kødet var endnu imellem Tænderne paa dem, det var endnu ikke fortæret; da optændtes Herrens Vrede imod Folket, og Herren slog Folket med en saare stor Plage.
+{11:34} Og man kaldte det Steds Navn Kibroth-Hattaava, fordi de der begrove Folket, dem, som havde været begærlige.
+{11:35} Fra Kibroth-Hattaava rejste Folket til Hazeroth; og de bleve i Hazeroth.
+{12:1} Og Maria og Aron talede imod Mose for den morlandske Hustrus Skyld, som han havde taget; thi han havde taget en morlandsk Hustru.
+{12:2} Og de sagde: Taler Herren ene og alene ved Mose? mon ikke ogsaa taler ved os? og Herren hørte det.
+{12:3} Men den Mand var saare sagtmodig, fremfor Mennesker paa Jorderige.
+{12:4} Og Herren sagde hastelig til Aron og til Maria: Gaar ud, I tre, til Forsamlingens Paulun; og de tre gik ud.
+{12:5} Da kom Herren ned i en Skystøtte og stod i Paulunets Dør; og han kaldte ad Aron Og Maria, og de gik begge ud.
+{12:6} Og han sagde: Kære, hører mine Ord: Dersom der er en Profet iblandt eder, giver jeg, Herren, mig tilkende for ham i Synet, i Drømmen taler jeg med ham.
+{12:7} Ikke saa med min Tjener Mose; han er tro i mit ganske Hus.
+{12:8} Jeg taler mundtlig med ham og synlig og ikke i mørk Tale, og han beskuer Herrens Lignelse; hvi frygtede I da ikke at tale imod min Tjener, imod Mose?
+{12:9} Og Herrens Vrede optændtes imod dem, og han gik bort.
+{12:10} Og Skyen veg bort fra Paulunet, og se, Maria var spedalsk som Sne; og Aron vendte sig til Maria, og se, hun var spedalsk.
+{12:11} Og Aron sagde til Mose: Hør mig dog, min Herre, læg ikke den Synd paa os, i hvilken vi have gjort daarlig, og i hvilken vi have syndet.
+{12:12} Kære, lad hende ikke være som en Død, hvis halve Kød, naar han kommer ud af sin Moders Liv, er fortæret.
+{12:13} Da raabte Mose til Herren og sagde: Ak, Gud! helbred hende.
+{12:14} Og Herren sagde til Mose: Om hendes Fader havde spyttet hende i hendes Ansigt, skulde hun da ikke skamme sig syv Dage? Lad hende blive udelukket fra Lejren syv Dage; og derefter maa hun optages.
+{12:15} Og Maria blev udelukket fra Lejren syv Dage, og Folket rejste ikke, førend Maria blev optaget.
+{12:16} Og derefter rejste Folket fra Hazeroth, og de lejrede sig i Ørken Paran.
+{13:1} Og Herren talede til Mose og sagde
+{13:2} Send Mænd for dig, at de bespejde det Land Kanaan, hvilket jeg giver Israels Børn; I skulle sende een Mand for hver sin Fædrene Stamme, enhver iblandt dem skal være en Fyrste.
+{13:3} Saa sendte Mose dem fra Parans Ørk, efter Herrens Mund, Mænd, der alle vare Øverster for Israels Børn.
+{13:4} Og disse ere deres Navne: For Rubens Stamme Sammua, Sakkurs Søn;
+{13:5} for Simeons Stamme Safat, Hori Søn;
+{13:6} for Judas Stamme Kaleb, Jefunne Søn;
+{13:7} for Isaskars Stamme Jigeal, Josefs Søn;
+{13:8} for Efraims Stamme Hosea, Nuns Søn;
+{13:9} for Benjamins Stamme Palti, Rafu Søn;
+{13:10} for Sebulons Stamme Gaddiel, Sodi Søn;
+{13:11} for Josefs Stamme, for Manasse Stamrne Gaddi, Sussi Søn;
+{13:12} for Dans Stamme Ammiel, Gemalli Søn;
+{13:13} for Asers Stamme Sethur, Mikaels Søn;
+{13:14} for Nafthali Stamme Nahebi, Vofsi Søn;
+{13:15} for Gads Stamme Geuel, Maki Søn.
+{13:16} Disse ere Navnene paa de Mænd, som Mose sendte til at bespejde Landet; men Mose kaldte Hosea, Nuns Søn, Josva.
+{13:17} Og Mose sendte dem til at bespejde Kanaans Land og sagde til dem: Drager herfra op I i Sydlandet, og I skulle gaa op paa Bjergene.
+{13:18} Og I skulde bese Landet; hvordan det er, og det Folk, som bor derudi, om det er stærkt eller svagt, om det er lidet eller talrigt,
+{13:19} og hvad det er for et Land som det bor udi, om det er godt eller slet, og hvad det er for Stæder, som det bor udi, om det bor i Lejre eller i Befæstninger,
+{13:20} og hvad det er for et Land, om det er fedt eller magert; om der er Træer i det eller ej, og I skulle være frimodige og tage af Landets Frugt; men det var paa den Tid, da de første Vindruer bleve modne.
+{13:21} Og de gik op og bespejdede Landet, fra Zins Ørk indtil Rehob, til henimod Hamath.
+{13:22} Derefter gik de op i Sydlandet og kom til Hebron, og der var Ahiman, Sesai og Talmai, Anaks Børn; men Hebron var bygget syv Aar førend Zoan i Ægypten.
+{13:23} Og de kom indtil Eskols Bæk og afskare der en Vinkvist og en Vindrueklasse, og to bare den paa en Stang, og de toge af Granatæblerne og af Figenerne.
+{13:24} Dette Sted kaldte man Eskols Bæk for den Klases Skyld, som Israels Børn afskare der.
+{13:25} Og de vendte tilbage fra at bespejde Landet, der fyrretyve Dage vare til Ende.
+{13:26} Og de gik og kom til Mose og tilAron og til al Israels Børns Menighed, til Parans Ørk til Kades; og de bragte dem og al Menigheden Svar igen, og de lode dem se Landets Frugt.
+{13:27} Og de fortalte ham og sagde: Vi kom til Landet, som du sendte os til, og det flyder endog med Mælk og Honning, og denne er Frugten derfra.
+{13:28} Men dog, det er et stærkt Folk, som bor i Landet, og Stæderne ere faste og saare store, vi have ogsaa set Anaks Børn der.
+{13:29} Amalek bor sydligt i Landet, og Hethiten og Jebusiten og Amoriten bor paa Bjerget, og Kananiten bor ved Havet og ved Jordanens Bred.
+{13:30} Men Kaleb beroligede Folket overfor Mose og sagde: Lader os dog gaa op og indtage det til Ejendom; thi vi kunne lettelig bemægtige os det.
+{13:31} Men de Mænd, som vare dragne op med ham, sagde: Vi formaa ikke at drage op mod det Folk; thi det er stærkere end vi.
+{13:32} Og de bragte ondt Rygte om Landet, hvilket de havde bespejdet, ud til Israels Børn og sagde: Det Land, som vi gik igennem at bespejde det, det er et Land, som fortærer sine Indbyggere, og alt det Folk, som vi saa deri, er høje Folk.
+{13:33} Og vi saa der Kæmperne, Anaks Børn, Kæmpeslægt; og vi vare for vore Øjne som Græshopper, og vi vare ligesaa for deres Øjne.
+{14:1} Da opløftede og hævede al Menigheden sin Røst, og Folket græd den samme Nat.
+{14:2} Og alle Israels Børn knurrede imod Mose og imod Aron, og al Menigheden sagde til dem: Gid vi vare døde i Ægyptens Land, eller gid vi vare døde i denne Ørk!
+{14:3} Og hvorfor fører Herren os til dette Land til at falde ved Sværdet? vore Hustruer og vore smaa Børn maa blive til Rov; er det os ikke bedst at vende tilbage til Ægypten?
+{14:4} Og den ene sagde til den anden: Lader os indsætte en Høvedsmand og vende tilbage til Ægypten.
+{14:5} Men Mose og Aron faldt ned paa deres Ansigter, for Israels Børns hele Menigheds Forsamling.
+{14:6} Og Josva, Nuns Søn, og Kaleb, Jefunne Søn, der vare blandt dem, der havde bespejdet Landet, de sønderreve deres Klæder.
+{14:7} Og de sagde til al Israels Børns Menighed, sigende: Det Land, som vi vandrede igennem til at bespejde det, er et saare, ja saare godt Land.
+{14:8} Dersom Herren har Behagelighed til os, da fører han os ind i dette Land og giver os det, et Land, som flyder med Mælk og Honning.
+{14:9} Men værer kun ikke genstridige imod Herren, og I, frygter ikke Folket i det Land, thi dem tage vi som en Bid Brød; deres Værn er veget fra dem; men med os er Herren, frygter ikke for dem.
+{14:10} Da sagde den ganske Menighed, at man skulde stene dem med Stene, og Herrens Herlighed blev set i Forsamlingens Paulun for alle Israels Børn.
+{14:11} Og Herren sagde til Mose: Hvor længe skal dette Folk opirre mig? og hvor længe ville de ikke tro paa mig, uagtet alle de Tegn, som jeg har gjort midt iblandt dem?
+{14:12} Jeg vil slaa dem med Pest og udrydde dem; og jeg vil gøre dig til et større og stærkere Folk, end dette er.
+{14:13} Da sagde Mose til Herren: Ægypterne have hørt, at du har ført dette Folk med din Kraft ud af deres Midte.
+{14:14} Og de have sagt det til dette Lands Indbyggere; de have hørt, at du, Herre! er midt iblandt dette Folk, for hvilket du, Herre! ses øjensynlig, og at din Sky staar over dem, og at du gaar for deres Ansigt i en Skystøtte om Dagen og i en Ildstøtte om Natten.
+{14:15} Men slog du dette Folk ihjel som een Mand, da skulle Hedningerne, naar de høre det Rygte om dig, sige saaledes:
+{14:16} Fordi Herren ikke formaaede at føre dette Folk ind i det Land, som han havde tilsvoret dem, derfor har han slaaet dem ned i Ørken.
+{14:17} Og nu, lad dog Herrens Kraft vise sig stor, som du har talet og sagt:
+{14:18} Herren er langmodig og af megen Miskundhed, som forlader Misgerning og Overtrædelse, og som aldeles ikke skal holde den skyldige for uskyldig, som hjemsøger Fædrenes Misgerning paa Børnene, paa dem i tredje og paa dem i fjerde Led.
+{14:19} Kære, forlad dette Folk dets Misgerning efter din store Miskundhed, og ligesom du har tilgivet dette Folk, fra Ægypten af og hidindtil
+{14:20} Og Herren sagde: Jeg har forladt det efter dit Ord.
+{14:21} Men sandelig, saa vist som jeg lever, da skal alt Landet opfyldes med Herrens Herlighed;
+{14:22} thi alle de Mænd, som have set min Herlighed og mine Tegn, som jeg gjorde i Ægypten og i Ørken, og nu have fristet mig ti Gange og ikke hørt paa min Røst,
+{14:23} de skulle ikke se det Land, som jeg har tilsvoret deres Fædre, ja ingen af dem, som have opirret mig, skal se det.
+{14:24} Men min Tjener Kaleb, fordi der er en anden Aand med ham, og han har fuldkommelig efterfulgt mig, ham vil jeg føre til det Land, hvor han var kommen hen, og hans Sæd skal eje det.
+{14:25} Men Amalekiten og Kananiten bor i Dalen; vender eder i Morgen og rejser i Ørken ad Vejen til det røde Hav.
+{14:26} Og Herren talede til Mose og Aron og sagde:
+{14:27} Hvor længe skal jeg se til denne onde Menighed, dem, som knurre imod mig? jeg har hørt Israels Børns megen Knur, hvormed de knurre imod mig.
+{14:28} Sig til dem: Saa sandt som jeg lever, siger Herren, ligesom I have talet for mine øren, saaledes vil jeg gøre ved eder.
+{14:29} Eders døde Kroppe skulle falde i denne Ørk, og alle eders talte efter alt eders Tal, fra tyve Aar gamle og derover, I som have knurret imod mig.
+{14:30} I skulle ikke komme ind i det Land, om hvilket jeg har opløftet min Haand óg svoret at ville lade eder bo deri, uden Kaleb, Jefunne Søn, og Josva, Nuns Søn.
+{14:31} Og eders smaa Børn, om hvilke I sagde, de skulle blive til Rov, ja dem vil jeg føre derind, at de skulle kende det Land, som I have foragtet.
+{14:32} Men eders døde Kroppe, de skulle falde i denne Ørk.
+{14:33} Og eders Børn skulle være Hyrder i Ørken fyrretyve Aar og bøde for eders Bolen, indtil I alle ere blevne til døde Kroppe i denne Ørk.
+{14:34} Efter de Dages Tal, i hvilke I have bespejdet Landet, fyrretyve Dage, et Aar for hver Dag, skulle I bære eders Misgerninger fyrretyve Aar, og I skulle fornemme, at jeg har vendt mig bort.
+{14:35} Jeg Herren har sagt: Jeg vil visselig gøre dette ved hele denne onde Menighed, som har forsamlet sig imod mig; de skulle faa Ende i denne Ørk og dø der.
+{14:36} Og de Mænd, som Mose havde sendt til at bespejde Landet, og som vare komne igen og havde bragt al Menigheden til at knurre imod ham, idet de førte ondt Rygte ud om Landet,
+{14:37} ja de Mænd døde, som havde ført ondt Rygte ud om Landet, ved Plagen for Herrens Ansigt.
+{14:38} Men Josva, Nuns Søn, og Kaleb, Jefunne Søn, de bleve i Live af de Mænd, som vare gangne til at bespejde Landet.
+{14:39} Og Mose talede disse Ord til alle Israels Børn; da sørgede Folket saare.
+{14:40} Og om Morgenen stode de tidlig op og gik oven paa Bjerget og sagde: Se, her ere vi, og vi ville drage op til det Sted, som Herren har talet om; thi vi have syndet.
+{14:41} Men Mose sagde: Hvorfor overtræde I Herrens Befaling? det skal ikke lykkes.
+{14:42} Drager ikke op, thi Herren er ikke midt iblandt eder, at I ikke skulle blive slagne for eders Fjenders Ansigt.
+{14:43} Thi Amalekiterne og Kananiterne ere der for eders Ansigt, og I skulle falde ved Sværdet; thi fordi I have vendt eder bort fra Herren, skal Herren ikke være med eder.
+{14:44} Men de formastede sig hovmodelig til at drage op oven paa Bjerget; men Herrens Pagtes Ark og Mose, de vege ikke ud af Lejren.
+{14:45} Da kom Amalekiten og Kananiten ned, som boede paa det samme Bjerg, og de sloge dem og sønderknusede dem indtil Horma.
+{15:1} Og Herren talede til Mose og sagde:
+{15:2} Tal til Israels Børn, og du skal sige til dem: Naar I, komme til det Land, som I skulle bo udi, hvilket jeg vil give eder,
+{15:3} og I ville gøre Herren et Ildoffer, Brændoffer eller Slagtoffer, for at indfri et særligt Løfte, eller som et frivilligt Offer, eller paa eders bestemte Tider, for at berede Herren en behagelig Lugt, af stort Kvæg eller smaat Kvæg:
+{15:4} Da skal den, som ofrer sit Offer, ofre til Herren et Madoffer af en tiende Part Mel, blandet med en fjerde Part af en Hin Olie;
+{15:5} og en fjerde Part af en Hin Vin til et Drikoffer skal du berede, tillige med Brændofret eller Slagtofret, til hvert Lam.
+{15:6} Eller er det til en Væder, saa skal du lave Madoffer af tvende tiende Parter Mel, blandet med en tredje Part af en Hin Olie;
+{15:7} og Vin til et Drikoffer, en tredje Part af en Hin, skal du ofre til en behagelig Lugt for Herren.
+{15:8} Og naar du vil lave en ung Tyr til et Brændoffer eller Slagtoffer, for at indfri et særligt Løfte eller gøre et Takoffer for Herren,
+{15:9} da skal man ofre tillige med den unge Tyr som Madoffer tre tiende Parter Mel, blandet med en halv Hin Olie.
+{15:10} Og du skal ofre Vin til Drikofret, en halv Hin; det er et Ildoffer, en behagelig Lugt for Herren.
+{15:11} Paa denne Maade skal det ske med een Okse eller med een Væder eller med eet Lam af Faarene eller af Gederne;
+{15:12} efter det Tal, som I skulle bringe, skulle i lave det paa denne Maade, for ethvert efter deres Tal.
+{15:13} Hver indfødt skal gøre disse Ting paa denne Maade for at ofre et Ildoffer, en behagelig Lugt for Herren.
+{15:14} Og om en fremmed opholder sig hos eder, eller en, som er midt iblandt eder hos eders Efterkommere, og han vil gøre et Ildoffer, en behagelig Lugt for Herren, saa skal han gøre, ligesom I skulle gøre.
+{15:15} Du Menighed! der skal være een Skik for eder og for den fremmede, som opholder sig hos eder, det er en evig Skik hos eders Efterkommere; som det er for eder, saa skal det være for den fremmede, for Herrens Ansigt.
+{15:16} Een Lov og een Ret skal være for eder og for den fremmede, som opholder sig hos eder.
+{15:17} Og Herren talede til Mose og sagde:
+{15:18} Tal til Israels Børn, og du skal sige til dem: Naar I komme i det Land, hvorhen jeg vil føre eder,
+{15:19} da skal det ske, naar I æde af Landets Brød, at I skulle bringe en Offergave for Herren.
+{15:20} Det første af eders Dejg, nemlig en Kage, skulle I bringe til en Gave, ligesom Gaven fra Loen, saaledes skulle I bringe den.
+{15:21} Af det første af eders Dejg skulle I give Herren en Gave, hos eders Efterkommere.
+{15:22} Og naar I forse eder og ikke gøre alle disse Bud, som Herren har talet til Mose,
+{15:23} alt det, som Herren har budet eder ved Mose, fra den Dag af, da Herren har befalet det, og derefter, hos eders Efterkommere:
+{15:24} Da skal det ske, om noget er skjult for Menighedens Øjne og er gjort af Vanvare, at den ganske Menighed skal lave en ung Tyr til Brændoffer, til en behagelig Lugt for Herren, og dens Madoffer og dens Drikoffer efter vanlig Vis, og een Gedebuk til Syndoffer.
+{15:25} Saa skal Præsten gøre Forligelse for al Israels Børns Menighed, og det bliver dem forladt; thi det er af Vanvare, og de skulle føre deres Offer frem til et Ildoffer for Herren, og deres Syndoffer for Herrens Ansigt for deres Vanvares Skyld,
+{15:26} og det bliver al Israels Børns Menighed og den fremmede, som opholder sig rnidt iblandt dem, forladt, efterdi det er vederfaret det ganske Folk af Vanvare.
+{15:27} Men naar en enkelt synder af Vanvare, da skal han ofre en aargammel Ged til et Syndoffer.
+{15:28} Og Præsten skal gøre Forligelse for ham, som har forset sig og syndede af Vanvare, for Herrens Ansigt; han skal gøre Forligelse for ham, saa bliver det ham forladt.
+{15:29} For den indfødte blandt Israels Børn og for den fremmede, som opholder sig midt iblandt dem, hos eder skal være een Lov for den som gør noget af Vanvare.
+{15:30} Men den Person, som gør noget af Trod sighed, være sig en indfødt eller en fremmed, han har forhaanet Herren, og den Sjæl skal udryddes midt ud af sit Folk;
+{15:31} thi han har foragtet Herrens Ord og gjort hans Bud til intet; den Sjæl skal udryddes, hans Misgerning skal være paa ham.
+{15:32} Og Israels Børn vare i Ørken, og de fandt en Mand, som sankede Ved paa en Sabbatsdag.
+{15:33} Og de, som fandt ham sanke Ved, førte ham frem til Mose og til Aron og til al Menigheden.
+{15:34} Og de satte ham i Forvaring; thi det var ikke forklaret, hvad der skulde gøres ved ham.
+{15:35} Og Herren sagde til Mose: Den Mand skal visselig dødes; den ganske Menighed skal stene ham med Stene uden for Lejren.
+{15:36} Da førte al Menigheden ham ud uden for Lejren, og de stenede ham med Stene, og han døde; saasom Herren havde befalet Mose.
+{15:37} Og Herren talte til Mose og sagde:
+{15:38} Tal til Israels Børn, og du skal sige til dem, at de skulle gøre sig Kvaster paa Fligene af deres Klæder, hos deres Efterkommere, og de skulle sætte en blaa ulden Snor paa hver Fligs Kvast.
+{15:39} Og den skulle I have ved hver Kvast, for at I skulle se den og ihukomme alle Herrens Bud og gøre dem; og I skulle ikke søge noget efter eders eget Hjerte og efter eders Øjne, som I bole efter,
+{15:40} paa det I skulle ihukomme og gøre alle mine Bud; og I skulle være hellige for eders Gud.
+{15:41} Jeg er Herren eders Gud, som har udført eder af Ægyptens Land for at være eder en Gud; jeg er Herren eders Gud.
+{16:1} Og Kora, en Søn af Jizehar, der var en Søn af Kahat, Levi Søn, tog til sig baade Dathan og Abiram, Eliabs Sønner, og On, Peleths Søn, Rubens Børn.
+{16:2} Og de stode op for Mose Ansigt tillige med to Hundrede og halvtredsindstyve Mænd af Israels Børn, Menighedens Fyrster, udnævnte blandt Forsamlingen, navnkundige Mænd.
+{16:3} Og de samlede sig imod Mose og Aron, og de sagde til dem: Lader det være eder nok! thi den ganske Menighed er allesammen hellige, og Herren midt ihlandt dem, og hvi ophøje eder over Herrens Menighed?
+{16:4} Der Mose hørte det, da faldt han paa sit Ansigt.
+{16:5} Og han talte til Kora og alt hans Selskab, sigende: I Morgen skal Herren give til Kende, hvo hans er, og den, som hellig er, og den, han skal lade komme nær til sig; og hvem han udvælger, den skal han lade komme nær til sig.
+{16:6} Gører dette: Tager eder Ildkar, Kora og alt hans Selskab!
+{16:7} Og lægger Ild i dem og lægger Røgelse paa dem for Herrens Ansigt i Morgen, og det skal ske, hvilken Mand Herren udvælger, han er den hellige; lader det være eder nok, Levi Børn!
+{16:8} Og Mose sagde til Kora: Hører dog, I Levi Børn!
+{16:9} Er det eder for lidet, at Israels Gud har udskilt eder fra Israels Menighed for at lade eder komme nær til sig, til at besørge Herrens Tabernakels Tjeneste og til at staa for Menighedens Ansigt at tjene dem
+{16:10} Og han har ladet dig og alle dine Brødre, Levi Børn, med dig komme nær, og nu søge I ogsaa Præstedømmet!
+{16:11} Derfor er du og alt dit Selskab, de som ere forsamlede, imod Herren; og Aron, hvad er han, at I knurre imod ham?
+{16:12} Og Mose sendte hen at kalde ad Dathan og ad Abiram, Eliabs Sønner, og de sagde: Vi komme ikke op.
+{16:13} Er det for lidet, at du har ført os op af et Land, som flyder med Mælk og Honning, for at lade os dø i Ørken? thi du vil endog aldeles tiltage dig selv Herredømmet over os.
+{16:14} Du har visselig ikke ført os ind i et Land, som flyder med Mælk og Honning, eller givet os Agre og Vingaarde til Arv; vil du blænde Øjnene paa disse Mænd? vi ville ikke komme op.
+{16:15} Da blev Mose saare vred og sagde til Herren: Vend dig ikke til deres Madoffer; jeg har ikke taget et Asen fra dem, og jeg har ikke gjort een iblandt dem ondt.
+{16:16} Og Mose sagde til Kora: vær du og dit ganske Selskab for Herrens Ansigt, du og de og Aron, i Morgen,
+{16:17} og tager hver sit Ildkar og lægger Røgelse paa dem, og hver føre sit Ildkar frem for Herrens Ansigt, to Hundrede og halvtredsindstyve Ildkar; og du og Aron, hver med sit Ildkar!
+{16:18} Og de toge hver sit Ildkar og lagde Ild i dem og lagde Røgelse paa dem, og de stode for Forsamlingens Pauluns Dør, ligeledes Mose og Aron.
+{16:19} Og Kora samlede den ganske Menighed imod dem til Forsamlingens Pauluns Dør; men Herrens Herlighed viste sig for den ganske Menighed.
+{16:20} Og Herren talede til Mose og til Aron og sagde:
+{16:21} Skiller eder midt ud af denne Menighed, saa vil jeg gøre Ende paa dem, i et Øjeblik.
+{16:22} Men de faldt ned paa deres Ansigter og sagde: Gud, alt Køds Aanders Gud! om den ene Mand synder, vil du derfor blive vred paa al Menigheden?
+{16:23} Og Herren talede til Mose og sagde:
+{16:24} Tal til Menigheden og sig: Gaar bort trindt omkring fra Kora, Dathans og Abirams Bolig.
+{16:25} Og Mose stod op og gik til Dathan og Abiram, og de Ældste af Israel gik efter ham.
+{16:26} Og han talede til Menigheden og sagde: Kære, viger bort fra disse ugudelige Mænds Telte, og rører ikke ved noget af det, som hører, dem til, at I ikke skulle omkomme i alle deres Synder.
+{16:27} Og; de gik bort fra Koras, Dathans og Abirams Bolig trindt omkring; men Dathan og Abiram vare gangne ud og stode i deres Teltes Dør, og deres Hustruer og deres Sønner og deres smaa Børn.
+{16:28} Og Mose sagde: Derpaa skulle I kende, at Herren har sendt mig at gøre alle disse Gerninger, og at de ikke ere af mit eget Hjerte:
+{16:29} Dersom disse dø, som alle Mennesker dø, eller hjemsøges, som alle Mennesker hjemsøges, da har Herren ikke sendt mig;
+{16:30} men dersom Herren skaber noget nyt, at Jorden oplader sin Mund og opsluger dem og alt det, de have, saa at de fare levende ned i Helvede, da skulle I kende, at disse Mænd have opirret Herren.
+{16:31} Og det skete, der han havde fuldendt at tale alle disse Ord, da revnede Jorden, som var under dem,
+{16:32} og Jorden aabnede sin Mund og opslugte dem og deres Huse og hvert Menneske, som hørte Kora til, og alt Godset.
+{16:33} Og de og alt det, de havde, fore levende ned i Helvede; og Jorden skjulte dem, og de omkom midt i Menigheden.
+{16:34} Og al Israel, som var trindt omkring dem, flyede ved deres Skrig; thi de sagde: Blot Jorden ikke opsluger os!
+{16:35} Og en Ild for ud fra Herren og fortærede de to Hundrede og halvtredsindstyve Mænd, som ofrede Røgelse.
+{16:36} Og Herren talede til Mose og, sagde:
+{16:37} Sig til Eleasar, Præsten Arons Søn, at han skal tage Ildkarrene ud af Branden og sprede Ilden langt bort; thi de ere helligede,
+{16:38} deres Ildkar, som syndede imod deres Liv, og man skal slaa dem i brede Plader at beslaa Alteret med; thi de bare dem frem for Herrens Ansigt, og de ere helligede; og de skulle være Israels Børn til et Tegn.
+{16:39} Saa tog Eleasar, Præsten, de Ildkar af Kobber, som de opbrændte havde ofret med, og slog dem ud til Plader til at beslaa Alteret med,
+{16:40} Israels Børn til en Ihukommelse, paa det at ingen fremmed Mand, som ikke er af Arons Sæd, skal nærme sig for at gøre Offer af Røgelse for Herrens Ansigt; og at det ikke skal gaa ham som Kora og som hans Selskab, som Herren havde sagt ham ved Mose.
+{16:41} Men den anden Dag knurrede al Israels Børns Menighed mod Mose og mod Aron og sagde: I have slaget Herrens Folk ihjel.
+{16:42} Og det skete, der Menigheden samledes mod Mose og mod Aron, da vendte disse sig til Forsamlingens Paulun, og se, Skyen skjulte det; og Herrens Herlighed lod sig se.
+{16:43} Og Mose og Aron kom frem foran Forsamlingens Paulun.
+{16:44} Og Herren talede til Mose og sagde:
+{16:45} Forføjer eder midt ud af denne Menighed, saa vil jeg gøre Ende paa dem i et Øjeblik; og de faldt ned paa deres Ansigter.
+{16:46} Og Mose sagde til Aron: Tag Ildkarret og læg Ild fra Alteret og læg Røgelse derpaa, og gak hasteligen hen til Menigheden og gør Forligelse for dem; thi en Vrede er udgangen fra Herrens Ansigt, Plagen er begyndt.
+{16:47} Og Aron tog det, Iigesom Mose havde sagt, og løb hen midt i Forsamlingen, og se, Plagen var begyndt iblandt Folket; saa kom han Røgelse derpaa og gjorde Forligelse for Folket.
+{16:48} Og han stod imellem de døde og imellem de levende, og Plagen hørte op.
+{16:49} Men de, som døde i Plagen, vare fjorten Tusinde og syv Hundrede foruden dem, som døde for Koras Handels Skyld.
+{16:50} Og Aron kom til Mose igen for Forsamlingens Pauluns Dør, og Plagen var hørt op.
+{17:1} Og Herren talede til Mose og sagde:
+{17:2} Tal til Israels Børn og tag af dem een Kæp for hvert Fædrenehus, af alle deres Fyrster for deres Fædrenehuse, tolv Kæppe; du skal skrive hvers Navn paa hans Kæp.
+{17:3} Og du skal skrive Arons Navn paa Levi Kæp; thi der skal være een Kæp for hver Øverste over deres Fædrenehuse.
+{17:4} Og du skal lægge dem i Forsamlingens Paulun lige for Vidnesbyrdet, hvor jeg vil komme sammen med eder.
+{17:5} Og det skal ske, den Mand, jeg udvælger, hans Kæp skal blomstre; at jeg kan stille Israels Børns Knur imod mig, hvormed de knurre imod eder.
+{17:6} Og Mose talede til Israels Børn, og alle deres Fyrster gave ham for enhver Fyrste een Kæp, efter deres Fædrenehuse, tolv Kæppe; og Arons Kæp var midt iblandt deres Kæppe.
+{17:7} Og Mose lagde Kæppene for Herrens Ansigt i Vidnesbyrdets Paulun.
+{17:8} Og det skete den anden Dag, da kom Mose til Vidnesbyrdets Paulun, og se, Arons Kæp for Levi Hus havde blomstret, ja, den havde baade skudt Knopper og fremført Blomster og baaret modne Mandler.
+{17:9} Og Mose bar alle Kæppene ud fra Herrens Ansigt til alle Israels Børn, og de saa dem, og de toge hver sin Kæp.
+{17:10} Og Herren sagde til Mose: Bær Arons Kæp ind igen lige for Vidnesbyrdet, i Forvaring, til et Tegn imod de genstridige Børn; og du skal gøre en Ende paa deres Knur imod mig, at de ikke skulle dø.
+{17:11} Og Mose gjorde det, ligesom Herren befalede ham, saaledes gjorde han.
+{17:12} Og Israels Børn sagde til Mose, sigende: Se, vi maa opgive Aanden, vi omkomme, vi omkomme alle sammen!
+{17:13} Enhver som kommer nær den som kommer nær til Herrens Tabernakel, han maa dø; mon det da skulde være forbi med os, og vi skulde opgive Aanden?
+{18:1} Og Herren sagde til Aron: Du og dine Sønner og din Faders Hus med dig, I skulle bære Skylden for, hvad der forses mod Helligdommen; og du og dine Sønner med dig, I skulle bære Skylden for, hvad I forse eder imod eders Præstedømme.
+{18:2} Og før ogsaa dine Brødre, Levi Stamme, din Faders Stamme, frem tillige med dig, og de skulle slutte sig til dig og tjene dig; men du og dine Sønner med dig, I skulle være foran Vidnesbyrdets Paulun.
+{18:3} Og de skulle tage Vare paa, hvad du vil have varetaget, og paa hvad der ved det ganske Paulun er at varetage; dog skulle de ikke nærme sig Helligdommens Redskaber eller Alteret, at ikke baade de og I skulle dø.
+{18:4} Men de skulle slutte sig til dig og tage Vare paa, hvad der ved Forsamlingens Paulun er at varetage i al Paulunets Tjeneste; men en uvedkommende skal ikke holde sig nær til eder.
+{18:5} Saa tager Vare paa, hvad der er at varetage ved Helligdommen, og paa hvad der er at varetage ved Alteret, at der ikke ydermere skal komme en Vrede over Israels Børn.
+{18:6} Og jeg, se, jeg har taget eders Brødre, Leviterne, midt ud af Israels Børn; de ere givne eder som en Gave for Herren, til at besørge Forsamlingens Pauluns Tjeneste.
+{18:7} Men du, og dine Sønner med dig, skulle tage Vare paa eders, Præstedømme, i al den Gerning, som hører til Alteret og inden for Forhænget, og I skulle tjene der; jeg giver eder eders Præstedømme som Tjeneste, der er en Gave; men den uvedkommende, som nærmer sig, skal dødes.
+{18:8} Og Herren talede til Aron: Jeg, se, jeg har givet dig Varetægten over mine Offergaver; alle de Ting. som Israels Børn hellige, har jeg givet dig for din Salvelses Skyld og dine Børn til en evig Rettighed.
+{18:9} Dette skal høre dig til af det højhellige, af Ildofrene: Alle deres Ofre af alle deres Madofre og af alle deres Syndofre og af alle deres Skyldofre, som de skulle betale mig, det skal være dig og dine Sønner højhelligt.
+{18:10} Paa et højhelligt Sted skal du æde det; alt Mandkøn skal æde deraf; det skal være dig en Hellighed.
+{18:11} Og dette hører dig til: Deres Offergave af alle Israels Børns Rørelsesofre; dig har jeg givet dem og dine Sønner og dine Døtre med dig til en evig Rettighed; hver som er ren i dit Hus, maa æde det.
+{18:12} Alt det bedste af Olie og alt det bedste af ny Vin og Korn, deres Førstegrøde, som de skulle give Herren, det har jeg givet dig.
+{18:13} Førstegrøden af alt det, som er i deres Land, som de skulle føre frem for Herren, skal høre dig til; hver som er ren i dit Hus, skal æde deraf.
+{18:14} Alt det, som er lyst i Band i Israel, skal høre dig til.
+{18:15} Alt det, som aabner Moders Liv, af alt Kød, som de skulle bringe frem for Herren, af Mennesker eller af Dyr, det skal være dit; dog skal du løse de førstefødte af Menneskene og løse det førstefødte af urene Dyr.
+{18:16} Og det, som skal løses deraf, det skal du løse, fra det er en Maaned gammelt, efter din Vurdering for fem Sekel Sølv efter Helligdommens Sekel: Den er tyve Gera.
+{18:17} Men det førstefødte af Øksne eller det førstefødte af Faar eller det førstefødte af Geder skal du ikke løse, de ere hellige; deres Blod skal du stænke paa Alteret, og du skal gøre et Røgoffer af deres Fedt, et Ildoffer til en behagelig Lugt for Herren.
+{18:18} Og deres Kød skal høre dig til; ligesom Rørelsens Bryst og som den højre Bov skal det høre dig til.
+{18:19} Alle Gaver af de hellige Ting, som Israels Børn skulle bringe Herren, har jeg givet dig og dine Sønner og dine Døtre med dig til en evig Rettighed; det skal være en evig Saltpagt for Herrens Ansigt, for dig og for din Sæd med dig.
+{18:20} Og Herren sagde til Aron: Du skal ikke arve i deres Land, og du skal ikke have Del midt iblandt dem; jeg er din Del og din Arv midt iblandt Israels Børn.
+{18:21} Men se, jeg har givet Levi Børn al Tienden i Israel til en Arv, for deres Tjeneste, som de besørge, nemlig Tjenesten ved Forsamlingens Paulun.
+{18:22} Og Israels Børn maa ikke ydermere nærme sig Forsamlingens Paulun, at de ikke skulle paadrage sig Synd og dø.
+{18:23} Men Leviten, han skal besørge Tjenesten ved Forsamlingens Paulun, og de skulle bære Skyld for, hvad de forse sig; dette skal være en evig Skik hos eders Efterkommere, og de skulle intet Arvegods arve midt iblandt Israels Børn.
+{18:24} Thi Israels Børns Tiende, som de skulle yde Herren til en Gave, har jeg givet Leviterne til Arv; derfor har jeg sagt til dem, at de skulle intet Arvegods arve midt iblandt Israels Børn.
+{18:25} Og Herren talede til Mose og sagde:
+{18:26} Og til Leviterne skal du tale og sige til dem: Naar I tage den Tiende af Israels Børn, som jeg har givet eder af dem til eders Arv, da skulle I yde Herren en Gave deraf, nemlig den tiende Del af Tienden.
+{18:27} Og Gaven, der er ydet eder, skal regnes eder ligesom Kornet af Loen og ligesom Fylden af Persen.
+{18:28} Saaledes skulle ogsaa I yde en Gave til Herren af alle eders Tiender, som I skulle tage af Israels Børn, og I skulle give Aron, Præsten, Gaven til Herren deraf
+{18:29} Af alle Gaver til eder skulle I yde den hele Gave til Herren, af alt det bedste deraf, den ham helligede Del deraf.
+{18:30} Og du skal sige til dem: Naar I yde det bedste deraf, da skal det regnes Leviterne ligesom en Indkomst af Loen og ligesom en Indkomst af Persen.
+{18:31} Og I maa æde det paa alle Steder, I og eders Hus; thi det er eders Løn for eders Tjeneste ved Forsamlingens Paulun.
+{18:32} Saa skulle I ikke paadrage eder Synd for den Sags Skyld, naar I yde det bedste deraf; og I skulle ikke vanhellige Israels Børns hellige Ting, at I ikke skulle dø.
+{19:1} Og Herren talede til Mose og til Aron og sagde:
+{19:2} Dette skal være Lovens Skik, som Herren har budet og sagt: Sig til Israels Børn, at de skulle tage til dig en rød Kvie, uden Lyde, paa hvilken ingen Men er, og paa hvilken der ikke er kommet Aag.
+{19:3} Og I skulle give den til Eleasar, Præsten, og han skal føre den hen uden for Lejren, og man skal slagte den for hans Ansigt.
+{19:4} Og Eleasar, Præsten, skal tage af dens Blod paa sin Finger, og han skal stænke af dens Blod hen imod Forsiden af Forsamlingens Paulun syv Gange.
+{19:5} Og man skal opbrænde Kvien for hans Øjne, dens Hud og dens Kød og dens Blod skal man opbrænde tillige med dens Møg
+{19:6} Og Præsten skal tage Cedertræ og Isop og Skarlagen, og han skal kaste det midt paa Kviens Baal.
+{19:7} Og Præsten skal to sine Klæder og bade sit Legeme i Vand, og derefter skal han komme i Lejren; og Præsten skal være uren indtil Aftenen
+{19:8} Og den, som opbrændte den, skal to sine Klæder i Vand og bade sit Legeme i Vand og være uren indtil Aftenen.
+{19:9} Og en Mand, som er ren, skal sanke Asken af Kvien og lægge den uden for Lejren paa et rent Sted, og den skal være i Forvaring til Israels Børns Menighed, til Renselsesvand, det er Syndoffer.
+{19:10} Og den, som har sanket Asken af Kvien, skal to sine Klæder og være uren indtil Aftenen. Og dette skal være for Israels Børn og for den fremmede, som opholder sig midt iblandt eder, til en evig Skik.
+{19:11} Hvo som rører ved en død, ved noget Menneskes Lig, han skal være uren i syv Dage.
+{19:12} Han skal dermed rense sig fra Synden paa den tredie Dag og paa den syvende Dag, saa bliver han ren; og renser han sig ikke fra Synden paa den tredje Dag og paa den syvende Dag, saa bliver han ikke ren.
+{19:13} Enhver som rører ved en død, ved et dødt Menneskes Lig, og ikke vil rense sig fra Synden, han gør Herrens Tabernakel urent, og den Sjæl skal udryddes af Israel, fordi Renselsesvand ikke blev stænket paa ham; han skal være uren, hans Urenhed er fremdeles paa ham.
+{19:14} Dette er Loven, naar et Menneske dør i Teltet, hver den, som kommer ind i Teltet, og alt det, som er i Teltet, skal være urent i syv Dage;
+{19:15} og hvert aabent Kar, som der ikke er bundet et Stykke Klæde over, det er urent.
+{19:16} Og hver som rører ved nogen paa Marken, der er ihjelslaget med Sværd, eller ved en død eller ved et Menneskes Ben eller ved en Grav, den skal være uren i syv Dage.
+{19:17} Saa skulle de tage for den urene af det brændte Syndoffers Aske, og man skal komme rindende Vand derpaa i et Kar.
+{19:18} Og en Mand, som er ren, skal tage Isop og dyppe i Vandet, og stænke over Teltet og over alle Karrene og over Personerne, som have været der, og over den, som har rørt ved et Ben eller ved en ihjelslagen eller ved en død eller ved en Grav.
+{19:19} Og den rene skal stænke paa den urene paa den tredje Dag og paa den syvende Dag og rense ham fra Synden paa den syvende Dag, og han skal to sine Klæder og bade sig i Vand, saa bliver han ren om Aftenen.
+{19:20} Og den som bliver uren og ikke vil rense sig fra Synden, den Sjæl skal udryddes af Forsamlingen; thi han har gjort Herrens Helligdom uren, Renselsens Vand blev ikke stænket paa ham, han er uren.
+{19:21} Og det skal være dem til en evig Skik; og den, som stænker Renselsesvandet, skal to sine Klæder, og den, som rører ved Renselsesvandet, skal være uren indtil Aftenen.
+{19:22} Og alt det, den urene rører ved, skal være urent, og den Person, som rører ved ham, skal være uren indtil Aftenen.
+{20:1} Og Israels Børn, den ganske Menighed, kom i den Ørk Zin, i den første Maaned, og Folket blev i Kades; og Maria døde der og blev begraven der.
+{20:2} Og Menigheden havde intet Vand; da forsamledes de, mod Mose og mod Aron.
+{20:3} Og Folket kivedes med Mose, og de sagde: Gid vi dog havde opgivet Aanden, dengang vore Brødre opgave Aanden for Herrens Ansigt.
+{20:4} Og hvorfor førte I Herrens Menighed ind i denne Ørk, at vi skulle dø der, vi og vore Dyr?
+{20:5} Og hvorfor førte I os op af Ægypten for at bringe os til dette slemme Sted, som ikke er et Sted til Sæd og Figen og Vin og Granatæble, og hvor der ikke er Vand at drikke?
+{20:6} Og Mose og Aron kom fra Menighedens Ansigt til Forsamlingens Pauluns Dør og faldt. ned paa deres Ansigter; og Herrens Herlighed viste sig for dem.
+{20:7} Og Herren talede til Mose og sagde:
+{20:8} Tag Staven, og saml Menigheden, du og Aron, din Broder, og I skulle tale til Klippen for deres Øjne, saa, skal den give Vand af sig; og du skal lade Vand af Klippen komme ud til dem og give Menigheden og deres Dyr at drikke.
+{20:9} Da tog Mose Staven bort fra Herrens Ansigt, som han havde befale ham.
+{20:10} Og Mose og Aron samled Menigheden lige for Klippen; og han sagde til dem: Hører dog, I genstridige! monne vi kunne lade Vand komme ud til eder af denne Klippe?
+{20:11} Og Mose opløftede sin Haand og slog Klippen med sin Stav to Gange; da udgik meget Vand, saa Menigheden drak og deres Dyr.
+{20:12} Og Herren sagde til Mose til Aron: Fordi I ikke troede paa mig, til at helliggøre mig for Israls Børns Øjne, derfor skulle I ikke føre denne Menighed ind i det Land, som jeg har givet dem.
+{20:13} Dette er Kiv vandet, hvor Israels Børn kivedes med Herren; og han helliggjorde paa dem.
+{20:14} Og Mose sendte Bud fra Kades til Edoms Konge, saalunde: Saa siger din Broder Israel: Du ved: den Moje, som os er vederfaren,
+{20:15} at vore Fædre droge ned til Ægypten. og vi boede lang Tid i Ægypten, og Ægypterne handlede ilde med os med vore Fædre.
+{20:16} Og vi raabte til Herren, og han hørte vor Røst og sendte en Engel og udførte os af Ægypten, og se, vi ere i Kades, Staden ved det yderste af dit Landemærke.
+{20:17} Kære, lad os gaa igennem dit Land, vi ville hverken gaa igennem Ager eller Vingaard og ej drikke Vand af nogen Brønd, vi ville gaa ad Kongevejen, vi ville hverken bøje til den højre eller til den venstre Side, indtil vi ere komne igennem dit Landemærke.
+{20:18} Og Edom sagde til ham: Du maa ikke gaa igennem mit Land, at jeg ikke skal drage ud mod dig med Sværd.
+{20:19} Og Israels, Børn sagde til ham: Vi ville gaa op, ad den alfare Vej, og dersom vi drikke af Vandet hos dig, jeg og mit Kvæg, da vil jeg give Betaling derfor; jeg vil slet intet gøre uden at gaa igennem til Fods.
+{20:20} Men han sagde: Du maa ikke gaa igennem; og Edom drog ud imod ham med et svart Folk og en stærk Haand.
+{20:21} Saa vægrede Edom sig ved at tillade Israel at gaa igennem sit Landemærke; og Israel bøjede af Vejen for ham.
+{20:22} Og de rejste fra Kades; og Israels Børn, al Menigheden kom til det Bjerg Hor.
+{20:23} Og Herren talede til Mose og til Aron ved det Bjerg Hor, ved Edoms Landemærke, og sagde:
+{20:24} Aron skal samles til sit Folk, thi han skal ikke komme ind i det Land, som jeg har givet Israels Børn, fordi I vare genstridige mod min Mund ved Meribas Vand.
+{20:25} Tag Aron og Eleasar, hans Søn, og før dem op paa det Bjerg Hor.
+{20:26} Og før Aron af sine Klæder, og før Eleasar, hans Søn, i dem; og Aron skal samles til sit Folk og dø der.
+{20:27} Da gjorde Mose, som Herren havde befalet; og de gik op paa det Bjerg Hor for den ganske Menigheds Øjne.
+{20:28} Og Mose førte Aron af sine Klæder og førte Eleasar, hans Ssn, i dem; saa døde Aron der oven paa Bjerget; men Mose og Eleasar gik ned ad Bjerget.
+{20:29} Og der al Menigheden saa, at Aron havde opgivet Aanden, da begræd de Aron i tredive Dage, hele Israels Hus.
+{21:1} Der Kananiten, Arads Konge, som boede i Sydlandet, hørte, at Israel kom ind ad Spejdernes Vej, da stred han imod Israel og førte nogle af dem bort i Fangenskab.
+{21:2} Da lovede Israel Herren et Løfte og sagde: Dersom du giver dette Folk i min Haand, da vil jeg lyse deres Stæder i Band.
+{21:3} Og Herren hørte Israels Røst og overgav Kananiterne, og man bandlyste dem og deres Stæder og kaldte det Steds Navn Horma.
+{21:4} Saa rejste de fra det Bjerg Hor paa Vejen til det røde Hav, for at drage omkring Edoms Land; og Folkets Sjæl blev utaalmodig paa Vejen.
+{21:5} Og Folket talede imod Gud og imod Mose: Hvorfor førte I os op af Ægypten for at dø i Ørken? thi her er hverken Brød eller Vand, og vor Sjæl kedes ved denne ringe, Mad.
+{21:6} Da sendte Herren giftige Slanger iblandt Folket, og de bed Folket, og der døde meget Folk af Israel.
+{21:7} Da kom Folket til Mose, og de sagde: vi have syndet, thi vi have talet imod Herren og imod dig, bed til Herren, at han vil tage de Slanger fra os; og Mose bad for Folket.
+{21:8} Da sagde Herren til Mose: Gør dig en Slange, og sæt den paa en Stang; og det skal ske, at hver som er bidt og ser den, han skal leve.
+{21:9} Da gjorde Mose en Kobberslange og satte den paa en Stang; og det skete, naar en Slange havde bidt nogen, og han saa til den Kobberslange, da blev han i Live.
+{21:10} Og Israels Børn rejste derfra, og de lejrede sig i Oboth.
+{21:11} Og de rejste fra Oboth, og de lejrede sig ved Abirams Høje i Ørken, som er lige foran Moab, mod Solens Opgang.
+{21:12} Derfra rejste de og lejrede sig ved den Bæk Sered.
+{21:13} Derfra rejste de og; lejrede sig paa denne Side Arnon, som er i Ørken, og som gaar ud fra Amoriternes Landemærke; thi Arnon var Moabs Landemærke imellem Moab og imellem Amoriterne.
+{21:14} Derfor siges i Herrens Strids bog: "Vaheb i Sufa og Arnons Bække,
+{21:15} og Bækkenes Løb, som strækker sig til Ars Bolig og støder paa Moabs Landemærke.
+{21:16} Og derfra rejste de til Beer, det er den Brønd, som Herren talede om til Mose: Saml Folket, og jeg vil give dem Vand.
+{21:17} Da sang Israel denne Sang: Stig, Brønd! sjunger om den.
+{21:18} Brønd, som er graven af Fyrsterne, kastet af de ædle iblandt Folket, med Fyrstespir, med deres Herskerstave! Og fra den Ørk rejste de til Matthana,
+{21:19} og fra Matthana til Nahaliel, og fra Nahaliel til Bamoth,
+{21:20} og fra Bamoth til den Dal som er paa Moabs Mark, mod Toppen af Pisga, der skuer ud over Ørken.
+{21:21} Israel sendte Bud hen til Sihon, Amoriternes Konge, og lod sige:
+{21:22} Lad mig gaa igennem dit Land, vi ville ikke bøje ind paa Ager eller paa Vingaard, vi ville ikke drikke Vand af nogen Brønd, vi ville drage ad Kongevejen, indtil vi ere komne igennem dit Landemærke.
+{21:23} Og Sihon vilde ikke tilstede Israel at gaa igennem sit Landemærke; men Sihon samlede alt sit Folk og drog ud mod Israel i Ørken og kom til Jaza; og han stred imod Israel.
+{21:24} Men Israel slog ham med skarpe Sværd og indtog hans Land til Ejendom, fra Arnon indtil Jabok, indtil Ammons Børn; men Ammons Børns Landemærke var fast.
+{21:25} Saa indtog Israel alle disse Stæder, og Israel tog Bolig i alle Amoriternes Stæder, i Hesbon, og alle dens tilliggende Byer.
+{21:26} Thi Hesbon var Sihons, Amoriternes Konges, Stad; og han havde stridt mod Moabiternes forrige Konge og taget alt hans Land fra ham indtil Arnon.
+{21:27} Derfor sige de, som tale Ordsprog: Kommer til Hesbon! Sihons Stad skal bygges og grundfæstes.
+{21:28} Thi der er udgangen en Ild af Hesbon, en Lue af Sihons Stad, den har fortæret Ar i Moab, Herrerne over Arnons Høje.
+{21:29} Ve dig, Moab! du, Kamos Folk, er fortabt! han har givet sine Sønner som Flygtninge og sine Døtre som Fanger til Sihon, Amoriternes Konge.
+{21:30} Og vi have nedskudt dem; Hesbon er tabt indtil Dibon; og vi have lagt dem øde indtil Nofa, som naar indtil Medba.
+{21:31} Saa tog Israel Bolig i Amoriternes Land.
+{21:32} Og Moses, sendte ud at bespejde Jaeser, og indtoge dens tilliggende Byer; han fordrev Amoriterne, som var der.
+{21:33} Og de vendte sig og droge ad Vejen til Basan; da drog Og Kongen af Basan, ud imod dem han og alt hans Folk til Strid, til Edrei.
+{21:34} Og Herren sagde til Mose: Frygt ikke for ham; thi jeg har givet ham i din Haand, og alt hans Folk og hans Land; og du skal gøre ved ham, ligesom du gjorde ved Sihon, Amoriternes Konge, som boede i Hesbon.
+{21:35} Og de sloge ham og hans Sønner og alt hans Folk, saa at man ikke lod nogen blive tilovers for ham, og de indtog hans Land til Ejendom.
+{22:1} Og Israels Børn rejste derfra; og de lejrede sig paa Moabiternes slette Marker; paa hin Side Jordanen mod Jeriko.
+{22:2} Og Balak, Zippors Søn, saa alt det, som Israel havde gjort Amoriterne.
+{22:3} Og Moabiterne frygtede saa for Folket, fordi det var talrigt; og Moabiterne gruede for Israels Børn.
+{22:4} Da sagde Moab til Midtianiternes Ældste: Nu skal denne Flok opslikke alt rundt omkring os, ligesom Oksen opslikker grønne Urter paa Marken; men Balak, Zippors Søn, var Moabiternes Konge paa den Tid.
+{22:5} Og han sendte Bud til Bileam, Beors Søn, til Pethor, som er ved Floden, til hans Folks Børns Land, for at kalde ham, sigende: Se, et Folk er udgaaet af Ægypten, se, det skjuler Jordens Kreds, og det ligger tværs over for mig.
+{22:6} Og nu, kære, gak hid, forband mig dette Folk, thi det er mig for mægtigt, maaske jeg kunde slaa det og uddrive det af Landet; thi jeg ved, at hvem du velsigner, er velsignet, og hvem du forbander, skal være forbandet
+{22:7} Og de Ældste af Moabiterne gik hen med de: Ældste af Midianiterne, og Spaamandsløn var i deres Haand, og de kom til Bileam, og de talede Balaks Ord til ham.
+{22:8} Og han sagde til dem: Bliver her i denne Nat, saa vil jeg give eder Svar, ligesom Herren vil tale til mig; saa bleve Moabiternes Fyrster hos Bileam.
+{22:9} Og Gud kom til Bileam og sagde: Hvo ere Mænd, som ere hos dig?
+{22:10} Og Bileam sagde til Gud: Balak, Zippor Søn, Moabiternes Konge, har sendt til mig, sigende:
+{22:11} Se her det Folk, som er udgaaet af Ægypten og skjuler Jordens Kreds! gak nu hid, forband mig det, maaske jeg; kunde stride imod det og uddrive det.
+{22:12} Og Gud sagde til Bileam: Du skal ikke gaa med dem, du skal ikke, forbande Folket; thi det er velsignet.
+{22:13} Da stod Bileam op om Morgenen og sagde til Balaks Fyrster: Gaar til eders Land; thi Herren vægrer sig ved at tillade mig at gaa med eder.
+{22:14} Saa gjorde Moabiternes Fyrster sig rede og kom til Balak, og de sagde: Bileam væg rede sig; ved at gaa med os.
+{22:15} Da blev Balak endnu ved at sende flere og herligere Fyrster end disse.
+{22:16} Og de kom til Bileam, og de sagde til ham: Saa siger Balak, Zippors Søn: Kære, lad dig ikke forhindre fra at gaa til mig.
+{22:17} Thi jeg vil ære dig; saare, og alt det, du siger til mig, vil jeg gøre; men gak hid, kære, forband mig dette Folk!
+{22:18} Og Bileam svarede og sagde til Balaks Tj enere: Dersom Balak vilde give mig sit Hus, fuldt af Sølv og Guld, kunde jeg dog ikke overtræde Herren min Guds Ord ved at gøre lidet eller stort.
+{22:19} Men bliver dog nu her, ogsaa I, i denne Nat, saa vil jeg fornemme, hvad Herren vil ydermere tale med mig.
+{22:20} Da kom Gud til Bileam om Natten og sagde til ham: Dersom de Mænd ere komne for at kalde dig, da staa op, gak med dem; men dog, det Ord, som jeg vil tale til dig, det skal du gøre.
+{22:21} Da stod Bileam op om Morgenen og sadlede sin Aseninde og drog med Moabiternes Fyrster.
+{22:22} Men Guds Vrede optændtes, fordi han drog med, og Herren Engel stillede sig i Vejen for at staa ham imod; men han red paa sin Aseninde, og hans tvende Drenge vare med ham.
+{22:23} Og Aseninden saa Herrens Engel staa i Veien med et draget Sværd i sin Haand, og Aseninden veg af Vejen og gik ud paa Marken; men Bileam slog Aseninden for at bøje den ind paa Vejen.
+{22:24} Da stod Herrens Engel i en Hulvej imellem Vingaardene, hvor der var Stengærde paa begge Sider.
+{22:25} Og, der Aseninden saa Herrens Engel, da trykkede hun sig til Væggen og trykkede Bileams Fod til Væggen; og han slog hende end mere.
+{22:26} Men Herrens Engel blev ved at gaa frem og stod paa et snævert Sted, hvor der ingen Vej var til at vige til højre eller venstre Side.
+{22:27} Og Aseninden saa Herrens Engel, og hun lagde sig ned under Bileam; da optændtes Bileams Vrede, og han slog Aseninden med Kæppen.
+{22:28} Da aabnede Herren Asenindens Mund, og hun sagde til Bileam: Hvad har jeg gjort dig, at du har slaget mig nu tre Gange.
+{22:29} Og Bileam sagde til Aseninden: Fordi du har drillet mig, gid jeg havde et Sværd i min Haand, da vilde jeg nu slaa dig ihjel.
+{22:30} Da sagde Aseninden til Bileam: Er jeg ikke din Aseninde, som du har redet paa al din Tid, indtil denne Dag? plejede jeg nogensinde at gøre saaledes imod dig? og han sagde: Nej.
+{22:31} Da oplod Herren Bileams Øjne, at han saa Herrens Engel staaende i Vejen med det dragne Sværd i sin Haand; og han bøjede sig og faldt ned paa sit Ansigt.
+{22:32} Og Herrens Engel sagde til ham: Hvorfor har du slaget din Aseninde nu tre Gange? se, jeg er udgangen at staa dig imod; thi for mine Øjne fører denne Vej til Fordærvelse.
+{22:33} Og Aseninden saa mig og veg nu tre Gange af Vejen: for mit Ansigt, ellers, dersom hun ikke var vegen af Vejen for mit Ansigt, da vilde jeg nu endogsaa have slaaet dig ihjel og ladet hende leve.
+{22:34} Da sagde Bileam til Herrens Engel: Jeg har syndet, thi jeg vidste ikke, at du stod lige imod mig paa Vejen; og nu, dersom det er ondt for dine Øjne, vil jeg vende tilbage igen.
+{22:35} Og Herrens Engel sagde til Bileam: Drag med Mændene, men kun det Ord, som jeg taler til dig, det skal du tale; saa drog Bileam med Balaks Fyrster.
+{22:36} Og Balak hørte, at Bileam kom, og han drog ud ham i Møde til en Stad i Moab, som var ved Landemærket Arnon, som er ved det yderste Landemærke.
+{22:37} Og Balak sagde til Bileam: Sendte jeg ikke Bud til dig at lade dig kalde? hvi drog du ikke til mig mon jeg virkelig ikke skulde kunne ære dig?
+{22:38} Og Bileam sagde til Balak: Se, jeg er nu kommen til dig; mon jeg formaar at tale noget? det Ord, som Gud vil lægge i min Mund, det vil jeg tale.
+{22:39} Saa for Bileam med Balak, og de kom til Kirjath- Husoth.
+{22:40} Og Balak ofrede stort Kvæg og smaat Kvæg og sendte deraf til Bileam og til de Fyrster om vare hos ham.
+{22:41} Og det skete om Morgenen, da tog Balak Bileam og førte ham op paa Baals Høje og han saa derfra det yderste af Folket.
+{23:1} Og Bileam sagde til Balak: Byg mig her syv Altere, og bered mig her syv Okser og syv Vædre.
+{23:2} Og Balak gjorde, som Bileam sagde; og Balak og Bileam ofrede en Okse og en Væder paa hvert Alter.
+{23:3} Og Bileam sagde til Balak: Stil dig ved dit Brændoffer, og jeg vil gaa hen, maaske Herren møder mig, og det Ord, som han lader mig skue, vil jeg give dig til Kende; og han gik op paa et højt Sted.
+{23:4} og Gud mødte Bileam, og denne sagde til ham: Jeg har oprejst syv Altere og ofret en Okse og en Væder paa hvert Alter.
+{23:5} Da lagde Herren Ord i Bileams Mund og sagde: Vend tilbage til Balak, og saaledes skal du tale.
+{23:6} Og han vendte tilbage til ham, og se, har stod ved sit Brændoffer, han og alle Moabiternes Fyrster.
+{23:7} Da tog har til sit Sprog og sagde: Fra Syrien har Balak, Moabiternes Konge, ladet mig hente, fra Bjergene mod Østen Gak hid, forband mig Jakob, og gak hid, øs Vrede paa Israel!
+{23:8} Hvor ledes skal jeg forbande, da Gud ikke forbander ham? hvorledes skal jeg vredes, da Herren ikke vredes
+{23:9} Thi fra Klippernes Top ser jeg; ham, og fra Højene skuer jeg ham, se det Folk skal bo alene og skal ikke regne sig til Hedningerne
+{23:10} Hvo har talt Jakobs Støv og Tallet paa den fjerde Part af Israel? Min Sjæl dø de oprigtiges Død, og mit Endeligt vorde som hans!
+{23:11} Da sagde Balak til Bileam: Hvad gør du imod mig? jeg tog dig hid til at forbande mine Fjender, og se du har velsignet dem.
+{23:12} Og han svarede og sagde: Skal jeg ikke tage Vare paa at tale det, som Herren lægger i min Mund
+{23:13} Og Balak sagde til ham: Kære kom med mig til et andet Sted, fra hvilket du kan se dem, dog skal ud kun se det yderste af dem, men du skal ikke se dem alle; og forband mig dem derfra.
+{23:14} Og han tog ham med sig paa Zofims Mark til Pisgas Top og byggede syv Altre og ofrede en Okse og en Væder paa hvert Alter.
+{23:15} Og han sagde til Balak: Stil dig her ved dit Brændoffer, og jeg vil saa søge et Møde.
+{23:16} Og Herren mødte Bileam og lagde Ord i hans Mund, og han sagde: Vend tilbage til Balak, og saaledes skal du tale.
+{23:17} Og han kom til ham, og se, han stod ved sit Brændoffer og Moabiternes Fyrster hos ham, og Balak sagde til ham: Hvad sagde Herren?
+{23:18} Og han tog til sit Sprog og sagde: Staa op, Balak, og hør, bøj dit Øre til mig, Zippors Søn!
+{23:19} Gud er ikke et Menneske, at han lyver, ej heller et Menneskes Barn, at han skulde angre; har han sagt det, skulde ikke gøre det? og har han talet, og skulde ikke holde det?
+{23:20} Se, at velsigne er mig overdraget; han velsignede, og jeg kan ikke forandre det.
+{23:21} Han skuede ikke Uret i Jakob, og saa ikke Jammer i Israel; Herren, hans Gud, er med ham, og Kongejubel hos ham.
+{23:22} Gud er den, som førte dem ud af Ægypten, de have megen Styrke som Enhjørningen.
+{23:23} Thi der er ingen Spaadomskunst i Jakob og ingen Sandsigerkunst i Israel; i sin Tid skal der siges til Jakob og til Israel, hvad Gud har gjort.
+{23:24} Se, det Folk skal staa op som en Løvinde og ophøje sig som en Løve; det skal ikke lægge sig, før det æder Rovet og drikker de ihjelslagnes Blod.
+{23:25} Da sagde Balak til Bileam: Du skal hverken forbande det, ej heller skal du velsigne det.
+{23:26} Og Bileam svarede og sagde til Balak: Har jeg ej talet til dig og sagt: Alt det, som Herren vil tale, det vil jeg gøre?
+{23:27} Og Balak sagde til Bileam: Kære, gaa med, jeg vil tage dig med hen hen til et andet Sted; maaske det maatte være Ret for Guds Øjne, at du derfra forbander mig det.
+{23:28} Og Balak tog Bileam med sig paa Peors Top, som skuer ud over Ørken.
+{23:29} Og Bileam sagde til Balak: Byg mig her syv Altere, og bered rnig her syv Okser og syv Vædre.
+{23:30} Og Balak gjorde, som Bileam sagde, og ofrede en Okse og en Væder paa hvert Alter.
+{24:1} Der Bileam saa, at det behagede Herren, at han velsignede Israel, da gik han ikke hen, som de andre Gange, at søge Spaadomme; men han rettede sit Ansigt mod Ørken.
+{24:2} Og Bilam opløftede sine Øjne og saa Israel, som var lejret efter dets Stammer; og Guds Aand kom over ham.
+{24:3} Og han tog til sit Sprog og sagde: Det siger Bileam, Beors Søn, og det siger den Mand hvis, Øje tillukket,
+{24:4} det siger den, som hører Guds Taler, den, som ser den Almægtiges Syn, den, der sank! ned, og hvem Øjnene blev aabnede paa:
+{24:5} Hvor skønne er dine Telte, Jakob! og dine Boliger, Israel;
+{24:6} Ligesom Bække udbrede de sig, som Haverne ved en Flod, som Aloetræer, Herren har plantet, som Cedrene ved Vandet
+{24:7} Der skal flyde Vand af hans Spande, og hans Afkom skal være ved de mange Vande, hans Konge skal blive mægtigere end Agag og hans Rige skal ophøjes
+{24:8} Gud er den, som førte ham ud af Ægypten, de have megen Styrke, Enhjørningen; han skal fortære Hedningerne, sine Fjender, og bryde deres Ben og saare dem med sine Pile.
+{24:9} Han har bøjet sig, lagt sig som en Løve og som en Løveinde, hvo tør jage ham op? velsignet være de, som dig velsigne, og forbandet være de, som dig forbande,
+{24:10} Da optændtes Balaks Vrede mod Bileam, og han slog sine Hænder sammen: og Balak sagde til Bileam Jeg kaldte dig til at forbande mine Fjender, og se, du har velsignet nu tre Gange.
+{24:11} Og nu, fly du til dit Sted jeg havde sagt Jeg vil ære dig, men se, Herren har forhindret dig fra den Ære.
+{24:12} Og Bileam sagde til Balak: Talede jeg ikke ogsaa til dine Bud, som du sendte til mig, og sagde:
+{24:13} Dersom Balak vilde give mig sit Hus, fuldt af Sølv og Guld, saa kunde jeg ikke overtræde Herrens Ord, til at gøre godt eller ondt efter mit eget Hjerte; det som Herren vil tale, det vil jeg tale.
+{24:14} Og nu se, jeg drager til mit Folk; gak hid, jeg vil raade dig, hvad dette Folk skal gøre ved dit Folk i de sidste Dage.
+{24:15} Og han tog til sit Sprog og sagde: Det siger Bileam, Beors Søn, det siger den Mand, hvis Øje er tillukket;
+{24:16} det siger den, som hører Guds Taler, og som ved den Højestes Vidskab, den, som ser den Almægtiges Syn, den, der sank ned, og hvem Øjnene bleve aabnede paa:
+{24:17} Jeg ser ham, dog ikke nu, jeg skuer ham, men ikke nær; der opgaar en Stjerne af Jakob, og der hæver sig et Spir af Israel, og det knuser Moabs Hjørner og ødelægger alle Seths Børn.
+{24:18} Og Edom skal være hans Ejendom, og Sejr, hans Fjende, skal være hans Ejendom; Israel skal gøre kraftige Gerninger.
+{24:19} Af Jakob skal een herske, og de overblevne skal han udrydde af Stæderne.
+{24:20} Og der han sa Amalekiterne, da tog han til sit Sprog, og sagde: Amalek er det første af Hedningefolkene; men i hans sidste Tid skal han gaa til Grunde
+{24:21} Og der han saa Keniterne, da tog han til sit Sprog og sagde: Fast er din Bolig, og bygget paa Klippen er din Rede.
+{24:22} Thi mon Kain skal hjemfalde til Undergang, indtil Assur fører dig i Fangenskab?
+{24:23} Og han tog til sit Sprog og sagde: Ve! hvo skal blive ved Live, naar Gud beskikker det?
+{24:24} Og Skibe fra Kithims Egn skulle komme, og de skulle undertrykke Assur og undertrykke Eber, ja ogsaa han skal gaa til Grunde.
+{24:25} Og Bileam stod op og gik og vendte tilbage til sit Sted; og Balak gik ogsaa sin Vej.
+{25:1} Og Israel boede i Sittam, og Folket begyndte at bedrive Hor med Moabiternes Døtre.
+{25:2} Og de indbøde Folket til deres Guders Ofre; og Folket aad, og de tilbade deres: Guder.
+{25:3} Og Israel lod sig koble til Baal-Peor; da optændtes Herrens Vrede imod Israel.
+{25:4} Og Herren sagde til Mose: Hent alle de Øverste for Folket og lad hine ophænge for Herren imod Solen; saa skal Herrens brændende Vrede vendes fra Israel
+{25:5} Og Mose sagde til Israels; Dommere: Hver ihjelslaa sine Folk, om have ladet sig koble til Baal-Peor.
+{25:6} Og se, en Mand af Israels Børn kom og førte en midianitisk Kvinde frem til sine Brødre, for Mose Øjne og for al Israels Børns Menigheds Øjne; og disse græd ved Forsamlingens Pauluns Dør.
+{25:7} Og Pinehas, en Søn af Eleasar, der var en Søn af Præsten Aron, saa det og han stod op midt i Menigheden og tog et Spyd i sin Haand.
+{25:8} Og han gik ind efter den israelitiske Mand i Horekippen og igennemstak dem begge, nemlig den israelitiske Mand og Kvinden, gennem deres Liv. Da aflod Plagen fra Israels Børn.
+{25:9} Og de, som døde i denne Plage, vare fire og tyve Tusinde.
+{25:10} Og Herren talede til Mose og sagde:
+{25:11} Pinehas, en Søn af Eleasar, der var en Søn af Præsten Aron, har vendt rnin Vrede fra Israels Børn, idet han var nidkær med min Nidkærhed midt iblandt dem, saa at jeg ikke har gjort Ende paa Israels Børn i rnin Nidkærhed.
+{25:12} Derfor sig: Se, jeg gør med ham min Fredspagt.
+{25:13} Og han og hans Sæd efter ham skal have et evigt Præstedømmes Pagt, fordi han var nidkær for sin Gud og gjorde Forligelse for Israels Børn.
+{25:14} Men Navnet paa den slagne israelitiske Mand, som blev slagen tillige med den midianitiske Kvinde, var Simri, Salu Søn, en Fyrste for et Fædrenehus iblandt Simeoniterne
+{25:15} Og Navnet paa den slagne midianitiske kvinde var Kosbi, Zurs Datter, han var en Øverste for et Fædrenehuses Folk iblandt Midianiterne.
+{25:16} Og Herren talede til Mose og sagde:
+{25:17} Træng Midianiterne, og I skulle slaa dem;
+{25:18} thi de trængte eder med deres Træskhed, idet de handlede træskeligen imod eder i den Sag med Peor og med Kosbi, den midianitiske Fyrstes Datter, deres Søster, som blev slagen paa Plagens Dag, for Peors Skyld.
+{26:1} Og det skete efter Plagen, at Herren talede til Mose og til Eleasar, Præsten Arons Søn, og sagde:
+{26:2} Tager Hovedsum paa hele Israels Børns Menighed, fra tyve Aar gamle og derover, efter deres Fædrenehus, paa alle dem i Israel, som kunne uddrage i Strid.
+{26:3} Og Mose og Eleasar, Pr æsten, talede med dem paa Moabiternes slette Marker, ved Jordanen over for Jeriko, og sagde:
+{26:4} Tæller dem fra tyve Aar gamle og derover, ligesom Herren havde befalet Mose og Israels Børn, dem, som vare uddragne af Ægyptens Land.
+{26:5} Ruben var Israels førstefødte; Rubens Børn vare: Af Hanok Hanokiternes Slægt; af Pallu, Palluiternes Slægt;
+{26:6} af Hezron Hezróniternes Slægt; af Karmi Karmiternes Slægt.
+{26:7} Disse ere Rubeniternes Slægter; og de talte af dem vare tre og fyrretyve Tusinde og syv Hundrede og tredive.
+{26:8} Men blandt Pallu Børn var Eliab.
+{26:9} Og Eliabs Børn vare Nemuel og Dathan og Abiram det var den Dathan og Abiram, de udnævnte af Menigheden, de, som trættede mod Mose og mod Aron Koras Selskab, der de trættede mod Herren.
+{26:10} Og Jorden oplod sin Mund og opslugte dem og Kora, da det Selskab døde, der Ilden fortærede to Hundrede og halvtredsindstyve Mænd, og de bleve til et Tegn.
+{26:11} Men Koras Børn døde ikke.
+{26:12} Simeons Børn efter deres Slægter vare: Af Nemuel Nemueliternes Slægt; af Jamin Jaminiternes Slægt; af Jakin Jakiniternes Slægt;
+{26:13} af Sera Seraiternes Slægt; af Saul Sauliternes Slægt.
+{26:14} Disse ere Semeoniternes Slægter, to og tyve Tusinde og to Hundrede
+{26:15} Gads Børn efter deres Slægter vare: Af Zifon Zifoniternes Slægt; af Haggi Haggiternes Slægt; af Suni Suntiternes Slægt;
+{26:16} af Osni Osnitiernes Slægt; af Eri Eriternes Slægt;
+{26:17} af Arod Aroditernes Slægt; af Areli Areliternes Slægt.
+{26:18} Disse ere Gads Børns Slægter efter de talte af dem fyrretyve Tusinde og fem Hundrede
+{26:19} Judas Børn vare Er og Onan, Er og Onan døde i Kanaans Land.
+{26:20} Og Judas øvrige Børn efter deres slægter vare: Af Sela Selaniternes Slægt; af Perez Pereziternes Slægt af Sera Seraiternes Slægt
+{26:21} Perez Pereziternes Slægt: af Hezron Hezoniternes Slægt; af Hamul Hamuliternes Slægt.
+{26:22} Disse ere Judas Slægter efter de talte af dem, seks og halvfjerdsindstyve Tusind og fem Hundrede.
+{26:23} Isaskars Børn efter deres Slægter vare: Af Thola Tholaiternes Slægt; af Fua Funiternes Slægt;
+{26:24} af Jasub Jasubiternes Slægt; af Simron, Simroniternes Slægt.
+{26:25} Disse ere Isaskars Slægter efter de talte af dem, fire og tredsindstyve Tusinde og tre Hundrede
+{26:26} Sebulons Børn efter deres; Slægter vare: Af Sered Serediternes Slægt; af Elon Eloniternes Slægt af Jaleel Jaleeliternes Slægt.
+{26:27} Disse ere Sebuloniternes Slægter efter de talte af dem, tresindstyve Tusinde og fem Hundrede.
+{26:28} Josef Børn efter deres Slægter vare Manasse og Efraim.
+{26:29} Men Manasse Børn vare: Af Makir Makiriternes Slægt; og Makir avlede Gilead; af Gilead Gileaditernes Slægt.
+{26:30} Disse ere Gileads Børn: Af Jeser Jeseriternes Slægt; af Helek Helekiternes Slægt;
+{26:31} og af Asriel Asrieliternes Slægt; og af Sekem Sekemiternes Slægt;
+{26:32} og af Semida Semidaiternes Slægt; og af Hefer Heferiternes Slægt.
+{26:33} Men Zelafehad, Hefers Søn, havde ingen Sønner, men Døtre, og Zelafehads Døtres Navne vare: Mahela og Noa, Hogla, Milka og Thirza.
+{26:34} Disse ere Manasse Slægter; og de talte af dem vare to og halvtredsindstyve Tusinde og syv Hundrede.
+{26:35} Disse ere Efraims Børn efter deres Slægter: Af Suthela Suthelaiternes Slægt; af Beker Bekeriternes Slægt; af Thaban Thabaniternes Slægt.
+{26:36} Disse ere Suthelas Børn: Af Eran Eraniternes Slægt.
+{26:37} Disse ere Efraims Børns Slægter efter de talte af dem, to og tredive Tusinde og fem Hundrede; disse ere Josefs Børn efter deres Slægter.
+{26:38} Benjamins Børn efter deres Slægter vare: Af Bela Belaiternes Slægt; af Asbel Asbeliternes Slægt; af Ahiram Ahiramiternes Slægt;
+{26:39} af Sufam Sufamiternes Slægt; af Hufam Hufamiternes Slægt.
+{26:40} Og Belas Børn vare og Naaman; af Ard Arditernes Slægt; af Naaman Naamiternes Slægt.
+{26:41} Disse ere Benjamins Børn efter deres Slægter, og de talte af dem vare fem og fyrretyve Tusinde og seks Hundrede.
+{26:42} Disse vare Dans Børn efter deres Slægter; af Suham Suhamiternes Slægt; disse Dans Slægter efter deres Slægter.
+{26:43} Alle Suhamiternes Slægter efter de talte af dem vare fire tresindstyve Tusinde og fire Hundrede.
+{26:44} Asers Børn efter deres Slægter vare: Af Jimna Jimnaiternes Slægt; af Jisui Jisuiternes Slægt; Beria Beriaiternes Slægt;
+{26:45} af Berias Børn: Af Heher Hebeiternes Slægt; af Malkiel Malkieliternes Slægt.
+{26:46} Og Asers Datters Navn var Serak.
+{26:47} Disse ere Asers Børns Slægter efter de talte af dem, tre og halvtredsindstyve Tusinde og fire Hundrede.
+{26:48} Nafthali Børn efter deres Slægter vare: Af Jazeel Jazeeliternes Slægt; af Guni Guniternes Slægt;
+{26:49} af Jezer Jezeriternes Slægt; af Sillem Sillemiternes Slægt.
+{26:50} Disse ere Nafthali slægter efter deres Slægter, og de talte af dem vare fem og fyrretyve Tusinde og fire Hundrede.
+{26:51} Disse ere de talte af Israels Børn: Seks Hundrede Tusinde og et Tusinde, syv Hundrede og tredive.
+{26:52} Herren talede til Mose og sagde:
+{26:53} Iblandt disse skal Landet deles til Arv efter Navnenes Tal.
+{26:54} Den, som har mange, hans Arv skal du gøre stor, og den, som har faa, hans Arv skal du gøre liden; hver skal gives hans Arv i Forhold til de talte af ham.
+{26:55} Dog skal Landet deles ved Lodkastning; de skulle arve efter deres Fædres Stammers Navn.
+{26:56} Som Loddet falder, skal Arven tilfalde enhver, efter som han har mange eller faa.
+{26:57} Og disse ere de talte af Leviterne efter deres Slægter: Af Gerson Gersoniternes Slægt; af Kahath Kahathiternes Slægt; af Merari Merariternes Slægt.
+{26:58} Disse ere Leviternes Slægter: De Libniters Slægt, de Hebroniters Slægt, de Maheliters Slægt, de Musiters Slægt, de Koraiters Slægt; og Kahath avlede Amram.
+{26:59} Og Amrams Hustrus Navn var Jokebed, Levi Datter, hvilken hendes Moder fødte Levi i Ægypten; og hun fødte Aron og Mose og Maria, deres Søster, for Amram.
+{26:60} Men for Aron bleve fødte Nadab og Abihu, Eleasar og Ithamar.
+{26:61} Og Nadab og Abihu døde, der de førte fremmed Ild ind for Herrens Ansigt.
+{26:62} Og de talte af dem vare tre og tyve Tusinde, alt Mandkøn fra Maaned gammel og derover; thi de; bleve ikke talte iblandt Israels Børn, thi dem var ikke given Arv iblandt Israels Børn.
+{26:63} Disse ere de, som bleve talte; af Mose og Eleaser, Præsten, hvilken talte Israels Børn paa Moabiternes slette Marker, ved Jordanen, overfor Jeriko.
+{26:64} Og iblandt dem var ikke en Mand af dem, sorn vare talte af Mose og Aron, Præsten, der talte Israels Børn i Sinai Ørk.
+{26:65} Thi Herren havde sagt til dem: De skulle visseligen dø i Ørken; og der blev ingen tilovers af dem uden Kaleb, Jofunne Søn, og Josva, Nuns Søn.
+{27:1} Og nu fremkomDøtrene af Zelafehad, som var en Søn af Hefer, der var en Søn af Gilead, der var en Søn af Makir, Manasse Søn, af Manasse, Josefs Søns, Slægter; og dette var hans Døtres Navne: Mahela og Noa og Hogla og Milka og Thirza.
+{27:2} Og de stode frem for Mose Ansigt og for Eleasrs, Præstens, Ansigt og for Fyrsternes og al Menighedens Ansigt, for Forsamlingens Pauluns Dør, og sagde:
+{27:3} Vor Fader er død i Ørken, og han var ikke iblandt det Selskab, som samlede sig imod Herren i Koras Selskab; men han døde i sin Synd, og han havde ikke Sønner.
+{27:4} Hvi, skal da vor Faders Navn udelukkes af hans Slægt, fordi han ingen Søn havde? giv os Ejendom midt iblandt vor Faders Brødre!
+{27:5} Og Mose fremførte deres. Sag for Herrens Ansigt.
+{27:6} Og Herren sagde saaledes til Mose:
+{27:7} Zelafehads Døtre tale ret, du skal give dem Ejendom til Arv midt iblandt deres Faders Brødre, og du skal lade deres Faders Arv gaa over til dem.
+{27:8} Og til Israels; Børn skal du tale og sige: Naar en Mand dør og har ingen Søn da skulle I lade hans Arv gaa over til hans Datter.
+{27:9} Og dersom han ingen Datter har, da skulle I give hans Brødre hans Arv.
+{27:10} Og dersom han ingen Brødre har, da skulle I give hans Faders Brødre hans Arv.
+{27:11} Men dersom hans Fader ingen Brødre har, da skulle I give hans Arv til hans næste Slægt, til den, som er hans nærmeste paarørende af hans Slægt, og denne skal arve den; og det skal være for Israels Børn beskikket Ret, som Herren har befalet Mose.
+{27:12} Og Herren sagde til Mose: Gak op paa dette Bjerg Abarim og bese Landet, som jeg har givet Israels Børn.
+{27:13} og naar du har beset, det da skal ogsaa du samles til dit Folk, ligesom Aron din Broder blev samlet,
+{27:14} efterdi I vare genstridige imod min Mund i den Ørk Zin, da Menigheden yppede Kiv, der skulde I have helliget mig for deres Øjne ved Vandet; det er Kivevand i Kades, udi den Ørk Zin.
+{27:15} Og Mose talede til Herren og sagde:
+{27:16} Vilde dog Herren, som er alt Køds Aanders Gud, beskikke en Mand over Menigheden,
+{27:17} som kan gaa ud for deres Ansigt, og som kan gaa ind for deres Ansigt, og som kan føre dem ud, og som kan føre dem ind, at Herrens Menighed skal være som Faarene, der ingen Hyrde have.
+{27:18} Og Herren sagde til Mose: Tag dig Josva, Nuns Søn en Mand, i hvem Aanden er, og læg din Haand paa ham
+{27:19} og stil ham for Eleasars, Præstens Ansigt og for den hele Menigheds Ansigt, og giv ham Befaling for deres Øjne;
+{27:20} og læg af din Herlighed paa ham, for at hele Israels Børns Menighed maa høre ham.
+{27:21} Og han skal staa for Eleasars, Præstens, Ansigt, og denne skal efter Urims Vis spørge for ham hos Herren; efter dennes Mund skulle de gaa. ud, og efter dennes Mund skal de gaa ind, han og alle Israels Børn med ham ja den hele Menighed.
+{27:22} Og Mose gjorde, som Herren havde befalet ham; og han tog Josva og, stillede ham for Eleasars, Præstens, Ansigt og for den hele Menigheds Ansigt,
+{27:23} og han lagde sine Hænder paa ham Og gav ham Befaling, eftersom Herren havde talet ved Mose.
+{28:1} Og Herren talede, til Mose og sagde:
+{28:2} Byd Israels Børn, og du skal sige til dem: I skulle tage Vare paa mit Offer, mit Brød, det er mine Ildofre, til en behagelig Lugt for mig at I ofre mig dem paa deres bestemte Tid.
+{28:3} Og du skal sige til dem: Dette er det Ildoffer, som I skulle ofre Herren: To Lam, aargamle, uden Lyde, hver Dag til et ideligt Brændoffer.
+{28:4} Det ene Lam skal du lave om Morgenen, og det andet Lam skal du lave imellem de tvende Aftener;
+{28:5} og en Tiendepart af en Efa Mel til et Madoffer, blandet med en Fjerdepart af en Hin stødt Olie:
+{28:6} Det er et ideligt Brændoffer, som blev indstiftet paa Sinai Bjerg til en behagelig Lugt, et Ildoffer for Herren.
+{28:7} Og som Drikoffer dertil en Fjerdepart af en Hin til det ene Lam; du skal udøse Drikoffer af stærk Drik paa det hellige Sted for Herren.
+{28:8} Og det andet Lam skal du tillave imellem de tvende Aftener; som Madofret om Morgenen Og som Drikofret dertil, saa skal du lave det, det er et Ildoffer, en behagelig Lugt for Herren.
+{28:9} Men om Sabbatsdagen skal du ofre to Lam, aargamle, uden Lyde, Og to Tiendeparter Mel til et Madoffer, blandet med Olie og Drikfoffer dertil.
+{28:10} Det er hver Sabbats Brændoffer, foruden det idelige Brændoffer og Drikoffer dertil.
+{28:11} Men hver første Dag i eders Maaneder skulle I ofre Herren som et Brændeoffer to unge Tyre og een Væder, syv Lam, aargamle, uden Lyde,
+{28:12} og tre Tiendeparter Mel til Madoffer, blandet med Olie, til hver Tyr, og to Tiendeparter Mel til Madoffer, blandet med Olie, til den ene Væder,
+{28:13} og en Tiendepart Mel til et Madoffer, blandet med Olie, til hvert Lam; det er et Brændoffer, en behagelig Lugt, et Ildoffer for Herren.
+{28:14} Og Drikofret til dem skal være en halv Hin til Tyren og en Trediepart af en Hin til Væderen og en Fjerdepart af en Hin Vin til Lammet; dette er Brændofret paa hver Maaned efter Maanederne i Aaret.
+{28:15} Og der skal laves een Gedebuk til Syndoffer for Herren, foruden det idelige Brændofferog Drikoffer dertil
+{28:16} Men i den første Maaned, paa den fjortende Dag i Maaneden, er det Paaske for Herren.
+{28:17} Og pa den femtende Dag i den samme Maanede er Højtid; man skal æde usyrede Brød i syv Dage.
+{28:18} Pa den første Dag skal der være en hellig Sammenkaldelse, da skulle I ingen Arbejdsgerning gøre.
+{28:19} Og, I skulle ofre et Ildoffer, et Brændoffer for Herren; to unge Tyre og en Væder og syv Lam, aargamle, de skulle være eder uden Lyde;
+{28:20} og deres Madoffer, Mel, blandet med Olie; tre Tiendeparter skulle I lave til hver Tyr, og to Tiendeparter til Væderen;
+{28:21} og en Tiendepart skal og du lave til hvert Lam af de syv Lam,
+{28:22} dertil een Buk til Syndoffer til at gøre Forligelse for eder.
+{28:23} Foruden Brændofret om Morgenen, som er det idelige Brændoffer, skulle I tillave disse Ting.
+{28:24} Paa denne Maade skulle I lave hver Dag af de syv Dage Brød til et Ildoffer, en behagelig Lugt for Herren; det skal laves foruden det idelige Brændoffer, og Drikoffer dertil.
+{28:25} Og paa syvende Dag skal der være eder en hellig Sammenkaldelse, da skulle I ingen Arbejdsgerning gøre.
+{28:26} Og paa Førstegrødens Dag, naar I ofre det nye Madoffer for Herren paa eders Ugers Højtid, skal der være eder en hellig Sammenkaldelse, I skulle ingen Arbejdsgerning gøre.
+{28:27} Og I skulle ofre Bændoffer til en behagelig Lugt for Herren: To unge, Tyre, een Væder, syv Lam, aargamle;
+{28:28} og deres Madoffer, Mel, blandet med Olie tre Tiendeparter til hver Tyr, og to Tiendeparter til den ene Væder
+{28:29} en Tiendepart til, hvert Lam af de syv Lam,
+{28:30} een Gedebuk til at gøre Forligelse for eder.
+{28:31} Det skulle I gøre foruden det idelige Brændoffer og dets Madoffer, de skulle være eder uden Lyde og Drikoffer dertil.
+{29:1} Og i den syvende Maaned, paa den første Dag i Maaneden, skal der være eder en hellig Sammenkaldelse, I skulle ingen Arbejdsgerning gøre, det skal være eder en Basunklangs Dag.
+{29:2} Og I skulle gøre Brændoffer til en behagedig Lugt for Herren: Een ung Tyr, een Væder, syv Lam, aargamle, uden Lyde;
+{29:3} og deres Madoffer, Mel, blandet med Olie, tre Tiendeparter til Tyren to Tiendeparter til Væderen
+{29:4} og en Tiendepart til hvert Lam af de syv Lam;
+{29:5} og een Gedebuk til Syndoffer, til at gøre Forligelse for eder;
+{29:6} foruden Maaneds Brændofret og dets Madoffer, og det bestandige Brændoffer og dets Madoffer og deres Drikofre, efter deres Vis; til en behagelig Lugt, et Ildoffer for Herren.
+{29:7} Og paa den tiende Dag i denne syvende Maaned skal der være eder en hellig Sammenkaldelse, og I skulle ydmyge eders Sjæle, I skulle intet Arbejde gøre.
+{29:8} Men I skulle ofre Brændoffer for Herren til en behagelig Lugt: En ung Tyr, een Væder, syv Lam, aargamle; uden Lyde skulle de være eder;
+{29:9} og deres Madoffer, Mel, blandet. med Olie, tre Tiendeparter til Tyren, to Iiendeparter til den ene Væder
+{29:10} een Tiendepart til hvert Lam af de syv Lam;
+{29:11} een Gedebuk til Syndoffer, foruden Forligelsens Syndoffer og det bestandige Brændoffer og dets Madoffer og deres Drikofre.
+{29:12} Og paa den femtende Dag i den syvende Maaned skal der være eder en hellig Sammenkaldelse; I; skulle ingen Arbejdsgerning gøre, og I skulle højtideligholde Højtid for Herren i syv Dage.
+{29:13} Og I skulle ofre Brændoffer, et Ildoffer til en behagelig Lugt for Herren: Tretten unge Tyre, to Vædre, fjorten Lam, aargamle; de skulle være uden Lyde;
+{29:14} og deres Madoffer, Mel, blandet med Olie, tre Tiendeparter til hver Tyr af de tretten Tyre, to Tiendeparter til hver Væder af de to Vædre
+{29:15} og een Tiendepart en til hvert Lam af de fjorten Lam;
+{29:16} dertil een Gedebuk til Syndoffer, foruden det bestandige Brændoffer, dets Madoffer og dets Drikoffer
+{29:17} Og paa den anden Dag tolv unge Tyre, to Vædre, fjorten Lam, aargamle, uden Lyde,
+{29:18} og deres Madoffer og deres Drikofre til Tyrene, til Vædrene og til Lammene efter deres Tal, paa sædvanlig Vis;
+{29:19} dertil een Gedebuk til Syndoffer, foruden det bestandige Brændoffer og dets Madoffer og deres Drikofre.
+{29:20} Og paa den tredje Dag elleve Ty re, to Vædre, fjorten Lam, aargamle, uden Lyde,
+{29:21} og deres Madoffer og deres Drikofre til Tyrene, til Vædrene og til Lammene efter deres Tal, paa sædvanlig Vis;
+{29:22} dertil een Gedebuk til Syndoffer, foruden det bestandige Brændoffer og dets Madoffer og dets Drikoffer.
+{29:23} Og paa den fjerde Dag ti Tyre, to Vædre, fjorten Lam, aargamle, uden Lyde,
+{29:24} deres Madoffer og deres Drikofre til Tyrene; til Vædrene og til Lammene efter deres Tal, paa sædvanlig Vis;
+{29:25} dertil een Gedebuk til Syndoffer, foruden det bestandige Brændoffer og dets Madoffer og dets Drikoffer.
+{29:26} Og paa den femte Dag ni Tyre, to Vædre, fjorten Lam, aargamle, uden Lyde,
+{29:27} og deres Madoffer og deres Drikofre til Tyrene, til Vædrene og til Lammene efter deres Tal, paa sædvanlig Vis;
+{29:28} dertil een Gedebuk til Syndoffer, foruden det bestandige Brændoffer og dets Madoffer og det Drikoffer.
+{29:29} Og paa den sjette Dag otte Tyre, to Vædre, fjorten Lam, aargamle, uden Lyde,
+{29:30} og deres Madoffer og deres Drikofre til Tyrene, til Vædrene og til Lammene efter deres Tal, paa sædvanlig Vis;
+{29:31} dertil een Gedebuk til Syndoffer foruden det bestandige Brændoffer dets Madoffer og dets Drikoffer
+{29:32} Og paa den syvende Dag syv Tyre, to Vædre, fjorten Lam, aargamle, uden Lyde,
+{29:33} og deres Madoffer og deres Drikofre fiI Tyrene; til Vædrene og til Lammene efter deres Tal, paa deres sædvanlige Vis;
+{29:34} dertil een Gedebuk til Syndoffer, foruden det bestandige Brændoffer, dets Madoffer og dets Drikofre.
+{29:35} Paa den ottende Dag skal der være eder en Slutningshøjtid, da skulle I igen Arbejdsgerning gøre,
+{29:36} I skulle ofre Brændoffer, et Ildoffer til en behagelig Lugt for Herren, een Tyr, een Væder, syv Lam, aargamle, uden Lyde,
+{29:37} deres Madoffer og deres Drikoffer til Tyren, til Vædrene og til Lammene efter deres Tal, paa sædvanlig Vis,
+{29:38} dertil een Gedebuk til Syndoffer, foruden det bestandige Brændoffer og dets Madoffer og dets Drikoffer.
+{29:39} Disse Ting skulle I gøre for Herren paa eders bestemte Tider, foruden eders Løfter og eders, frivillige Gaver, hvad enten det er eders Brændofre eller eders Madofre eller eders Drikofre eller eders Takofre.
+{29:40} --
+{30:1} Og Mose sagde til Israels Børn alt dette, ligesom Herren havde befalet Mose.
+{30:2} Og Mose talede til Høvedsmændene for Israels Børns Stammer og sagde: Dette er det Ord, som Herren har befalet:
+{30:3} Naar en Mand lover Herren et Løfte, eller sværger en Ed, saa han paalægger sin Sjæl en Forpligtelse, da skal han ikke vanhellige sit Ord; han skal gøre efter alt det, som er udgaaet af hans Mund.
+{30:4} Og naar en Kvinde lover Herren et Løfte og paalægger sig en Forpligtelse, i sin Faders Hus, i sin Ungdom;
+{30:5} og hendes, Fader hører hendes Løfte og hendes Forpligtelse, som hun har paalagt sin Sjæl, og hendes Fader tier dertil: Da skulle alle hendes Løfter staa ved Magt, og al den Forpligtelse, som hun har paalagt sin Sjæl, skal staa ved Magt.
+{30:6} Men dersom hendes Fader formener hende det paa den Dag, da han høre alle hendes Løfter og hendes Forpligtelser, som hun havde paalagt sin Sjæl, da skal det ikke sta ved Magt, og Herren skal forlade hende det, efterdi hendes Fader har forment hende det.
+{30:7} Men dersom hun bliver en Mands Hustru, og hun har Løfter paa sig eller et ubetænksomt Ord, der er undsluppet hendes Læber, med hvilket hun har paalagt sin Sjæl en Forpligtelse
+{30:8} og hendes Mand hører det og tier dertil paa den Dag han hører det, da skal hendes Løfte staa ved Magt, og hendes Forpligtelser, som hun har paalagt sin Sjæl, de skulle staa ved Magt
+{30:9} Men dersom hendes Mand formener hende det paa denne Dag han hører det, og rygger hendes Løfte, som hun har paa sig, og det ubetænksomme Ord som er undsluppet hendes Læber, hvorved hun har paalagt sin Sjæl en Forpligtelse, da skal Herren forlade hende det
+{30:10} men en Enkes eller en forskudt Kvindes Løfte, alt det, hvorved hun har paalagt sin Sjæl en Forpligtelse, skal sta ved Magt for hende.
+{30:11} Men dersom hun i sin Mands Hus lovede det eller paalagde med Ed sin Sjæl en Forpligtelse,
+{30:12} og hendes Mand hørte det og dertil og ikke formente hende det, da skulle alle hendes Løfter staa ved Magt, og al den Forpligtelse, som hun har paalagt sin Sjæl, skal staa ved Magt.
+{30:13} Men dersom hendes Mand rygger dem paa den Dag, han hører dem da skal alt, som er udgaaet af hendes Læber, det være sig hendes Løfter eller hendes Sjæls Forpligtelser, ikke staa ved Magt; hendes Mand har rygget dem, og Herren skal forlade hende det.
+{30:14} Hvert Løfte og hver Forpligtelses Ed om at ydmyge sin Sjæl, dem hendes Mand stadfæste, og dem maa hendes Mand rygge.
+{30:15} Og dersom hendes Mand tier dertil, den ene Dag efter den anden, da stadfæster alle hendes Løfter og alle hendes Forpligtelser, som hun har paa sig: Han stadfæstel dem, fordi han tav dertil den Dag, han hørte dem.
+{30:16} Men dersom han rygger dem, efterat han har hørt dem da skal han bære hendes Misgerning. Disse ere de Bestemmelser, som Herren befalede Moses, mellem en Mand og hans Hustru, imellem Faderen og hans Datter, i hendes Ungdom, medens hun er i sin Faders Hus
+{31:1} Og Herren talede til Mose og sagde:
+{31:2} Hævn over Israels Børn paa Midi aniterne; derefter skal du samles til dit Folk.
+{31:3} Da talede Mose til Folket og sagde: Lader Mænd iblandt eder væbne sig til Strid, og de skulle drage imod Midianiterne at udføre; Herrens Hævn paa Midianiterne;
+{31:4} et Tusinde af hver Stamme, af alle Israels Stammer, skulle I send til Striden.
+{31:5} Og der udtoges af lsraels Tusinder et Tusinde for hver Stamme, tolv Tusinde væbnede til Strid.
+{31:6} Og Mose sendte dem, tusinde for hver Stamme, til Striden, dem og Pinehas, Præsten Eleasers Søn, til Striden, og de hellige Redskaber og Klangbasunerne vare i hans Haand.
+{31:7} Og de strede imod Midianiterne, som Herren havde befalet Mose, og de ihjelsloge alt Mandkøn.
+{31:8} Tillige med de øvrige ihjelslagne sloge og Midianiternes Konger ihjel, nemlig Evi og Rekem og Zur og Hur og Reha, fem midianitiske Konger; ogsaa sloge de Bileam, Beors Søn, ihjel med Sværdet.
+{31:9} Og Israels Børn toge Midianiternes Hustruer og deres smaa Børn fangne; og alle deres Lastdyr og alt deres Kvæg og al deres Formue røvede de.
+{31:10} Og alle deres Stæder, som de boede udi, og alle deres Byer opbændte de med Ild.
+{31:11} Og de toge alt Byttet og alt Rovet af Mennesker og Dyr.
+{31:12} Og de førte til Mose og til Præsten Eleasar og til Israels Børns Menighed Fangene og Rovet og Byttet til Lejren paa: Moabiternes slette Marker, som ere ved Jordanen over for Jeriko.
+{31:13} Og Mose og Eleasar, Præsten, og alle Menighedens Fyrster gik dem i Møde uden for Lejren.
+{31:14} Og Mose blev vred paa dem, som vare beskikkede over Hæren, paa Fyrsterne over Tusinderne og Fyrsterne over Hundederne, de som kom fra. Krigstoget.
+{31:15} Og Mose sagde til dem: Have I ladet Kvinderne leve?
+{31:16} Se, disse bleve paa Bileams Ord Anledning for Israel Børn til Troløshed mod Herren formedelst Sagen med Peor; hvorfor Plagen kom over Herrens Menighed.
+{31:17} Og nu, slaar alt Mandkøn ihjel iblandt smaa Børn, og slaar hver Kvinde ihjel, som har kendt Mand, ved at ligge hos Mandkøn;
+{31:18} men lader alle smaa Børn af Kvindekønnet, som ikke have kendt Mandkøns Samkvem, leve for eder
+{31:19} Og I, lejrer eder uden for Lejrer syv Dage; hver af eder, som har slaaet nogen ihjel, og hver af eder, som har rørt ved en ihjelslagen, I skulle rense eder for Synden paa den tr edje Dag og paa den syvende Dag, I og eders Fanger.
+{31:20} Og hvert Klædebon og alt Tøj af Skind og alt, hvad der er gjort af Gedehaar og alle Haande Trækar skulle I rense for Synd.
+{31:21} Og Eleaser, Præsten, sagde til Stridsmændene, de, som vare dragne i Krigen: Dette er Lovens Bud, som Herren har befalet Mose:
+{31:22} Ikkun Guldet og Sølvet, Kobberet, Jernet, Tinnet og Blyet,
+{31:23} al den Ting, som taaler Ilden, skulle I lade gaa igennem Ilden, saa er den ren; dog skal den renses for Synd ved Renselsesvandet: men alt det, som ikke taaler Ilden, skulle I lade gaa igennem Vandet.
+{31:24} Og I skulle to eders Klæder paa den syvende Dag, saa blive I rene; og derefter maa I komme i Lejren.
+{31:25} Og Herren talede til Mose og sagde:
+{31:26} Tag Hovedsum paa det bortførte Rov af Mennesker og af Dyr, du og Eleasar, Præsten, og de Øverste af Menighedens Fædrenehuse.
+{31:27} Og du skal halvdele Rovet imellem dem, som have taget Del i Krigen, dem, som vare uddragne i Striden, og imellem hele Menigheden.
+{31:28} Og du skal hæve som Afgift til Herren fra Krigsmændene, som vare dragne i Striden, een Sjæl af hvert fem Hundrede, baade af Mennesker og af stort Kvæg og af Asener og af smaat Kvæg.
+{31:29} Af den Halvdel, som er tilfalden dem, skulle I tage det; og du skal give Eleasar, Præsten, Gaven til Herren.
+{31:30} Og af den Halvdel, som er tilfalden Israels Børn, skal du tage een ud af hvert halvtredsindstyve, baade af Mennesker og af stort Kvæg og af Asener og af smaat Kvæg, af alt Kvæget; og du skal give dem til Leviterne, som tage Vare paa, hvad der er at varetage ved Herrens Tabernakel.
+{31:31} Og Mose og Eleasar, Præsten, gjorde, som Herren havde befalet Mose.
+{31:32} Og Rovet, nemlig hvad der var tilbage af Rovet, som Stridsfolket havde røvet, var: Smaat Kvæg seks Hundrede Tusinde og halvfjerdsindstyve Tusinde og fem Tusinde;
+{31:33} og stort Kvæg to og halvfjerdsindstyve Tusinde;
+{31:34} og Asener een og tresindstyve Tusinde;
+{31:35} og de Personer af Kvindfolk som ikke havde kendt Mandkøns Samkvem, alle disse vare to og tredive Tusinde.
+{31:36} Og Halvdelen, som var tilfalden dem, der vare udgangne til Striden, var i Tallet: Smaat Kvæg tre Hundrede Tusinde og tredive Tusinde og syv Tusinde og fem Hundrede.
+{31:37} Og Afgiften til Herren af smaat Kvæg var seks Hundrede fem og halvjerdsindstyve.
+{31:38} Og af stort Kvæg var der seks og tredive Tusinde; og Afgiften af dem til Herren var to og halvfjerdsindstyve.
+{31:39} Og af Asener var der tredive Tusinde og fem Hundrede; og Afgiften af dem til Herren var een og tresindstyve.
+{31:40} Og af Mennesker var der seksten Tusinde; og Afgiften af dem til Herren var to og tredive Personer.
+{31:41} Og Mose gav Afgiften som en Gave for; Herren til Eleasar, Præsten, som Herren havde befalet Mose.
+{31:42} Og af den Halvdel, som tilfaldt Israels Børn, den Halvdel, som Mose tog fra Mændene, som havde stridt; -
+{31:43} men Menighedens Halvdel var af smaat Kvæg: Tre Hundrede Tusinde og tredive Tusinde, syv Tusinde og fem Hundrede;
+{31:44} og af stort Kvæg var den seks og tredive Tusinde;
+{31:45} og af Asener var den tredive Tusinde og fem Hundrede;
+{31:46} og af Mennesker var den seksten Tusinde;
+{31:47} af denne Halvdel, som tilfaldt Israels Børn, tog Mose een ud af hvert halvtredsindstyve, baade af Mennesker og af Dyr, og han gav dem til Leviterne, som toge Vare paa, hvad der var at varetage ved Herrens Tabernakel, saaledes som Herren havde befalet Mose.
+{31:48} Og de gik frem til Mose, de som vare satte over Tusinderne i Hæren, Fyrsterne over Tusinderne og Fyrsterne over Hundrederne,
+{31:49} og, de sagde til Mose: Dine Tjenere have taget Hovedsum paa Krigsmændene, som vare under vore Hænder, og der fattedes ikke een Mand af os i Tallet.
+{31:50} Derfor ofre vi som Offer til Herren, enhver hvad han har fundet af Guldsager: Armsmykker og Armbaand, Fingerringe, Ørenringe og Kæder, til at gøre Forligelse for vore Sjæle for Herrens Ansigt.
+{31:51} Og Mose og Eleasar Præsten, toge Guldet af dem, ja alle Haande forarbejdede Sager.
+{31:52} Og alt Guldet, som de ydede Herren i Gave, var seksten Tusinde, syv Hundrede óg halvtredsindstyve Sekel, nemlig fra Fyrsterne over Tusinderne og fra Fyrsterne over Hundrederne.
+{31:53} Stridsmændene havde gjort Bytte hver for sig.
+{31:54} Og Mose og Eleasar, Præsten, toge Guldet fra Fyrsterne over Tusinderne og Hundrederne, og de førte det ind i Forsamlingens Paulun for Herrens Ansigt til en Ihukommelse for Israels Børn.
+{32:1} Og Rubens Børn og Gads Børn havde meget og saare talrigt Kvæg, og de saa det Land Jaeser og det Land Gilead, og se, det Sted var et bekvemt Sted til Kvæg.
+{32:2} Og Gads Børn og Rubens Børn kom, og de sagde til Mose og til Eleaser, Præsten, og til Menighedens Fyrster, sigende:
+{32:3} Atharoth og Dibon og Jaeser og Nimra og Hesbon og Eleale og Sebam og Nebo og Beon,
+{32:4} det Land, som Herren har slaaet for Israels Menigheds Ansigt, det er et Land til Kvæg. og dine Tjenere have Kvæg.
+{32:5} Og de sagde: Dersom vi have fundet Naade for dine Øjne, da lad dette Land gives dine Tjenere til Ejendom, lad os ikke gaa over Jordanen.
+{32:6} Da sagde Mose til Gads Børn og til Rubens Børn: Skulle eders Brødre drage i Krigen, og I skulle blive her?
+{32:7} Og hvi afvende I Israels Børns Hjerter fra, at drage over til det Land, som Herren har givet dem?
+{32:8} Saa gjorde eders Fæelre, da jeg sendte dem fra Kades Barnea til at bese Landet;
+{32:9} thi de gik op til Eskols Bæk og besaa Landet, og de afvendte Israels Børns Hjerte, at de ikke vilde gaa ind i Landet, som Herren havde givet dem.
+{32:10} Og Herrens Vrede optændtes den samme Dag, og han svor og sagde:
+{32:11} Disse Mænd, som ere dragne op af Ægypten, fra tyve Aar gamle og derover, skulle ikke se det Land, som jeg har tilsvoret Abraham, Isak og Jakob; thi de have ikke efterfulgt mig,
+{32:12} undtagen Kaleb, Jefunne den Kenisiters Søn, og Josva, Nuns Søn; thi de have efterfulgt Herren.
+{32:13} Saa optændtes Herrens Vrede imod Israel, og han lod dem vanke hid og did i Ørken fyrretyve Aar, indtil hele den Slægt fik Ende, som gjorde det onde for Herrens Øjne.
+{32:14} Og se, I ere traadte op i eders Fædres Sted, en Mængde af syndige Mennesker, for at gøre Herrens Vrede endnu større imod Israel;
+{32:15} thi dersom I vender eder bort fra ham, da skal har lade det blive endnu længere i Ørken; og dermed bringe I Fordærvelse over hele dette Folk.
+{32:16} Da gik de frem til ham og: sagde: Vi ville ikkun bygge Faarestier her til vort Kvæg, og Stæder for vore smaa Børn.
+{32:17} Men vi ville væbne os og ile foran Israels Børns Ansigt, indtil vi have ført dem til deres Sted, og vore smaa Børn skulle blive i de faste Stæder, for Landets Indbyggeres Skyld.
+{32:18} Vi ville ikke vende tilbage til vore Huse, førend Israels Børn have indtaget hver sin Arv.
+{32:19} Thi vi ville ikke arve med dem paa hin Side Jordanen og videre frem; men vor Arv skal tilfalde os paa denne Sids Jordanen mod Østen.
+{32:20} Og Mose sagde til dem: Dersom I ville gøre denne Gerning, dersom I ville væbne eder til Strid for Herrens Ansigt,
+{32:21} og hver af eder bevæbnet vil drage over Jordanen for Herrens Ansigt, indtil han har fordrevet sine Fjender fra sit Ansigt,
+{32:22} og Landet bliver undertvunget for Herrens Ansigt: Saa maa I derefter vende tilbage, og I skulle være uden Skyld for Herren og for Israel, og I skulle have dette Land til Ejendom for Herrens Ansigt.
+{32:23} Men dersom I ikke ville gøre saaledes, se, da have I syndet imod Herren; og vider, at eders Synd skal finde eder.
+{32:24} Saa bygger eder Stæder for eders smaa Børn og Stier for eders smaa Kvæg, og gører efter det, som er udgaaet i af eders Mund.
+{32:25} Og Gads Børn og Rubens Børn sagde til Mose, sigende: Dine Tjenere skulle gøre, saaledes, som min Herre har befalet.
+{32:26} Vore smaa Børn, vore Hustruer, vort Fæ og alt vort Kvæg, de skulls blive der, i Gileads Stæder;
+{32:27} men dine Tjenere ville drage over, hver bevæbnet til Strid for Herrens Ansigt, i Krigen, som min Herre siger.
+{32:28} Da gav Mose Befaling angaaende dem til Eleaser, Præsten, og Josva, Nuns Søn, og de Øverste for Fædrenehusene blandt Israels Børns Stammer.
+{32:29} Og Mose sagde til dem: Dersom Gads Børn og Rubens Børn drage rned eder over Jodanen, hver bevæbnet til Krigen, for Herrens Ansigt, og Landet er undertvunget for eders Ansigt, da skulle I give dem det Land Gilead til Ejendom.
+{32:30} Men dersorn de ikke drage bevæbnede over med eder, da skulle de tage Arv midt iblandt eder i Kanaans Land.
+{32:31} Og Gads Børn og Rubens Børn svarede og sagde: Som Herren har talet til dine Tjenere, saaledes ville vi gøre.
+{32:32} Vi ville drage bevæbnede for Herrens Ansigt over i Kanaans Land, og vor Arvs Ejendom skulle vi have paa denne Side Jordanen
+{32:33} Saa gav Mose dem. nemlig Gads Børn og Rubens Børn og Halvdelen af Manasse, Josefs Søns, Stamme, Sihons, den amoritiske Konges, Rige og Ogs, Kongen af Basans, Rige, Landet med dets Stæder inden deres Grænser, Landets Stæder trindt omkring.
+{32:34} Saa byggede Gads Børn Dibón og Ataroth og Aroer
+{32:35} og Ataroth Sofann og Jaeser og Jogbea
+{32:36} og Beth-Nimra og Beth-Haran, faste St æder og Faarestier.
+{32:37} Og Rubens Børn byggede Hesbon og Eleale og Kirjathajim
+{32:38} og Nebo og Baal-Meon, som de forandrede Navnene paa, og Sibma; og de gave Stæderne, som de byggede, Navne, hver sit Navn.
+{32:39} Og Makirs, Manasse Søns, Børn gik ind i Gilead og indtoge det; og de fordreve Amoriterne, som vare derudi.
+{32:40} Da gav Mose Makir, Manasse Søn, Gilead, og han boede derudi.
+{32:41} Men Jair, Manasse Søn, gik hen og indtog deres Smaabyer og kaldte dem Havoth-Jai
+{32:42} Og Noba gik hen og indtog Kenat og dens tilliggende Byer og kaldte den Noba efter sit Navn.
+{33:1} Disse ere Israels Børns Rejser, da de vare uddragne af Ægyptens Land, efter deres Hære, under Mose og Aron.
+{33:2} Og Mose opskrev de Steder, fra hvilke de paa deres Rejser efter Herrens Mund droge ud, og disse ere deres Rejser efter de Steder, fra hvilke de droge ud.
+{33:3} Nemlig, de rejste fra Raamses i den første Maaned, paa den femtende Dag i den første Maaned; paa den anden Paaskedag udgik Israels Børn ved en høj Haand for alle Ægypternes Øjne.
+{33:4} Og da begrove Ægypterne alle førstefødte, som Herren havde ihjelslaaet iblandt dem; og Herren havde holdt Dom over deres Guder.
+{33:5} Og Israels Børn rejste fra Raamses, og de lejrede sig i Sukot.
+{33:6} Og de rejste fra Sukot, og de lejrede sig i Etham paa Grænsen af Ørkeen.
+{33:7} Og de rejste fra Etham og vendte om til Pi-Hakiroth, som er lige for Baal-Zefon, og de lejrede sig lige foran Migdol.
+{33:8} Og de rejste fra Pi-Hakiroth og gik midt igennem Havet ind i Ørken, og de gik tre Dages Rejse i Ethams Ørk, og de lejrede sig i Mara.
+{33:9} Og de rejste fra Mara og kom til Elim; men i Elim vare tolv Vandkilder og halv fjerdsindstyve Palmetræer, og de lejrede sig der.
+{33:10} Og de rejste fra Elim, og de lejrede sig ved det røde Hav.
+{33:11} Og de rejste fra det røde Hav og de lejrede sig i den Ørk Sin.
+{33:12} Og de rejste fra den Ørk Sin, og de lejrede sig i Dofka.
+{33:13} Og de rejste fra Dofka, og de lejrede sig i Alus.
+{33:14} Og de rejste fra Alus, og de lejrede sig; i Refidim; og der havde Folket ikke Vand at drikke.
+{33:15} Og rejste fra Refidim, og de lejrede sig. i Sinai Ørk.
+{33:16} Og de rejste fra Sinai Ørk, og de lejrede sig i Kibroth-Hattaava.
+{33:17} Og de rejste fra Kibroth-Hattaava, og de lejrede sig i Hazeroth.
+{33:18} Og de rejste fra Hazeroth, og de lejrede sig i Rithma.
+{33:19} Og de rejste fra Rithma, og de lejrede sig i Rimmon-Perez.
+{33:20} Og de rejste fra Rimmon-Perez, og de lejrede sig i Libna.
+{33:21} Og de rejste fra Libna, og de lejrede sig i Rissa.
+{33:22} Og de rejste fra Rissa, og de lejrede sig i Kehelath.
+{33:23} Og de rejste fra Kehelath, og de lejrede sig paa Sefers Bjerg.
+{33:24} Og de rejste fra Sefers Bjerg, og de lejrede sig i Harada.
+{33:25} Og de rejste fra Harada, og de lejrede sig i Markeheloth.
+{33:26} Og de rejste fra Makeheloth, og de lejrede sig i Thabath.
+{33:27} Og de rejste fra Thabath, og de lejrede sig i Thara.
+{33:28} Og de rejste fra Thara, og de lejrede sig i Mithka.
+{33:29} Og de rejste fra Mithka, og de lejrede sig i Hasmona.
+{33:30} Og de rejste fra Hasmona, og de lejrede sig i Moseroth.
+{33:31} Og de rejste fra Moseroth og de lejrede sig i Bne-Jaakan.
+{33:32} Og de rejste fra Bne-Jaakan, og de lejrede sig i Horhagidgad.
+{33:33} Og de rejste fra Horhagidgad, og de lejrede sig i Jothbata.
+{33:34} Og de rejste fra Jothbata, og de lejrede sig i Abrona.
+{33:35} Og de rejste fra Abrona og de lejrede sig i Eziongeber.
+{33:36} Og de rejste fra Eziongeber, og de lejrede sig i den Ørk Zin, det er Kades.
+{33:37} Og de rejste fra Kades, og de lejrede sig ved det Bjerg Hor, ved det yderste af Edoms Land.
+{33:38} Da gik Præsten Aron op paa det Bjerg Hor, efter Herrens Mund, og døde der i det fyrretyvende Aar, efter at Israels Børn vare udgangne af Ægyptens Land, i den femte Maaned, paa den første Dag i Maaneden.
+{33:39} Og Aron var hundrede og tre og tyve Aar gammel, da han døde paa det Bjerg Hor.
+{33:40} Og Kananiten, Arads Konge, som boede Sønder paa i Landet Kanaan, hørte om Israels Børns Komme.
+{33:41} Og de lejrede sig fra det Bjerg Hor, og de lejrede sig i Zalmona.
+{33:42} Og de rejste fra Zalmona, og de lejrede sig i Funon.
+{33:43} Og de rejste fra Funon, og de lejrede sig i Oboth.
+{33:44} de rejste fra Oboth, og de lejrede sig ved Abarims Høje, ved Moabiternes Landemærke.
+{33:45} Og de rejste fra Højene, og de lejrede sig i Dibon-gad.
+{33:46} Og de rejste fra Dibon-Gad, og de lejrede sig i Almon-Diblathaim.
+{33:47} Og de rejste fra Almon-Diblathaim, og de lejrede sig ved Abarims Bjerge, foran Nebo.
+{33:48} Og de rejste fra Abarims Bjerge, og de lejrede sig paa Moabiternes slette Marker, ved Jordanen over for Jeriko.
+{33:49} Men de lejrede sig ved Jordanen, fra Beth-Jesimoth til Abel Sittim, paa Moabiternes slette Marker.
+{33:50} Og Herren talede til Mose paa Moabiternes slette Marker, ved Jordanen over for Jeriko, og sagde:
+{33:51} Tal til Israels Børn, og du skal sige til dem: Naar I ere gangne over Jordanen ind i Kanaans Land,
+{33:52} da skulle I fordrive alle Landets, Indbyggere for eder og tilintetgøre alle deres Billedstøtter; og I skulle tilintetgøre alle deres støbte Billeder og ødelægge alle deres Høje.
+{33:53} Og I skulle indtage Landet og bo derudi; thi eder har jeg givet Landet til at eje det.
+{33:54} Og I skulle tage Landet til Arv ved Lodkastning efter eders Slægter; den som har mange, hans Arv skulle I gøre stor, og den som har faa, hans Arv skal du gøre liden; hvor Loddet udkommer for ham, der skal det høre ham til; efter eders Fædres Stammer skulle I tage det til Arv.
+{33:55} Og dersom I ikke fordrive Landets Indbyggere fra eders Ansigt, da skulle de, som I lade blive tilovers af dem, vorde til Torne i eders Øjne og til Brodde i eders Sider, og de skulle trænge eder i det Land, som I bo udi.
+{33:56} Saa skal det ske, at ligesom jeg tænkte at gøre ved dem, saaledes vil jeg gøre ved eder.
+{34:1} Og Herren talede til Mose og sagde:
+{34:2} Byd Israels Børn, og du skal sige til dem: Naar I komme til Kanaans Land, da skal dette være det Land, som skal falde eder til Arv, nemlig Kanaans Land efter sine Grænser.
+{34:3} Og den søndre Side skal være eder fra den Ørk Zin til Edom, og eders Landemærke skal være i Sønden fra Enden af Salthavet imod Østen.
+{34:4} Og eders Landemærke skal gaa omkring hen Sønden om Opgangen til Akrabbim og gaa igennem til Zin, og dets Udgang skal være Sønden for Kades-Barnea, og det skal gaa ud til Hazar-Adar og gaa over til Azmon.
+{34:5} Og Landemærket skal gaa omkring fra Azmon til Ægyptens Bæk, og Udgangen derpaa skal være til Havet.
+{34:6} Og angaaende Landemærket imod Vesten, da skal det store Hav være eder Landemærke; dette skal være eders Landemærke imod Vesten.
+{34:7} Og dette skal være eder Landemærket mod Norden: I skulle sætte Grænsen for eder fra det store Hav til Bjerget Hor.
+{34:8} Fra Bjerget Hor skulle I sætte Grænsen hen imod Hamath, og Landemærkets Udgang skal være til Zedad.
+{34:9} Og Landemærket skal gaa ud til Sifron, og dets Udgang skal være ved Hasar-Enan; dette skal være eders Landemærke imod Norden.
+{34:10} Og I skulle maale eders Landemærke mod Østen fra Hasar-Enan til Sefam.
+{34:11} Og Landemærket skal gaa ned fra Sefam til Ribla, Østen for Ain, og Landemærket skal gaa ned og berøre Siden af Kinnereths Hav, imod Østen.
+{34:12} Og Landemærket skal gaa ned til Jordanen, og dets Udgang skal være ved Salthavet; dette skal være eder Landet med sine Grænser trindt omkring.
+{34:13} Og Mose bød Israels Børn og sagde: Dette er det Land, som I skulle tage eder til Arv ved Lodkastning, og som Herren befalede at give de ni Stammer og den halve Stamme;
+{34:14} thi Rubeniternes Børns St amme efter deres Fædrenehuse, og Gaditernes Børns Stamme efter deres Fædrenehuse, de have faaet, og Manasse halve Stamme, de have faaet deres Arv.
+{34:15} De to Stammer og den halve Stamme, de have faaet deres Arv paa denne Side Jordanen lige for Jeriko, foran mod Østen.
+{34:16} Og Herren talede til Mose og sagde:
+{34:17} Disse ere Navnene paa de Mænd, som skulle dele Landet til Arv mellem eder: Eleasar, Præsten, og Josva, Nuns Søn.
+{34:18} Og een Fyrste af hver Stamme skulle I tage til at dele Landet til Arv.
+{34:19} Disse: ere Navnene paa Mændene: Af Judas Stamme Kaleb, Jefunne Søn;
+{34:20} Og af Simeons Børns Stamme Semuel, Ammihuds Søn;
+{34:21} af Benjamins Stamme Elidad, Kislons Søn
+{34:22} og af Dans Børns Stamme en Fyrste, Bukki, Jogli Søn;
+{34:23} af Josefs Børn, af Manasse Børns Stamme, en Fyrste, Hanniel, Efods Søn
+{34:24} Og af Efraims Børns Stamme en Fyrste, Kemuel, Siftans Søn;
+{34:25} og af Sebulons Børns Stamme en Fyrste, Elizafan, Parnaks Søn;
+{34:26} og af Isaskars Børns Stamme en Fyrste, Paltiel, Assans Søn;
+{34:27} og af Asers Børns Stamme en Fyrste, Akihud, Selomi Søn;
+{34:28} og af Nafthali Børns Stamme en Fyrste, Pedahel, Ammihuds Søn.
+{34:29} Disse ere de, som Herren bød at dele Arven imellem Israels Børn, i Kanaans Land.
+{35:1} Og Herren talede til Mose paa Moabiternes slette Marker, ved Jordanen over for Jeriko, og sagde:
+{35:2} Byd Israels Børn, at de give Leviterne af deres Ejendoms Arv Stæder at bo udi; dertil skulle I give Leviterne Mark til Stæderne trindt omkring dem.
+{35:3} Og de skulle have Stæderne til at bo udi, og deres Marker skulle være for deres Kvæg og for deres Gods og for alle deres Dyr.
+{35:4} Og Stædernes Marker, som I skulle; give Leviterne, skulle være fra Stadsmuren og udefter tusinde Alen trindt omkring.
+{35:5} Saa skulle I maale uden for Staden, den østre Side to Tusinde Alen, og den søndre Side to Tusinde Alen, og den vestre Side to Tusinde Alen, og den nordre Side to Tusinde Alen, og Staden skal være i Midten; dette skal være dem Stædernes Marker.
+{35:6} Og af Stæderne, som I skulle give Leviterne, skulle seks være Tilflugtsstæder, som I skulle give, at en Manddraber kan fly derhen; og foruden dem skulle I give dem to og fyrretyve Stæder.
+{35:7} Alle Stæderne, som I skulle give Leviterne skulle være otte og fyrretyve Stæder, de og deres Marker.
+{35:8} Og hvad de Stæder angaar, som I skulle give af Israels Børns Ejendom, da skulle I tage flere fra den, som har mange, og tage færre fra den, som har faa; hver efter sin Arvs Beskaffenhed, som de skulle arve, skal give Leviterne af sine Stæder.
+{35:9} Og Herren talede til Mose og sagde:
+{35:10} Tal til Israels Børn, og du skal sige til dem: Naar I komme over Jordanen ind i Kanaans Land,
+{35:11} da skulle I udvælge eder Stæder, som skulle være Tilflugtsstæder for eder, at en Manddraber, som slaar en Person ihjel af en Forseelse, kan fly derhen.
+{35:12} Og de skulle være eder Stæder til en Tilflugt for Blodhævneren, at Manddraberen ikke skal dø, førend han har staaet for Menighedens Ansigt, for Dommen.
+{35:13} Og de Stæder, som I skulle afgive, skulle være seks Tilflugtsstæder for eder.
+{35:14} De tre Stæder skulle I give paa denne Side Jordanen, og de tre Stæder skulle I give i Kanaans Land; de skulle være Tilflugtsstæder.
+{35:15} For Israels Børn og for den fremmede og for den, som er Gæst midt iblandt dem, skulle disse seks Stæder være til en Tilflugt, at hver den, som slaar en Person ihjel af en Forseelse, kan fly derhen.
+{35:16} Men dersom en slaar en anden med et Stykke Jern, saa han dør, han er en Manddraber; den Manddraber skal dødes.
+{35:17} Og dersom han slaar ham med en Sten i Haand, hvormed nogen kan dræbes, og han dør, da er han en Manddraber; den Manddraber skal dødes.
+{35:18} Eller han slaar ham med et Stykke Træ i Haand, hvormed nogen kan dræbes, og han dør, da er han en Manddraber; den Manddraber skal dødes.
+{35:19} Blodhævneren, han maa dræbe Manddraberen; naar han møder ham, maa han dræbe ham.
+{35:20} Og dersom en af Had giver en anden et Stød, eller kaster noget paa ham med frit Forsæt, saa at han dør,
+{35:21} eller han slaar ham af Fjendskab med sin Haand, saa at han dør, da skal den, som slog, dødes, han er en Manddraber; Blodhævneren maa dræbe Manddraberen, naar han møder ham
+{35:22} Men dersom han giver ham et Stød i en Hast, uden Fjendskab, eller kaster nogen Ting paa ham uden frit Forsæt,
+{35:23} eller det sker med en Sten, hvormed man kan dræbes, og han ikke saa ham, da han lod den falde paa ham, saa, han døde, og han var ikke hans Fjende og søgte ikke hans Ulykke:
+{35:24} Da skulle de i Menigheden dømme imellem den, som slog, og imellem Blodhævneren efter disse Love.
+{35:25} Og de i Menigheden skulle udfri Manddraberen af Blodhævnerens Haand, og de i Menigheden skulle lade ham komme tilbage til hans Tilflugtsstad, som han flyede til; og han skal blive der, indtil Ypperstepræsten, som man har salvet med den hellige Olie, dør.
+{35:26} Men om Mandraberen gaar uden for den Tilflugtsstads Markeskel, som han flyede til,
+{35:27} og Blodhævneren finder ham uden for hans Tilflugtsstads Markeskel, og Blodhævneren slaar Manddraberen ihjel, da har hin ingen Blodskyld
+{35:28} Thi han skulde være bleven i sin Tilflugtsstad, indtil Ypperstepræsten døde; men efter Ypperstepræstens Død maa Manddraberen vende tilbage til sit Ejendoms Land.
+{35:29} dette skal være eder en beskikket Ret hos eders Efterkommere i alle eders Boliger.
+{35:30} Naar nogen ihjelslaar en Person, da skal man efter Vidners Mund slaa denne Manddraber ihjel; men eet Vidne skal ikke vidne imod en Person i Livssag.
+{35:31} Og I skulle ikke tage Sonepenge for en Manddrabers Person, naar han er skyldig til at dø; thi han skal dødes.
+{35:32} Og I skulle ingen Sonepenge tage for at lade nogen fly til sin Tilflugtsstad eller at lade nogen komme tilbage at bo i Landet, førend Præsten dør.
+{35:33} Og I skulle ikke besmitte Landet, som I bo udi; thi Blodet besmitter Landet; og for Landet kan ikke ske Forsoning for det Blod, som udøses deri, uden ved hans Blod, som udøste det.
+{35:34} Og du skal ikke gøre Landet urent, hvilket I bo udi, hvilket jeg bor midt udi; thi jeg Herren bor midt iblandt Israels Børn.
+{36:1} Og de Øverste for Fædrenehusene, i Gileads Børns Slægt, hans, som var en Søn af Makir, Manasse Søn, af Josefs Børns Slægt, gik frem, og de talede for Mose Ansigt og for Fyrsternes Ansigt, dem, som vare de Øv erste for Fædrenehusene blandt Israels Børn,
+{36:2} og de sagde: Herren har budet min Herre at give Israels Børn Landet til Arv ved Lod; og min Herre er befalet af Herren at give vor Broder Zelafehads Arv til hans Døtre;
+{36:3} men blive de en af de Sønner, som høre; til de andre Israels Børns Stammer, til Hustruer, da vil deres Arv gaa bort fra vore Fædres Arv og lægges til den Stamme, som de gaa over til, og gaa bort fra vor Arvs Lod;
+{36:4} og naar det bliver Jubelaar for Israels Børn, da lægges deres Arv til den Stammes Arv, som de gik over til; og dermed vil deres Arv gaa bort fra vore Fædres Stammes Arv.
+{36:5} Og Mose bød Israels Børn efter Herrens Mund og sagde: Josefs Børns Stamme taler ret.
+{36:6} Dette er det Ord, som Herren byder om Zelafehads Døtre og siger: De maa vorde dem til Hustruer, som synes gode for deres Øjne, kun at de vorde dem til Hustruer, som ere af deres Fædres Stammes Slægtskab,
+{36:7} at Israels Børns Arv ej skal komme omking fra en Stamme til en anden; men hver iblandt Israels Børn skal hænge ved sine Fædres Stammes Arv.
+{36:8} Og hver Datter af Israels Børns Stammer, som arver nogen Arv, skal vorde en af sin Faders Stammes Slægtskab til Hustru, paa det Israels Børn kunne arve hver sine Fædres Arv,
+{36:9} og at en Arv ikke skal komme omkring fra en Stamme til en anden Stamme; men Israels Børns Stamme skulle hænge hver ved sin Arv.
+{36:10} Som Herren havde befalet Mose. saa gjorde Zelafehads Døtre.
+{36:11} Og; Mahela, Tirza og Hogla og Milka og Noa, Zelafehads Døtre, bleve deres Farbroders Sønners Hustruer.
+{36:12} Dem, som vare af Manasse Børns, Josefs Søns, Slægter, bleve de til Hustruer, og deres Arv blev hos deres Faders Slægtskabs Stamme.
+{36:13} Disse ere de Bud og de Love, som Herren bød ved Mose for Israels Børn paa Moabiternes slette Marker, ved Jordanen over for Jeriko.

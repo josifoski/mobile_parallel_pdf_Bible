@@ -1,0 +1,915 @@
+{1:1} Ordsprog af Salomo, Davids Søn, Israels Konge,
+{1:2} for af dem at faa Visdom og Undervisning, for at forstaa Forstandens Ord;
+{1:3} for at modtage Undervisning i Klogskab, modtage Ret og Retfærdighed og Retvished;
+{1:4} for at give de uvidende vid, de unge kundskab og Klogt frem i Lærdom,
+{1:5} og hvo som er forstandig, vinde Evne til at styre;
+{1:6} for at forstaa Ordsprog og Gaader, Vismænds Ord og deros mørke Taler.
+{1:7} Herrens Frygt er Begyndelse til Kundskab; Daareine forlagte Visdom I og Undervisning.
+{1:8} Hør, min Søn! din Faders Undervisning; og forlad ikke din Moders Lov;
+{1:9} thi, de ere en yndig Krans til dit Hoved og Kæder til din Hals.
+{1:10} Min Søn! naar Syndere lokke dig, da samtyk ikke!
+{1:11} Dersom de sige: Gak med os, vi ville lure efter Blod, vi ville efterstæbe den uskyldige, som er uden Sag;
+{1:12} vi ville, som Dødsriget, sige den levende, ja hele og holdne, som de, der nedfale i Hulen;
+{1:13} vi ville finde alle Haande dyrebart Gods, vi ville fylde vore Huse med Rov
+{1:14} du skal ville tage din Lod iblandt os, vi alle sammen have een Pose:
+{1:15} Min Søn! vandre ikke paa Vej med dem, hold din Fod tilbage fra deles Sti;
+{1:16} thi deres Fødder haste til ondt, og de skynde sig for at udøse Blod;
+{1:17} thi folgæves udspændes Garn for alle Fugles Øjne;
+{1:18} og de lure paa deres eget Blod de efterstræbe deres eget Liv.
+{1:19} Saa ere enhvers Veje, som er hengiven til Gerrighed; den tager sine egne Herrers Liv.
+{1:20} Visdommen raaber udenfor, den opløfter sin Røst paa Gaderne;
+{1:21} paa Hjørnet af de befærdede Gader raaber den; ved Indgangene til Portene, i Staden, taler den sine Ord:
+{1:22} Hvor længe ville I uvidende elske Uvidenhed, og Spottere have Lyst til Spot, og Darrer hade Kundskab?
+{1:23} Vender eder til min Revselse; se, jeg vil udgyde min Aand over eder, jeg vil kundgøre mine Ord.
+{1:24} Efteldi jeg raabte, og I vægrede eder, jeg udrakte min Haand, og ingen gav Agt;
+{1:25} og I lode alt mit Raad fare og vilde ikke vide af min Revselse.
+{1:26} Saa vil jeg, jeg selv le i eders Ulykke, jeg vil spotte, naar det kommer, som I frygte for;
+{1:27} naar det, som I frygte for, kommer som en Ødelæggelse, og eders Ulykke kommer som en Hvirvelvind, naar Angest og Trængsel kommer over eder:
+{1:28} Da skulle de paakalde mig, men jeg skal ikke, svale, de skulle søge mig, men ikke finde mig.
+{1:29} Fordi de hadede Kundskab og udvalgte ikke Herrens Frygt,
+{1:30} fordi de ikke vilde vide af mit Raad, men foragtede al min Revselse:
+{1:31} Saa skulle de æde Frugten af deles Veje og blive mætte af deles egne Raad.
+{1:32} Thi de uvidendes Frafald skal volde dem Død, og Daarers Tryghed skal ødelægge dem selv.
+{1:33} Men hvo mig lyder skal bo tryggelig og være rolig, uden Frygt for det onde.
+{2:1} Min Søn! Dersom du vil tage imod mine Ord, og gemme mine Bud hos dig,
+{2:2} saa at du lader dit Øre give Agt paa Visdommen, bøjer dit Hjerte til Indsigt;
+{2:3} ja, dersom du kalder paa Forstanden, opløfter din Røst efter Indsigt;
+{2:4} dersom du søger efter den som efter Sølv og ransager efter den som efter Skjulte Skatte:
+{2:5} Da skal du forstaa Herrens Frygt og finde Guds Kundskab.
+{2:6} Thi Herren giver Visdom, af hans Mund er Kundskab og Indsigt.
+{2:7} Han gemmer det varige gode til de oprigtige; han er et Skjold for dem, som vandre fuldkommelig,
+{2:8} saa han bevogter Rettens Stier og bevarer sine helliges Vej.
+{2:9} Da skal du forstaa Ret og Retfærdighed og Retvished, al god Vej.
+{2:10} Thi Visdom skal komme i dit Hjerte og Kundskab være liflig for din Sjæl.
+{2:11} Kløgt skal bevare dig og Indsigt bevogte dig.
+{2:12} for at fri dig fra Ondskabs Vej, fra en Mand, som taler forvendte Ting;
+{2:13} fra dem, som forlade Rettens Stier for at gaa paa Mørkets Veje,
+{2:14} dem, som, glæde sig ved at gøre ondt og fryde sig i Ondskabs Forvendthed;
+{2:15} dem, hvis Stier ere krogede, og hvis Veje ere bugtede;
+{2:16} for at fri dig fra en fremmed Kvinde, fra en ubekendt, som gør sine Ord glatte,
+{2:17} hende, som har forladt sin Ungdoms Ven, og som har glemt sin Guds Pagt;
+{2:18} thi hendes Hus bøjer ned imod Døden og hendes Veje til Dødningerne;
+{2:19} alle de, som gaa ind til hende, skulle ikke komme tilhage og ikke naa Livsens Stier;
+{2:20} paa det du kan vandre paa de godes Vej og holde dig paa de retfærdiges Stier.
+{2:21} Thi de retskafne skulle bo i Landet og de oprigtige blive tilovers derudi;
+{2:22} men de ugudelige skulle udryddes af Landet og de troløse udslettes deraf.
+{3:1} Min Søn! glem ikke min Lov, men lad dit Hjerte bevare mine Bud.
+{3:2} Thi et langt Liv og mange Aar at leve i og Fred skulle de bringe dig rigeligt.
+{3:3} Miskundhed og Sandhed forlade dig ej; bind dem om din Hals, skriv dem paa dit Hjertes Tavle;
+{3:4} saa skal du finde Naade og god Forstand for Guds og Menneskens Øjne.
+{3:5} Forlad dig paa Herren af dit ganske Hjerte, men forlad dig ikke fast paa din Forstand!
+{3:6} Kend ham paa alle dine Veje, og han skal gøre dine Stier rette.
+{3:7} Vær ikke viis i dine egneøjne; frygt Herren, og vig fra det onde!
+{3:8} Det skal være en Lægedom for din Navle og en Vædske for dine Ben.
+{3:9} Ær Herren af dit Gods og af al din Avls Førstegrøde:
+{3:10} Saa skulle dine Lader blive fulde med Overflod og dine Persekar flyde over af Most.
+{3:11} Min Søn! foragt ikke Herrens Tugt, og vær ikke utaalmodig ved hans Revselse.
+{3:12} Thi Herren revser den, som han elsker, og som en Fader den Søn, i hvem han har Behag.
+{3:13} Saligt er det Menneske, som har fundet Visdom, og det Menneske, som vinder Forstand.
+{3:14} Thi det er bedre at købe den end at købe Sølv, og at vinde den er bedre end Guld.
+{3:15} Den er dyrebal ere end Perler og alt det, du har Lyst til, kan ikke lignes ved den.
+{3:16} I dens højre Haand er langt Liv, i dens venstre er Rigdom og Ære.
+{3:17} Dens Veje ere yndige Veje, og alle dens Stier ere Fred.
+{3:18} Den er Livsens Træ for dem, som gribe den, og hver den, som holder fast paa æn, skal prises salig.
+{3:19} Herren har grundfæstet Jorden med Visdom, han har beredt Himlene med Forstaild.
+{3:20} Ved hans Kundskab skiltes Dybene, og ved den dryppe Skyerne med Dug.
+{3:21} Min Søn! lad dem ikke vige fra dine Øjne, bevar Fasthed og Kløgt.
+{3:22} Og de skulle være Liv for din Sjæl og et Smykke for din Hals.
+{3:23} Da skal du vandre tryggelig paa din Vej, og du skal ikke støde din Fod.
+{3:24} Naar du lægger dig, da skal du ikke frygte, og naar du har lagt dig, skal din Søvn være sød.
+{3:25} Du skal ikke frygte for pludselig Skræk, ej heller for Ødelæggelsen over de ugudelige, naar den kommer.
+{3:26} Thi Herren skal være dit Haab, og han skal bevare din Fod fra at fanges.
+{3:27} Hold ikke godt tilbage fra dem, som trænge dertil, naar din Haand har Evne til at gøre det.
+{3:28} Sig ikke til din Næste: Gak bort og kom igen, og i Morgen vil jeg give, naar du dog har det.
+{3:29} Optænk ikke ondt imod din Ven, naar han bor tryggelig hos dig.
+{3:30} Træt ikke med et Menneske uden Aarsag, naar han ikke har gjort dig ondt.
+{3:31} Misund ikke en Voldsmand, og udvælg ikke nogen af alle hans Veje!
+{3:32} Thi Herren har Vederstyggelighed til den, som er forvendt, men hans fortrolige Omgang er med de oprigtige.
+{3:33} Herrens forbandelse er i den Ugudeliges Hus, men han velsigner de retfærdiges Bolig.
+{3:34} Dersom de ere Spottere, da skal han spotte dem, men de ydmyge skal han give Naade.
+{3:35} De vise skulle arve Ære, men Daarerne skulle faa Skam til Del.
+{4:1} Hører, I Sønner! en Faders Undervisning over at for at faa Forstand;
+{4:2} thi jeg har givet eder en god Lærdom; for lader ikke min Lov!
+{4:3} Thi jeg var min Faders Søn, min Moders ømme og eneste Barn.
+{4:4} Og han lærte mig og sagde til mig: Lad dit Hjerte holde fast ved dit Ord, bevar mine Bud, saa skal du leve.
+{4:5} Køb Visdom, køb Forstand, glem ikke og vig ikke fra min Munds Ord.
+{4:6} Forlad den ikke saa skal den bevare dig, elsk den, saa skal den bevogte dig.
+{4:7} Visdommens Begyndelse er: Køb Visdom, og for al din Ejendom køb Forstand!
+{4:8} Ophøj den, saa skal den ophøje dig, naar du tager den i Favn, saa skal den ære dig.
+{4:9} Den skal sætte en yndig Krans paa dit Hoved, den skal give dig en dejlig Krone.
+{4:10} Hør, min Søn! og tag imod mine Ord, saa skulle dine Leveaar blive mange.
+{4:11} Jeg underviser dig om Visdoms Vej, jeg leder dig paa jævne Stier.
+{4:12} Naar du gaar, skal din Gang ikke blive trang, og naar du løber, skal du ikke støde dig.
+{4:13} Hold fast ved Undervisning, lad den ikke fare, bevar den; thi den er dit Liv.
+{4:14} Kom ikke paa de ugudeliges Sti, og gak ikke frem paa de ondes Vej.
+{4:15} Lad den ligge, gak ikke frem paa den, vig fra den og gak forbi!
+{4:16} Thi de sove ikke, naar de ikke have gjort ilde; og deres Søvn flyr fra dem, naar de ikke have bragt nogen til Fald.
+{4:17} Thi de æde Ugudeligheds Brød og drikke Uretfærdigheds Vin.
+{4:18} Og de retfærdiges Sti er som et skinnende Lys, der bliver klarere og klarere indtil Middag.
+{4:19} De ugudeliges Vej er som Mørket, de vide ikke, hvorpaa de skulle støde sig.
+{4:20} Min Søn! giv Agt paa mine Ord, bøj dit Øre til min Tale.
+{4:21} Lad dem ikke vige fra dine Øjne,
+{4:22} bevar for hver den, som finder dem, og Lægedom for hans hele Legeme.
+{4:23} Bevar dit Hjerte fremfor alt det, der forvares; thi fra det udgaar Livet.
+{4:24} Hold dig fri for Munds Vanartighed, og lad Læbers Forvendthed være langt fra dig!
+{4:25} Lad dine Øjne se ligefrem, og lad dine Øjenlaage være ret frem for dig!
+{4:26} Overvej vel din Fods Sti, og alle dine Veje skulle faa Fasthed.
+{4:27} Bøj ikke af til højre eller venstre, vend din Fod fra det onde!
+{5:1} Min Søn! giv Agt paa min Visdom; bøj dit Øre til min Indsigt;
+{5:2} at du maa gemme kloge Raad, og at dine Læber maa bevare Kundskab.
+{5:3} Thi med Honning dryppe den fremmede Kvindes Læber, og glattere end Olie er hendes Gane.
+{5:4} Men paa det sidste er hun besk som Malurt, hvas som et tveægget Sværd.
+{5:5} Hendes Fødder gaa nedad til Døden, hendes Skridt stunde imod Dødsriget.
+{5:6} For at hun ikke skal tænke over Livets Sti, ere hendes Veje ustadige, uden at hun ved det.
+{5:7} Saa hører mig nu, I Børn! og viger ikke fra min Munds Ord.
+{5:8} Lad din Vej være langt fra hende, og nærm dig ikke Døren til hendes Hus,
+{5:9} at du ikke skal give andre din Ære og en grusom Herre dine Aar;
+{5:10} at fremmede ikke skulle mættes af din Formue, og alt, hvad du har arbejdet for, komme i anden Mands Hus;
+{5:11} saa at du skal hyle paa det sidste, naar dit Kød og dit Huld tæres hen,
+{5:12} og sige: Hvorledes har jeg dog kunnet hade Undervisning og mit Hjerte kunnet foragte Revselse?
+{5:13} saa at jeg ikke hørte paa mine Læbers Røst, ej heller bøjede mit Øre til dem, som underviste mig.
+{5:14} Nær var jeg kommen i al Ulykke midt i Forsamlingen og Menigheden.
+{5:15} Drik Vand af din egen Brønd og frisk Vand af din egen Kilde
+{5:16} Skulde vel dine Kilder flyde udenfor, dine Vandbække ud paa Gaderne?
+{5:17} Lad dem høre dig til, dig alene, og ikke de fremmede tillige med dig.
+{5:18} Din Kilde være velsignet, og glæd dig ved din Ungdoms Hustru,
+{5:19} en elskelig Hind og en yndig Stenged; hendes Barm beruse dig stedse, i hendes Kærlighed sværme du alle Tider.
+{5:20} Hvorfor vil dum min Søn! Sværme for en fremmed Kvinde og favne en anden Kvindes Barm?
+{5:21} Thi en Mands Veje ere for Herrens Øjne, og han vejer alle hans Skridt.
+{5:22} Den ugudeliges Misgerninger skulle gribe ham selv, og han skal holdes fast i sin Synds Snorer.
+{5:23} Han skal dø, fordi han ikke vilde lade sig undervise, og han skal tumle om for sin Daarligheds Skyld.
+{6:1} Min Søn! dersom du er gaaet i Borgen hos din Næste, har givet Haandslag til den fremmede;
+{6:2} har du bundet dig ved din Munds Ord, ladet dig fange ved din Munds Ord:
+{6:3} Saa gør dog dette, min Søn! og red dig, fordi du er kommen i din Næstes Haand: Gak, nedkast dig for hans Fødder, og træng ind paa din Næste!
+{6:4} Tilsted ikke dine Øjne at sove eller dine Øjenlaage at slumre.
+{6:5} Fri dig som en Raa af Jægerens Haand og som en Fugl af Fuglefængerens Haand.
+{6:6} Du lade! gak til Myren, se dens Veje, og bliv viis.
+{6:7} Skønt den ikke har nogen Fyrste, Foged eller Hersker,
+{6:8} bereder den om Sommeren sin Mad, den samler om Høsten sin Spise.
+{6:9} Du lade! hvor længe vil du ligge? naar vil du staa op af din Søvn?
+{6:10} Sov lidt endnu, blund lidt, fold Hænderne lidt for at hvile:
+{6:11} Saa skal din Armod komme som en Landstryger og din Trang som skjoldvæbnet Mand.
+{6:12} Et nedrigt Menneske, en uretfærdig Mand er den, som gaar med en vanartig Mund;
+{6:13} den, som giver Vink med sine Øjne, gør Tegn med sine Fødder, peger med sine Fingre;
+{6:14} Den som har forvendte Ting i sit Hjerte og optænker ondt til hver Tid og kommer Trætter af Sted.
+{6:15} Derfor skal hans Ulykke komme hastelig, han skal snart sønderknuses, og der skal ingen Lægedom være.
+{6:16} Disse seks Stykker hader Herren, og de syv ere en Vederstyggelighed for hans Sjæl:
+{6:17} Stolte Øjne, en løgnagtig Tunge og Hænder, som udgyde den uskyldiges Blod;
+{6:18} et Hjerte, som optænker uretfærdige Tanker; Fødder, som haste med at løbe til det onde;
+{6:19} den, der som Vidne taler Løgn; og den, Som kommer Trætter af Sted imellem Brødre.
+{6:20} Min Søn! bevar din Faders Bud, og forlad ikke din Moders Lov.
+{6:21} Knyt dem til dit Hjerte for stedse, bind dem om din Hals!
+{6:22} Naar du vandrer, skal den lede dig, naar du lægger dig, skal den bevare dig, og naar du opvaagner, skal den tale til dig.
+{6:23} Thi Budet er en Lampe og Loven et Lys og Undervisningens Revselse er Vej til Livet;
+{6:24} at den maa bevare dig fra en ond Kvinde, fra en fremmed Tunges Sledskhed.
+{6:25} Begær ikke hendes Dejlighed i dit Hjerte, og lad hende ikke indtage dig med sine Øjenlaage!
+{6:26} Thi for en Skøges Skyld gælder det kun om et Stykke Brød, men en anden Mands Hustru fanger den dyrebare Sjæl.
+{6:27} Mon nogen kan tage Ild i sin Barm, uden at hans Klæder brændes op
+{6:28} Eller man nogen kan gaa paa Gløder, uden at hans Fødder brændes?
+{6:29} Saa sker det ham, som gaar ind til sin Næstes Hustru ingen, som rører hende; slipper fri for Straf.
+{6:30} Man ringeagter ikke; at en Tyv stjæler for at mætte sig; naar han er hungrig;
+{6:31} men naar: han bliver greben, maa han betale syv Fold, han maa give alt sit Hus's Gods.
+{6:32} Den, som bedriver Hor med en Kvinde, fattes Forstand; den, som vil fordærve sin Sjeel, han, ja han gør sligt.
+{6:33} Plage og Skam skal ramme ham, og hans Skændsel skal ikke udslettes.
+{6:34} Thi nidkær er Mandens Vrede, og han skal ikke skaane paa Hævnens Dag;
+{6:35} han skal ikke tage nogen Bod for gyldig og ikke samtykke, om du end vilde give megen Skræk.
+{7:1} Min Søn! bevar mine Ord, og gem mine Bud hos dig.
+{7:2} Hold mine Bud, saa skal du leve, og min Lov som din Øjesten.
+{7:3} Bind dem om dine Fingre, skriv dem paa dit Hjertes Tavle!
+{7:4} Sig til Visdommen: Du er min Søster, og Forstanden kalde du din Kynding;
+{7:5} for at den maa bevare dig fra en fremmed Kvinde, fra en ubekendt, som gør sine Ord glatte.
+{7:6} Thi jeg saa ud af mit Hus's Vindu, igennem mit Gitter;
+{7:7} og jeg saa iblandt de uerfarne, jeg blev var iblandt Sønnerne et ungt Menneske som fattedes Forstand,
+{7:8} sog han gik forbi paa Gaden ved hendes Hjørne og skred frem ad Vejen til hendes Hus,
+{7:9} i Tusmørket om Aftenen efter Dagen midt i Natten og Mørket.
+{7:10} Og se, en Kvinde mødte ham i Horestykke og underfundig i Hjertet,
+{7:11} støjende og ustyrlig, hendes Fødder kunne ikke blive i hendes Hus.
+{7:12} Stundom er hun ude, stundom paa Gaderne og lurer ved alle Hjørner.
+{7:13} Og hun tog fat paa hø og kyssede, ham, hun gjorde sit Ansigt frækt og sagde til ham.
+{7:14} Der paalaa mig takoffer, i Dag har jeg betalt mine Løfter;
+{7:15} derfor er jeg gaaet ud at møde dig, at søge dit Ansigt, og jeg har fundet dig.
+{7:16} Jeg har redet mit Leje med Tæpper, med stribet Tøj af Garn fra Ægypten;
+{7:17} jeg har overstænket min Senb med Myrra. Aloe og Kanel;
+{7:18} kom, lader os beruse os i Kærlighed indtil Morgenen, lader os forlyste os i Elskov;
+{7:19} thi Manden er ikke hjemme, han er faren lang Vej bort;
+{7:20} han tog Pengeknuden med sig, han kommer hjem til Fuldmaanedagen.
+{7:21} Hun bøjede ham med sin megen Overtalelse, tilskyndte ham med sine smigrende Læber.
+{7:22} Hvo der hastelig gaar efter hende, kommer som Oksen til Slagterbænken og som i Fodlænken, der er til Daarens Tugtelse,
+{7:23} indtil en Pil sønderskærer hans Lever; ligesom Fuglen skynder sig til Snaren og ved ikke, at det gælder dens Liv.
+{7:24} Saa hører mig nu, I Børn! og agter paa min Munds Ord!
+{7:25} Lad dit Hjerte ikke vige af til hendes Veje, lad dig ikke forvildes paa hendes Stier;
+{7:26} thi mange ere de gennemborede, som hun har fældet, og mangfoldige alle de, hun har ihjelslaget.
+{7:27} Hendes Hus ere Veje til Dødsriget; de gaa ned til Dødens Kamre.
+{8:1} Mon ikke Visdommen raaber, og Forstanden opløfter sin Røst:
+{8:2} Paa Toppen af Højene ved Vejen, midt paa Stierne staar den;
+{8:3} ved Siden af Portene, ved Udgangen af Staden, ved Indgangen til Portene røber den.
+{8:4} Til eder, I Mænd, vi jeg raabe, og min Røst lyde til Menneskens Børn.
+{8:5} I uvidende! fatter Vid; og I Daarer! fatter Forstand.
+{8:6} Hører, thi jeg vil tale frygtelige Ting og aabne mine Læber med Retvished.
+{8:7} Thi min Gane taler Sandhed, og Sandelighed er en Vederstyggelighed for mine Læber.
+{8:8} Retfærdighed ere alle min Munds Ord; der er intet fordrejet eller forvendt i dem.
+{8:9} De ere alle rette for den forstandige og ligefremme for dem, som finde Kundskab.
+{8:10} Tager imod min Undervisning og ikke imod SøIv og imod Kundskab fremfor udsøgt Guld.
+{8:11} Thi Visdom er bedre end Perler, og alle de Ting, man har Lyst til, kunne ikke lignes ved den.
+{8:12} Jeg, Visdommen, jeg har taget Bolig i Vidskab og besidder Kundskab om kløgtige Raad.
+{8:13} Herrens Frygt er at hade ondt; Hoffærdighed og Hovmodighed og Ondskabs Vej og den Mund, som taler forvendte Ting, hader jeg.
+{8:14} Raad og hvad der har Bestand, hører mig til; jeg er Forstand, mig hører Styrke til.
+{8:15} Ved mig regere Konger, og ved mig beskikke Fyrster Ret.
+{8:16} Ved mig herske Herskere og Høvdinger, alle Dommere paa Jorden.
+{8:17} Jeg elsker dem, som elske mig, og de, som søge mig, skulle finde mig.
+{8:18} Rigdom og Ære er hos mig, varigt Gods og Retfærdighed.
+{8:19} Min Frugt er bedre end Guld og ædelt Malm, og at vinde mig er bedre end udsøgt Sølv.
+{8:20} Jeg vandrer paa Retfærdigheds Vej, midt paa Rettens Stier,
+{8:21} til at lade dem, som elske mig, arve varigt godt og til at fylde deres Forraadskamre.
+{8:22} Herren ejede mig som sin Vejs Begyndelse, forud for sine Gerninger, fra fordums Tid.
+{8:23} Fra Evighed er jeg indsat, fra det første af, før Jorden var.
+{8:24} Da Afgrundene endnu ikke vare, er jeg født, da Kilderne, som have meget Vand, ikke vare til.
+{8:25} Før Bjergene bleve nedsænkede; før Højene bleve til, er jeg født.
+{8:26} Han havde endnu ikke skabt Jorden eller Markerne eller det første af Jordens Støv.
+{8:27} Der han beredte Himlene, da var jeg der, der han slog en Kreds oven over Afgrunden;
+{8:28} der han befæstede Skyerne heroventil, der Afgrundens Kilder fik deres faste Sted;
+{8:29} der han satte Havet dets Grænse, at Vandene ikke skulde overtræde hans Befaling, der han lagde Jordens Grundvold:
+{8:30} Da var jeg hos ham som Kunstnerinde og jeg var hans Lyst Dag for Dag, og jeg legede for hans Ansigt alle rider;
+{8:31} jeg legede i Verden paa hans Jord, og min Lyst var hos Menneskens Børn.
+{8:32} Og nu, Børn, hører mig! og salige ere de, som tage Vare paa mine Veje.
+{8:33} Hører Undervisning og bliver vise, og lader den ikke fare!
+{8:34} Saligt er det Menneske, som hører mig, saa at han dagligt vaager ved mine Døre og tager Vare paa mine Dørstolper.
+{8:35} Thi hvo mig finder, han finder Livet og faar Velbehag hos Herren.
+{8:36} Men hvo, som synder imod mig, skader sin Sjæl; alle, som mig hade, elske Døden.
+{9:1} Visdommen har bygget sit Hus, har udhugget sine syv Piller;
+{9:2} hun har slagtet sit Slagtekvæg, blandet sin Vin og dækket sit Bord;
+{9:3} hun har udsendt sine Piger, hun kalder fra Toppene af Stadens Høje:
+{9:4} Hvo der er uvidende, den vende sig hid; og til den, som fattes Forstand, siger hun:
+{9:5} Kommer hid æder af mit Brød, og drikker af Vinen, som jeg har blandet.
+{9:6} Forlader Uvidenhed, saa skulle I leve, og gaar lige frem paa Forstandens Vej.
+{9:7} Hvo som revser en Spotter, henter sig Spot, og hvo som irettesætter den ugudelige, faar Skændsel til Løn.
+{9:8} Sæt ikke en Spotter Rette, at han ikke skal hade dig; sset en viis i Rette, og han skal elske dig.
+{9:9} Giv den vise, og han skal blive visere; undervis den retfærdige, og han skal tage til i Lældom.
+{9:10} Herrens Frygt er Visdoms Begyndelse, og Kundskab om den Hellige er Forstand.
+{9:11} Thi ved mig skulle dine Dage blive mange, og flere Leveaar skulle vor de dig tillagte:
+{9:12} Dersom du er viis, er du viis til dit eget Gavn; men spotter du, skal du bære det alene.
+{9:13} Daarskaben er en urolig Kvinde, idel Uvidenhed, og kender ikke noget.
+{9:14} Og hun sidder ved sit Hus's Dør, paa en Stol paa Stadens Høje,
+{9:15} for at kalde paa dem, som gaa forbi ad Vejen, dem, som vandre ret frem paa deres Stier;
+{9:16} hvo der er uvidende, den vende sig hid; og den, som fattes Forstand, ham taler hun til.
+{9:17} Stjaalet Vand er sødt, og lønligt Brød er lækkert.
+{9:18} Men han ved ikke, at der er Dødninger der; de, som ere indbudne af hende, ere i Dødsrigets Dyb.
+{10:1} Salomos Ordsprog. En viis Søn glæder sin Fader, men en daartet, men Retfærdighed redder Døden.
+{10:2} Uretfærdigheds skatte gavner intet, men retfærdighed redder fra døden.
+{10:3} Herren lader ikke den retfærdiges Sjæl hungre, men de ugudeliges Begærlighed støder han tilbage.
+{10:4} Den, som arbejder med lad Haand, bliver fattig; men de flittiges Haand gør rig.
+{10:5} Den, som samler om Sommeren, er en klog Søn; den, som sover om Høsten, er en Søn, der gør Skam.
+{10:6} Velsignelser ere over den retfærdiges Hoved, men Vold skjuler de ugudeliges Mund.
+{10:7} Den retfærdiges Ihukommelse er til Velsignelse; men de ugudeliges Navn smuldrer hen.
+{10:8} Den, som er viis af Hjerte, tager imod Budene; men den, som er en Daare i sin Mund, styrtes.
+{10:9} Den som vandrer i Oprigtighed, vandrer tryggelig; men den, som gaar Krogveje, bliver røbet.
+{10:10} Den, som giver Vink med Øjet, foraarsager Krænkelse; og den, som er en Daare i sin Mund, styrtes.
+{10:11} Den retfærdiges Mund er Livets Kilde, men Vold skjuler de ugudeliges Mund.
+{10:12} Had opvækker Trætter, men Kærlighed skjuler alle Overtrædelser.
+{10:13} Paa den forstandiges Læber findes Visdom; men en Kæp er for den uforstandiges Ryg.
+{10:14} De vise gemme paa Kundskab; men for Daarens Mund er Undergang nær.
+{10:15} Den riges Gods er hans faste Stad; men de fattiges Armod er deres egen Undergang.
+{10:16} Den retfærdiges Løn er til Livet; den ugudeliges Indtægt er til Synd.
+{10:17} At bevare Tugt er Vej til Livet; men den, som lader Tilrettevisning fare, vildleder.
+{10:18} Den som dølger Had, har falske Læber, og den, sorrig bringer ondt Rygte ud, er en Daare.
+{10:19} Hvor mange Ord ere, der lader Overtrædelse ikke af; men den, som sparer sine Læber, er klog.
+{10:20} Den retfærdiges Tunge er udsøgt Sølv; de ugudeliges Hjerte er intet værd.
+{10:21} Den retfærdige: Læber nære mange; men ved de uforstandige dø Daarer.
+{10:22} Herrens Velsignelse bør rig, og han føjer kke Smerte til den.
+{10:23} Det er for Daaren som en Leg, naar han gør en skændig Ting; men den forstandige Mand har Visdom.
+{10:24} Hvad den ugudelige frygter for, det skal komme over ham; men de retfærdiges Begæring skal Gud give ham.
+{10:25} Naar Hvirvelvinden farer forbi, saa er den ugudelige ikke mere; men en retfærdig har en evig Grundvold.
+{10:26} Som Eddike er for Tænderne, og som Røg er for Øjnene, saa er den lade for dem, som udsende ham.
+{10:27} Herrens Frygt lægger Dage til; men de ugudeliges Aar forkortes.
+{10:28} De retfærdiges Forventelse er Glæde, men de ugudeliges Haab forgaar.
+{10:29} En fast Borg er Herrens Vej for den retskafne, men Fordærvelse for dem, som gøre Uret.
+{10:30} Den retfærdige skal ikke rokkes evindelig; men de ugudelige skulle ikke bo i Landet.
+{10:31} Den retfærdiges Mund fremfører Visdom, men den Tunge, som taler forvendte ring, skal udryddes.
+{10:32} Den retfærdiges Læber kende, hvad der er velbehageligt, men de ugudeliges Mund fremfører forvendte Ting.
+{11:1} Falske Vægtskaaler ere Herren en Vederstyggelighed, men fuldvægtige Lodder ere ham en Velbehagelighed.
+{11:2} Hovmodighed kom, der kom og Forsmædelse; men hos de ydmyge er Visdom.
+{11:3} De retsindige, dem leder deres Oprigtighed; men de troløse, dem Ødelægger deres forvendte Væsen.
+{11:4} Gods hjælper ikke paa Vredens Dag, men Retfærdighed redder fra Døden.
+{11:5} Den oprigtiges Retfærdighed ger hans Vej jævn; men den ugudelige falder ved sin Ugudelighed.
+{11:6} De oprigtige, dem redder deres Retfærdighed; men de troløse, de fanges i deres egen Ondskab.
+{11:7} Naar et ugudeligt Menneske dør, er det forbi med hans Haab, og det er forbi med de uretfærdiges Forventelse.
+{11:8} Den retfærdige udfries af Nød, og den ugudelige kommer i hans Sted.
+{11:9} Med Munden ødelægger den vanhellige sin Næste; men ved Kundskab udfries de retfærdige.
+{11:10} En Stad skal fryde sig, naar det gaar de retfærdige vel, og naar de ugudelige omkomme, da bliver der Jubel.
+{11:11} Ved de retsindiges Velsignelse ophøjes en Stad; men ved de ugudeliges Mund nedbrydes den.
+{11:12} Den, som fattes Forstand, foragter sin Næste; men en forstand, som har Forstand, tier.
+{11:13} Den, der gaar omkring som en Bagvadsker, aabenbarer Hemmeligheder; men den, som er fast i Aanden, skjuler Sagen.
+{11:14} Hvor ingen Styrelse er, falder et Folk; hvor mange Raadgivere ere, der er Frelse.
+{11:15} Naar en borger for en fremmed, da faar han vist en Ulykke; men den, som hader at give Haandslag, er tryg.
+{11:16} En yndig Kvinde holder fast ved Ære, og Voldsmænd holde fast ved Rigdom.
+{11:17} Den, som gør vel imod sin Sjæl, er en barmhjertig Mand; men den, som plager sit Kød, er en grusom Mand.
+{11:18} Den ugudelige forhverver en Løn, som er falsk; men den, som saar Retfærdighed, faar en Løn, som er sand.
+{11:19} Saa er Retfærdighed til Liv; men den, der efterjager ondt, haster til sin Død.
+{11:20} De vanartige i Hjertet I, deres Vej, ere ham en Velbehagelighed.
+{11:21} Man kan give sin Haand paa, at den onde ikke bliver agtet uskyldig; men de retfærdiges Sæd skal undkomme.
+{11:22} Som et Smykke af Guld i Næsen paa en So, saa er en dejlig Kvinde, som intet Skøn har.
+{11:23} De retfærdiges Begæring er kun godt; men Vreden rammer de ugudeliges Forventning.
+{11:24} Der er den, som udspreder rigeligt, og ham tillægges end mere; og der er den, som holder tilbage mere, end ret er, og dog bliver der kun Mangel.
+{11:25} En Sjæl, som velsigner, skal blive rig; og den, som vederkvæger, skal selv blive vederkvæget.
+{11:26} Hvo som holder Korn tilbage, ham bander Folket; men Velsignelsen kommer paa dens Hoved, som sælger det ud.
+{11:27} Hvo der søger effer godt, stræber efter Velbehagelighed; men hvo der leder efter ondt, ham skal det vederfares.
+{11:28} Hvo, som forlader sig paa sin Rigdom, han skal falde; men de retfærdige skulle grønnes som et Blad.
+{11:29} Den, som forstyrrer sit Hus, arver Vind, og Daaren bliver Træl for den, som er viis i Hjertet.
+{11:30} Den retfærdiges Frugt er et Livsens Træ, og den vise vinder Sjæle.
+{11:31} Se, den retfærdige faar Betaling paa Jorden, hvor meget mere den ugudelige og Synderene.
+{12:1} Hvo, som elsker Tugt, elsker Revselse, er ufornuftig.
+{12:2} Den gode! vinder Velbehag af Herren; men den rænkefulde Mand finder fordømmelse.
+{12:3} Et Menneske befæstes ikke ved Ugudelighed; men de retfærdiges Rod lokkes ikke.
+{12:4} En duelig Hustru er sin Mands Krone; men naar hun beskæmmer ham, er hun som Raaddenhed i hans Ben.
+{12:5} De retfærdiges Tanker ere Ret; de ugudeliges Raadslag er Svig.
+{12:6} De ugudeliges Tale er om at lure paa Blod; men de oprigtiges Mund bringer Redning.
+{12:7} De ugudelige skulle omkastes, saa at de ikke ere mere til; men de retfærdiges Hus skal, bestaa.
+{12:8} En Mand roses efter sin Forstands Beskaffenhed; men den, som er forvendt i Hjertet, bliver til Foragt.
+{12:9} Den, som er ringeagtet og har en Træl, er bedre farer end den, som ærer sig selv og fattes Brød.
+{12:10} Den retfærdige har Omsorg for sit Kvægs Liv; men de ugudeliges Barmhjertighed er Grusomhed.
+{12:11} Den, som dyrker sin Jord, mættes med Brød; men den, som løber efter Løsgængere, fattes Forstand.
+{12:12} Den ugudelige attraar Snaren, der er lagt for de onde; men de retfærdige slaa Rod.
+{12:13} Læbers Forsyndelse er der en Snare for den onde; men den retfærdige skal komme ud af Angest.
+{12:14} En Mand skal mættes med godt af sin Munds Frugt, og hvad et Menneskes Hænder have fortjent, skal gengældes herre.
+{12:15} Daarens Vej er ret i hans egne Øjne, men den, som hører efter Raad, er viis.
+{12:16} Daarens Fortørnelse giver sig til Kende samme Dag; men den, som skjule Forsmædelse er klog.
+{12:17} Den, som aander Trofasthed, forkynder, hvad Ret er; men et falsk Vidne forkynder Svig.
+{12:18} Der er den, som tale: ubetænksomme Ord, der ere Søn Kaardestik; men de vises Tunge Lægedom.
+{12:19} Sundheds Læbe bestaar altid; men men Falskheds Tunge bliver kun et Øjeblik.
+{12:20} Der ere Svig i deres Hjerte, som optænke ondt; men om dem, som raade til Fred, er der Glæde.
+{12:21} Den retfærdige skal ingen som helst Ulykke vederfares; men de ugudelige have fuldt op af ondt.
+{12:22} Falske Læber ere Herren en Vederstyggelighed; men de, som handle rolig, ere ham en Velbehagelighed.
+{12:23} Et klogt Menneske skjuler sin Kundskab; men Daarers Hjerte udraaber deres Daarskab.
+{12:24} De flittiges Haand skal komme til at herske; men Ladhed skal vorde trælbunden.
+{12:25} Bekymring i en Mands Hjerte nedbøjer det; men et godt Ord glæder det.
+{12:26} Den retfærdige vejleder sin Ven; men de ugudeliges Vej vildleder dem selv.
+{12:27} Den lade skal ikke stege sin Jagt; men den flittige er en dyrebar Skat for et Menneske.
+{12:28} Paa Retfærdigheds Sti er Liv, og dens banede Vej er ikke til Døden.
+{13:1} En viis Søn modtager sin Faders Tugt; men en Spotter hører ikke paa Irettesættelse.
+{13:2} Af sin Munds Frugt nyder en Mand godt; men de troløses Sjæl høster Krænkelse.
+{13:3} Hvo som vogter sin Mund, bevarer sin Sjæl; den, som lader sine Læber vidt op, ham er det til Fordærvelse.
+{13:4} Den lades Sjæl begærer og faar intet; men de flittiges Sjæl næres rigeligt.
+{13:5} Den retfærdige hader Løgns Ord; men den ugudelige gør Skam og Vanære.
+{13:6} Retfærdighed bevarer den, som vandrer oprigtigt sin Vej; men Ugudelighed styrter Synderen.
+{13:7} Der er den, som holder sig for rig og har dog intet; og den, som holder sig for fattig og har meget Gods.
+{13:8} En Mands Rigdom er Løsepenge for hans Liv. Men en fattig hører ikke paa Irettesættelse
+{13:9} De retfærdiges Lys skinner frydeligt; men de ugudeliges Lampe skal udslukkes.
+{13:10} Ved Hovmod foraarsager man kun Trætte; men hos dem; som lade sig raade er Visdom.
+{13:11} Gods formindskes ved Forfængelighed; men hvo som samler i Haanden, forøger det.
+{13:12} Forventning, som forhales krænker Hjertet; men naar det kommer, som berører, da er det et Livsens Træ.
+{13:13} Hvo som foragter Ordet, bereder sig fordærvelse; men hvo som frygter Budet han faar Løn dersom.
+{13:14} Den vises Lærdom er Livets Kilde, saa at man viger fra Dødens Snarer. En god Forstand giver Naade; men de troløses Vej er Haard.
+{13:15} Hver, som er klog, gør sine Ting med Forstand; men Daaren udbreder Taabelighed.
+{13:16} Enhver, der er kløgtig, handler i kundskab, taaben spreder dumhed.
+{13:17} Et ugudeligt sendebud falder i Ulykke; men et trofast Bud er Lægedom.
+{13:18} Hvo, som lader Tugt fare, faar Armod og Skam; men den, som agter paa Revselse, faar Ære.
+{13:19} Naar det sker, som man begærer, da er det sødt for Sjælen, men at vige fra ondt, er Daarer en Vederstyggelighed.
+{13:20} Den, som omgaas med vise, bliver vis, men den, som er Ven med Daarer, faar Ulykke.
+{13:21} Ulykke forfølger Syndere men den retfærdige betales med godt.
+{13:22} Den onde efterlader Børnebørn en Arv; men Synderes Gods er gemt til den retfærdige.
+{13:23} Den fattiges nyopdyrkede Land yder megen Føde; men der er den, som gaar til Grunde, fordi han ikke gør sin Ret.
+{13:24} Hvo som sparer sit Ris, hader sin Søn; men den, som elsker ham, tugter ham tidligt.
+{13:25} Den retfærdige kan spise, til hans Sjæl bliver mæt; men de ugudeliges Bug skal lide Mangel.
+{14:1} Kvinders Visdom har bygget sit Hus; men Daarskaben bryder det ned med sine Hænder.
+{14:2} Den som vandrer i sin Oprigtighed, frygter Herren; men den, som gaar paa Krogveje, foragter ham.
+{14:3} I Daarens Mund er Hovmods Ris; men de vises Læber skulle bevare dem selv.
+{14:4} Hvor ingen Øksne ere, der er Krybben ren; men megen Indtægt kommer ved Oksens Kraft.
+{14:5} Et trofast Vidne lyver ikke; men et falsk Vidne udblæser Løgne.
+{14:6} Spotteren søger Visdom, og han finder den ikke; men for den forstandige er er Kundskab let.
+{14:7} Gak bort fra en Mand; som er en Daare; thi du vil ikke have fundet Kundskab paa hans Læber.
+{14:8} Den kloges Visdom er, at han forstaar sig paa sin Vej; men Daarers Taabelighed er, at de blive bedragne.
+{14:9} Daarerne spottes af deres eget Skyldoffer; men med de oprigtige er Velbehageligheden.
+{14:10} Hjertet kender sin Sjæls Bitterhed, og en fremmed skal ikke blande sig i dets Glæde.
+{14:11} De ugudeliges Hus skal ødelægges; men de retsindiges Telt skal blomstre.
+{14:12} Der er en Vej, som kan synes en Mand ret; men til sidst bliver den Vej til Døden.
+{14:13} Selv under Latteren føler Hjertet Smerte, og til sidst bliver Glæden Bedrøvelse.
+{14:14} Den, hvis Hjerte er afveget, skal mættes ved sine Veje, men den gode Mand ved det, han har i Eje.
+{14:15} Den uerfarne tror alting, men den kloge agter paa sin Gang.
+{14:16} Den vise frygter og viger fra ondt; men en Daare er overmodig og tryg.
+{14:17} Den, som er hastig til Vrede, gør Daarlighed, og den underfundige Mand hades.
+{14:18} De uvidende arve Daarlighed; men de kloge favne Kundskab.
+{14:19} De onde maa bøje sig for de godes Ansigt og de ugudelige for den retfærdiges Porte.
+{14:20} Selv for sin Ven er den fattige forhadt; men mange ere de, som elske den rige.
+{14:21} Hvo som foragter sin Næste, synder; men den; som forbarmer sig over de elenctige, er lyksalig.
+{14:22} Fare ikke de vild, som optænke ondt men de, som optænke godt, finde Miskundhed og Troskab.
+{14:23} I alt besværligt Arbejde er der Fordel; men hvor det bliver ved Læbers Ord, fører det kun til Mangel.
+{14:24} De vises Rigdom er deres Krone; men Daarers Taabelighed bliver Taabelighed.
+{14:25} Et sanddru Vidne redder Sjæle, men den, som udblæser Løgn, er svigefuld.
+{14:26} I Herrens Frygt har en et stærkt Værn, og for hans Børn skal der være en Tilflugt.
+{14:27} Herrens Frygt er Livets Kilde, saa at man viger fra Dødens Snarer.
+{14:28} At have meget Folk er en Konges Ære; men hvor Folket er borte, er det en Fyrstes Fordærvelse.
+{14:29} Den langmodige har megen Forstand; men den, som er hastig i Sindet, forraader Daarskab.
+{14:30} Et blidt Hjerte er Liv for Legemet; men Hidsighed er Raaddenhed for Benene.
+{14:31} Hvo som fortrykker den ringe, forhaaner hans Skaber; men hvo som for barmer sig over den fattige, eerer ham.
+{14:32} Den ugudelige styrtes for sin Ondskab; men den retfærdige har Fortrøstning i sin Død.
+{14:33} I den forstandiges Hjerte hviler Visdommen; men i Daarers. Indre giver den sig til Kende.
+{14:34} Retfærdighed ophøjer et Folk; men Synden er Folkenes Skændsel.
+{14:35} Kongens Velbehag er til en klog Tjener; men hans Vrede er over den, som gør Skam.
+{15:1} Salomo taler om viis og daarlig Tale. Et mildt Svar dæmper Vrede; men et bittert Ord vækker Fortørnelse.
+{15:2} De vises Tunge giver god Kundskab; men Daarers Mund udgyder Taabelighed.
+{15:3} Herrens Øjne ere alle Vegne, og de beskue onde og gode.
+{15:4} Tungens Blidhed er et Livsens Træ; men Forvendthed ved den er Sønderknuselse i Aanden.
+{15:5} Daaren foragter sin Faders Tugtelse; men den, som agter paa Revselse, handler klogt.
+{15:6} I den retfærdiges Hus er meget Gods; men der er Forstyrrelse i den ugudeliges Indtægt.
+{15:7} De vises Læber udstrø Kundskab; men Daarernes Hjerte er ikke saa.
+{15:8} De ugudeliges Offer er Herren en Vederstyggelighed; men de oprigtiges, Bøn er ham en Velbehagelighed.
+{15:9} De ugudeliges Vej er Herren en Vederstyggelighed; men den, som stræber efter Retfærdighed, elsker han.
+{15:10} Streng Tugt venter den, som forlader Stien; den, som hader Irettesættelse, skal dø.
+{15:11} Dødsriget og Afgrunden ligge aabenbare for Herren, meget mere Menneskens Børns Hjerter.
+{15:12} En Spotter elsker ikke den, som sætter ham i Rette, han gaar ikke til de vise.
+{15:13} Et glad Hjerte gør Ansigtet livligt; men ved Hjertets Bekymring nedslaas Modet.
+{15:14} Den forstandiges Hjerte søger Kundskab, men Daarers Mund finder Behag i Taabelighed.
+{15:15} Alle den elendiges Dage ere onde; men et glad Hjerte er et bestandigt Gæstebud.
+{15:16} Bedre er lidet med Herrens Frygt end stort Liggendefæ med Uro.
+{15:17} Bedre er en Ret grønne Urter, naar Der er Kærlighed hos, end en fed Okse, naar der er Had hos.
+{15:18} En hidsig Mand opvækker Trætte, men en langmodig
+{15:19} Den lades Vej er som et Tjørnegærde; men de oprigtiges Sti er haanet.
+{15:20} En viis Søn glæder sin Fader; men et daarligt Menneske foragter sin Moder.
+{15:21} Daarskab er en Glæde for den, som fattes Forstand, men en forstandig Mand vandrer ret frem.
+{15:22} Anslag, blive til intet, naar der ikke er holdt Raad; men hvor der er rnange Raadgivere, der bestaa de.
+{15:23} Glæde har en Mand af sin Munds Svar; og et Ord i rette Tid hvor godt!
+{15:24} Livsens Vej opadtil gaar den forstandige for at undgaa Dødsrig et nedadtil.
+{15:25} Herren nedriver de hovmodiges Hus; men han stadfæster Enkens Landemærke.
+{15:26} Den ondes Anslag ere Herren en Vederstyggelighed; men Lifligheds Ord ere rene.
+{15:27} Den, som jager efter Vinding, forstyrrer sit Hus; men den, som hader Gaver, skal leve.
+{15:28} Den retfærdiges Hjerte betænker sig paa at svare; men de ugudeliges Mund udgyder onde Ting.
+{15:29} Herren er langt borte fra de ugudelige, men hører de retfærdiges Bøn.
+{15:30} Lys for Øjnene glæder Hjertet; et godt Budskab giver Marv i Benene.
+{15:31} Det Øre, som hører efter Irettesættelse til Livet, han tager Bo midt iblandt de vise.
+{15:32} Den, som lader Tugt fare, foragter sin Sjæl; men den, som hører efter Irettesættelse, forhverver sig Forstand.
+{15:33} Herrens Frygt er Tugt til Visdom, og Ydmyghed gaar foran Ære.
+{16:1} Det staar til et Menneske, hvad han vil sætte sig for i Hjertet; men Tungens Svar er fra Herren.
+{16:2} Alle en Mands Veje ere rene for hans egne Øjne, men Herren er den, som vejer Aanderne.
+{16:3} Befal Herren dine Gerninger saa skulle dine Anslag stadfæstes.
+{16:4} Herren har gjort al Ting efter dets Øjemed; ogsaa den ugudelige er til Ulykkens Dag.
+{16:5} Hver som er hovmodig i Hjertet, er Herren en Vederstyggelighed; man kan give sin Haand, paa, at han ikke bliver agtet uskyldig.
+{16:6} Ved Miskundhed og Sandhed udsones Misgerning; og ved Herrens Frygt viger man fra det onde.
+{16:7} Naar Herren har Velbehag i en Mands Veje, da mor han, at ogsaa hans Fjender holde Fred med ham.
+{16:8} Bedre er lidet med Retfærdighed end store Indtægter med Uret.
+{16:9} Menneskets Hjerte optænker sin Vej; men Herren stadfæster hans Gang.
+{16:10} Der er Guddoms Ord paa en Konges Læber, hans Mund maa ikke forsynde sig i Dom.
+{16:11} Ret Vægt og rette Vægtskaaler høre Herren til, alle Vægtlodder i Posen ere hans Værk.
+{16:12} Ugudeligheds Idræt er en Vederstyggelighed for Konger; thi ved Retfærdighed befæstes Tronen.
+{16:13} Retfærdigheds Læber ere Konger en Velbehabelighed; og den, som taler Oprigtighed, ham elsker han.
+{16:14} Kongens Vrede er Dødens Bud; men en viis Mand forsoner den.
+{16:15} I Kongens Ansigts Lys er Livet, og hans Bevaagenhed er som en Sky med sildig Regn.
+{16:16} At købe Visdom, hvor meget bedre er det end Guld? og at købe Forstand at foretrække for Sølv?
+{16:17} De oprigtiges slagne Vej er at vige fra det onde; hvo der vil bevare sin Sjæl, maa vare paa sin Vej.
+{16:18} Foran Undergang er Hovmod, og foran Fald gaar Stolthed.
+{16:19} Det er bedre at være ydmyg i Aanden med de elendige end at dele Bytte med de hovmodige.
+{16:20} Hvo som giver Agt paa Ordet, skal finde godt; og den, som forlader sig paa Herren, han er lyksalig.
+{16:21} Den, som er viis i Hjertet, skal kaldes forstandig, og Læbernes Sødme forøger Lærdom.
+{16:22} Klogskab er for den, som ejer den, Livets Kilde; men Daarers Tugt er Taabelighed.
+{16:23} Den vises Hjerte gør hans Mund forstandig og lægger end mere Lærdom paa hans Læber.
+{16:24} Liflige Taler ere Honningkage, sød for Sjælen og Lægedom for Benene.
+{16:25} Der er en Vej som synes en Mand ret; men til sidst bliver den Vej til Døden.
+{16:26} Arbejderens Hunger arbejder for ham; thi hans Mund driver paa ham.
+{16:27} En nedrig Mand bereder Ulykke, og paa hans Læber er der som en brændende Ild.
+{16:28} En forvendt Mand kommer Trætte af Sted, og en Bagvadsker fjerner en fortrolig.
+{16:29} En Voldsmand bedaarer sin Næste og fører ham paa en Vej, som ikke er god.
+{16:30} Hvo der lukker sine Øjne for at optænke forvendte Ting, og hvo som bider sine Læber sammen, har alt fuldbragt det onde.
+{16:31} Graa Haar er en dejlig Krone, naar de findes paa Retfærdigheds Vej.
+{16:32} Den langmodige er bedre end den vældige, og den, som hersker over sin Aand, er bedre end den, der indtager en Stad.
+{16:33} Lodden kastes i Skødet; men den falder, alt soin Herren vil.
+{17:1} Bedre er en tør Bid og Ro derhos end et Hus fuldt af slagtet Kvæg med Trætte.
+{17:2} En klog Tjener skal herske over en Søn, som gør Skam, og han skal dele Arv midt iblandt Brødre.
+{17:3} Diglen er til Sølvet og Ovnen til Guldet; men den, som prøver Hjerterne, er Herren.
+{17:4} Den onde agter paa uretfærdige Læber; Løgneren laaner Øre til den Tunge, der arbejder paa Fordærvelse.
+{17:5} Hvo som bespotter den fattige, forhaaner hans Skaber; hvo som, glæder sig over Ulykke, skal ikke agtes uskyldig.
+{17:6} Børnebørn ere de, gamles Krone, og Børnenes Pryd er deres Fædre.
+{17:7} Det staar ikke en Daare vel an at tale høje Ord, meget mindre en Fyrste at tale Løgn.
+{17:8} Skænk er en yndig Sten i deres Øjne, som modtage den; hvor som helst den vender sig hen, gør den Lykke.
+{17:9} Hvo som skjuler Overtrædelse, søger Kærlighed; men hvo som ripper op i en Sag, fjerner en fortrolig.
+{17:10} Skænd trænger dybere ind hos en forstandig end at slaa en Daare hundrede Gange.
+{17:11} Den onde søger kun at vise Genstridighed, men et grusomt Bud skal sendes imod ham.
+{17:12} Lad en Mand møde en Bjørn som Ungerne fratagne, kun ikke en Daare i hans Taabelighed.
+{17:13} Hvo som gengiver godt med ondt fra hans Hus skal det onde ikke vige.
+{17:14} Hvo som begynder Trætte, aabner for Vand opgiv derfor Trætten, førend den vælter sig frem.
+{17:15} Den som frikender den ugudelige, og den, som kender den retfærdige skyldig, ere begge Herren en Vederstyggelighed.
+{17:16} Hvortil skal dog Penge i Daarens Haand? er det for at købe Visdom, da han dog ikke har Forstand?
+{17:17} En Ven elsker altid, men en Broder fødes til Hjælp i Nød.
+{17:18} Et Menneske, som fattes Forstand, giver Haandslag og gaar i Borgen hos sin Næste.
+{17:19} Hvo der elsker Trætte, elsker Overtrædelse; hvo som søger Undergang, gør sin Dør høj.
+{17:20} Den, som er vanartig i Hjertet, skal ikke finde godt; og den, som taler forvendt med sin Tunge, skal falde i Ulykke.
+{17:21} Den, som avler en Daare, ham bliver det til Bedrøvelse, og en Daares Fader skal ikke glæde sig.
+{17:22} Et glad Hjerte er en god Lægedom; men et nedslaaet Mod udtørrer Benene.
+{17:23} Den ugudelige tager Gave i Smug for at bøje Rettens Stier.
+{17:24} For den forstandiges Ansigt er Visdommen; men en Daares Øjne ere ved Jordens Ende.
+{17:25} En daarlig Søn er sin Fader en Harm og sin Moder en Bedrøvelse.
+{17:26} Det er end ikke godt at lægge Bøder paa den retfærdige eller at slaa ædle Mænd tvært imod Ret.
+{17:27} Den, som sparer sine Ord, besidder Kundskab, og en koldsindig Mand er forstandig.
+{17:28} Ogsaa en Daare, om han tav, kunde regnes for viis; den, som holder sine Læber til, er forstandig.
+{18:1} Særlingen søger sin egen Lyst; han vælter sig ind paa alt det, som staar fast.
+{18:2} Daaren har ikke Behag i Forstand, men deri, at hans Hjerte aabenbarer sig.
+{18:3} Naar en ugudelig kommer, kommer ogsaa Foragt og med Skammen Forhaanelse.
+{18:4} Ord i en Mands Mund ere dybe Vande, en sprudlende Bæk Visdoms Kilde.
+{18:5} Det er ikke godt at anse den ugudeliges Person, at gøre en retfærdig Uret i Dommen.
+{18:6} Daarens Læber blande sig i Trætte, og hans Mund raaber efter Slag.
+{18:7} Daarens Mund er en Fordærvelse for ham selv, og hans Læber ere en Snare for hans Sjæl.
+{18:8} En Bagvadskers Ord lyde som Skæmt, dog trænge de ind i inderste Bug.
+{18:9} Ogsaa den, som er efterladen i sin Gerning, er Broder til den, som er en Ødeland.
+{18:10} Herrens Navn er et fast Taarn, den retfærdige løber til det og bliver beskyttet.
+{18:11} Den riges Gods er hans faste Stad og som en høj Mur i hans egen Tanke.
+{18:12} Foran Undergang hovmoder en Mands Hjerte sig; og foran Ære gaar Ydmyghed.
+{18:13} Naar nogen giver Svar, før han hører, er det ham en Daarskab og Skam.
+{18:14} En Mands Mod opholder ham i hans Sygdom; men naar Modet er nedslaaet, hvo kan bære det?
+{18:15} Den forstandiges Hjerte køber Kundskab, og de vises Øre søger efter Kundskab.
+{18:16} Et Menneskes Gave gør Rum for ham og fører ham frem for store Herrer.
+{18:17} Den, som er den første i sin mætte, synes at have Ret; men hans Modpart kommer og prøver ham.
+{18:18} Lodden gør, at Trætter ophøre, og den gør Skel imellem de mægtige.
+{18:19} En Broder er mere genstridig end en fast Stad, og Trætter med ham ere som Stænger for et Palads.
+{18:20} En Mands Bug skal mættes af hans Munds Frugt, han skal mættes af sine Læbers Frembringelser.
+{18:21} Død og Liv ere i Tungens Vold, og hvo den elsker, skal æde dens Frugt.
+{18:22} Hvo der har fundet en Hustru, har fundet en god Ting og bekommer en Velbehagelighed af Herren.
+{18:23} Den fattige taler med ydmyg Bøn; men en rig svarer med haarde Ord.
+{18:24} En Mand med mange Venner vil finde sig ilde stedt; men der er den Ven, som hænger fnstere ved end en Broder.
+{19:1} Bedre er en fattig, som vandrer i sin Oprigtighed end den, hvis Læber ere forvendte, og som tilmed er en Daare.
+{19:2} Ogsaa naar en Sjæl er uden Kundskab, er det ikke godt, og den, som haster med Fødderne, glider ud.
+{19:3} Menneskets Daarlighed forvender hans Vej, og hans Hjerte vredes imod Herren.
+{19:4} Gods tilfører mange Venner; men den ringe maa skilles fra sin Ven.
+{19:5} Et falsk Vidne skal ikke agtes uskyldigt, og den, som taler Løgn, skal ikke undkomme.
+{19:6} Mange bejle til en Fyrstes Gunst, og enhver er Ven med en gavmild Mand.
+{19:7} Alle den fattiges Brødre hade ham, ja, endog hans Venner holde sig langt fra ham; han jager efter Ord, som ikke ere til.
+{19:8} Den, som forhverver sig Forstand, elsker sit Liv; den, som bevarer Indsigt, skal finde godt.
+{19:9} Et falsk Vidne skal ikke agtes uskyldigt, og den, som taler Løgn, skal omkomme.
+{19:10} Det staar ikke en Daare vel an at leve højt, meget mindre en Tjener at herske over Fyrster.
+{19:11} Et Menneskes Klogskab gør ham langmodig, og det er ham en Ære at overse Fornærmelse.
+{19:12} Kongens Vrede er som en ung Løves Brølen; men hans Bevaagenhed er ligesom Dug paa Urter.
+{19:13} En daarlig Søn er sin Fader en Ulykke, og en Kvindes Trætter ere et vedholdende Tagdryp.
+{19:14} Hus og Gods arves efter Forældre; men en forstandig Kvinde er fra Herren.
+{19:15} Dovenskab nedsænker i en dyb Søvn, og en efterladen Sjæl skal hungre.
+{19:16} Hvo som bevar er Budet, bevarer sin Sjæl; hvo der foragter sine Veje, skal dødes.
+{19:17} Hvo som forbarmer sig over den ringe, laaner Herren, og han skal betale ham hans Velgerning.
+{19:18} Tugt din Søn, thi der er Haab; men vend ikke din Hu til at dræbe ham!
+{19:19} Den, hvis vrede er stor, maa lide Straf; thi dersom du frier ham, da maa du blive ved dermed.
+{19:20} Adlyd Raad, og tag imod Tugt, at du kan blive viis paa dit sidste.
+{19:21} Der er mange Anslag i en Mands Hjerte; men Herrens Raad det skal bestaa.
+{19:22} Et Menneskes Lyst er hans Kærlighed; og en fattig er bedre end en Løgner.
+{19:23} At en frygter Herren, er til Liv; mæt skal han hvile, han skal ikke hjemsøges med Ulykke.
+{19:24} Den lade stikker sin Haand i Fadet; han lader den end ikke komme til sin Mund igen.
+{19:25} Slaa Spotteren, at den uerfarne maa blive forstandig og irettesæt den forstandige, saa vil han vinde Kundskab.
+{19:26} Den, der overfalder Faderen og bortager Moderen, er en Søn, som gør til Skamme og Vanære.
+{19:27} Lad kun af, min Søn! med at høre paa Formaning, saa du farer vild fra Kundskabs Ord.
+{19:28} Et nedrigt Vidne spotter Retten, og de ugudeliges Mund sluerr Uret.
+{19:29} Straftedomme ere beredte til Spottere og Slag til Daarers Ryg.
+{20:1} Vin er en Spotter, stærk Drik en Larmer, og hver som raver deraf, bliver ikke viis.
+{20:2} Den Forfærdelse, en Konge vækker, er som en ung Løves Brølen; den, som fortørner ham, synder imod sit Liv.
+{20:3} Det er en Ære for en Mand at blive fra Trætte, men hver Daare vælter sig ind i den.
+{20:4} Fordi det er Vinter, vil den lade ikke pløje; om Høsten vil han søge, og der er intet.
+{20:5} Raad i en Mands Hjerte er dybt Vand, men en forstandig Mand drager det op.
+{20:6} Mange Mennesker udraabe hver sin Kærlighed; men hvo flnder en trofast Mand?
+{20:7} Der, som vandrer frem i sin Oprigtighed, er retfærdig; lyksalige ere hans Børn efter ham.
+{20:8} En Konge, som sidder paa Domstolen, udskiller alle onde med sine Øjne.
+{20:9} Hvo kan sige: Jeg har renset mit Hjerte; jeg er ren for min Synd?
+{20:10} To Slags Vægt og to Slags Efa, de ere begge en Vederstyggelighed for Herren.
+{20:11} Ogsaa af sine Gerninger kendes den unge, om han er ren, og om hans Gerninger ret.
+{20:12} Et Øre, som hører, og et Øje, som ser, ogsaa dem begge har Herren gjort.
+{20:13} Elsk ikke Søvn, at du ikke skal blive fattig; slaa dine Øjne op, saa skal du mættes af Brød.
+{20:14} Det er slet det er slet! siger Køberen; men naar han gaar bort, da roser han sig.
+{20:15} Der er Guld og mange Perler til; men Kundskabs Læber ere et dyrebart Kar.
+{20:16} Naar en gaar i Borgen for en fremmed, saa tag hans Klæder; og tag Pant af ham, naar det er for den ubekendte.
+{20:17} Brød, tjent ved Bedrag, smager en Mand vel; men siden bliver hans Mund fuld af Grus.
+{20:18} Beslutninger efter Raadslagning bestaa; før da Krig efter fornuftig Ledelse!
+{20:19} Den, der gaar om som en Bagvadsker, aabenbarer Hemmellgheder; og lndlad dig ikke med den, som er aabenmundet.
+{20:20} Hvo som bander sin Fader eller sin Moder, hans Lampe skal udslukkes midt i Mørket.
+{20:21} Den Arv som man i Førstningen higer efter; den skal ikke velsignes paa det sidste.
+{20:22} Sig ikke: Jeg vil betale ondt; bi efter Herren, og han skal frelse dig.
+{20:23} To Slags Vægt er en Vederstyggelighed for Herren, og falske have vægret sig ved Vægtskaaler ere ikke gode.
+{20:24} Mands Gang er af Herren, og hvad forstaar et Menneske sig paa sin Vej?
+{20:25} Det er Mennesket en Snare ubesindigt at sige: "Helligt!" og først efter Løfterne betænke det.
+{20:26} En viis Konge udskiller de ugudelige og lader Hjulet gaa over dem.
+{20:27} Menneskens Aand er en Lampe fra Herren; den ransager alle Lønkamre i hans Indre.
+{20:28} Miskundhed og Sandhed bevare en Konge, og han støtter sin Trone ved Miskundhed.
+{20:29} En Pryd for de unge er deres Kraft, og et Smykke for de gamle ere de graa Haar.
+{20:30} En Salvelse for den onde ere Striber af Saar og Slag, der trænge dybt ind i hans Krop.
+{21:1} Kongens Hjerte i Herrens Haand er Vandbække; til alt det, han vil, bøjer han det.
+{21:2} Alle en Mands Veje ere rette for hans egne Øjne; men Herren vejer Hjerter.
+{21:3} At øve Retfærdighed og Ret er Herren kærere end Offer.
+{21:4} Øjnenes Hovmod og Hjertets Stolthed, de ugudeliges Lampe, er Synd.
+{21:5} Den flittiges Tanker bringe kun Overflod, men den ilfærdiges bringe det kun til Mangel.
+{21:6} At arbejde paa at samle Liggendefæ ved en falsk Tunge er Dunst, som bortvejres hos dem, som søge Døden.
+{21:7} De ugudeliges ødelæggelse river dem bort; thi de have vægret sig ved at gøre Ret.
+{21:8} En skyldbetynget Mand gaar Krogveje; men den renes Gerning er ligefrem.
+{21:9} Det er bedre at bo i et Hjørne paa Taget End hos en trættekær Kvinde og i Hus sammen.
+{21:10} Den ugtideliæs Sjæl har Lyst til det onde; hans Ven finder ikke Naade for hans Øjne.
+{21:11} Naar man lægger Straf paa en Spotter, bliver den uerfarne viis, og naar man belærer den vise, skal han modtage Kundskab.
+{21:12} Den retfærdige agter paa den ugudeliges Hus, naar det styrter de ugudelige i Ulykke.
+{21:13} Hvo som stopper sit øre for den ringes Raab, han, ja, han skal raabe og ikke bønhøres.
+{21:14} En Gave i Løndom stlller Vrede, og en Skænk i Smug stiller heftig Fortørnelse.
+{21:15} Det bliver den retfærdige en Glæde at have gjort Ret; men der er Fordærvelse for dem, som gøre Uret.
+{21:16} Et Menneske, som farer vild fra Klogskabs Vej, skal hvile i Dødningers Forsamling.
+{21:17} Den, som elsker Glæde, skal have Mangel; den, som elsker Vin og Olie, skal ikke blive rig.
+{21:18} Den ugudelige bliver Løsepenge for den retfærdige og den troløse for de oprigtige.
+{21:19} Det er bedre at bo i et Øde Land end hos en trættekær og arrig Kvinde.
+{21:20} I den vises Bolig er der kosteligt Liggendefæ og Olie; men et daarligt Menneske opsluger det.
+{21:21} Hvo der søger efter Retfærdighed og Miskundhed, skal finde Liv, Retfærdighed og Ære.
+{21:22} Den vise stormede de vældiges Stad og nedstyrtede dens sikre Værn.
+{21:23} Hvo der bevarer sin Mund og sin Tunge, bevarer sin Sjæl fra Trængsler.
+{21:24} Den pralende stolte, hans Navn er Spotter; han handler i Stoltheds Overmod.
+{21:25} Den lades Begæring dræber ham; thi hans Hænder have vægret sig ved at gøre noget.
+{21:26} Han begærer og begærer den hele Dag; men den retfærdige giver og holder ikke tilbage.
+{21:27} De ugudeliges Offer er en Vederstyggelighed, meget mere naar de bringe det med et skændigt Forsæt.
+{21:28} Et løgnagtigt Vidne skal omkomme; men en Mand, som hører skab, efter, vil altid kunne tale igen.
+{21:29} En ugudelig Mand forhærder sit Ansigt; men den oprigtige han befæster sin Vej.
+{21:30} Der gælder ikke Visdom, ej heller Forstand, ej heller Raad over for Herren.
+{21:31} Krigens Dag, men Frelsen hører Herren til.
+{22:1} Et godt Navn er at foretrække for stor Rigdom; Gunst er bedre end Sølv og Guld.
+{22:2} Rig og fattig mødtes; Herren har skabt dem alle.
+{22:3} Den kloge saa Ulykken og skjulte sig; men de uerfarne gik frem og maatte bøde.
+{22:4} Løn for Sagtmodighed og Herrens Frygt er Rigdom og Ære og Liv.
+{22:5} Torne og Snarer ere paa den forvendtes Vej; den som vil bevare sin Sjæl, holde sig langt fra dem.
+{22:6} Oplær den unge efter hans Vejs Beskaffenhed; endog naar han bliver gammel, skal han ikke vige derfra.
+{22:7} Den rige hersker over de fattige; og den, som hans tager til Laans, bliver Træl for den Mand, som udlaaner.
+{22:8} Hvo som saar Uret, skal høste Ulykke, og hans Grumheds Ris skal tages bort.
+{22:9} Den, som har et godt Øje, skal velsigne thi han gav den ringe af sit Brød.
+{22:10} Uddriv Spotteren, saa gaar Trætten med, saa skal Kiv og Forsmædelse høre op.
+{22:11} Den, som elsker Hjertets Renhed, hvis Læber ere yndige, hans Ven er Kongen.
+{22:12} Herrens Øjne vaage over Kundskab, og han kuldkaster den troløses Ord.
+{22:13} Den lade siger: Der er en Løve derude, jeg kunde blive revet ihjel midt paa Gaderne.
+{22:14} Fremmede Kvinders Mund er en dyb Grav; den, Herren er vred paa, esten beredes til skal falde deri.
+{22:15} Daarlighed er knyttet til den unges Hjerte; Tugtens Ris skal drive den langt fra ham.
+{22:16} Hvo som fortrykker den ringe for at formere sit eget, og hvo som giver en rig, skal kun have Mangel.
+{22:17} Bøj dit Øre, og hør de vises Ord, og vend dit Hjerte til min Kundskab!
+{22:18} Thi det er yndigt, dersom du bevarer dem i dit Indre; de skulle alle være rede paa dine Læber.
+{22:19} Paa det at din Tillid skal være til Herren, har jeg kundgjort det i Dag for dig, ja, for dig.
+{22:20} Har jeg ikke skrevet dig ypperlige Ting med Raad og Undervisning
+{22:21} for at kundgøre dig, hvad der er vist Sandheds Ord, at du kan svare dem, som sendte dig, Ord, som ere Sandhed?
+{22:22} Røv ikke fra den ringe, og knus ikke den elendige for Retten.
+{22:23} Thi Herren skal udføre deres Sag, og dem, som berøve dem, skal han berøve Livet.
+{22:24} Hold ikke Selskab med en vredagtig Mand, og kom ikke til en hidsig Mand,
+{22:25} at du ej skal lære Stier og faa en Snare for din Sjæl.
+{22:26} Vær ikke iblandt dem, som give Haandslag, iblandt dem, som borge for Gæld.
+{22:27} Dersom du intet har at betale med, hvorfor skulde man tage din Seng bort, under dig?
+{22:28} Flyt ikke det gamle Landemærke, som dine Fædre have sat.
+{22:29} Ser du en Mand, som er snar i sin Gerning, han skal stille sig frem for Konger, han skal ikke stille sig frem for uansete Mænd.
+{23:1} Naar du sidder til Bords hos en Hersker, da agt vel paa, hvad der staar for dit Ansigt,
+{23:2} og at du sætter en Kniv paa din Strube, hvis du har Begærlighed.
+{23:3} Fat ikke Lyst til hans Livretter, da det er bedragerisk Mad.
+{23:4} Anstreng dig ikke for at blive rig, brug ej din Forstand dertil!
+{23:5} Skulde du lade dine Øjne flyve efter det, da det ikke er der? thi det skal gsre sig Vinger som en Ørn, der flyver imod Himmelen.
+{23:6} Æd ikke Brød hos den, der har et ondt Øje, og hav ikke Lyst til hans Livretter!
+{23:7} Thi ligesom han tænker i sit Hjerte, saa er han; han siger til dig: Æd og drik; men hans Hjerte er ikke med dig.
+{23:8} Din Mundfuld, som du har spist, skal du udspy og have spildt dine liflige Ord.
+{23:9} Tal ikke for Daarens Øren; thi han foragter din Tales Klogskab.
+{23:10} Flyt ikke det gamle Landemærke og kom ikke paa de faderløses Agre!
+{23:11} Thi deres Løser er stærk; han skal udføre deres Sag imod dig.
+{23:12} Vend dit Hjerte til Undervisning og dine Øren til Kundskabs Ord!
+{23:13} Vægre dig ikke ved at tugte den unge; thi slaar du ham med Riset, dør han ikke deraf
+{23:14} Du skal slaa ham med Riset og fri hans Sjæl fra Dødsriget.
+{23:15} Min Søn! dersom dit Hjerte er viist, skal ogsaa mit Hjerte glæde sig,
+{23:16} og mine Nyrer skulle fryde sig, naar dine Læber tale Retvished.
+{23:17} Lad dit Hjerte ikke være misundeligt imod Syndere, men bliv hver Dag i Herrens Frygt!
+{23:18} Thi kommer der en Eftertid, saa vil din Forhaabning ikke tilintetgøres.
+{23:19} Hør du, min Søn! og bliv viis, og lad dit Hjerte gaa lige frem ad Vejen.
+{23:20} Vær ikke iblandt Vindrankere, iblandt dem, som fraadse i Kød.
+{23:21} Thi en Dranker og Fraadser skal blive fattig; og Søvn klæder en i Pjalter.
+{23:22} Adlyd din Fader, som avlede dig, og foragt ikke din Moder, naar hun bliver gammel.
+{23:23} Køb Sandhed, og sælg den ej, saa og Visdom, Lærdom og Forstand.
+{23:24} Den retfærdiges Fader skal fryde sig; den, som avler en viis, skal glædes ved ham.
+{23:25} Lad din Fader og din Moder glædes, og lad hende, som fødte dig, fryde sig!
+{23:26} Min Søn! giv mig dit Hjerte, og lad dine Øjne have Behag i mine Veje.
+{23:27} Thi Skøgen er en dyb Grav og den fremmede Kvinde en snæver Brønd.
+{23:28} Hun ligger paa Lur som efter Rov og formerer Tallet paa de troløse iblandt Menneskene.
+{23:29} Hvo har Ak? hvo har Ve? hvo har Trætter? hvo har Bekymring? hvo har Saar uden Skel? hvo har røde Øjne?
+{23:30} De, som sidde længe ved Vinen, de, som gaa ind at prøve den stærke Drik.
+{23:31} Se ikke til Vinen, hvor den er rød, hvor den perler i Bægeret; glat gaar den ned.
+{23:32} Til sidst skal den bide som en Slange og stikke som en Basilisk;
+{23:33} dine Øjne ville se efter fremmede Kvinder, og dit Hjerte vil tale forvendte Ting;
+{23:34} og du vil blive som den, der sover midt paa Havet, og som den, der sover paa Toppen af Masten
+{23:35} De sloge mig, det smertede mig ikke; de stødte mig, jeg fornam det ikke; naar skal jeg opvaagne? jeg vil søge den endnu engang.
+{24:1} Vær ikke misundelig paa onde Mennesker, og hav ikke Lyst til at være hos dem!
+{24:2} Thi deres Hjerte grunder paa ødelæggelse, deres Læber udtale, hvad der er til Fortræd.
+{24:3} Ved Visdom begges et Hus, og ved Forstand befæstes det;
+{24:4} og ved Kundskab blive amrene fulde af alt dyrebart og yndigt Gods.
+{24:5} En viis Mand er stærk, og en kyndig Mand styrker sin Kraft.
+{24:6} Thi efter Vejlednlng skal du føre din Krig, og hvor mange Raadgivere ere, der er Frelse.
+{24:7} Visdommen er for høj for en Daare, for Retten skal han ikke oplade sin Mund.
+{24:8} Hvo som tænker paa at gøre ondt, ham kalder man en skalkagtig Mand.
+{24:9} Daarskabs Anslag er Synd, og Spotter er en Vederstyggeliahed iblandt Folk.
+{24:10} Du viste Svaghed paa Naadens dag; din Kraft var ringe.
+{24:11} Red dem, som føres til Døden, dem, som vaklende drage en at miste Livet; maatte du dog holde dem tilbage!
+{24:12} Naar du siger: "Se, vi kende det ikke, mon da ikke den, som prøver Hjerter, forstaar det, og den, som taber Vare paa din Sjæl, kender det, saa at han betaler dets Gerning?
+{24:13} Æd Honning, min Søn! thi den er god, og Honningkage er sød for din Gane;
+{24:14} lær saaledes Visdom for din Sjæl; naar du finder den, og der er en Eftertid skal din Forhaabning ikke tilntetgøres.
+{24:15} Lur ikke, du ugudelig paa den retfærdiges Bolig; Ødelæg ikke hans Hjem!
+{24:16} Thi en retfærdig kan falde syv Gange og staa op igen; men de ugudelige skulle styrte i Ulykken.
+{24:17} Glæd dig ikke, naar din Fjende falder, og lad dit Hjerte ikke fryde sig, naar han snubler;
+{24:18} at ikke Herren skal se det, og det maatte være ondt i hans Øjne, og han skel vende sin Vrede fra ham til dig.
+{24:19} Lad ikke din Vrede optændes imod de onde; vær ikke og misundelig paa de ugudelige!
+{24:20} Thi den onde skal ingen, Eftertid have; de ugudeliges Lampe skal udslukkes.
+{24:21} Min Søn! Frygt Herren og Kongen; bland dig ikke iblandt dem, der hige efter Forandringer!
+{24:22} Thi Ulykke fra dem kommer hastelig, og Fordærvelse fra dem begge - hvo kender den?
+{24:23} Ogsaa dette er af de vise: At anse Personer i Dommen er ikke godt.
+{24:24} Hvo som siger til den skyldige: Du er retfærdig, ham skulle Folkeslægter for ham.
+{24:25} Men dem, som straffe ham, en skal det gaa vel, og der skal komme en god Velsignelse over dem.
+{24:26} Kys paa Læber giver dem, som svarer med rette Ord.
+{24:27} Beskik din Gerning derud, og gør den færdig for dig paa Ageren; byg saa siden dit Hus!
+{24:28} Bliv ikke letsindigt Vidne imod din Næste; og du skulde besvige med dine Læber?
+{24:29} Sig ikke: Ligesom han gjorde mig, saa vil jeg gøre ham; jeg vil betale enhver efter hans Gerning.
+{24:30} Jeg gik over en lad Mands Ager og over et uforstandigt Menneskes Vingaard,
+{24:31} og se, den var aldeles løbet op i Tidsler, dens Overflade var skjult med Nælder, og Stengærdet derom var nedbrudt.
+{24:32} Der jeg saa det, lagde jeg mig det paa Hjerte; jeg saa til, jeg annammede en Lærdom:
+{24:33} At sove lidt, at slumre lidt, at folde Hænderne lidt for at ligge -,
+{24:34} saa skal din Armod komme som en Vandringsmand og din Mangel som skjoldvæbnet Mand.
+{25:1} Disse ere ogsaa Salomos Ordsprog, hvilke Judas Konge, Ezekias's Mænd have samlet.
+{25:2} Det er Guds Ære at skjule en Ting, men det er Kongers Ære at ransage en Ting.
+{25:3} Himmelen i Højhed og Jorden i Dybde og Kongers Hjerte ere uransagelige.
+{25:4} Man borttog Slaggerne fra Sølvet, saa fik Guldsmeden et Kar ud deraf;
+{25:5} man borttage den ugudelige, som er for Kongens Ansigt, saa skal hans Trone befæstes ved Retfærdighed.
+{25:6} Bram ikke for Kongens Ansigt, og stil dig ikke paa de mægtiges Sted!
+{25:7} Thi det er bedre, at man siger til dig: Stig her op! end at man skal sætte dig ned for en Fyrstes Ansigt, som dine Øjne have set.
+{25:8} Gak ikke hastelig ud for at trætte, at du ikke skal begaa noget som helst paa det sidste, naar din Næste har beskæmmet dig.
+{25:9} Før din Sag imod din Næste; men aabenbar ikke en andens Hemmelighed,
+{25:10} paa det den, som det hører, ikke skal forhaane dig, og dit onde Rygte ikke vige fra dig.
+{25:11} Som Guldæbler i Sølvskøler af udgravet Arbejde er det Ord, som tales i rette Tid.
+{25:12} Som et gyldent Smykke og en kostelig Prydelse vil den, som irettessætter viselig, være det for Øre, som hører efter.
+{25:13} Som Sneens Kølighed paa en Høstdag er et trofast Bud for dem, som sende ham, og han vederkvæger sin Herrers Sjæl.
+{25:14} Som raage og Vejr uden Regn er den Mand, som praler med at ville give, men skuffer.
+{25:15} Ved Langmodighed overtales en Fyrste, og en blød Tunge sønderbryder Ben.
+{25:16} Har du fundet Honning, saa spis til din Nødtørft, at du ej skal mættes af den og udspy den.
+{25:17} Lad din Fod sjælden komme i din Vens Hus, at han ej skal blive ked af dig og hade dig.
+{25:18} Som en Hammer og et Sværd og en hvas Pil er den Mand, som siger falsk Vidnesbyrd imod sin Næste.
+{25:19} Som en skør Tand og en Fod, der snubler, er Tillid til den troløse paa Nødens Dag.
+{25:20} Som den, der aflægger Klæderne den Dag, det er koldt, som Eddike paa Salpeter, saa er den, som synger Sange for et bedrøvet Hjerte.
+{25:21} Dersom din Fjende hungrer, giv ham Brød at æde; og dersom han tørster, giv ham Vand at drikke;
+{25:22} thi du skal samle Gløder paa hans Hoved, og Herren skal betale dig det.
+{25:23} Nordenvejret føder Regn og den Tunge, som taler i Skjul, et vredt Ansigt.
+{25:24} Det er bedre at bo i Hjørnet paa et Tag end hos en trættekær Kvinde og i Hus sammen.
+{25:25} Som koldt Vand for en træt Sjæl, saa er et godt Budskab fra et langt fraliggende Land.
+{25:26} Som en plumret Kilde og en fordærvet Brønd er den retfærdige, som snubler for en ugudelig.
+{25:27} At æde megen Honning er ikke godt, ej heller er det en Ære, naar Folk ransage deres egen Ære.
+{25:28} Som en gennembrudt Stad uden Mur saa er en Mand som ikke kan tvinge sin Aand.
+{26:1} Som Sneen om Sommeren og som Regnen om Høsten saa passer Ære ikke for en Daare.
+{26:2} Som en Spurv i Fart, som en Svale i Flugt saaledes vil en Forbandelse, som sker uden Aarsag, ikke træffe ind.
+{26:3} En Svøbe er for Hesten og en Tømme for Asenet og et Ris for Daarers Ryg.
+{26:4} Svar ej en Daare efter hans Taabelighed, at ikke ogsaa du skal blive ham lig.
+{26:5} Svar en Daare efter hans Taabelighed, at han ikke skal være viis i sine egne Øjne.
+{26:6} Fødderne hugger den af sig, og Fortrædelighed maa den drikke, som sender Bud ved en Daare.
+{26:7} Tager Benene fra den halte og Tankesproget bort, som er i Daarers Mund.
+{26:8} Som den, der binder Stenen fast i Slynten, saa er den, der giver en Daare Ære.
+{26:9} Som en Tjørnekæp, der kommer i den druknes Haand, saa er Tankesproget i Daarers Mund.
+{26:10} Som en Pil; der saarer alt, saa er den, der lejer en Daare, og den, der lejer vejfarende.
+{26:11} Ligesom en Hund vender sig til sit eget Spy, saa er Daaren, som gentager sin Taabelighed.
+{26:12} Har du set en Mand, som er viis i sine egne Øjne, da er der mere Forhaabning om en Daare end om ham.
+{26:13} Den lade siger: Der er en grum Løve paa Vejen, en Løve paa Gaderne.
+{26:14} Som Døren drejer sig om paa sine Hængsler, saa den lade paa sin Seng.
+{26:15} Den lade stikker sin Haand i Fadet; det bliver ham besværligt at lade den komme til sin Mund i en.
+{26:16} Den lade er visere i sine egne Øjne end syv, som svare forstandigt.
+{26:17} Som den, der griber Hunden fat ved Ørene, saa er den, der gaar forbi og kommer i Vrede over en Trætte, der ikke kommer ham ved.
+{26:18} Som en gal, der udkaster Gnister, Pile og Død,
+{26:19} saa er den siger: Skæmter jeg ikke?
+{26:20} Naar der intet Ved er mere udslukkes Ilden; og naar der inæn Bagvadsker er, stilles Trætte.
+{26:21} Kul til Gløder og Ved til Ild: Saa er en trættekær Mand til at optænde Kiv.
+{26:22} En Bagvadskers Ord lyde som Skæmt, dog trænge de irld i inderste Bug.
+{26:23} Som et Potteskaar, der er overdraget med urent Sølv, saa ere brændende Læber og et ondt Hjerte.
+{26:24} Den hadefulde forstiller sig med sine Læber, men inden i sig nærer han Svig.
+{26:25} Naar han gør sin Røst yndig, da tro ham ikke; Vederstyggeligheder i hans Hjerte.
+{26:26} Den, hvis Had skjult ved Bedrag, hans Ondskab skal blive aabenbaret i Forsamlingen.
+{26:27} Hvo som graver en Grav, gaa skal selv falde i den; og hvo som vælter en Sten op, paa ham skal den falde tilbage.
+{26:28} En falsk Tunge hader dem, som den har knust, og en glat Mund bereder Fald.
+{27:1} Ros dig ikke af den Dag i Morgen; thi du ved ikke, hvad Dagen vil føde.
+{27:2} Lad en fremmed rose dig og ikke din egen Mund; en anden og ikke dine egne Læber!
+{27:3} Stenen er svar, og Sandet er tungt; men Daarens Fortørnelse er svarere end begge.
+{27:4} Hidsighed er grum, og Vrede strømmer over; men hvo kan staa for Skinsyge?
+{27:5} Aabenbar Irettesættelse er bedre end skjult Kærlighed.
+{27:6} Saar af en Elsker ere velmente, men den hadefuldes Kys ere rigelige.
+{27:7} En mæt Sjæl vrager Honningkage; men alt besk er sødt for en hungrig Sjæl.
+{27:8} Ligesom en Spurv, der flagrer om borte fra sin Rede, saa er en Mand, der vanker omkring borte fra sit Sted.
+{27:9} Olie og Røgelse glæde Hjertet, og en Vens Sødhed glæder, naar den kommer fra hans Sjæls Raad.
+{27:10} Forlad ikke din Ven og din Faders Ven, og gak ikke i din Broders Hus paa din Nøds Dag; hedre er en Nabo nær hos end en Broder langt borte.
+{27:11} Vær viis, min Søn! og glæd mit Hjerte, paa det jeg kan svare den, som forhaaner mig.
+{27:12} Den kloge saa Ulykken og skjulte sig; men de uerfarne gik frem og maatte bøde.
+{27:13} Naar en gaar i Borgen for en fremmed, tag saa hans Klæder, og tag Pant af ham for den fremmede Kvindes Skyld.
+{27:14} Hvo som velsigner sin Næste med høj Røst aarle om Morgenen, ham skal det regnes for en Forbandelse.
+{27:15} Et vedholdende Tagdryp paa en Regndag og en trættekær Kvinde ligne hinanden.
+{27:16} Hver som søger at skjule hende, skjuler Vind, og hans højre Haand griber i Olie.
+{27:17} Jern skærpes ved Jern, og en Mand skærpes over for hans Næstes Ansigt.
+{27:18} Hvo, som bevarer et Figentræ, skal æde Frugt deraf, og hvo der tager Vare paa sin Herre, skal æres.
+{27:19} Ligesom i Vandet Ansigt er imod Ansigt, saa er et Menneskes Hjerte imod et Menneske.
+{27:20} Dødsriget og Afgrunden kunne ikke mættes, saa kunne og Menneskens Øjne ikke mættes.
+{27:21} Diglen er til Sølvet og Ovnen til Guldet, og en Mand prøves efter, hvad han roser.
+{27:22} Dersom du vilde støde en Daare i Morteren med Støderen midt iblandt Gryn, skal hans Daarskab dog ikke vige fra ham.
+{27:23} Du skal grant kende dine Faars Udseende; sæt din Hu til Hjordene!
+{27:24} Thi Gods er ikke evindelig, og mon en Krone varer fra Slægt til Slægt?
+{27:25} Naar Høet er bortført, saa lader Græsset sig se igen, og Urterne paa Bjergene sankes.
+{27:26} Lammene ere til dine Klæder, og Bukke ere en Ager værd.
+{27:27} Og du har Gedemælk nok til Føde for dig, til Føde for dit Hus, og Livs Ophold til dine Piger.
+{28:1} De ugudelige fly, og der er ingen, som forfølger dem; men de retfærdige ere trygge som en ung Løve.
+{28:2} Formedelst Landets Overtrædelse blive dets Fyrster mange; men iblandt Folk, der have Forstand og ondskab, lever han længe.
+{28:3} Er han en fattig Mand, og trykker han den ringe, da bliver han som en Regn, der bortskyller, sea at der ikke bliver Brød.
+{28:4} De, som forlade Loven, rose de ugudelige; men de, som bevare Loven, strides med dem.
+{28:5} Onde Folk forstaar ikke Ret men de, som søge Herren forstaa alting.
+{28:6} Bedre er en fattig, som vanrlrer i sin Oprigtighed, end den forvendte, som vandrer paa tvende Veje, om han end er rig.
+{28:7} Den, som bevarer Loven, er en forstandig Søn; men den, som har Omgang med Fraadsere, beskæmmer sin Fader.
+{28:8} Hvo som formerer sit Gods ved Aager og Rente, samler det til at skænkes de ringe.
+{28:9} Hvo som vender sit Øre bort fra at høre Loven, endog hans Bøn er en Vederstyggelighed.
+{28:10} Hvo som leder de retsindige vild paa Ondskabs Vej, han skal falde i sin egen Grav; men de oprigtige skulle arve, hvad godt er.
+{28:11} En rig Mand er viis i sine egne Øjne; men den ringe, som er forstandig, skal ransage ham.
+{28:12} Naar de retfærdige fryde sig, da er der stor Herlighed; men naar ugudelige rejse sig, skal man lede efter Folk.
+{28:13} Den, som skjuler sine Overtrædelser, skal ikke have Lykke; men den, som bekender dem og afstaar fra dem, skal faa Barmhjertighed.
+{28:14} Saligt er det Menneske, som altid frygter; men den, som forhærder sit Hjerte, skal falde i Ulykke.
+{28:15} Som en brølende Løve og en omstrejfende Bjørn er den ugudelige, der hersker over et fattigt Folk.
+{28:16} En Fyrste, som fattes Forstand, er og en stor Undertrykker; men hvo der hader uretfærrdig Vinding, skal forlænge sine Dage.
+{28:17} Et Menneske, betynget med ell Sjæls Blod, flyr til Graven; man holde ikke paa ham.
+{28:18} Hvo som vandrer oprigtigt, skal frelses; men hvo som er forvendt og vandrel paa tvende Veje, skal falde paa een af dem.
+{28:19} Hvo som dyrker sin Jord, skal mættes af Brød; men den, som; løber efter Løsgængere,
+{28:20} skal mættes som haster efter at blive rig, skal ikke kendes uskyldig.
+{28:21} Det er ikke godt at anse Personer; og dog kan en Mand forsynde sig for et Stykke Brøds Skyld.
+{28:22} En Mand med et ondt Øje haster efter Gods og ved ikke, at Mangel skal komme over ham.
+{28:23} Hvo der irettesætter et Menneske, skal derefter finde mere Gunst end den, som smigrer med Tungen.
+{28:24} Hvo der stjæler fra sin Fader eller sin Moder og siger: Det er ingen Synd, han er Stalbroder til en Ødeland.
+{28:25} Den; hvis Sjæl er stolt, vækker Trætte; men den, som forlader sig paa Herren, skal blive rig.
+{28:26} Hvo som forlader sig paa sit Hjerte, han er en Daare; men den, som vandrer i Visdom, han skal reddes.
+{28:27} Hvo som giver den fattige, skal ikke have Mangel; men over den, som lukker sine Øjne til, skal der være lnange Forbandelser.
+{28:28} Naar de ugudelige rejse sig, skjule Folk sig; men naar de omkomme, ville de, retfærdige blive mange.
+{29:1} Den Mand, som forhærder sin Nakke, vil tidt blive straffet; hastelig skal han sønderknuses, og der skal ingen Lægedom være.
+{29:2} Naar der bliver mange retfærdige, skal Folket glædes; men naar en ugudelig hersker, skal Folket sukke.
+{29:3} En Mand, som elsker Visdom, glæder sin Fader; men hvo, som omgaas med Skøger, vil øde sit Gods.
+{29:4} En Konge befæster Landet ved Ret; men en Mand. som tager Gaver, nedbryder det.
+{29:5} En Mand, som smigrer for sin Næste, udbreder et Garn for hans Fødder.
+{29:6} Den onde Mands Overtrædelse er ham en Snare; men den retfærdige kan fryde og glæde sig.
+{29:7} En retfærdig kender de ringes Sag; den ugudelige forstaar sig ikke paa Kundskab.
+{29:8} Mænd, som ere Spottere, ophidse en Stad; men de vise stille Vreden.
+{29:9} Naar en viis Mand gaar i Rette med en taabelig Mand, bliver denne vred og ler, og der bliver ingen Ro.
+{29:10} Blodgerrige Mænd hade den retsindige; men de oprigtige drage Omhu for hans Liv.
+{29:11} En Daare udlader al sin Hidsighed, men en viis skal omsider stille den.
+{29:12} Naar en Hersker agter paa Løgnens Ord, blive alle hans Tjenere ugudelige.
+{29:13} En fattig og en Undertrykker mødes; Herren giver begges Øjne Lys.
+{29:14} En Konge, som dømmer de ringe efter Sandhed, hans Trone skal stadfæstes evindelig.
+{29:15} Ris og Revselse give Visdom; men en Dreng, som overlades til sig selv, beskæmmer sin Moder.
+{29:16} Naar der bliver mange ugudelige, bliver der megen Overtrædelse; men de retfærdige skulle se paa deres Fald.
+{29:17} Tugt din Søn, saa skal han skaffe dig Ro og bringe din Sjæl Glæder.
+{29:18} Naar der ikke er profetiske Syner, bliver et Folk tøjlesløst; men den, som bevarer Loven, han er lyksalib.
+{29:19} Med Ord tugtes ikke en Træl; thi han mærker det nok og svarer ikke.
+{29:20} Ser du, at en Mand er hastig i sine Ord, da er der mere Forhaabning om en Daare end om ham.
+{29:21} Forkæler en sin Træl fra hans Ungdom af, da vil han til sidst være en Søn.
+{29:22} En vredagtig Mand opvækker rrætte, og en hidsig Mand begaar megen Overtrædelse.
+{29:23} Menneskets Hovmod nedtrykker ham; men den ydmyge vinder Ære.
+{29:24} Hvo som deler med en Tyv, hader sin Sjæl; han hører Besværgelsen og giver det ikke til Kende.
+{29:25} At forfærdes for et Menneske fører i Snare; inden den, som forlader sig paa Herren, bliver beskærmet.
+{29:26} Mange søge en Herskers Ansigt; men fra Herren er en Mands Ret.
+{29:27} En uretfærdig Mand er de retfærdige en Vederstyggelighed; og den, hvis Vej er ligefrem, er den ugudelige en Vederststyggelighed.
+{30:1} Agurs, Jakes Søns Ord, det varslende Ord, Udsagnet af Manden, til Ithiel, til Ithiel og Ukal.
+{30:2} Jeg var ufornuftigere end en Mand, og jeg havde ikke Forstand som et Menneske.
+{30:3} Og jeg havde ikke lært Visdom eller kendt Kundskab om den Hellige.
+{30:4} Hvo for op til Himmelen og for ned? Hvo bandt Vandet i et Klædebon? hvo har fstsat alle Jordens Grænser? hvad er hans Navn? og hvad er hans Søns Navn? du ved det jo.
+{30:5} Alt Guds Ord er lutret; han er et Skjold for dem, som forlade sig paa ham.
+{30:6} Læg intet til hans Ord, at han ikke skal straffe dig, og du skal staa som en Løgner.
+{30:7} Om tvende Ting har jeg bedet dig; nægt mig dem ej, før jeg dør:
+{30:8} Lad Forfængelighed og Løgnens Ord være langt fra mig; giv mig ikke Armod eller Rigdom, men tildel mig mit beskikkede Brød;
+{30:9} at jeg ikke, naar jeg mættedes, skulde fornægte dig og sige: Hvo er Herren? eller naar jeg blev fattig, skulde stjæle og forgribe mig paa min Guds Navn.
+{30:10} Bagtal ikke en Træl for hans Herre, at han ikke skal forbande dig, og du skal bære Skyld.
+{30:11} Der er en Slægt, som bander sin Fader og ikke velsigner sin Moder;
+{30:12} der er en Slægt, som er ren i sine egne Øjne, og hvis Skarn dog ikke er aftoet;
+{30:13} der er en Slægt, hvis Øjne ere høje, og hvis Øjenlaage hæve sig i Vejret;
+{30:14} der er en Slægt, hvis Tænder ere Sværd, og hvis Kindtænder ere Knive, som vil fortære de elendige i Landet og de fattige iblandt Menneskene.
+{30:15} Blodsugersken, har to Døtre, "giv hid! giv hid!" Der er tre, som ikke kunne mættes, fire, som ikke sige: "Nok!"
+{30:16} Dødsriget og det ufrugtbare Moderliv; Jorden bliver ikke mæt af Vand, og Ilden siger Ikke: "Nok!"
+{30:17} Et Øje, som spotter Faderen, og lader haant om at lyde Moderen, det skulle Ravnene ved Bækken udhugge; og Ørneunger skulle æde det.
+{30:18} Tre Ting ere mig for underlige; og fire Ting kender jeg ikke:
+{30:19} Ørnens Vej imod Himmelen, Slangens Vej over Klippen, Skibets Vej midt paa Havet, og en Mands Vej til en Jomfru.
+{30:20} Saa er en Horekvindes Vej; hun spiser og afvisker sin Mund og siger: Jeg har ikke gjort Uret.
+{30:21} Under tre ryster et Land, og under fire kan det ikke holde ud:
+{30:22} Under en Træl, naar han kommer til at herske; og en Daare, naar han blive mæt af Brød;
+{30:23} under en forhadt Kvinde, naar hun bliver gift; og en Trælkvinde, naar hun bliver sin Frues Arving.
+{30:24} Der er fire smaa paa Jorden, dog ere de vise, saare vise:
+{30:25} Myrerne ere ikke et stærkt Folk, alligevel berede de deres Spise om Sommeren;
+{30:26} Kaninerne ere et af mægtigt Folk, dog indrette de deres Hus i Klippen;
+{30:27} Græshopperne have ingen Konge, alligevel drage de ud, alle i sluttet. Skare;
+{30:28} Firbenet griber fat med Hænær, og dog er det i Kongepaladser.
+{30:29} Der er tre, som have et smukt Skridt, og fire, som have en smuk Gang:
+{30:30} Løven, som er vældig iblandt Dyrene og ikke viger tilbage for nogens Ansigt;
+{30:31} Hesten, som er omgjordet om Lænderne; Bukken; og en Konge, som ingen tør rejse sig imod.
+{30:32} Har du handlet daarligt, der du ophøjede dig, og har du tænkt ondt, da læg Haand paa Mund!
+{30:33} Thi den som trykker Mælk, før Ost derudaf; og den, som trykker Næsen, faar Blod derudaf; og den, som trykker Vrede, faar Trætte derudaf.
+{31:1} Lemuels, en Konges, Ord; et varslende Ord, hvormed hans Moder underviste ham.
+{31:2} Hvad? min Søn! og hvad? mit Livs Søn! og hvad? mine Løfters Søn!
+{31:3} Giv ikke Kvinderne din Kraft, og giv dig ikke ind paa en Vej, der Ødelægger Konger.
+{31:4} Det bør ikke Konger, Lemuel! det bør ikke Konger at drikke Vin, ej heller Fyrster at drikke stærk Drik,
+{31:5} at han ikke skal drikke og glemme det, som er Lov, og forvende alle elendige Folks Ret.
+{31:6} Giver stærk Drik til den, som er ved at omkomme, og Vin til den, som er beskelig bedrøvet i Sjælen,
+{31:7} at han maa drikke og glemme sin Armod og ikke mere komme sin Møje i Hu.
+{31:8} Oplad din Mund for den stumme til alle forladte Børns Ret.
+{31:9} Oplad din Mund, døm Retfærdighed, og skaf den elendige og fattige Ret!
+{31:10} Hvo finder en duelig Hustru? hun er langt mere værd end Perler.
+{31:11} Hendes Mands Hjerte forlader sig paa hende, og Indtægt mangler ikke.
+{31:12} Hun gør ham godt og intet ondt i alle sit Livs Dage.
+{31:13} Hun søger efter Uld og Hør og arbejder gerne med sine Hænder.
+{31:14} Hun er ligesom en Købmands Skibe, hun lader sit Brød komme langvejs fra.
+{31:15} Og hun staar op, medens det endnu er Nat, og giver sit Hus Mad og sine Piger deres bestemte Arbejde.
+{31:16} Hun tænker paa Agerland og faar det; af sine Hænders Frugt planter hun en Vingaard.
+{31:17} Hun omgjorder sine Lænder med Kraft og gør sine Arme stærke.
+{31:18} Hun skønner, at hendes Handel er god; hendes Lampe slukkes ikke om Natten.
+{31:19} Hun udstrækker sine Hænder til Rokken, og hendes Hænder tage fat paa Tenen.
+{31:20} Hun udbreder sin Haand til den elendige og udstrækker sine Hænder til den fattige.
+{31:21} Hun frygter ikke for sit Hus, naar der er Sne; thi hele hendes Hus er klædt i karmesinrødt Tøj.
+{31:22} Hun gør sig Tæpper; fint Linned og Purpur er hendes Klædning.
+{31:23} Hendes Mand er navnkundig i Portene, naar han sidder sammen med de ældste i Landet.
+{31:24} Hun gør kosteligt Linklæde og sælger det og bringer Købmanden Bælter til Salgs.
+{31:25} Kraft og Herlighed er hendes Klædebon, og hun ler ad den kommende Tid.
+{31:26} Hun oplader sin Mund med Visdom, og Kærligheds Lov er paa hendes Tunge.
+{31:27} Hun ser efter, hvorledes det gaar til i hendes Hns, og æder ikke Ladheds Brød.
+{31:28} Hendes Sønner staa op og prise hende; hendes Husbond roser hende ogsaa:
+{31:29} Mange Døtre forhverve Formue; men du staar over dem alle sammen.
+{31:30} Yndighed er Bedrag, og Skønhed er Forfængelighed; men en Kvinde; som frygter Herren, hun skal roses.
+{31:31} Giver hende af hendes Hænders Frugt, og hendes Gerninger skulle prise hende i Portene.

@@ -1,0 +1,942 @@
+{1:1} Adam, Seth, Enos,
+{1:2} Kenan, Mahalaleel, Jared,
+{1:3} Henoch, Methusalah, Lamech,
+{1:4} Noah, Sena, Ham, Japhet.
+{1:5} Japhets barn äro desse: Gomer, Magog, Madai, Javan, Thubal, Mesech, Thiras.
+{1:6} Men Gomers barn äro: Ascenas, Riphath, Thogarma.
+{1:7} Javans barn äro: Elisa, Tharsisa, Chittim, Dodam, Dodanim.
+{1:8} Hams barn äro: Chus, Mizraim, Phut, Canaan.
+{1:9} Men Chus barn äro desse: Seda, Havila, Sabtha, Raema, Sabtecha, Raema barn äro: Seba och Dedan.
+{1:10} Men Chus födde Nimrod. Han begynte vara väldig på jordene.
+{1:11} Mizraim födde Ludim, Anamim, Lehabim, Naphthuhim,
+{1:12} Patrusim, Casluhim; af hvilkom utkomne äro de Philistim och Caphthorim.
+{1:13} Men Canaan födde Zidon, sin första son, och Heth,
+{1:14} Jebusi, Emori, Girgasi,
+{1:15} Hivi, Arki, Sini,
+{1:16} Arvadi, Zemari och Hamathi.
+{1:17} Sems barn äro desse: Elam, Assur, Arphachsad, Lud, Aram, Uz, Hul, Gether och Maseeh.
+{1:18} Men Arphachsad födde Salah; Salah födde Eber.
+{1:19} Men Eber vordo födde två söner; den ene het Peleg, derföre, att i hans tid vardt landet deladt; och hans broder het Jaketan.
+{1:20} Jaketan födde Almodad, Saleph, Hazarmaveth, Jarah,
+{1:21} Hadoram, Usal, Dikela,
+{1:22} Ebal, Abimael, Seba,
+{1:23} Ophir, Havila och Jobab. Desse äro alle Jaketans barn.
+{1:24} Sem, Arphachsad, Salah,
+{1:25} Eber, Peleg, Regu,
+{1:26} Serug, Nahor, Tharah,
+{1:27} Abram, det är Abraham.
+{1:28} Men Abrahams barn äro: Isaac och Ismael.
+{1:29} Detta är deras ätter: den förste Ismaels son Nebajoth; Kedar, Adbeel, Mibsam,
+{1:30} Misma, Duma, Massa, Hadad, Thema,
+{1:31} Jethur, Naphis, Kedma. Desse äro Ismaels barn.
+{1:32} Men Keturas barn, Abrahams frillos: hon födde Simran, Jaksan, Medan, Midian, Jisbak, Suah. Och Jaksans barn äro: Seba och Dedan.
+{1:33} Och Midians barn äro: Epha, Epher, Hanoch, Abida, Eldaa. Desse äro alle Keturas barn.
+{1:34} Abraham födde Isaac. Isaacs barn äro: Esau och Israel.
+{1:35} Esau barn äro: Eliphas, Reguel, Jeus, Jaelam, Korah.
+{1:36} Eliphas barn äro: Teman, Omar, Zephi, Gatham, Kenas, Thimna, Amalek.
+{1:37} Reguels barn äro: Nahath, Serah, Samma och Missa.
+{1:38} Seirs barn äro: Lotan, Sobal, Zibeon, Ana, Dison, Ezer, Disan.
+{1:39} Lotans barn äro: Hori, Homam; och Thimna var Lotans syster.
+{1:40} Sobals barn äro: Aljan, Manahat, Ebal, Zephi, Onam. Zibeons barn: Aja och Ana.
+{1:41} Ana barn äro: Dison. Disons barn äro: Hamran, Esban, Jithran, Cheran.
+{1:42} Ezers barn äro: Bilhan, Saavan, Jaachan. Disans barn äro: Uz och Aran.
+{1:43} Desse äro de Konungar, som regerade uti Edoms land, förra än någor Konung regerade ibland Israels barn: Bela, Geors son; och hans stad het Dinhaba.
+{1:44} Och då Bela blef död, vardt Konung i hans stad Jobab, Serahs son af Bozra.
+{1:45} Då Jobab blef död, vardt Konung i hans stad Husam, utaf de Themaniters land.
+{1:46} Då Husam blef död, vardt Konung i hans stad Hadad, Badads son, hvilken slog de Midianiter på de Moabiters mark; och hans stad het Avith.
+{1:47} Då Hadad blef död, vardt Konung i hans stad Samla af Masreka.
+{1:48} Då Samla blef död, vardt Konung i hans stad Saul af Rehoboth vid älfvena.
+{1:49} Då Saul blef död, vardt Konung i hans stad Baalhanan, Achbors son.
+{1:50} Då Baalhanan blef död, vardt Konung i hans stad Hadad; och hans stad het Pagi; och hans hustru het Mehetabeel, Matreds dotter, och Mesahabs dotter.
+{1:51} Då Hadad blef död, vordo Förstar i Edom: den Försten Thimna, den Försten Alja, den Försten Jetheth,
+{1:52} Den Försten Aholibama, den Försten Ela, den Försten Pinon,
+{1:53} Den Försten Kenas, den Försten Theman, den Försten Mibzar,
+{1:54} Den Försten Magdiel, den Försten Iram. Desse äro de Förstar i Edom.
+{2:1} Desse äro Israels barn: Ruben, Simeon, Levi, Juda, Isaschar, Sebulon,
+{2:2} Dan, Joseph, BenJamin, Naphthali, Gad, Asser.
+{2:3} Juda barn äro: Er, Onan, Sela; de tre vordo honom födde af Sua dotter den Cananeiskon. Men Er, den förste Juda son, var arg för Herranom, derföre drap han honom.
+{2:4} Men Thamar hans sonahustru födde honom Perez och Serah, så att all Juda barn voro fem.
+{2:5} Perez barn äro: Hezron och Hamul.
+{2:6} Men Serah barn äro: Simri, Ethan, Heman, Chalcol, Dara. Desse tillhopa äro fem.
+{2:7} Charmi barn äro: Achar, hvilken bedröfvade Israel, då han förtog sig på det tillspillogifvet var.
+{2:8} Ethans barn äro: Asaria.
+{2:9} Hezrons barn, som honom födde äro: Jerahmeel, Ram, Chelubai.
+{2:10} Ram födde Amminadab; Amminadab födde Nahesson, den Förstan för Juda barn.
+{2:11} Nahesson födde Salma; Salma födde Boas.
+{2:12} Boas födde Obed; Obed födde Isai;
+{2:13} Isai födde sin första son Eliab, AbiNadab den andre, Simea den tredje,
+{2:14} Nethaneel den fjerde, Raddai den femte,
+{2:15} Ozem den sjette, David den sjunde.
+{2:16} Och deras systrar voro: ZeruJa och Abigail. ZeruJa barn äro: Abisai, Joab, Asahel, de tre.
+{2:17} Men Abigail födde Amasa; och Amasa fader var Jether, en Ismaelit.
+{2:18} Caleb, Nezrons son, födde med den qvinnone Asuba och med Jerigoth; och desse äro hennes barn; Jeser, Sobab och Ardon.
+{2:19} Då Asuba blef död, tog Caleb Ephrath; hon födde honom Hur.
+{2:20} Hur födde Uri; Uri födde Bezaleel.
+{2:21} Derefter besof Hezron Machirs dotter, Gileads faders; och han tog henne, då han var sextio åra gammal; och hon födde honom Segub.
+{2:22} Segub födde Jair; han hade tre och tjugu städer i Gileads land.
+{2:23} Och han tog utaf de samma Gesur och Aram, Jairs byar; dertill Kenath med dess döttrar, sextio städer. Desse äro alle Machirs barn, Gileads faders.
+{2:24} Efter Hezrons död i CalebEphrata lefde Hezron sina hustru Abia; hon födde honom Ashur, Thekoa fader.
+{2:25} Jerahmeel, Hezrons förste son, hade barn; den förste Ram, Buna, Oren och Ozem, och Ahia.
+{2:26} Och Jerahmeel hade ännu ena andra hustru, som het Atarah; hon är Onams moder.
+{2:27} Rams barn, Jerahmeels första sons, äro: Maaz, Jamin och Eker.
+{2:28} Men Onam hade barn: Sammai och Jada. Sammai barn äro: Nadab och Abisur.
+{2:29} Men Abisurs hustru het Abihail; hon födde honom Ahban och Molid.
+{2:30} Nadabs barn äro: Seled och Appaim; och Seled blef död barnlös.
+{2:31} Appaims barn äro: Jisei. Jisei barn äro: Sesan. Sesans barn äro: Ahlai.
+{2:32} Jada barn, Sammai broders, äro: Jether och Jonathan; men Jether blef död barnlös.
+{2:33} Men Jonathans barn äro: Peleth och Sasa. Det äro Jerahmeels barn.
+{2:34} Men Sesan hade inga söner, utan döttrar. Och Sesan hade en Egyptisk tjenare, han het Jarha.
+{2:35} Och Sesan gaf Jarha, sinom tjenare, sina dotter till hustru; hon födde honom Attai.
+{2:36} Attai födde Nathan; Nathan födde Sabad.
+{2:37} Sabad födde Ephlal; Ephlal födde Obed;
+{2:38} Obed födde Jehu; Jehu födde Asaria;
+{2:39} Asaria födde Helez; Helez födde Elasa;
+{2:40} Elasa födde Sismai; Sismai födde Sallum;
+{2:41} Sallum födde Jekamia; Jekamia födde Elisama.
+{2:42} Calebs barn, Jerahmeels broders, äro: Mesa, hans förste son; han är Siphs fader, och Maresa barn, Hebrons faders.
+{2:43} Hebrons barn äro: Korah, Thappuah, Rekem och Serna.
+{2:44} Men Serna födde Raham, Jorkeams fader; Rekem födde Sammai.
+{2:45} Sammai son het Maon; och Maon var Bethzurs fader.
+{2:46} Men Epha, Calebs frilla, födde Haran, Moza och Gases. Haran födde Gases.
+{2:47} Men Jahdai barn äro: Regem, Jotham, Gesan, Pelet, Epha och Saaph.
+{2:48} Men Maacha, Calebs frilla, födde Seber och Thirhana;
+{2:49} Och födde desslikes Saaph, Madmanna foder, och Seva, Machbena fader, och Gibea fader. Achsa var Calebs dotter.
+{2:50} Desse voro Calebs barn, Hurs den förste sonens af Ephrata: Sobal, KiriathJearims fader,
+{2:51} Salma, BethLehems fader, Hareph, BethGaders fader.
+{2:52} Och Sobal, KiriathJearims fader, hade söner; han såg halfva Manuhoth.
+{2:53} Men de slägter i KiriathJearim voro: de Jithriter, Puthiter, Sumathiter och Misraiter. Utaf dessom äro utkomne de Zorgathiter och Esthaoliter.
+{2:54} Salma barn äro: BethLehem och de Netophathiter, kronorna till Joabs hus, och hälften af de Manathiter af den Zorgiten.
+{2:55} Och de skrifvares slägter, som i Jabez bodde, äro: de Thirathiter, Simathiter, Suchathiter. Det äro de Kiniter, som komne äro af Hamath, BethRechabs fader.
+{3:1} Desse äro Davids barn, som honom födde äro i Hebron: den förste, Ammon, af Ahinoam den Jisreelitiskone; den andre, Daniel, af Abigail den Carmelitiskone;
+{3:2} Den tredje, Absalom, Maachas son, Thalmai dotters, Konungens i Gesur; den fjerde, Adonia, Haggiths son;
+{3:3} Den femte, SephathJa, af Abital; den sjette, Jithream, af hans hustru Egla.
+{3:4} Desse sex äro honom födde i Hebron; förty han regerade der i sju år och sex månader; men i Jerusalem regerade han i tre och tretio år.
+{3:5} Och desse äro honom födde i Jerusalem: Simea, Sobab, Nathan, Salomo, de fyra, af BathSua, Ammiels dotter;
+{3:6} Dertill Jibehar, Elisama, Eliphelet,
+{3:7} Noga, Nepheg, Japhia,
+{3:8} Elisama, Eljada, Eliphelet, de nio.
+{3:9} Desse äro alle Davids barn, förutan de som frillobarn voro. Och Thamar var deras syster.
+{3:10} Salomos son var Rehabeam. Hansson var Abia. Hans son var Asa. Hans son var Josaphat.
+{3:11} Hans son var Joram. Hans son var Ahasia. Hans son var Joas.
+{3:12} Hans son var Amazia. Hans son var Asaria. Hans son var Jotham.
+{3:13} Hans son var Ahas. Hans son var Hiskia. Hans son var Manasse.
+{3:14} Hans son var Amon. Hans son var Josia.
+{3:15} Men Josia söner voro: Den förste, Johanan; den andre, Jojakim; den tredje, Zedekia; den fjerde, Sallum.
+{3:16} Men Jojakims barn voro: Jechonia. Hans son var Zedekia.
+{3:17} Jechonia barn, den fången vardt, voro: Sealthiel,
+{3:18} Malkiram, Phedaja, Seneazar, Jekamia, Hosama, Nedabia.
+{3:19} Phedaja barn voro: Serubbabel och Simei. Serubbabels barn voro: Mesullam och Hanania, och deras syster Selomith;
+{3:20} Dertill Hasuba, Ohel, Berechia, Hasadia, JusabHesed, de fem.
+{3:21} Hanania barn voro: Pelatia och Jesaia. Hans son var Rephaja. Hans son var Arnan. Hans son var Obadja. Hans son var Sechania.
+{3:22} Men Sechania barn voro: Semaja, Semaja barn voro: Hattus, Jigeal, Bariah, Nearia, Saphat, de sex.
+{3:23} Nearia barn voro: Eljoenai, Hiskia, Asrikam, de tre.
+{3:24} Eljoenai barn voro: Hodaja, Eljasib, Phelaja, Akkub, Johanan, Delaja, Anani, de sju.
+{4:1} Juda barn voro: Perez, Hezron, Charmi, Hur och Sobal.
+{4:2} Men Reaja, Sobals son, födde Jahath. Jahath födde Ahumai och Lahad. Det äro de Zorgathiters slägter.
+{4:3} Detta är den fadrens Ethams slägte: Jisreel, Jisma, Jidbas; och deras syster het Hazelelponi.
+{4:4} Och Pnuel, Gedors fader, och Eser, Husa fader. Det äro Hurs barn, den första Ephrata sons, BethLehems faders.
+{4:5} Men Ashur, Thekoa fader, hade två hustrur: Helea och Naara.
+{4:6} Och Naara födde honom Ahusam, Hepher, Themeni, Ahastari. Det äro Naara barn.
+{4:7} Men Helea barn voro: Zereth, Jesohar och Ethnan.
+{4:8} Men Coz födde Anub, och Hazobeba, och de Aharhels slägter, Harums sons.
+{4:9} Men Jabez var härligare än hans bröder; och hans moder kallade honom Jabez; ty hon sade: Jag hafver födt honom med bekymmer.
+{4:10} Och Jabez åkallade Israels Gud, och sade: Om du välsignar mig, och förvidgar mina gränsor, och din hand blifver med mig, och så skaffar med det onda, att det mig intet bekymrar. Och Gud lät ske som han bad.
+{4:11} Men Chelub, Suahs broder, födde Mehir, det är Esthons fader.
+{4:12} Men Esthon födde Bethrapha, Paseah och Thehinna, fadren till den staden Nahas. Det äro de män af Recha.
+{4:13} Kenas barn voro: Athniel och Seraja. Athniels barn voro: Hathath.
+{4:14} Och Meonothai födde Ophra. Och Seraja födde Joab, en fader åt de timbermän i dalenom; ty de voro timbermän.
+{4:15} Calebs barn, Jephunne sons, voro: Iru, Ela och Naam. Ela barn voro: Kenas.
+{4:16} Jehaleleels barn voro: Siph, Sipha, Thiria och Asareel.
+{4:17} Esra barn voro: Jether, Mered, Epher och Jalon, och Thahar med MirJam, Sammai, Jisbah Esthemoa fader.
+{4:18} Och hans hustru Judija födde Jered, Gedors fader, Heber, Socho fader, Jekuthiel, Sanoahs fader. Desse äro Bithias barn, Pharaos dotters, hvilka Mared tog.
+{4:19} Den hustrunes Hodijas barn, Nahams systers, Kegila faders, voro: Hagarmi, och Esthemoa den Maachathiten.
+{4:20} Simeons barn voro: Amnon, Rinnah, och Benhanan, Thilon. Jisei barn voro: Soheth och Bensoheth.
+{4:21} Sela barn, Juda sons, voro: Er, Lecha fader, Laeda, Maresa fader, och de linväfvares slägter i Asbea hus;
+{4:22} Dertill Jokim, och de män af: Coseba, Joas, Saraph, hvilke husherrar voro i Moab, och bodde i Lahem; som de gamle säga.
+{4:23} De voro pottomakare, och bodde ibland planteringar och gårdar, när Konungenom i hans arbete, och kommo och blefvo der.
+{4:24} Simeons barn voro: Nemuel, Jamin, Jarib, Serah, Saul.
+{4:25} Hans son var Sallum. Hans son var Mibsam. Hans son var Misma.
+{4:26} Misma barn voro: Hamuel. Hans son var Saccur. Hans son var Simei.
+{4:27} Simei hade sexton söner, och sex döttrar; och hans bröder hade icke mång barn; och all deras slägt förökade sig icke så mycket, som Juda barn.
+{4:28} Men de bodde i BerSeba, Molada, HazarSual,
+{4:29} Bilha, Ezem, Tholad,
+{4:30} Bethuel, Horma, Ziklag,
+{4:31} BethMarchaboth, HazarSusim, BethBirei, Saarim. Det voro deras städer, allt intill Konung David.
+{4:32} Dertill deras byar, Etham, Ain, Rimmon, Thochen, Asan, de fem städerna;
+{4:33} Och alle de byar, som voro omkring dessa städerna, allt intill Baal. Det är deras boning, och deras ätt ibland dem.
+{4:34} Och Mesobab, Jamlech, Josa, Amazia son,
+{4:35} Joel, Jehu Josibia son, Seraja sons, Asiels sons,
+{4:36} Eljoenai, Jaacoba, Jesohaja, Asaja, Adiel, Jisimiel, och Benaja,
+{4:37} Sisa, Siphei son, Allons sons, Jedaja sons, Simri sons, Semaja sons.
+{4:38} Desse voro namnkunnige Förstar uti deras ätter, och i deras fäders hus; och delade sig ut, efter det de voro månge.
+{4:39} Och de drogo bort till att fara till Gedor, intill öster på dalen, på det de skulle söka bet för deras får.
+{4:40} Och de funno feta och goda bet, och ett vidt land, stilla och rikt; ty i förtiden bodde der de af Ham.
+{4:41} Och de som nu vid namn beskrifne äro, kommo i Hiskia tid, Juda Konungs, och slogo deras hyddor och boningar, som der funne vordo, och gjorde dem tillspillo, allt intill denna dag; och bodde i deras stad; ty der var bet för får.
+{4:42} Och gingo ut af dem af Simeons barnom, femhundrad män, intill Seirs berg, med deras öfverstar; Pelatia, Nearia, Rephaja, och Ussiel, Jisei barn;
+{4:43} Och slogo de återlefde af de Amalekiter, som undsluppne voro; och bodde der allt intill denna dag.
+{5:1} Rubens barn, första Israels sons, ty han var förste sonen; men derföre, att han sins fäders säng besmittade, vardt hans förstfödslorätt gifven Josephs barnom, Israels sons; och han vardt icke räknad till förstfödslona.
+{5:2} Ty Juda, som mägtig var ibland sina bröder, honom vardt Förstadömet för honom gifvet, och Joseph förstfödslorätten.
+{5:3} Så äro nu Rubens, första Israels sons, barn: Hanoch, Pallu, Hezron och Charmi.
+{5:4} Joels barn voro: Semaja. Hans son var Gog. Hans son var Simei.
+{5:5} Hans son var Micha. Hans son var Reaja. Hans son var Baal.
+{5:6} Hans son var Beera, hvilken ThiglathPilneser, Konungen i Assyrien, bortförde fången; han är en Förste ibland de Rubeniter.
+{5:7} Men hans bröder i deras ätter, då de i deras börd räknade vordo, hade Jegiel och Zacharia för höfvitsmän.
+{5:8} Och Bela, Asas son, Serna sons, Joels sons, han bodde i Aroer, och intill Nebo och BaalMeon;
+{5:9} Och bodde emot öster intill man kommer till öknena vid den älfvena Phrath; förty deras boskap var mycken i Gileads land.
+{5:10} Och i Sauls tid förde de örlig emot de Hagariter, så att de föllo genom desses hand, och bodde i deras hyddor, in mot alla den östra ängden Gilead.
+{5:11} Gads barn bodde tvärtöfver ifrå dem, uti de landena Basan, allt intill Salcha:
+{5:12} Joel den främste, Sapham den andre, Jaenai och Saphat i Basan.
+{5:13} Och deras bröder i deras fäders hus voro: Michael, Mesullam, Seba, Jorai, Jaecan, Sia och Eber, de sju.
+{5:14} Desse äro Abihails barn, Huri sons, Jaroahs sons, Gileads sons, Michaels sons, Jesisai sons, Jahdo sons, Bus sons.
+{5:15} Ahi, Abdiels son, Guni sons, var en öfverste uti deras fäders hus;
+{5:16} Och bodde uti Gilead i Basan, och i dess döttrar, och i alla Sarons förstäder, allt intill dess ändar.
+{5:17} Desse vordo alle räknade i Jothams, Juda Konungs, och Jerobeams, Israels Konungs tid.
+{5:18} Rubens barn, de Gaditers, och de halfva slägtenes Manasse, voro stridsamme män, som sköld och svärd föra och båga spänna kunde, och förfarne till att strida; de voro fyra och fyratio tusend, och sjuhundrad och sextio, som i här drogo.
+{5:19} Och då de stridde med de Hagariter, hulpo dem Jetur, Naphis och Nodab;
+{5:20} Och gåfvo de Hagariter i deras händer, och allt det som med dem var; förty de ropade till Gud i stridene, och han bönhörde dem; ty de trodde till honom.
+{5:21} Och de förde bort deras boskap, femtiotusend camelar, tuhundrad och femtio tusend får, tutusend åsnar, och hundradtusend menniskors själar.
+{5:22} Och der föllo månge såre; ty striden var af Gudi. Och de bodde i deras stad allt intill den tiden de fångne vordo.
+{5:23} De halfva slägtenes Manasse barn bodde i de landena, ifrå Basan allt intill BaalHermon och Senir, och det berget Hermon, och de voro månge.
+{5:24} Och desse voro höfvitsmän till deras fäders hus: Epher, Jisei, Eliel, Asriel, Jeremia, Hodavia, Jahdiel; väldige, mägtige män, och namnkunnige höfvitsmän uti deras fäders husom.
+{5:25} Och då de förtogo sig emot deras fäders Gud, och i horeri gingo efter de folks gudar der i landena, som Gud för dem förgjort hade,
+{5:26} Uppväckte Israels Gud Phuls anda, Konungens i Assyrien, och ThiglathPilnesers anda, Konungens i Assyrien, och förde bort de Rubeniter, Gaditer och den halfva slägtena Manasse, och lät komma dem till Halah och Hober och Hara, och till den älfvena Gosan, allt intill denna dag.
+{6:1} Levi barn voro: Gersom, Kehath och Merari.
+{6:2} Kehaths barn voro: Amram, Jizear, Hebron och Ussiel.
+{6:3} Amrams barn voro: Aaron, Mose och MirJam. Aarons barn voro: Nadab, Abihu, Eleazar och Ithamar.
+{6:4} Eleazar födde Pinehas; Pinehas födde Abisua;
+{6:5} Abisua födde Bukki; Bukki födde Ussi;
+{6:6} Ussi födde Serahia; Serahia födde Merajoth;
+{6:7} Merajoth födde Amaria; Amaria födde Ahitob;
+{6:8} Ahitob födde Zadok; Zadok födde Ahimaaz;
+{6:9} Ahimaaz födde Asaria; Asaria födde Johanan;
+{6:10} Johanan födde Asaria, hvilken Prest var i husena, som Salomo byggde i Jerusalem.
+{6:11} Asaria födde Amaria; Amaria födde Ahitob;
+{6:12} Ahitob födde Zadok; Zadok födde Sallum;
+{6:13} Sallum födde Hilkia; Hilkia födde Asaria;
+{6:14} Asaria födde Seraja; Seraja födde Jozadak;
+{6:15} Men Jozadak vardt med bortförd, då Herren lät bortföra Juda och Jerusalem fångna af NebucadNezar.
+{6:16} Så äro nu Levi barn desse: Gersom, Kehath, Merari.
+{6:17} Gersoms barn heta alltså: Libni och Simei.
+{6:18} Kehaths barn heta: Amram, Jizear, Hebron och Ussiel.
+{6:19} Merari barn heta: Maheli och Musi. Det äro de Leviters ätter efter deras fäder.
+{6:20} Gersoms son var Libni; hans son var Jahath; hans son var Simma;
+{6:21} Hans son var Joah; hans son var Iddo; hans son var Serah; hans son var Jeathrai.
+{6:22} Men Kehaths son var Amminadab; hans son var Korah; hans son var As sir;
+{6:23} Hans son var Elkana; hans son var Ebjasaph; hans son var Assir;
+{6:24} Hans son var Tahath; hans son var Uriel; hans son var Ussia; hans son var Saul.
+{6:25} Elkana barn voro: Amasai och Ahimoth.
+{6:26} Hans son var Elkana; hans son var ElkanaSophai; hans son var Nahath;
+{6:27} Hans son var Eliab; hans son var Jeroham; hans son var Elkana;
+{6:28} Hans son var Samuel; hans förstfödde var Vasni och Abija.
+{6:29} Merari son var Maheli; hans son var Libni; hans son var Simei; hans son var Ussa:
+{6:30} Hans son var Simea; hans son var Haggija; hans son var Asaja.
+{6:31} Desse äro de som David satte till att sjunga i Herrans hus, då arken hvilade;
+{6:32} Och tjente för boningene och vittnesbördsens tabernakel med sjungande, allt intill Salomo byggde Herrans hus i Jerusalem; och stodo efter deras sätt i deras ämbete.
+{6:33} Och desse äro de som stodo, och deras barn: Utaf Kehaths barnom var Heman sångaren, Joels son, Samuels sons,
+{6:34} Elkana sons, Jerohams sons, Eliels sons, Thoahs sons,
+{6:35} Zuphs sons, Elkana sons, Mahaths sons, Amasai sons,
+{6:36} Elkana sons, Joels sons, Asaria sons, Zephania sons,
+{6:37} Thahaths sons, Assirs sons, Ebjasaphs sons, Korahs sons;
+{6:38} Jizears sons, Kehaths sons, Levi sons, Israels sons.
+{6:39} Och hans broder Assaph stod på hans högra sido. Och Assaph var Berechia son, Simea sons,
+{6:40} Michaels sons, Baaseja sons, Malchija sons,
+{6:41} Ethni sons, Serahs sons, Adaja sons,
+{6:42} Ethans sons, Simma sons, Simei sons,
+{6:43} Jahaths sons, Gersoms sons, Levi sons.
+{6:44} Men deras bröder, Merari barn, stodo på venstra sidone, nämliga Ethan, Kisi son, Abdi sons, Malluchs sons,
+{6:45} Hasabia sons, Amazia sons, Hilkia sons,
+{6:46} Amzi sons, Bani sons, Sam ers sons,
+{6:47} Maheli sons, Musi sons, Merari sons, Levi sons.
+{6:48} Men deras bröder, Leviterna, voro skickade till allehanda ämbete uti Guds hus boning.
+{6:49} Men Aaron och hans söner voro i det ämbetet, som var, upptända på bränneoffrets altare, och på rökaltarena, och till alla sysslor uti det aldrahelgaste, och till att försona Israel, såsom Mose Guds tjenare budit hade.
+{6:50} Aarons barn äro desse: Eleazar hans son; hans son var Pinehas; hans son var Abisua;
+{6:51} Hans son var Bukki; hans son var Ussi; hans son var Serahia;
+{6:52} Hans son var Merajoth; hans son var Amaria; hans son var Ahitob;
+{6:53} Hans son var Zadok; hans son var Ahimaaz.
+{6:54} Och detta är deras boning och säte uti deras gränsor, nämliga Aarons barnas af de Kehathiters ätt; ty lotten föll till dem.
+{6:55} Och de gåfvo dem Hebron i Juda land, och dess förstäder allt omkring.
+{6:56} Men stadsens mark och dess byar gåfvo de Caleb, Jephunne son.
+{6:57} Så gåfvo de nu Aarons barnom de fristäder, Hebron och Libna, och dess förstäder, Jattir och Esthemoa, och dess förstäder;
+{6:58} Hilen och dess förstäder, Debir och dess förstäder;
+{6:59} Asan och dess förstäder, BethSemes och dess förstäder;
+{6:60} Och af BenJamins slägte, Geba och dess förstäder, Alemeth och dess förstäder, Anathoth och dess förstäder; så att all städer i deras ätter voro tretton.
+{6:61} Men dem androm Kehaths barnom deras ätter vordo, af den halfva Manasse slägte, genom lott gifne tio städer.
+{6:62} Gersoms barnom i deras ätter vordo i Isaschars slägte, och af Assers slägte, och af Naphthali slägte, och af Manasse slägt i Basan, tretton städer gifne.
+{6:63} Merari barnom i deras ätter vordo genom lott gifne, af Rubens slägte, och af Gads slägte, och af Sebulons slägte, tolf städer;
+{6:64} Och Israels barn gåfvo också Leviterna städer, med deras förstäder;
+{6:65} Nämliga genom lott, af Juda barns slägte, och af Simeons barnas slägte, och BenJamins barnas slägte, de städer, som de vid namn före sade.
+{6:66} Men Kehaths barnas ätt kommo städer till, af Ephraims slägtes gränsor.
+{6:67} Så gåfvo de nu de andra Kehaths barnas ätt de fristäder, Sechem på Ephraims berg och dess förstäder, Geser och dess förstäder,
+{6:68} Jokmeam och dess förstäder, BethHoron och dess förstäder;
+{6:69} Ajalon och dess förstäder, GathRimmon och dess förstäder;
+{6:70} Dertill, af den halfva slägtene Manasse, Aner och dess förstäder, Bileam och dess förstäder.
+{6:71} Men Gersoms barnom gåfvo de, af de halfva Manasse slägtes ätt, Golan i Basa och dess förstäder, Astaroth och dess förstäder;
+{6:72} Af Isaschars slägte, Kades och dess förstäder, Daberath och dess förstäder;
+{6:73} Ramoth och dess förstäder, Anem och dess förstäder;
+{6:74} Af Assers slägte, Masal och dess förstäder, Abdon och dess förstäder;
+{6:75} Hukok och dess förstäder, Rehob och dess förstäder;
+{6:76} Af Naphthali slägte, Kedes i Galilea och dess förstäder, Hammon och dess förstäder, Kiriathaim och dess förstäder;
+{6:77} Dem androm Merari barnom gåfvo de, af Sebulons slägte, Rimmono och dess förstäder, Thabor och dess förstäder;
+{6:78} Och på hinsidon Jordan tvärsöfver Jericho österut vid Jordan: Af Ruben slägte, Bezer i öknene och dess förstäder Jahzah och dess förstäder,
+{6:79} Kedemoth och dess förstäder, Mephaath och dess förstäder;
+{6:80} Af Gads slägte, Ramoth i Gilead och dess förstäder, Mahanaim och dess förstäder,
+{6:81} Hesbon och dess förstäder, Jaeser och dess förstäder.
+{7:1} Isaschars barn voro: Thola, Phua, Jasub och Simrom, de fyra.
+{7:2} Thola barn voro: Ussi, Rephaja, Jeriel, Jahmai, Jibsam och Samuel, hufvud uti deras fäders hus af Thola, och väldige män i deras ätter, vid det talet i Davids tid tu och tjugu tusend och sexhundrad.
+{7:3} Ussi barn voro: Jisraja. Jisraja barn voro: Michael, Obadja, Joel och Jissija, de fem; och voro alle höfvitsmän.
+{7:4} Och med dem i deras ätter uti deras fäders hus voro väpnade härfolk till strid, sex och tretio tusend; ty de hade många hustrur och barn.
+{7:5} Och deras bröder i alla Isaschars ätter, väldige män, voro sju och åttatio tusend, och vordo alle räknade.
+{7:6} BenJamins barn voro: Bela, Becher och Jediael, de tre.
+{7:7} Bela barn voro: Ezbon, Ussi, Ussiel, Jeremoth och Iri, de fem, höfvitsmän i fädernas hus, väldige män, och vordo räknade tu och tjugu tusend, och fyra och tretio.
+{7:8} Bechers barn voro: Semira, Joas, Elieser, Eljoenai, Omri, Jeremoth, Abia, Anathot och Alameth, de voro alle Bechers barn;
+{7:9} Och vordo räknade i deras ätter efter höfvitsmännerna i deras fäders hus, väldige män, tjugutusend och tuhundrad.
+{7:10} Jediaels barn voro: Bilhan. Bilhans barn voro: Jeus, BenJamin, Ehud, Chenaana, Sethan, Tharsis och Ahisahar.
+{7:11} De voro alle Jediaels barn, fädernas höfvitsmän, väldige män, sjuttontusend tuhundrad, som i här utdrogo till att strida.
+{7:12} Och Suppim och Huppim voro Irs barn; men Husim voro Achers barn.
+{7:13} Naphthali barn voro: Jahziel, Guni, Jezer och Sallum af Bilha barn.
+{7:14} Manasse barn äro desse: Esriel, hvilken hans frilla Aramia födde; men han födde Machir, Gileads fader.
+{7:15} Och Machir gaf Huppim och Suppim hustrur, och hans syster het Maacha; hans andre son het Zelaphehad; och Zelaphehad hade döttrar.
+{7:16} Och Maacha, Machirs hustru, födde en son, den kallade hon Peres: och hans broder het Seres; och hans söner voro: Ulam och Rakem.
+{7:17} Men Ulams son var Bedan. Detta är Gileads barn, Machirs sons, Manasse sons.
+{7:18} Och hans syster Molecheth födde Ishod, Abieser och Mahela.
+{7:19} Och Semida hade dessa barnen: Ahjan, Sechem, Likhi och Aniam.
+{7:20} Ephraims barn voro desse: Suthelah. Hans son var Bered; hans son var Thahath; hans son var Elada; hans son var Thahath;
+{7:21} Hans son var Sabad; hans son var Suthelah, Eser och Elad. Och de män i Gath, infödde i landena, dråpo dem, derföre att de nederdragne voro till att taga bort deras boskap.
+{7:22} Och deras fader Ephraim sörjde i långan tid, och hans bröder kommo till att hugsvala honom.
+{7:23} Och han besof sina hustru; hon vardt hafvandes, och födde en son, och han kallade hans namn Beria, derföre att illa tillgick i hans hus.
+{7:24} Hans dotter var Seera. Hon byggde nedra och öfra BethHoron och UssenSeera.
+{7:25} Hans son var Repha; hans son var Reseph och Thelah; hans son var Thahan;
+{7:26} Hans son var Laedan; hans son var Ammihud; hans son var Elisama;
+{7:27} Hans son var Nun; hans son var Josua.
+{7:28} Och deras ägor och boning var BethEl och dess döttrar, och österut af Naaran, och vesterut ifrå Geser och dess döttrar; Sechem och dess döttrar, allt intill Assa och dess döttrar;
+{7:29} Och intill Manasse barn, BethSean och dess döttrar; Thaanach och dess döttrar; Megiddo och dess döttrar; Dor och dess döttrar. Deruti bodde Josephs barn, Israels sons.
+{7:30} Assers barn voro desse: Jimna, Jisva, Jisvi, Beria, och Serah deras syster.
+{7:31} Beria barn voro: Heber och Malchiel, det är Birsaviths fader.
+{7:32} Heber födde Japhlet, Somer, Hotham, och Suah deras syster.
+{7:33} Japhlets barn voro: Pasach, Bimhal och Asvath; desse voro Japhlets barn.
+{7:34} Somers barn voro: Ahi, Rohgah, Jehubba och Aram.
+{7:35} Och hans broders Helems barn voro: Sopha, Jimna, Seles och Amal.
+{7:36} Sopha barn voro: Suah, Harnepher, Sual, Beri, Jimra,
+{7:37} Bszer, Hod, Samma, Silsa, Jithran och Beera.
+{7:38} Jethers barn voro: Jephunne, Phispah och Ara.
+{7:39} Ulla barn voro: Arah, Haniel och Rizia.
+{7:40} Desse voro alle Assers barn, höfvitsmän, i deras fäders hus utvalde, väldige män, och hufvud öfver Förstar, och vordo räknade i här till strids vid deras tal, sex och tjugu tusend män.
+{8:1} BenJamin födde Bela sin första son, Asbel den andra, Ahrah den tredje,
+{8:2} Nohah den fjerde, Rapha den femte.
+{8:3} Och Bela hade barn: Addar, Gera, Abihud;
+{8:4} Abisua, Naaman, Ahoah,
+{8:5} Gera, Sephuphan och Huram.
+{8:6} Desse äro Ehuds barn, som hufvud voro för de fäder, som bodde i Geba, och drogo bort till Manahath;
+{8:7} Nämliga Naaman, Ahia och Gera, den samme förde dem bort; och han födde Ussa och Ahihud.
+{8:8} Och Saharaim födde i Moabs land, (då han hade låtit dem ifrå sig) af Husim och Baara sinom hustrum.
+{8:9} Och han födde af Hodes sine hustru Jobab, Zibia, Mesa, Malcham,
+{8:10} Jeuz, Sachia och Mirma. Desse äro hans barn, hufvud för fäderna.
+{8:11} Af Husim födde han Abitob och Elpaal.
+{8:12} Elpaals barn voro: Eber, Misam och Samed; den samme byggde Ono och Lod, och dess döttrar.
+{8:13} Och Beria och Serna voro hufvud för fäderna ibland dem som bodde i Ajalon; de förjagade dem som bodde i Gath.
+{8:14} Men hans broder, Sasak, Jeremoth,
+{8:15} Sebadia, Arad, Ader,
+{8:16} Michael, Jispa och Joha. Desse äro Beria barn.
+{8:17} Sebadia, Mesullam, Hiski, Heber,
+{8:18} Jismerai, Jislia, Jobab. Desse äro Elpaals barn.
+{8:19} Jakim, Sichri, Sabdi,
+{8:20} Elienai, Zillethai, Eliel,
+{8:21} Adaja, Beraja och Simrath. Desse äro Simri barn.
+{8:22} Jispan, Eber, Eliel,
+{8:23} Abdon, Sichri, Hanan,
+{8:24} Hanania, Elam, Anthothia,
+{8:25} Jiphdeja och Pnuel. Desse äro Sasaks barn.
+{8:26} Samserai, Seharia, Athalia,
+{8:27} Jaresia, Elia och Sichri. Desse äro Jerohams barn.
+{8:28} Desse äro hufvud för fäderna i deras ätter; de bodde i Jerusalem.
+{8:29} Men i Gibeon bodde fadren Gibeon; och hans hustru het Maacha.
+{8:30} Och hans förste son var Abdon, Zur, Kis, Baal, Nadab,
+{8:31} Gedor, Ahio och Secher.
+{8:32} Men Mikloth födde Simea; och de bodde tvärsemot deras bröder i Jerusalem med sinom brödrom.
+{8:33} Ner födde Kis, Kis födde Saul, Saul födde Jonathan, MalchiSua, AbiNadab och Esbaal.
+{8:34} Jonathans son var MeriBaal. MeriBaal födde Micha.
+{8:35} Micha barn voro: Pithon, Melech, Thaerea och Ahas.
+{8:36} Ahas födde Joadda. Joadda födde Alemeth, Asmaveth och Simri. Simri födde Moza.
+{8:37} Moza födde Binea; hans son var Rapha; hans son var Eleasa; hans son var Azel.
+{8:38} Men Azel hade sex söner. De heto: Asrikam, Bochru, Ismael, Searia, Obadja, Hanan. De äro alle Azels söner.
+{8:39} Eseks barn, hans broders, voro: Ullam hans förste son, Jeus den andre, Eliphelet den tredje.
+{8:40} Men Ullams barn voro väldige män, och välbehändige med bågar och hade många söner och sonasöner, hundrade och femtio. De äro alle af BenJamins barnom.
+{9:1} Och hele Israel vardt räknad, och si, de äro uppskrifne i Israels och Juda Konungars bok, och nu bortförde till Babel för sina missgerningars skull;
+{9:2} De som tillförene bodde på sina ägor och städer, nämliga Israel, Prester, Leviter och de Nethinim.
+{9:3} Men i Jerusalem bodde någre af Juda barn, någre af BenJamins barn, någre af Ephraims och Manasse barn;
+{9:4} Nämliga utaf Perez barn, Juda sons, var Athai, Ammihuds son, Omri sons, Imri sons, Bani sons;
+{9:5} Men af Siloni, Asaja förste sonen, och hans andre söner.
+{9:6} Af Serahs barn, Jeguel och deras bröder, sexhundrad och niotio.
+{9:7} Af BenJamins barn, Sallu, Mesullams son, Hodavia sons, Hassenua sons,
+{9:8} Och Jibneja, Jerohams son. Och Ela, Ussi son, Michri sons, och Mesullam, Sephatia son, Reguels sons, Jibneja sons;
+{9:9} Dertill deras bröder uti deras ätter, niohundrad och sex och femtio. Alle desse männerna voro höfvitsmän för fäderna uti deras fäders hus.
+{9:10} Af Presterna, Jedaja, Jojarib, Jachin;
+{9:11} Och Asaria, Hilkia son, Mesullams sons, Zadoks sons, Merajoths sons, Ahitobs sons, en Förste i Guds hus;
+{9:12} Och Adaja, Jerohams son, Pashurs sons, Malchia sons; och Masai, Adiels son, Jahsera sons, Mesullams sons, Mesillemiths sons, Immers sons;
+{9:13} Dertill deras bröder höfvitsmän i deras fäders huse, tusende sjuhundrad och sextio starke män, till att beställa hvad ämbetet tillhörde i Guds hus.
+{9:14} Men af Leviterna, af Merari barnom, Semaja, Hasubs son, Asrikams sons, Hasabia sons,
+{9:15} Och Bakbakkar, den timbermannen, och Galal; och Matthania, Micha son, Sichri sons, Assaphs sons,
+{9:16} Och Obadja, Semaja son, Galals sons, Jeduthuns sons, och Berechia, Asa son, Elkana sons, den som uti de Netophathiters byar bodde.
+{9:17} Dörravaktarena voro: Sallum, Akkub, Talmon, Ahiman, med deras bröder; och Sallum, öfversten.
+{9:18} Ty härtill hade vaktat för Konungsporten östantill Levi barn, i lägre,
+{9:19} Sallum, Kore son, Ebiasaphs sons, Korahs sons, och hans bröder utu hans faders hus, de Korhiter, vid ämbetets sysslo, att de vaktade vid tabernaklets dörrar, och deras fader i Herrans lägre, att de skulle vakta på ingången.
+{9:20} Men Pinehas, Eleazars son, var Försten öfver dem, derföre att Herren hade tillförene varit med honom.
+{9:21} Zacharia, Meselemia son, var väktare vid vittnesbördsens tabernakels dörr.
+{9:22} Alle desse voro utvalde till väktare vid dörrarna, tuhundrad och tolf. De voro räknade i deras byar. Och David och Samuel Siaren stiktade dem genom deras tro;
+{9:23} Att de och deras barn skulle taga vara på Herrans hus, nämliga på tabernaklets hus, att de det vakta skulle.
+{9:24} De samme dörravaktare voro ställde på fyra sidor, östan, vestan, norr, söder.
+{9:25} Men deras bröder voro i sina byar, så att de ju inkommo på sjunde dagen, till att alltid vara när dem.
+{9:26} Förty Leviterna voro dessom fyra öfversta dörravaktaromen betrodde, och de voro öfver kistorna och skatten i Guds hus;
+{9:27} Och blefvo de öfver nattena omkring Guds hus; ty dem hörde vakten till, att de skulle upplåta hvar morgon.
+{9:28} Och somlige af dem voro öfver ämbetstygen; förty de båro dem tald ut och in.
+{9:29} Och somlige af dem voro beställde öfver kärilen, och öfver all helig redskap; öfver semlomjöl, öfver vin, öfver oljo, öfver rökelse, öfver rökverk.
+{9:30} Men Presternas barn gjorde somlige rökverk.
+{9:31} Mattithia utaf Leviterna, dem första Sallums sone, den Korhitens, voro betrodda pannorna.
+{9:32} Utaf de Kehathiter deras bröder, voro till att bereda skådobröden, så att de tillredde dem på hvar Sabbathsdag.
+{9:33} Desse äro de sångare, höfvitsmän ibland Leviternas fäder, öfver kistorna skickade; förty dag och natt voro de der öfver i sysslomen.
+{9:34} Desse äro höfvitsmän förfäderna ibland Leviterna uti deras ätter; och bodde i Jerusalem.
+{9:35} I Gibeon bodde Jegiel, Gibeons fader; hans hustru het Maacha;
+{9:36} Och hans förste son Abdon, Zur, Kis, Baal, Ner, Nadab,
+{9:37} Gedor, Ahio, Zacharia, Mikloth.
+{9:38} Men Mikloth födde Simeam; de bodde också omkring deras bröder i Jerusalem, ibland sina bröder.
+{9:39} Ner födde Kis. Kis födde Saul. Saul födde Jonathan, MalchiSua, AbiNadab, Esbaal.
+{9:40} Jonathans son var Meribaal; Meribaal födde Micha.
+{9:41} Micha barn voro: Pithon, Melech och Thahrea.
+{9:42} Ahas födde Jaera. Jaera födde Alemeth, Asmaveth och Simri. Simri födde Moza.
+{9:43} Moza födde Binea. Hans son var Rephaja, Hans son var Eleasa. Hans son var Azel.
+{9:44} Azel hade sex söner; de heto: Asrikam, Bochru, Ismael, Searia, Obadja, Hanan. Desse äro Azels barn.
+{10:1} De Philisteer stridde emot Israel, och de af Israel flydde för de Philisteer, och de slagne föllo på Gilboa berg.
+{10:2} Och de Philisteer gåfvo sig hardt in på Saul och hans söner, och slogo Jonathan, AbiNadab och MalchiSua, Sauls söner.
+{10:3} Och striden vardt skarp emot Saul; och de bågaskyttar kommo inpå honom, så att han blef sår af skyttorna.
+{10:4} Då sade Saul till sin vapnedragare: Drag ditt svärd ut, och stick mig igenom dermed, att desse oomskorne icke komma och fara skamliga med mig. Men hans vapnedragare ville icke; ty han fruktade sig svårliga. Då tog Saul sitt svärd, och föll deruppå.
+{10:5} Som nu hans vapnedragare såg, att Saul var död, föll han ock på svärdet, och blef död.
+{10:6} Alltså blef Saul död, och hans tre söner, och hans hela hus tillika.
+{10:7} Då nu de män af Israel, som i dalenom voro, sågo att de voro flydde, och att Saul och hans söner voro döde, öfvergåfvo de sina städer, och flydde; och de Philisteer kommo, och bodde deruti.
+{10:8} Den andra morgonen kommo de Philisteer till att afkläda de slagna, och funno Saul och hans söner liggande på Gilboa berg;
+{10:9} Och klädde honom af, och togo hans hufvud och hans vapen, och sände uti de Philisteers land allt omkring, och läto förkunnat för deras afgudar och folkena;
+{10:10} Och lade hans vapen i deras guds hus; och hans hufvud slogo de på Dagons hus.
+{10:11} Då nu alle de i Jabes i Gilead hörde allt det de Philisteer Saul gjort hade,
+{10:12} Reste de upp alle stridsamme män, och togo Sauls lekamen, och hans söners, och förde dem till Jabes, och begrofvo deras ben under den eken i Jabes; och fastade i sju dagar.
+{10:13} Alltså blef Saul död i sine missgerning, som han emot Herran gjort hade, emot Herrans ord, det han icke höll; också derföre, att han frågade spåqvinnona,
+{10:14} Och icke frågade Herran; derföre drap han honom, och vände riket till David, Isai son.
+{11:1} Och hele Israel samlade sig: till David i Hebron, och sade: Si, vi äre ditt ben och ditt kött.
+{11:2} Och tillförene, medan Saul var Konung, förde du Israel ut och in; så hafver ock Herren din Gud sagt till dig: Du skall föda mitt folk Israel, och du skall vara en Förste öfver mitt folk Israel.
+{11:3} Kommo också alle Israels äldste till Konungen i Hebron. Och David gjorde ett förbund med dem i Hebron för Herranom. Och de smorde David till Konung öfver Israel, efter Herrans ord, genom Samuel.
+{11:4} Och David drog åstad, och hele Israel, till Jerusalem, det är Jebus; ty de Jebuseer bodde i landena.
+{11:5} Och de borgare i Jebus sade till David: Du skall icke komma härin. Men David vann den borgen Zion, det är Davids stad.
+{11:6} Och David sade: Den som de Jebuseer först slår, han skall vara hufvud och öfverste. Då steg Joab, ZeruJa son, först upp, och vardt höfvitsmän.
+{11:7} Och David bodde på borgene; deraf kallar man henne Davids stad.
+{11:8} Och han byggde staden omkring, ifrå Millo och sedan allt omkring; och Joab lät lefva dem som qvare voro i stadenom.
+{11:9} Och David hade framgång, och kom sig före; och Herren Zebaoth var med honom.
+{11:10} Desse äro de öfverste ibland Davids väldiga, de der manliga höllo med honom i hans rike, när hela Israel, så att man gjorde honom till Konung, efter Herrans ord, öfver Israel.
+{11:11} Och detta är talet på Davids väldiga män: Jasabeam, Hachmoni son, den ypperste ibland tretio; han hof sin spets upp, och slog trehundrad i en gång.
+{11:12} Näst honom var Eleazar, Dodo son, den Ahohiten, och han var ibland de tre väldiga.
+{11:13} Denne var med David, då de talade hädelse, och de Philisteer sig der församlat hade till strid; och var ett stycke åker fullt med bjugg, och folket flydde för de Philisteer.
+{11:14} Och de trädde midt uppå åkerstycket, och undsatte det, och slogo de Philisteer; och Herren gaf en stor salighet.
+{11:15} Och de tre utaf de yppersta tretio drogo neder till bergshällen till David, i den kulona Adullam; men de Philisteers lägre var i Rephaims dal.
+{11:16} Och David var i borgene; och de Philisteers folk var på den tid i BethLehem.
+{11:17} Och David fick lusta, och sade: Ho vill gifva mig dricka af det vattnet i den brunnen i BethLehem, under portenom?
+{11:18} Då slogo desse tre genom de Philisteers lägre, och hemtade vatten utu brunnen i BethLehem, under portenom, och båro till David. Men han ville icke drickat, utan utgöt det Herranom;
+{11:19} Och sade: Det låte Gud vara långt ifrå mig, att jag detta göra skulle, och dricka dessa mäns blod i deras lifsfara; förty de hafva det hemtat med sins lifs fara; derföre ville han icke drickat. Det gjorde de tre hjeltar.
+{11:20} Abisai, Joabs broder, han var den ypperste ibland tre, och han hof sin spets upp, och slog trehundrad, och han var beprisad ibland tre.
+{11:21} Och han den tredje härligare än de två, och var deras öfverste; men till de tre kom han icke.
+{11:22} Benaja, Jojada son, IsHails sons, den mycket bedrifvit hade, af Kabzeel, han slog tu de Moabiters lejon; och gick neder, och slog ett lejon midt i brunnenom i snötiden.
+{11:23} Han slog ock en Egyptisk man; han var fem alnar lång, och hade en spets i handene såsom ett väfträ; men han gick ned till honom med en staf, och tog honom spetsen utu handene, och drap honom med hans egen spets.
+{11:24} Det gjorde Benaja, Jojada son, och vardt beprisad ibland tre hjeltar;
+{11:25} Och var den härligaste ibland tretio; men till de tre kom han icke; honom gjorde David till sitt hemliga råd.
+{11:26} De stridsamme hjeltar äro desse: Asahel, Joabs broder, Elhanan, Dodo son af BethLehem,
+{11:27} Sammoth den Haroriten, Helez den Peloniten,
+{11:28} Ira, Ikkes son, den Thekoiten, Abieser den Anthothiten,
+{11:29} Sibbechai den Husathiten, Ilai den Ahohiten,
+{11:30} Maharai den Netophathiten, Heled, Baana son, den Netophathiten,
+{11:31} Ithai, Ribai son, af Gibea, BenJamins barnas, Benaja den Pirgathoniten,
+{11:32} Hurai af de bäcker Gaas, Abiel den Arbathiten,
+{11:33} Asmaveth den Baharumiten, Eliahba den Saalboniten,
+{11:34} Hasems barn den Gisonitens, Jonathan, Sage son, den Hararitens,
+{11:35} Ahiam, Sachars son, den Hararitens, Eliphal, Urs son,
+{11:36} Hepher den Mecherathiten, Ahija den Peloniten,
+{11:37} Hezro den Carin eliten, Naarai, Esbai son,
+{11:38} Joel, Nathans broder, Mibhar, Hagri son,
+{11:39} Zelek den Ammoniten, Naharai den Berothiten, Joabs vapnedragare, ZeruJa sons,
+{11:40} Ira den Jithriten, Gareb den Jithriten,
+{11:41} Uria den Hetheen, Sabad, Ahelai son,
+{11:42} Adina, Sisa son, den Rubeniten, en höfvitsmän för de Rubeniter, och tretio voro under honom,
+{11:43} Hanan, Maacha son, Josaphat den Mithniten,
+{11:44} Ussija den Asthrathiten, Sama och Jegiel, Hothams söner, den Aroeritens,
+{11:45} Jediael, Simri son, Joha hans broder, den Thiziten,
+{11:46} Eliel den Mahaviten, Jeribai och Josavja, Elnaams söner, Jithma den Moabiten,
+{11:47} Eliel, Obed, och Jasiel af Mezobaja.
+{12:1} Och kommo desse till David i Ziklag, då han ännu flyktig var för Saul, Kis son; och de voro också ibland de hjeltar, som hulpo till strid;
+{12:2} Och voro skickeliga med bågar, på båda händer, till stenar, pilar och bågar, af Sauls bröder, de af BenJamin voro.
+{12:3} Den ypperste Ahieser, och Joas, Semaa barn, den Gibeathitens, Jesiel, och Paleth, Asmaveths barn, Beracha, och Jehu den Anthothiten,
+{12:4} Jismaja den Gibeoniten, väldig ibland tretio, och öfver tretio, Jeremia, Jahasiel, Johanan, Josabad den Gederathiten,
+{12:5} Elusai, Jerimoth, Bealia, Semaria, Sephatia den Hariphiten,
+{12:6} Elkana, Jissija, Asareel, Joeser, Jasabeam, de Korhiter,
+{12:7} Joela, och Sebadia, Jerohams barn af Gedor.
+{12:8} Af de Gaditer söndrade sig ut till David, på borgene i öknene, starke hjeltar och krigsmän, som sköld och spjut förde, och deras ansigte såsom lejons, och raske såsom rår uppå bergen:
+{12:9} Den förste, Eser; den andre, Obadja; den tredje, Eliab;
+{12:10} Den fjerde, Mismanna; den femte, Jeremia;
+{12:11} Den sjette, Atthai; den sjunde, Eliel;
+{12:12} Den åttonde, Johanan; den nionde, Elsabad;
+{12:13} Den tionde, Jeremia; den ellofte, Machbannai.
+{12:14} Desse voro af Gads barnom, höfvitsmän i härenom, den ringaste öfver hundrade, och den ypperste öfver tusende.
+{12:15} Desse äro de, som öfver Jordan gingo i första månadenom, då han full var till båda bräddar, så att alle dalar jemne voro både östan och vestan.
+{12:16} Kommo ock desslikes af BenJamins barn och Juda till Davids borg.
+{12:17} Och David gick ut till dem, och svarade, och sade till dem: Om I kommen med frid till mig, och till att hjelpa mig, så skall mitt hjerta vara med eder; kommen I ock på arga list att vara mig emot, der dock ingen missgerning i mig är, så se våra fäders Gud dertill, och straffe det.
+{12:18} Så iklädde Guds Ande Amasai höfvitsmannen öfver tretio, och han sade: Dine äre vi, David, och med dig hålle vi, du Isai son; frid, frid vare med dig; frid vare med dina hjelpare; förty din Gud hjelper dig. Då tog David dem till sig, och satte dem till höfvitsmän öfver krigsfolket.
+{12:19} Och af Manasse föllo till David, då han kom med de Philisteer emot Saul till strid, och halp dem dock intet; ty de Philisteers Förstar gingo till råds, och viste honom bort ifrå sig, och sade: Om han fölle till sin herra Saul, så måtte det gälla vår hals.
+{12:20} Då han nu igen drog till Ziklag, föllo till honom af Manasse, Adna, Josabad, Jediael, Michael, Josabad, Elihu, Zillethai, höfvitsmän öfver tusende i Manasse.
+{12:21} Och de hulpo David emot krigsfolket; ty de voro alle mägtige hjeltar, och vordo höfvitsmän öfver hären.
+{12:22} Och kommo hvar dag någre till David, honom till hjelp, tilldess det vardt en stor här, såsom en Guds här.
+{12:23} Och detta är talet på de höfvitsmän, som utrustade kommo till David i Hebron, till att vända Sauls rike till honom efter Herrans ord.
+{12:24} Juda barn, som sköld och spjut båro, voro sextusend och åttahundrad, väl utredde till strid.
+{12:25} Simeons barn, mägtige hjeltar till strid, sjutusend och hundrade.
+{12:26} Levi barn, fyratusend och sexhundrad.
+{12:27} Och Jojada, den Försten ibland dem af Aaron, med tretusend och sjuhundrad.
+{12:28} Zadok den unge mannen, en mägtig hjelte, med sins faders hus, två och tjugu öfverste.
+{12:29} BenJamins barn, Sauls bröder, tretusend; ty allt intill den tiden höllo ännu månge med Sauls hus.
+{12:30} Ephraims barn, tjugutusend och åttahundrad, mägtige hjeltar och namnkunnige män uti deras faders hus.
+{12:31} Utaf den halfva slägt ene Manasse adertontusend, som vid namn nämnde vordo, att de skulle komma och göra David till Konung.
+{12:32} Utaf Isaschars barn, de förståndige voro, då tiden så krafde, att man visste hvad Israel göra skulle, tuhundrad höfvitsmän; och alle deras bröder följde deras ord.
+{12:33} Utaf Sebulon, de som i här drogo till strid, väpnade med allahanda vapen till strid, femtiotusend, endrägtige till att skicka sig i ordan.
+{12:34} Utaf Naphthali tusend höfvitsmän, och med dem de som sköld och spjut förde, sju och tretio tusend.
+{12:35} Utaf Dan väpnade till strid, åtta och tjugu tusend sexhundrad.
+{12:36} Utaf Asser, de som i här drogo väpnade till strid, fyratiotusend.
+{12:37} Ifrå hinsidon Jordan utaf de Rubeniter, Gaditer och den halfva Manasse slägten, med allahanda vapen till strid, hundrade och tjugu tusend.
+{12:38} Alle desse krigsmän, väl skickade till strid, kommo af allo hjerta till Hebron, att göra David till Konung öfver hela Israel; och var alla de andras af Israel ett hjerta, att man skulle göra David till Konung;
+{12:39} Och voro der när David i tre dagar, åto och drucko; förty deras bröder hade tillredt för dem.
+{12:40} Och de som näst omkring dem voro, allt intill Isaschar, Sebulon och Naphthali, de förde bröd på åsnar, camelar, mular och oxar, till att äta; mjöl, fikon, russin, vin, oljo, oxar och får, allt fullt; ty en fröjd var i Israel.
+{13:1} Och David höll ett råd med de höfvitsmän öfver tusende, och öfver hundrade, och med alla Förstar;
+{13:2} Och sade till hela Israels menighet: Täckes eder, och är det af Herranom vårom Gud, så låt oss allestäds utsända till de andra våra bröder i all Israels land, och till Presterna och Leviterna i städerna, der de förstäder hafva, att de varda till oss församlade.
+{13:3} Och låt oss hem ta till oss igen vår Guds ark; ty i Sauls tid frågade vi intet efter honom.
+{13:4} Då sade hela menigheten, att man skulle så göra; ty detta täcktes allo folkena väl.
+{13:5} Alltså församlade David hela Israel allt ifrå Sihor vid Egypten, intilldess man kommer till Hamath, till att hemta Guds ark ifrå KiriathJearim.
+{13:6} Och David drog upp med hela Israel till Baalath, det är KiriathJearim, som i Juda ligger, att han skulle dädan uppföra Herrans Guds ark, den på Cherubim sitter, der Namnet åkalladt varder.
+{13:7} Och de läto föra Guds ark uppå en ny vagn, utur AbiNadabs hus. Men Ussa och Ahio drefvo vagnen.
+{13:8} Och David med hela Israel spelade framför Gudi med all magt, med sånger, med harpor, med psaltare, med trummor, med cymbaler, och med basuner.
+{13:9} Som de nu kommo uppå den platsen Chidon, räckte Ussa ut sina hand, till att hålla arken; förty oxarne gingo afsides.
+{13:10} Då förgrymmade sig Herrans vrede öfver Ussa, och slog honom, derföre att han hade räckt sina hand ut på arken, så att han der död blef för Gudi.
+{13:11} Då vardt David bedröfvad, att Herren hade sönderrifvit Ussa, och kallade det rummet PerezUssa, allt intill denna dag.
+{13:12} Och David fruktade sig för Gud den dagen, och sade: Huru skall jag hafva Guds ark in till mig?
+{13:13} Derföre lät han icke föra in till sig Guds ark uti Davids stad, utan förde honom in uti ObedEdoms hus, den Gitthitens.
+{13:14} Alltså blef Guds ark när ObedEdom i hans huse i tre månader. Och Herren välsignade ObedEdoms hus, och all det han hade.
+{14:1} Och Hiram, Konungen i Tyro, sände båd till David, och cedreträ, murmästare och timbermän, att de skulle bygga honom ett hus.
+{14:2} Och David förmärkte, att Herren hade stadfäst honom till Konung öfver Israel; ty hans rike steg upp för hans folks Israels skull.
+{14:3} Och David tog ännu flera hustrur i Jerusalem, och födde ännu flera söner och döttrar.
+{14:4} Och de honom födde vordo i Jerusalem, heto alltså: Sammua, Sobab, Nathan, Salomo,
+{14:5} Jibhar, Elisua, Elephelet,
+{14:6} Noga, Nepheg, Japhia,
+{14:7} Elisama, BelJada, Eliphelet.
+{14:8} Och då de Philisteer hörde, att David var smord till Konung öfver hela Israel, drogo de alle upp till att söka David. Då David det hörde, drog han ut emot dem.
+{14:9} Och de Philisteer kommo, och lade sig neder i Rephaims dal.
+{14:10} Men David frågade Gud, och sade: Skall jag draga upp emot de Philisteer, och vill du gifva dem i mina hand? Herren sade till honom: Drag upp, jag hafver gifvit dem i dina händer.
+{14:11} Och då de drogo upp till BaalPerazim, slog David dem der. Och David sade: Gud hafver förskingrat mina fiendar genom mina hand, såsom vattnet förskingras. Deraf kallade de det rummet BaalPerazim.
+{14:12} Och de läto der deras gudar, hvilka David böd uppbränna i eld.
+{14:13} Men de Philisteer gjorde åter redo, och lade sig neder i dalenom.
+{14:14} Och David frågade åter Gud. Och Gud sade till honom: Du skall icke draga upp efter dem; utan böj ifrå dem, att du må komma emot dem in mot päronaträn.
+{14:15} När du då hörer ett ruskande ofvan i päronaträn gångandes, så far ut till stridena; ty Gud är der utdragen för dig, till att slå de Philisteers här.
+{14:16} Och David gjorde såsom Gud honom budit hade. Och de slogo de Philisteers här, allt ifrå Gibeon intill Gaser.
+{14:17} Och Davids namn gick ut i all land. Och Herren lät hans räddhåga komma öfver alla Hedningar.
+{15:1} Och han byggde sig hus uti Davids stad, och tillredde ett rum till Guds ark, och gjorde ett tabernakel öfver honom.
+{15:2} På den tiden sade David: Guds ark bör icke bäras, utan af de Leviter; ty dem hafver Herren utvalt, att de skola bära Guds ark, och tjena honom evinnerliga.
+{15:3} Derföre församlade David hela Israel till Jerusalem, att de skulle bära Herrans ark upp i det rum, som han dertill beredt hade.
+{15:4} Och David lät komma tillhopa Aarons barn, och Leviterna:
+{15:5} Utaf Kehats barn, Uriel, den öfversten, med hans bröder, tjugu och hundrade;
+{15:6} Utaf Merari barn, Asaja, den öfversten, med hans bröder, tjugu och tuhundrade;
+{15:7} Utaf Gersoms barn, Joel, den öfversten, med hans bröder, tretio och hundrade;
+{15:8} Utaf Elisaphans barn, Semaja, den öfversten, med hans bröder, tuhundrade;
+{15:9} Utaf Hebrons barn, Eliel, den öfversten, med hans bröder, åttatio;
+{15:10} Utaf Ussiels barn, Amminadab, den öfversten, med hans bröder, tolf och hundrade.
+{15:11} Och David kallade Zadok och AbJathar, Presterna och Leviterna, nämliga Uriel, Asaja, Joel, Semaja, Eliel, Amminadab;
+{15:12} Och sade till dem: I ären hufvuden för fäderna ibland de Leviter; så helger eder nu och edra bröder, att I mågen uppbära Herrans Israels Guds ark dit, der jag honom tillredt hafver:
+{15:13} Ty tillförene, när I icke voren tillstädes, gjorde Herren vår Gud en refvo ibland oss, derföre att vi icke sökte honom, såsom det borde sig.
+{15:14} Alltså helgade Presterna sig och Leviterna, att de skulle uppbära Herrans Israels Guds ark.
+{15:15} Och Levi barn båro Guds ark på sina axlar, med stängerna dervid, såsom Mose budit hade efter Herrans ord.
+{15:16} Och David sade till de öfverstar för de Leviter, att de skulle sätta sina bröder till sångare, med strängaspel, med psaltare, harpor och klingande cymbaler, så att de högt söngo och med fröjd.
+{15:17} Då beställde de Leviter Hem an, Joels son, och utaf hans bröder Assaph, Berechia son, och utaf Merari barn deras bröder, Ethan, Kusaja son;
+{15:18} Och med dem deras bröder af det andra skiftet, nämliga Zacharia, Ben, Jaesiel, Semiramoth, Jehiel, Unni, Eliab, Benaja, Maaseja, Mattithia, Elipheleja, Mikneja, ObedEdom, Jegiel, dörravaktarena.
+{15:19} Ty Heman, Assaph och Ethan voro sångare med kopparcymbaler, att klinga högt.
+{15:20} Men Zacharia, Asiel, Semiramoth, Jehiel, Unni, Eliab, Maaseja och Benaja, med psaltare, till att sjunga efter.
+{15:21} Men Mattithia, Elipheleja, Mikneja, ObedEdom, Jegiel och Asasia, med harpor af åtta stränger, till att sjunga för dem.
+{15:22} Men Chenanja, Leviternas öfverste sångmästare, att han skulle undervisa dem om sången, ty han var förståndig.
+{15:23} Och Berechia och Elkana voro dörravaktare om arken.
+{15:24} Men Sechania, Josaphat, Nethaneel, Amasai, Zacharia, Benaja, Elieser, Presterna, blåste med trummeter för Guds ark. Och ObedEdom och Jehia voro dörravaktare om arken.
+{15:25} Alltså gingo David och de äldste i Israel, och de öfverste öfver tusende upp, till att hem ta Herrans förbunds ark utur ObedEdoms hus med fröjd.
+{15:26} Och medan Gud halp Leviterna, som båro Herrans förbunds ark, offrade man sju stutar och sju vädrar.
+{15:27} Och David hade en linnan kjortel uppå; så ock alle Leviter, som arken båro, och sångarena och Chenanja sångmästaren, med sångarena; hade också David en linnan lifkjortel uppå.
+{15:28} Alltså båro hele Israel Herrans förbunds ark upp med fröjd, basuner, trummeter och klingande cymbaler, med psaltare och harpor.
+{15:29} Då nu Herrans förbunds ark kom uti Davids stad, såg Michal, Sauls dotter, ut genom fenstret; och då hon fick se Konung David springa och spela, föraktade hon honom i sitt hjerta.
+{16:1} Då de båro Guds ark in, satte de honom uti tabernaklet, som David honom beredt hade; och offrade bränneoffer och tackoffer för Gudi.
+{16:2} Och då David hade fullkomnat bränneoffren och tackoffren, välsignade han folket i Herrans Namn;
+{16:3} Och utskifte hvarjom och enom i Israel, både man och qvinno, ett stycke bröd, och kött, och ett mätt vin.
+{16:4} Och han satte inför Herrans ark några Leviter till tjenare, att de skulle prisa, tacka och lofva Herran Israels Gud;
+{16:5} Nämliga Assaph den första, Zacharia den andra, Jegiel, Semiramoth, Jehiel, Mattithia, Eliab, Benaja, ObedEdom; och Jegiel med psaltare och harpor; men Assaph med klingande cymbaler;
+{16:6} Och Benaja och Jahasiel, Presterna, med trummeter, alltid för Guds förbunds ark.
+{16:7} På den tiden beställde David i förstone att tacka Herranom, genom Assaph och hans bröder:
+{16:8} Tacker Herranom, prediker hans Namn; förkunner ibland folken hans verk.
+{16:9} Sjunger honom, speler, och taler om all hans under.
+{16:10} Lofver hans helga Namn; deras hjerta fröjde sig, som söka Herran.
+{16:11} Söker efter Herran, och efter hans magt; söker hans ansigte alltid.
+{16:12} Tänker på hans under, som han gjort hafver; på hans under, och hans ord;
+{16:13} I Israels hans tjenares säd, I Jacobs hans utkorades barn.
+{16:14} Han är Herren vår Gud, han dömer i allo verldene.
+{16:15} Kommer ihåg hans förbund evinnerliga; hvad han utlofvat hafver i tusende slägter;
+{16:16} Hvilket han gjort hafver med Abraham, och hans ed med Isaac.
+{16:17} Och han satte det Jacob till en rätt, och Israel till ett evigt förbund,
+{16:18} Och sade: Jag skall gifva dig Canaans land, edar arfvedels lott.
+{16:19} Då de få och ringa voro, och främlingar derinne;
+{16:20} Och de drogo ifrå det ena folket till det andra, och utur ett rike bort till ett annat folk;
+{16:21} Han lät ingen göra dem skada; och för deras skull straffade han Konungar;
+{16:22} Kommer icke vid mina smorda; och görer intet ondt mina Propheter.
+{16:23} Sjunger Herranom all land; förkunner dageliga hans salighet.
+{16:24} Förtäljer ibland Hedningarna hans härlighet; och hans under ibland folken.
+{16:25} Ty Herren är stor, och fast loflig; och underlig öfver alla gudar.
+{16:26} Förty alle Hedningars gudar äro afgudar; men Herren hafver gjort himmelen.
+{16:27} Det står härliga och kosteliga till för honom, och går krafteliga och gladeliga till i hans rum.
+{16:28} Bärer fram Herranom, I folk; bärer fram Herranom äro och magt.
+{16:29} Bärer fram Herrans Namne äro; bärer fram skänker, och kommer för honom, och tillbeder Herran i heligo prydelse.
+{16:30} All verlden frukte för honom; han hafver befäst jordena, så att hon intet röres.
+{16:31} Fröjde sig himmelen, och jorden vare glad; och man må säga ibland Hedningarna, att Herren är rådandes.
+{16:32} Hafvet dåne, och hvad deruti är; och marken vare glad, och hvad deruppå är.
+{16:33} Fröjde sig all trä i skogen för Herranom: ty han kommer till att döma jordena.
+{16:34} Tacker Herranom, ty han är god, och hans barmhertighet varar evinnerliga.
+{16:35} Och säger: Hjelp oss, Gud vår Frälsare, och församla oss, och hjelp oss ifrå Hedningarna, att vi måge tacka dino helgo Namne, och lofsäga dig.
+{16:36} Lofvad vare Herren Israels Gud, ifrån evighet till evighet; och allt folket säge Amen, och lofve Herran.
+{16:37} Alltså lät han der för Herrans förbunds ark Assaph och hans bröder, till att tjena inför arken alltid, och hvar dag i sitt dagsverk;
+{16:38} Men ObedEdom och hans bröder, åtta och sextio; och ObedEdom, Jeduthuns son, och Hosa till dörravaktare;
+{16:39} Och Zadok Presten, och hans bröder Presterna, lät han inför Herrans tabernakel, på höjdene i Gibeon;
+{16:40} Att de dageliga skulle göra Herranom bränneoffer, uppå bränneoffrens altare, om morgon och afton, såsom skrifvet står uti Herrans lag, som han Israel budit hade;
+{16:41} Och med dem Heman och Jeduthun, och de andra utvalda, som vid namn benämnde voro, till att tacka Herranom, att hans barmhertighet varar evinnerliga;
+{16:42} Och med dem Heman och Jeduthun, med trummeter och cymbaler, till att klinga, och med Guds strängaspel. Men Jeduthuns söner gjorde han till dörravaktare.
+{16:43} Alltså drog allt folket sin väg, hvar och en i sitt hus. Drog också David bort till att välsigna sitt hus.
+{17:1} Det begaf sig, då David bodde i sitt hus, sade han till Propheten Nathan: Si, jag bor uti cedrehus; och Herrans förbunds ark under tapeter.
+{17:2} Nathan sade till David: Allt det i ditt hjerta är, det gör; ty Gud är med dig.
+{17:3} Men i samma natt ene kom Guds ord till Nathan, och sade:
+{17:4} Gack och säg minom tjenare David: Detta säger Herren: Du skall icke bygga mig ett hus till boning.
+{17:5} Förty jag hafver icke bott uti något hus, ifrå den dag, då jag Israels barn utförde, allt intill denna dagen; utan jag hafver varit der tabernaklet varit hafver, och boningen.
+{17:6} Ehvar jag vandrade i hela Israel, hafver jag ock någor tid talat till någon domare i Israel, den jag budit hafver, att föda mitt folk, och sagt: Hvi byggen I icke mig ett cedrehus?
+{17:7} Så säg nu alltså till min tjenare David: Detta säger Herren Zebaoth: Jag hafver tagit dig utaf markene, der du följde fåren, att du skulle vara en Förste öfver mitt folk Israel;
+{17:8} Och hafver varit med dig, ehvart du for, och hafver utrotat dina fiendar för dig; och hafver gjort dig ett namn, såsom de store på jordene namn hafva.
+{17:9} Men jag skall sätta mino folke Israel ett rum, och skall plantera det, så att det skall der bo, och icke mer rördt varda; och arghetens barn skola icke mer qvälja det, såsom tillförene,
+{17:10} Och på den tiden, då jag böd domarena öfver mitt folk Israel. Och jag skall undertrycka alla dina fiendar; och förkunnar dig, att Herren vill bygga dig ett hus.
+{17:11} När nu dine dagar ute äro, att du går till dina fäder, så skall jag uppväcka dina säd efter dig, den en af dina söner vara skall, honom vill jag bereda ett rike.
+{17:12} Han skall bygga mig ett hus, och jag vill stadfästa hans stol till evig tid.
+{17:13} Jag skall vara hans fader, och han skall vara min son; och jag skall icke vända mina barmhertighet ifrå honom, såsom jag vände henne ifrå honom, som för dig var;
+{17:14} Utan jag skall sätta honom i mitt hus, och uti mitt rike evinnerliga, så att hans stol skall blifva beständig i evig tid.
+{17:15} Och då Nathan efter all desso ord och syn talat hade med David,
+{17:16} Kom Konung David, och blef inför Herranom, och sade: Ho är jag, Herre Gud? Och hvad är mitt hus, att du hafver låtit mig komma härtill?
+{17:17} Och dig hafver ändå icke tyckt det nog vara, Gud; utan du hafver ock öfver dins tjenares hus ännu talat om tillkommande ting i framtiden, och hafver sett till mig, Herre Gud, ofvanefter, såsom en menniska den andra.
+{17:18} Hvad skall David mer säga till dig, att du skulle ära din tjenare? Du känner din tjenare.
+{17:19} Herre, för din tjenares skull, efter ditt hjerta hafver du all sådana stor ting gjort, att du skulle all storhet kunnoga göra.
+{17:20} Herre, ingen är din like, och ingen Gud är utan du, af hvilkom vi med vår öron hört hafve.
+{17:21} Och hvar är något folk på jordene, såsom ditt folk Israel, dit en Gud gången är, till att förlossa sig ett folk, och göra sig sjelfvom ett Namn af stor och förskräckelig ting, till att utdrifva Hedningar för dino folke, som du utur Egypten förlossat hafver?
+{17:22} Och hafver gjort ditt folk Israel dig till folk evinnerliga, och du, Herre, äst deras Gud vorden.
+{17:23} Nu, Herre, det ord, som du talat hafver öfver din tjenare, och öfver hans hus, varde sant i evig tid, och gör såsom du sagt hafver.
+{17:24} Och ditt Namn varde sant och stort i evig tid, att man säga må: Herren Zebaoth Israels Gud är Gud i Israel; och dins tjenares Davids hus vare beständigt för dig.
+{17:25} Ty du, min Gud, hafver öppnat din tjenares öra, att du vill bygga honom ett hus; derföre hafver din tjenare funnit, att han inför dig beder.
+{17:26} Nu, Herre, du äst Gud, och du hafver sådana god ting sagt till din tjenare.
+{17:27} Tag nu till att välsigna dins tjenares hus, att det blifver evinnerliga för dig; ty hvad du, Herre, välsignar, det är välsignadt evinnerliga.
+{18:1} Derefter slog David de Philisteer, och undertryckte dem, och tog Gath och dess döttrar utu de Philisteers hand.
+{18:2} Slog han ock de Moabiter, så att de Moabiter vordo David underdånige, och förde honom skänker.
+{18:3} Han slog ock HadarEser, Konungen i Zoba, uti Hamath, då han dit drog, till att uppresa sitt tecken vid den älfvena Phrath.
+{18:4} Och David vann af honom tusende vagnar, sjutusend resenärar, och tjugutusend män till fots och David hasade alla vagnhästarna, och behöll hundrade vagnar qvara.
+{18:5} Och de Syrer af Damasco kommo HadarEser, Konungenom i Zoba, till hjelp; men David slog de samma Syrer, tu och tjugu tusend män;
+{18:6} Och lade folk till Damascon i Syrien, så att de Syrer vordo David underdånige, och förde honom skänker; ty Herren halp David, ehvart han for.
+{18:7} Och David tog de gyldene sköldar, som HadarEsers tjenare hade, och förde dem till Jerusalem.
+{18:8} Tog också David utu HadarEsers städer, Tibhath och Chun, ganska mycken koppar, af hvilkom Salomo kopparhafvet, och stoderna och kopparkärilen gjorde.
+{18:9} Och då Thou, Konungen i Hamath, hörde, att David hade slagit alla HadarEsers magt, Konungens i Zoba;
+{18:10} Sände han sin son Hadoram till Konung David, och lät helsa och välsigna honom, att han med HadarEser stridt, och honom slagit hade; ty Thou hade örlig med HadarEser. Och all gyldene, silfver, och kopparkärile,
+{18:11} Dem helgade Konung David Herranom, med det silfver och guld, som han tagit hade ifrå Hedningarna, nämliga ifrå de Edomeer, Moabiter, Ammoniter, Philisteer och Amalekiter.
+{18:12} Och Abisai, ZeruJa son, slog de Edomeer i saltdalenom, adertontusend;
+{18:13} Och lade folk i Edomeen; så att alle Edomeer voro David underdånige; ty Herren halp David, ehvart han drog.
+{18:14} Alltså regerade David öfver hela Israel, och höll rätt och rättvisa allo sino folke.
+{18:15} Joab, ZeruJa son, var öfver hären; Jojaphat, Ahiluds son, var canceller.
+{18:16} Zadok, Ahitobs son, och AbiMelech, AbJathars son, voro Prester; Sausa var skrifvare.
+{18:17} Benaja, Jojada son, var öfver Crethi och Plethi; och de förste Davids söner voro Konungenom vid handen.
+{19:1} Så begaf sig derefter, att Nahas, Ammons barnas Konung, blef död, och hans son vardt Konung i hans stad,
+{19:2} Då tänkte David: Jag vill göra barmhertighet på Hanun, Nahas son; ty hans fader hafver gjort barmhertighet med mig. Och han sände dit båd, till att hugsvala honom efter hans fader. Och då Davids tjenare kommo uti Ammons barnas land, till Hanun, att hugsvala honom,
+{19:3} Sade de Förstar för Ammons barn till Hanun: Menar du, att David ärar din fader för din ögon, att han sänder hugsvalare till dig? Ja, hans tjenare äro komne till dig, till att utfråga, bespana och bespeja landet.
+{19:4} Då tog Hanun Davids tjenare, och rakade dem, och skar deras kläder half bort allt intill länderna, och lät gå dem.
+{19:5} Och de gingo sin väg, och bådade det David med några män. Han sände emot dem; förty männerna voro svårliga beskämde, och Konungen sade: Blifver i Jericho, tilldess edart skägg växer, sedan kommer då igen.
+{19:6} Då Ammons barn sågo, att de illa luktade för David, sände de bort, både Hanun och Ammons barn, tusende centener silfver, till att besolda sig vagnar och resenärar utu Mesopotamien, utu Syrien Maacha, och utu Zoba;
+{19:7} Och besoldade tu och tretio tusend vagnar, och Konungen i Maacha med hans folk. De kommo och lägrade sig för Medba. Och Ammons barn församlade sig desslikes utu sina städer, och kommo till strids.
+{19:8} Då David det hörde, sände han Joab dit, med hela de hjeltars här.
+{19:9} Och Ammons barn voro utdragne, och skickade sig till strid för stadsporten; men Konungarna, som komne voro, höllo besynnerliga i markene.
+{19:10} Då nu Joab såg, att både för honom och bak honom var strid emot honom, utvalde han af alla unga män i Israel, och skickade sig emot de Syrer.
+{19:11} Det andra folket fick han under Abisai sin broders hand, att de skulle draga emot Ammons barn;
+{19:12} Och sade: Om de Syrer varda mig för starke, så kom mig till hjelp; om Ammons barn varda dig för starke, så vill jag komma dig till hjelp.
+{19:13} Var tröst, och låt oss trösteliga handla för vårt folk, och för vår Guds städer. Herren göre hvad honom täckes.
+{19:14} Och Joab drog fram med det folk, som med honom var, till att strida emot de Syrer; och de flydde för honom.
+{19:15} Då nu Ammons barn sågo, att de Syrer flydde, flydde de ock för Abisai hans broder, och drogo in i staden; men Joab drog till Jerusalem.
+{19:16} Som de Syrer sågo, att de för Israel slagne voro, sände de ut båd, och läto utkomma de Syrer på hinsidon älfven; och Sophach, HadarEsers härhöfvitsman, drog för dem.
+{19:17} Då det blef sagdt David, församlade han hela Israel, och drog öfver Jordan; och då han kom till dem, skickade han sig emot dem. Och David skickade sig emot de Syrer till strid, och de stridde med honom.
+{19:18} Men de Syrer flydde för Israel; och David slog af de Syrer sjutusend vagnar, och fyratiotusend män till fot; dertill drap han Sophach härhöfvitsmannen.
+{19:19} Då HadarEsers tjenare sågo, att de voro slagne för Israel, gjorde de frid med David och hans tjenare. Och de Syrer ville icke mer hjelpa Ammons barn.
+{20:1} Och då året omgånget var, på den tid som Konungar utdraga, utförde Joab hären, och förderfvade Ammons barnas land; kom och belade Rabba; men David blef i Jerusalem. Och Joab slog Rabba, och bröt det neder.
+{20:2} Och David tog deras Konungs krono af hans hufvud, och fann deruti en centener gulds vigt och ädla stenar; och hon vardt satt på Davids hufvud; förde han ock ganska mycket rof utu staden.
+{20:3} Men folket derinne förde han ut, och lät sönderdela dem med sågar och jernhackor och kilar; alltså gjorde David alla Ammons barnas städer. Och David drog med folkena till Jerusalem igen.
+{20:4} Derefter hof sig en strid upp i Gaser med de Philisteer. På den tiden slog Sibbechai, den Husathiten, Sippai, den utaf Rephaims barnom var, och undertryckte honom.
+{20:5} Och det hof sig ännu en strid upp med de Philisteer. Då slog Elhanan, Jairs son, Lahmi, Goliaths broder den Gitthiten, hvilkens spjutskaft var såsom ett väfträ.
+{20:6} Åter vardt en strid i Gath. Der var en stor man, han hade sex finger och sex tår, det gör fyra och tjugu. Han var också födder af Rapha.
+{20:7} Han bespottade Israel; men Jonathan, Simea son, Davids broders, slog honom.
+{20:8} Desse voro födde af Rapha i Gath, och föllo genom Davids och hans tjenares hand.
+{21:1} Och Satan hof sig upp emot Israel, och gaf David in, att han lät räkna Israel.
+{21:2} Och David sade till Joab, och till folkens öfverstar: Går bort, och räkner Israel, allt ifrå BerSeba intill Dan; och bärer till mig, att jag må veta talet.
+{21:3} Joab sade: Herren föröke till sitt folk hundrade sinom så mycket som det nu är: Min herre Konung, äro de icke alle mins herras tjenare? Hvi frågar då min herre derefter? Hvi skulle en skuld komma på Israel?
+{21:4} Men Konungens ord gick fram emot Joab; och Joab drog ut, och for omkring all Israel, och kom till Jerusalem;
+{21:5} Och fick David talet på det räknade folket; och det var af hela Israel ellofva sinom hundrade tusend män, som svärd utdrogo; och Juda fyrahundrade sinom tusend, och sjutiotusend män, som svärd utdrogo.
+{21:6} Men Levi och BenJamin räknade han intet ibland dessa; förty Konungens ord var Joab en styggelse.
+{21:7} Men Gudi misshagade detta; och han slog Israel.
+{21:8} Och David sade till Gud: Jag hafver svårliga syndat, att jag detta gjort hafver; men nu tag dins tjenares missgerning bort; förty jag hafver fast dårliga gjort.
+{21:9} Och Herren talade med Gad, Davids Siare, och sade:
+{21:10} Gack, tala med David, och säg: Detta säger Herren: Treggehanda sätter jag dig före; utvälj dig der ett af, det jag dig göra skall.
+{21:11} Då Gad kom till David, sade han till honom: Detta säger Herren:
+{21:12} Utvälj dig, antingen tre hård år, eller tre månaders flykt för dina ovänner, och för dina fiendars svärd, det du icke undkomma kan; eller tre dagar Herrans svärd och pestilentie i landena, så att Herrans Ängel förderfvar i alla Israels gränsor; så se nu till, hvad jag skall svara honom, som mig utsändt hafver.
+{21:13} David sade till Gad: Mig är fast ångest; dock vill jag falla i Herrans hand; ty hans barmhertighet är ganska stor; och icke falla i menniskohand.
+{21:14} Då lät Herren komma pestilentie i Israel, så att sjutiotusend män föllo af Israel.
+{21:15} Och Gud sände Ängelen till Jerusalem till att slå det; och när han förderfvade, såg Herren dertill, och ångrade det onda, och sade till Ängelen, som förderfvade: Det är nog, håll dina hand tillbaka. Men Herrans Ängel stod vid Arnans, den Jebuseens lado.
+{21:16} Och David hof upp sin ögon, och fick se Herrans Ängel stå emellan himmelen och jordena, och ett draget svärd i hans hand, uträckt öfver Jerusalem. Då föll David och de äldste på sin ansigte, klädde i säcker.
+{21:17} Och David sade till Gud: Är icke jag den som lät räkna folket? Jag är den som syndade och det onda gjort hafver; dessa far, hvad hafva de gjort? Herre, min Gud, låt dina hand vara emot mig och mins faders hus, och icke emot ditt folk, till plågo.
+{21:18} Och Herrans Ängel sade till Gad, att han skulle säga David, att David skulle gå upp, och resa Herranom ett altare i Arnans, den Jebuseens, lado.
+{21:19} Alltså gick David upp efter Gads ord, som han i Herrans Namn talat hade.
+{21:20} Men då Arnan vände sig, och såg Ängelen, han och hans fyra söner med honom, gömde de sig bort; ty Arnan tröskade vete.
+{21:21} Som nu David gick till Arnan, såg Arnan och vardt varse David, och gick utaf ladone, och tillbad David på sitt ansigte till jordena.
+{21:22} Och David sade till Arnan: Gif mig ladones rum, att jag må bygga Herranom ett altare deruppå; för fulla penningar skall du få mig det, att plågan på folket må återvända.
+{21:23} Arnan sade till David: Tag dig det, och gör, min herre Konung, såsom dig täckes. Si, jag gifver också oxarna till bränneoffret, och redskapen till ved, och hvete till spisoffer; alltsamman gifver jag det.
+{21:24} Men Konung David sade till Arnan: Icke så, utan för fulla penningar vill jag köpat; ty jag vill icke taga det ditt är för Herranom, och göra bränneoffer till gifvins.
+{21:25} Alltså gaf David Arnan, för rummet, gyldene siktar till vigt sexhundrad.
+{21:26} Och David byggde dersammastäds Herranom ett altare, och offrade bränneoffer och tackoffer; och då han åkallade Herran, hörde han honom genom eld af himmelen uppå bränneoffrets altare.
+{21:27} Och Herren sade till Ängelen, att han skulle sticka sitt svärd i skidona.
+{21:28} På samma tiden, då David såg, att Herren hade hört honom uppå Arnans den Jebuseens plats, offrade han der.
+{21:29} Ty Herrans tabernakel, som Mose i öknene gjort hade, och bränneoffrets altare, var i den tiden på höjdene i Gibeon.
+{21:30} Men David kunde icke gå ditin för det, till att söka Gud; så var han förskräckt för Herrans Ängels svärd.
+{22:1} Och David sade: Här skall Herrans Guds hus vara, och detta altaret till Israels bränneoffer.
+{22:2} Och David lät församla de främlingar, som i Israels land voro, och beställde stenhuggare, till att hugga sten till Guds hus byggning.
+{22:3} Och David tillredde mycket jern till naglar åt dörrena i portomen, och hvad tillhopanaglas skulle; och så mycken koppar, att han icke stod till vägandes;
+{22:4} Och cedreträ utan tal; förty de af Zidon och Tyro förde mycket cedreträ till David.
+{22:5} Ty David tänkte: Min son Salomo är en ung pilt och späd; men huset, som Herranom byggas skall, måste vara stort, att dess namn och lof utgå må i all land derföre vill jag skaffa honom virke. Alltså skaffade David mycket virke, förr än han dödde.
+{22:6} Och han kallade sin son Salomo, och böd honom bygga Herrans Israels Guds hus;
+{22:7} Och sade till honom: Min son, jag hade i sinnet att bygga Herrans mins Guds Namne ett hus.
+{22:8} Men Herrans ord kom till mig, och sade: Du hafver mycket blod utgjutit, och fört stort örlig: derföre skall du icke bygga mino Namne hus, efter du så mycket blod utgjutit hafver för mig på jordena.
+{22:9} Si, din son, som dig skall född varda, han skall vara en rolig man; förty jag vill låta honom få ro för alla hans fiendar allt omkring. Han skall heta Salomo; ty jag skall gifva frid och rolighet öfver Israel uti hans lifsdagar.
+{22:10} Han skall bygga mino Namne ett hus; han skall vara min son, och jag skall vara hans fader, och jag skall stadfästa hans Konungsliga stol öfver Israel till evig tid.
+{22:11} Så varder nu, min son, Herren med dig blifvandes, och du skall blifva lyckosam, att du må bygga Herranom dinom Gud ett hus, såsom han om dig sagt hafver.
+{22:12} Och Herren varder dig gifvandes klokhet och förstånd, och skall befalla dig Israel, att du skall hålla Herrans dins Guds lag.
+{22:13} Men då varder du lyckosam, när du håller dig, att du gör efter de seder och rätter, som Herren Mose budit hafver till Israel. Var tröst och vid godt mod, frukta dig intet, och gif dig intet.
+{22:14} Si, jag hafver i minom fattigdom förskaffat till Herrans hus hundradetusend centener guld och tusende resor tusende centener silfver; dertill koppar och jern utan tal, ty det är fast mycket. Hafver jag också beställt timber och stenar, det kan du ännu föröka.
+{22:15} Så hafver du många arbetare, stenhuggare och timbermän till sten och trä, och allahanda kloka på allahanda verk;
+{22:16} På guld, silfver, koppar och jern utan tal. Så statt nu upp, och beställ det; Herren skall vara med dig.
+{22:17} Och David böd allom öfverstom i Israel, att de skulle hjelpa hans son Salomo:
+{22:18} Är icke Herren edar Gud med eder, och hafver gifvit eder rolighet allt omkring? Ty han hafver gifvit landsens inbyggare uti edra händer, och landet är undergifvet vordet för Herranom, och för hans folk.
+{22:19} Så gifver nu edor hjerta och edra själar, till att söka Herran edar Gud; och står upp, och bygger Herranom Gudi en helgedom, att man må bära Herrans förbunds ark och de heliga Guds kärilen in uti huset, som Herrans Namne skall bygdt varda.
+{23:1} Alltså gjorde David Salomo, sin son, till Konung öfver Israel, då han gammal, och af lefvande mätt var.
+{23:2} Och David församlade alla öfverstar i Israel, och Presterna och Leviterna,
+{23:3} Att man skulle räkna Leviterna, ifrå tretio år och derutöfver; och deras tal var, ifrå hufvud till hufvud, det starke män voro, åtta och tretio tusend;
+{23:4} Af hvilkom voro fyra och tjugu tusend, som drefvo arbetet på Herrans hus; och sextusend ämbetsmän och domare;
+{23:5} Och fyratusend dörravaktare; och fyratusend lofsångare Herranom med strängaspel, som jag till lofsång gjort hade.
+{23:6} Och David gjorde en ordning ibland Levi barn, nämliga ibland Gerson, Kehath och Merari.
+{23:7} Då Gersoniter voro: Laedan och Simei.
+{23:8} Laedans barn: Den förste Jehiel, Setam och Joel, de tre.
+{23:9} Men Simei barn voro: Selomith, Hasiel och Haran, de tre. Desse voro de ypperste ibland fäderna af Laedan.
+{23:10} Voro också desse Simei barn: Jahath, Sina, Jeus och Beria. Desse fyra voro ock Simei barn.
+{23:11} Jahath var den förste, Sisa den andre. Men Jeus och Beria hade icke mång barn; derföre vordo de räknade för ens faders hus.
+{23:12} Kehaths barn voro: Amram, Jizear, Hebron och Ussiel, de fyra.
+{23:13} Amrams barn voro: Aaron och Mose. Men Aaron vardt afskild, så att han vardt helgad till det aldrahelgasta, han och hans söner, till evig tid, till att röka för Herranom, och till att tjena och välsigna i Herrans Namn i evig tid;
+{23:14} Och Mose, den Guds mansens, barn vordo nämnde ibland de Leviters slägte.
+{23:15} Mose barn voro: Gersom och Elieser.
+{23:16} Gersoms barn: Den förste var Sebuel.
+{23:17} Eliesers barn: Den förste var Rehabia. Och Elieser hade inga annor barn; men Rehabia barn voro mycket flere.
+{23:18} Jizears barn voro: Selomith den förste.
+{23:19} Hebrons barn voro: Jeria den förste, Amaria den andre, Jahasiel den tredje, och Jekameam den fjerde.
+{23:20} Ussiels barn voro: Micha den förste, och Jissija den andre.
+{23:21} Merari barn voro: Maheli och Musi. Maheli barn voro: Eleazar och Kis.
+{23:22} Men Eleazar blef död, och hade inga söner, utan döttrar; och Kis barn, deras bröder, togo dem.
+{23:23} Musi barn voro: Maheli, Eder och Jeremoth, de tre.
+{23:24} Detta äro Levi barn i deras faders hus, och de ypperste af fäderna, som räknade vordo, efter namnens tal efter hufvuden, hvilke gjorde de sysslor i ämbeten i Herrans hus, ifrå tjugu år, och derutöfver.
+{23:25} Ty David sade: Herren Israels Gud hafver gifvit sino folke ro, och skall bo i Jerusalem till evig tid.
+{23:26} Leviterna behöfde ock icke bära tabernaklet, med all dess redskap, efter deras ämbete;
+{23:27} Utan, efter Davids yttersta ord, vordo Levi barn räknade ifrå tjugu år, och derutöfver;
+{23:28} Att de skulle stå under Aarons barnas händer, till att tjena i Herrans hus, i gårdenom, och till kistorna, och till reningen, och till allahanda helgedom, och till alla ämbetens sysslor i Guds hus;
+{23:29} Och till skådobröd, till semlomjöl, till spisoffer, till osyrade kakor, till pannor, till halster, och till all vigt och mått;
+{23:30} Och till att stå om morgonen, och tacka och lofva Herran; om aftonen desslikes;
+{23:31} Och till att offra Herranom all bränneoffer på Sabbatherna, nymånadom och högtidom, efter talet och sättet, alltid för Herranom;
+{23:32} Att de skulle taga vara på vaktena vid vittnesbördsens tabernakel, och helgedomens; och Aarons barnas, deras bröders, till att tjena i Herrans hus.
+{24:1} Men Aarons barnas ordning var denna: Aarons barn voro Nadab, Abihu, Eleazar och Ithamar.
+{24:2} Men Nadab och Abihu blefvo döde inför deras fader, och hade inga barn; och Eleazar och Ithamar vordo Prester.
+{24:3} Och David skickade dem alltså, Zadok af Eleazars barn, och Ahimelech af Ithamars barn, efter deras tal och ämbete.
+{24:4} Och vordo Eleazars barn flere funne till yppersta starka män än Ithamars barn. Och han skickade dem alltså; nämliga sexton utaf Eleazars barn, till öfverstar ibland deras fäders hus; och åtta af Ithamars barn ibland deras fäders hus.
+{24:5} Och han skifte dem efter lott, derföre, att både af Eleazars och Ithamars barn voro öfverstar i helgedomenom, och öfverstar för Gud.
+{24:6} Och skrifvaren Semaja, Nethaneels son, utaf Leviterna, beskref dem för Konungenom, och för öfverstarna, och för Zadok Prestenom, och för Ahimelech, AbJathars son, och för öfversta fäderna ibland Presterna och Leviterna; nämliga ett fadershus för Eleazar, och det andra för Ithamar.
+{24:7} Och förste lotten föll uppå Jojarib, den andre uppå Jedaja;
+{24:8} Den tredje på Harim, den fjerde på Seorim;
+{24:9} Den femte på Malchija, den sjette på Mijamin;
+{24:10} Den sjunde på Hakkoz, den åttonde på Abia;
+{24:11} Den nionde på Jesua, den tionde på Sechania;
+{24:12} Den ellofte på EljaSib, den tolfte på Jakim;
+{24:13} Den trettonde på Huppa, den fjortonde på Jesebeab;
+{24:14} Den femtonde på Bilga, den sextonde på Immer;
+{24:15} Den sjuttonde på Hesir, den adertonde på Happizez;
+{24:16} Den nittonde på Petahja, den tjugonde på Jeheskel;
+{24:17} Den förste och tjugonde på Jachin, den andre och tjugonde på Gamul;
+{24:18} Den tredje och tjugonde på Delaja, den fjerde och tjugonde på Mahasia.
+{24:19} Detta är ordningen efter deras ämbeten, till att gå i Herrans hus efter deras sätt, under deras fader Aaron, såsom Herren Israels Gud dem budit hade.
+{24:20} Men utaf de andra Levi barn, af Amrams barn var Subael. Af Subaels barn var Jehdeja.
+{24:21} Af Rehabia barn var den förste Jissija.
+{24:22} Men af de Jizeariter var Selomoth. Af Selomoths barn var Jahath.
+{24:23} (Hebrons) barn voro: Jeria den förste, Amaria den andre, Jahasiel den tredje, Jekameam den fjerde.
+{24:24} Ussiels barn voro: Micha. Utaf Micha barn var Samir.
+{24:25} Micha broder var Jissija. Utaf Jissija barn var Zacharia.
+{24:26} Merari barn voro: Maheli och Musi; hans son var Jaasia.
+{24:27} Merari barn, af Jaasia, hans son, voro: Soham, Saccur och Ibri.
+{24:28} Men Maheli hade Eleazar, och Eleazar hade inga söner.
+{24:29} Af Kis: Kis barn voro: Jerahmeel.
+{24:30} Musi barn voro: Maheli, Eder och Jerimoth. Detta äro de Leviters barn, i deras faders hus.
+{24:31} Och man kastade också för dem lott, bredovid deras bröder Aarons barn, inför Konung David och Zadok, och Ahimelech, och inför de öfversta fäderna af Prestomen och Levitomen, dem minsta brodrenom så väl som dem öfversta af fäderna.
+{25:1} Och David, samt med härhöfvitsmännerna, afskiljde till ämbete af Assaphs barn, Heman och Jeduthun, de Propheterna med harpor, psaltare och cymbaler; och de vordo talde till verket, efter sitt ämbete:
+{25:2} Utaf Assaphs barn: Saccur, Joseph, Nethania, Asarela, Assaphs barn, under Assaph, som propheterade när Konungen.
+{25:3} Af Jeduthun: Jeduthuns barn voro: Gedalia, Zeri, Jesaja, Hasabia, Mattithia, de sex, under deras fader Jeduthun, med harpor, hvilke propheterade till att tacka och lofva Herran.
+{25:4} Af Heman: Hemans barn voro: Bukkija, Matthania, Ussiel, Sebuel, Jerimoth, Hanania, Hanani, Eliatha, Giddalthi, RomamthiEser, Josbekasa, Mallothi, Hothir och Mahasioth.
+{25:5} Desse voro alle Hemans barn, Konungens Siares i Guds ordom, till att upphöja hornet; ty Gud hade gifvit Heman fjorton söner och tre döttrar.
+{25:6} Desse voro alle under deras fäder Assaph, Jeduthun och Heman, till att sjunga i Herrans hus med cymbaler, psaltare och harpor, efter ämbetet i Guds hus när Konungen;
+{25:7} Och talet på dem, med deras bröder, som i Herrans sång lärde voro, allesammans mästare, tuhundrad åtta och åttatio.
+{25:8} Och de kastade lott öfver deras ämbete, dem minsta såsom dem största; mästarenom såsom lärjunganom.
+{25:9} Och den förste lotten föll på Joseph under Assaph; den andre på Gedalia, med hans bröder och söner, de voro tolf;
+{25:10} Den tredje på Saccur, med hans söner och bröder, de voro tolf;
+{25:11} Den fjerde på Jizri, med hans söner och bröder, de voro tolf;
+{25:12} Den femte på Nethania, med hans söner och bröder, de voro tolf;
+{25:13} Den sjette på Bukkija, med hans söner och bröder, de voro tolf;
+{25:14} Den sjunde på Jesarela, med hans söner och bröder, de voro tolf;
+{25:15} Den åttonde på Jesaja, med hans söner och bröder, de voro tolf;
+{25:16} Den nionde på Matthania, med hans söner och bröder, de voro tolf;
+{25:17} Den tionde på Simei, med hans söner och bröder, de voro tolf;
+{25:18} Den ellofte på Asareel, med hans söner och bröder, de voro tolf;
+{25:19} Den tolfte på Hasabia, med hans söner och bröder, de voro tolf;
+{25:20} Den trettonde på Subael, med hans söner och bröder, de voro tolf;
+{25:21} Den fjortonde på Mattithia, med hans söner och bröder, de voro tolf;
+{25:22} Den femtonde på Jeremoth, med hans söner och bröder, de voro tolf;
+{25:23} Den sextonde på Hanania, med hans söner och bröder, de voro tolf;
+{25:24} Den sjuttonde på Josbekasa, med hans söner och bröder, de voro tolf;
+{25:25} Den adertonde på Hanani, med hans söner och bröder, de voro tolf;
+{25:26} Den nittonde på Mallothi, med hans söner och bröder, de voro tolf;
+{25:27} Den tjugonde på Elijatha, med hans söner och bröder, de voro tolf;
+{25:28} Den förste och tjugonde på Hothir, med hans söner och bröder, de voro tolf;
+{25:29} Den andre och tjugonde på Giddalthi, med hans söner och bröder, de voro tolf;
+{25:30} Den tredje och tjugonde på Mahasioth, med hans söner och bröder, de voro tolf;
+{25:31} Den fjerde och tjugonde på RomamthiEser, med hans söner och bröder, de voro tolf.
+{26:1} Om dörravaktarenas ordning: Utaf de Korhiter var Meselemia, Kore son, af Assaphs barnom.
+{26:2} Meselemia barn voro desse: Den förstfödde Zacharia, den andre Jediael, den tredje Sebadja, den fjerde Jathniel,
+{26:3} Den femte Elam, den sjette Johanan, den sjunde Eljoenai.
+{26:4} Men ObedEdoms barn voro desse: Den förstfödde Semaja, den andre Josabad, den tredje Joah, den fjerde Sacar, den femte Nethaneel,
+{26:5} Den sjette Ammiel, den sjunde Isaschar, den åttonde Peulthai; ty Gud hade välsignat honom.
+{26:6} Och hans sone Semaja vordo ock söner födde, som i deras fäders hus regerade; ty de voro starke hjeltar.
+{26:7} Så voro nu Semaja barn: Othni, Rephael, Obed, och Elsabad, hvilkens bröder mägtige män voro, Elihu och Semachia.
+{26:8} Desse voro alle utaf ObedEdoms barn; de med deras barn och bröder, mägtige män, skicklige till ämbete, två och sextio af ObedEdom.
+{26:9} Meselemia hade barn och bröder, mägtige män, aderton.
+{26:10} Men Hosa utaf Merari barnom hade barn: Den ypperste Simri; ty den förstfödde var icke till, derföre satte hans fader honom främst;
+{26:11} Den andre Hilkia, den tredje Tebalia, den fjerde Zacharia. All Hosa barn och bröder voro tretton.
+{26:12} Detta är dörravaktarenas ordning, bland höfdingarna i ämbetet med deras bröder, till att tjena i Herrans hus.
+{26:13} Och lotten vardt kastad dem litsla såväl som dem stora, i deras fäders hus till hvarjo dörrena.
+{26:14} Den lotten österut föll på Selemia; men hans sone Zacharia, hvilken en klok och rådig man var, kastade man lotten, och honom föll norrut;
+{26:15} Men ObedEdom söderut, och hans sönom vid huset Asuppim;
+{26:16} Och Suppim och Hosa, vesterut vid dörrena Sallecheth, på bränneoffers vägenom, der vakterna vid hvarandra stå.
+{26:17} Österut voro sex af Leviterna, norrut fyra om dagen, söderut fyra om dagen; men vid Asuppim ju två och två;
+{26:18} Vid Parbar, vesterut, fyra på vägenom, och två vid Parbar.
+{26:19} Detta är dörravaktarenas ordning, ibland de Korhiters barn, och Merari barn.
+{26:20} Utaf Leviterna var Ahija öfver halvorna i Guds hus; och öfver de håfvor, som helgada vordo.
+{26:21} Af Laedans barn, de Gersoniters barn; af Laedan voro höfdingar ibland fäderna, nämliga de Jehieliter.
+{26:22} De Jehieliters barn voro: Setham och hans broder Joel, öfver Herrans hus håfvor.
+{26:23} Utaf de Amramiter, Jizeariter, Hebroniter och Asieliter,
+{26:24} Var Sebuel, Gersoms son, Mose sons, en Förste öfver håfvorna.
+{26:25} Men hans broder Elieser hade en son Rehabia. Hans son var Jesaja; hans son var Joram; hans son var Sichri; hans son var Selomith.
+{26:26} Den samme Selomith och hans bröder voro öfver alla de helgada tings håfvor, hvilka Konung David helgade, och de öfverste fäderna ibland de öfversta öfver tusende och öfver hundrade, och de öfverste i härenom.
+{26:27} Utaf strid och rof hade de helgat det, till att förbättra Herrans hus.
+{26:28} Desslikes allt det Samuel Siaren, och Saul Kis son, och Abner, Ners son, och Joab, ZeruJa son, helgat hade; allt det helgada var under Selomiths hand, och hans bröders.
+{26:29} Utaf de Jizeariter var Chenanja med sina söner, till de verk utantill, öfver Israel befallningsmän och domare.
+{26:30} Utaf de Hebroniter var Hasabia och hans bröder, mägtige män, tusende och sjuhundrade, öfver Israels ämbete, på desso sidone Jordan vesterut, till allahanda Herrans sysslo, och till att tjena Konungenom.
+{26:31} Var ock ibland de Hebroniter Jeria, den ypperste ibland de Hebroniter, af fäderna i hans ätt. Det vordo ock af dem sökte och funne, uti fyrationde årena af Davids rike, mägtige män, i Jaeser i Gilead;
+{26:32} Och deras bröder, mägtige män, tutusend och sjuhundrad öfverste fäder. Och David satte dem öfver de Rubeniter, Gaditer, och öfver den halfva slägtena Manasse, till all Guds och Konungens ärende.
+{27:1} Men Israels barn efter sitt tal voro höfdingar öfver fäderna, och öfver tusende, och öfver hundrade; och ämbetsmän, som på Konungen vaktade, efter deras ordning, till att draga till och frå, hvar i sin månad, i hvar månad om året. Hvart skiftet hade fyra och tjugu tusend.
+{27:2} Öfver första skiftet i första månadenom var Jasabeam, Sabdiels son; och i hans skifte voro fyra och tjugu tusend.
+{27:3} Men af Perez barnom var den öfverste öfver alla höfvitsmännerna i härarna i första månadenom.
+{27:4} Öfver det skiftet i den andra månaden var Dodai den Ahohiten; och Mikloth var Förste öfver hans skifte; och i hans skifte voro fyra och tjugu tusend.
+{27:5} Den tredje härhöfvitsmannen i tredje månadenom, den öfverste, var Benaja, Jojada Prestens son; och i hans skifte voro fyra och tjugu tusend.
+{27:6} Denne är Benaja, den hjelten ibland tretio, och öfver tretio; och hans skifte var under hans son Ammisabad.
+{27:7} Den fjerde i fjerde månadenom var Asahel, Joabs broder, och efter honom Sebadia, hans son; och i hans skifte voro fyra och tjugu tusend.
+{27:8} Den femte i femte månadenom var Samhuth den Jisrahiten; och i hans skifte voro fyra och tjugu tusend.
+{27:9} Den sjette i sjette månadenom var Ira, Ikkes den Thekoitens son; och i hans skifte voro fyra och tjugu tusend.
+{27:10} Den sjunde i sjunde månadenom var Helez den Peloniten, af Ephraims barn; och i hans skifte voro fyra och tjugu tusend.
+{27:11} Den åttonde i åttonde månadenom var Sibbechai den Husathiten, af de Sarhiter; och i hans skifte voro fyra och tjugu tusend.
+{27:12} Den nionde i nionde månadenom var Abieser den Anthothiten, af Jemini barn; och i hans skifte voro fyra och tjugu tusend.
+{27:13} Den tionde i tionde månadenom var Maharai den Netophathiten, af de Serahiter; och i hans skifte voro fyra och tjugu tusend.
+{27:14} Den ellofte i ellofte månadenom var Benaja den Pirgathoniten, af Ephraims barn; och i hans skifte voro fyra och tjugu tusend.
+{27:15} Den tolfte i tolfte månadenom var Heldai den Netophathiten, af Athniel; och i hans skifte voro fyra och tjugu tusend.
+{27:16} Öfver Israels slägter voro desse: För de Rubeniter var Förste Elieser, Sichri son; för de Simeoniter var Sephatia, Maacha son;
+{27:17} För de Leviter var Hasabia, Kemuels son; för de Aaroniter var Zadok;
+{27:18} För Juda var Elihu af Davids bröder; för Isaschar var Omri, Michaels son;
+{27:19} För Sebulon var Jismaja, Obadja son; för Naphthali var Jerimoth, Asriels son;
+{27:20} För Ephraims barn var Hosea, Asasia son; för den halfva slägtene Manasse var Joel, Phedaja son;
+{27:21} För den halfva slägtene Manasse i Gilead var Jiddo, Zacharia son; för BenJamin var Jaasiel, Abners son;
+{27:22} För Dan var Asarel, Jerohams son Detta äro de Förstar för Israels slägter.
+{27:23} Men David tog intet tal af dem som voro tjugu åra, och der för nedan; ty Herren hade sagt, att han skulle föröka Israel såsom stjernorna på himmelen.
+{27:24} Men Joab, ZeruJa son, hade begynt räkna, och lyktade det icke; ty en vredo kom fördenskull öfver Israel, derföre kom det talet icke uti Konung Davids Chrönico.
+{27:25} Öfver Konungens håfvor var Asmaveth, Adiels son; och öfver de håfvor på landena, i städer, byar och slott, var Jonathan, Ussija son.
+{27:26} Öfver åkermännerna till landsbruket var Esri, Chelubs son.
+{27:27} Öfver vingårdarna var Simei den Ramathiten; öfver vinkällarena och vinet var Sabdi den Siphmiten.
+{27:28} Öfver oljogårdarna, och mulbärträ i markene var BaalHanan den Gederiten; öfver oljona var Joas.
+{27:29} Öfver den boskap, som i bet var i Saron, var Sithrai den Saroniten; men öfver den boskap i dalomen var Saphat, Adlai son.
+{27:30} Öfver camelarna var Obil den Ismaeliten; öfver åsnarna var Jehdeja den Meronothiten.
+{27:31} Öfver fåren var Jasis den Hagariten, Desse voro alle öfverstar öfver Konung Davids ägodelar.
+{27:32} Men Jonathan, Davids faderbroder, var rådgifvare, hofmästare och canceller; Jehiel, Hachmoni son, var när Konungens barnom.
+{27:33} Achitophel var ock Konungens rådgifvare; Husai den Arachiten var Konungens vän.
+{27:34} Efter Achitophel var Jojada, Benaja son, och AbJathar; men Joab var Konungens härhöfvitsman.
+{28:1} Och David församlade till Jerusalem alla Israels öfverstar, nämliga Förstarna för slägterna, Förstarna för skiften, som på Konungen vaktade; Förstarna öfver tusende, och öfver hundrade; Förstarna öfver Konungens och hans söners ägodelar och boskap; med kamererare, krigsmän och alla mägtiga män.
+{28:2} Och Konung David stod upp på sina fötter, och sade: Hörer härtill, mine bröder, och mitt folk: Jag hafver tagit mig före att bygga ett hus, der Herrans förbunds ark uti hvilas skulle, och en fotapall till vår Guds fötter, och hade redt mig till att bygga;
+{28:3} Men Gud lät säga mig: Du skall icke bygga mino Namne hus; förty du äst en krigsman, och hafver blod utgjutit.
+{28:4} Nu hafver Herren Israels Gud utvalt mig utu hela mins faders hus, att jag skulle vara Konung öfver Israel till evig tid; ty han hafver utvalt Juda till ett Förstadöme; och i Juda huse, mins faders hus, och ibland mins faders barn hafver han haft ynnest till mig, så att han gjorde mig till Konung öfver hela Israel;
+{28:5} Och ibland alla, mina söner (ty Herren hafver gifvit mig många söner) hafver han utvalt min son Salomo, att han sitta skall på Herrans rikes stol öfver Israel;
+{28:6} Och hafver sagt till mig: Din son Salomo skall bygga mitt hus och gårdar; ty jag hafver utvalt mig honom till son, och jag skall vara hans fäder;
+{28:7} Och skall stadfästa hans rike i evig tid, om han håller uppå att göra efter min bud och rätter, såsom i denna dag tillgår.
+{28:8} Nu inför hela Israel Herrans menighet, och för vår Guds öron, så håller och söker all Herrans edars Guds bud; på det I mågen besitta detta goda landet, och ärfva det till edor barn efter eder, till evig tid.
+{28:9} Och du, min son Salomo, känn dins faders Gud, och tjena honom af allt hjerta, och af en välviljog själ; ty Herren ransakar all hjerta, och förstår alla tankars uppsåt. Om du söker honom, så finner du honom; om du öfvergifver honom, så förkastar han dig till evig tid.
+{28:10} Så se nu till, ty Herren hafver utvalt dig, att du skall bygga honom ett hus till helgedom. Var tröst, och gör så.
+{28:11} Och David gaf sinom son Salomo en eftersyn till förhuset, och till sitt hus, och till maken, och till salen, och till kamrar innantill, och till nådastolens hus;
+{28:12} Dertill en eftersyn till allt det i hans sinne var, nämliga till gården åt Herrans hus, och till all maken omkring, till håfvorna i Guds hus, och de, helgada tings håfvor;
+{28:13} Till Presternas och Leviternas skifte, och till alla sysslor i ämbeten uti Herrans hus, och till alla tjenstenes käril i Herrans hus.
+{28:14} Guld efter gulds vigt, till allahanda tyg i hvart ämbetet, och allahanda silftyg, efter vigt, till allahanda redskap i hvart ämbetet;
+{28:15} Och vigt till gyldene ljusastakar och gyldene lampor, hvarjom ljusastaka och hans lampor sina vigt; sammalunda ock till silfljusastakar gaf han vigt, till ljusastaka och hans lampor, efter hvars ljusastakans ämbete.
+{28:16} Gaf han desslikes guld till skådobrödsborden, till hvart bordet sina vigt; sammalunda ock silfver till silfborden;
+{28:17} Och klart guld till gafflar, backen och kannor; och till gyldene skålar, hvar skål sina vigt; och till silfskålar, hvar skål sina vigt;
+{28:18} Och till rökaltaret sina vigt, det aldraklaresta guld; och en eftersyn till vagnen för de gyldene Cherubim, så att de uträckte sig, och öfvertäckte Herrans förbunds ark.
+{28:19} Alltsammans, sade han, är mig gifvet, beskrifvet af Herrans hand, som mig underviste all eftersynenes verk.
+{28:20} Och David sade till sin son Salomo: Var tröst och frimodig, och gör så; frukta dig intet, och var icke förskräckt; Herren Gud, min Gud, skall vara med dig, och skall icke draga sina hand ifrå dig, eller förlåta dig, allt intill du all verk till ämbeten i Herrans hus fullkomnat hafver.
+{28:21} Si, Presternas och Leviternas ordning till all ämbeten i Guds hus, äro med dig i all ärende, och äro viljoge och förståndige till all ämbeten; dertill Förstarna och allt folket i alla dina handlingar.
+{29:1} Och Konung David sade till hela menigheten: Gud hafver utvalt Salomo, en af mina söner, den ännu ung och späd är; men verket är stort, ty det är icke ens menniskos boning, utan Herrans Guds.
+{29:2} Men jag hafver utaf alla mina krafter beredt till Guds hus, guld till gyldene, silfver till silfvers, koppar till koppars, jern till jerns, trä till träs redskap; onichstenar, infattada rubiner och spräcklota stenar, och allahanda ädla stenar, och marmorsten ganska mycket.
+{29:3} Derutöfver, af ynnest till mins Guds hus, hafver jag det mitt eget är, guld och silfver;
+{29:4} Tretusend centener guld af Ophir, och sjutusend centener klart silfver, det gifver jag till Guds helga hus, utöfver allt det jag förskickat hafver till att öfverdraga väggarna i husen;
+{29:5} Så att af guld blifver det af guld vara skall, och af silfver det af silfver vara skall, och till allahanda verk igenom mästarenas hand. Och ho är nu i dag friviljog till att fylla sina hand Herranom?
+{29:6} Då voro Förstarna för fäderna, Förstarna för Israels slägter, Förstarna öfver tusend och öfver hundrad, och Förstarna öfver Konungsärenden, friviljoge;
+{29:7} Och gåfvo till ämbeten i Guds hus femtusend centener guld, och tiotusend gylden, och tiotusend centener koppar, och hundradetusend centener jern.
+{29:8} Och när hvilkom stenar funne vordo, dem gåfvo de till håfvor uti Herrans hus, under Jehiels hand, den Gersonitens.
+{29:9} Och folket var gladt, att de så friviljoge voro; ty de gåfvo Herranom af allo hjerta friviljoge. Och Konung David fröjdade sig desslikes högeliga;
+{29:10} Och lofvade Herran, och sade inför hela menighetene: Lofvad vare du, Herre, Israels vår foders Gud, ifrån evighet till evighet.
+{29:11} Dig, Herre, tillhörer majestät och magt, härlighet, seger och tack; ty allt det i himmelen och på jordene är, det är ditt; ditt, Herre, är riket, och du äst upphöjd öfver all ting till en öfversta.
+{29:12} Dine äro rikedomar och härlighet för dig, du råder öfver all ting; i dine hand står kraft och magt, i dine hand står det att göra hvar och en stor och stark.
+{29:13} Nu, vår Gud, vi tacke dig, och prise dins härlighets Namn.
+{29:14} Ty hvad är jag, hvad är mitt folk, att vi skulle åstadkomma kraft till att gifva friviljeliga, såsom nu tillgår? Ty af dig är det allt kommet, och af dine hand hafve vi det gifvit dig.
+{29:15} Förty vi äre främlingar och utländningar för dig, såsom alle våre fäder; vårt lefvande på jordene är såsom en skugge, och dväljs intet.
+{29:16} Herre vår Gud, all denna hopen, som vi tillskickat hafve till att bygga dino helgo Namne ett hus, är kommen ifrå dine hand; och ditt är det allt.
+{29:17} Jag vet, min Gud, att du pröfvar hjertat, och enfaldighet är dig täck; derföre hafver jag allt detta utaf enfaldigo hjerta friviljeliga gifvit; och hafver nu sett med glädje ditt folk, som här för handene är, att det hafver friviljeliga gifvit dig.
+{29:18} Herre, våra fäders Abrahams, Isaacs och Israels Gud, bevara evinnerliga sådana håg och sinne i dins folks hjerta, och skicka deras hjerta till dig.
+{29:19} Och minom son Salomo gif ett rättsinnigt hjerta, att han håller din bud, vittnesbörd och rätter, att han det allt gör, och bygger denna boning, som jag skickat hafver.
+{29:20} Och David sade till hela menighetena: Lofver Herran edar Gud. Och hela menigheten lofvade Herran deras fäders Gud, och bugade sig, och tillbådo Herran och Konungen.
+{29:21} Och de offrade Herranom offer; och den andra morgonen offrade de Herranom bränneoffer, tusende stutar, tusende vädrar, tusende lamb, med deras drickoffer; och offrade all hopen i hela Israel;
+{29:22} Och åto och drucko den samma dagen för Herranom med stora glädje, och gjorde annan gången Salomo, Davids son, till Konung, och smorde honom Herranom till en Första, och Zadok till Prest.
+{29:23} Alltså satt Salomo på Herrans stol, en Konung i sins faders Davids stad, och vardt lyckosam, och all Israel var honom hörsam.
+{29:24} Och alle öfverstar och väldige, desslikes all Konung Davids barn, gåfvo sig under Konung Salomo.
+{29:25} Och Herren gjorde Salomo ju större och större för hela Israel, och gaf honom ett härligit rike, att ingen för honom sådant öfver Israel haft hade.
+{29:26} Så var nu David, Isai son, Konung öfver hela Israel.
+{29:27} Men tiden, som han öfver Israel Konung var, var fyratio år. I Hebron regerade han sju år, och i Jerusalem tre och tretio år;
+{29:28} Och blef död i godom ålder, mätt af lefvande, rikedomar och äro; och hans son Salomo vardt Konung i hans stad.
+{29:29} Men Konung Davids gerningar, både de första och de sista, si, de äro skrifna ibland Samuels den Siarens gerningar, och ibland den Prophetens Nathans gerningar, och ibland Gads den Siarens gerningar;
+{29:30} Med allt hans rike, välde och tid, som under honom förlupen är, både öfver Israel och all rike i landen.
