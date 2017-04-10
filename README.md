@@ -7,5 +7,5 @@ Licence of mppb.py and mppb_imports.py free GPL
   
 # Notes  
 All included translations in Bibles directory are Public Domain  
-Sponsored by https://rdgames.us and https://playthebible.com  
+Sponsored by https://rdgames.us and https://playthebible.com via https://upwork.com
 
