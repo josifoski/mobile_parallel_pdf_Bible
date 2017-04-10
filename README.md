@@ -3,5 +3,9 @@ Python3+ program for creating mobile parallel with 1, 2 or more translations pdf
   
 Explanations are included in mppb.py  
   
-Licence free GPL
+Licence of mppb.py and mppb_imports.py free GPL
+  
+# Notes  
+All included translations in Bibles directory are Public Domain  
+Sponsored by https://rdgames.us and https://playthebible.com  
 
