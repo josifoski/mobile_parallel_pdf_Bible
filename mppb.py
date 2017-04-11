@@ -24,8 +24,10 @@ output_name = dir_in + 'output.pdf'
 
 # btest is for only generating output for Genesis and Esther, since creating pdf for all books will
 # take some time from ~1/2 hour .. more hours depending on num_of_translations and processor speed.
-btest = True            # set to False to generate expected goal, with True only for scope of books few lines bellow
-create_TOC_only = False # set to False to generate expected goal
+btest = False           # set to False to generate expected goal, with True only for scope of books few lines bellow
+create_TOC_only = True  # First, you will need to start program with True for create_TOC_only, and False for btest
+                        # and in next line tocpages =  to put number of table of contents pages
+tocpages = 8
 
 if btest:
     books = ['Genesis', 'Esther']
@@ -94,7 +96,6 @@ pdf.ln()
 # pdf.add_page()
 for book in books:
     print('TOC for ' + book)
-    tocpages = pdf.page_no()
     bi = books.index(book)
     text = book
     pdf.set_font(family = font_name, style = '', size = font_booksconn_size)
@@ -128,7 +129,7 @@ for book in books:
             ipos = 0
     pdf.ln()
     pdf.ln()
-tocpages = pdf.page_no()
+
 if create_TOC_only:
     for i in range(2000):
         pdf.add_page()
